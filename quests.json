@@ -283,7 +283,7 @@
     "turnin": "Therapist",
     "title": "Postman Pat",
     "wiki": "https://escapefromtarkov.gamepedia.com/Postman_Pat_-_Part_1",
-    "exp": 10200,
+    "exp": 6000,
     "unlocks": [
       "Salewa FIRST AID KIT"
     ],
@@ -291,10 +291,6 @@
       {
         "trader": "Prapor",
         "rep": 0.08
-      },
-      {
-        "trader": "Therapist",
-        "rep": 0.06
       }
     ],
     "objectives": [
@@ -985,7 +981,7 @@
         "id": 45
       }
     ],
-    "alternative": "Kind of sabotage",
+    "alternative": ["Kind of sabotage"],
   },
   {
     "id": 25,
@@ -1020,7 +1016,7 @@
         "id": 46
       }
     ],
-    "alternative": "Supply plans",
+    "alternative": ["Supply plans"],
   },
   {
     "id": 26,
@@ -1670,6 +1666,14 @@
         "rep": 0.1
       },
       {
+        "trader": "Therapist",
+        "rep": -0.3
+      },
+      {
+        "trader": "Prapor",
+        "rep": -0.15
+      },
+      {
         "trader": "Jaeger",
         "rep": -0.01
       }
@@ -1683,6 +1687,7 @@
         "id": 77
       }
     ],
+    "alternative": ["Out of curiosity", "Big customer"],
   },
   {
     "id": 44,
@@ -6496,5 +6501,229 @@
         "id": 302
       }
     ],
-  }
+  },
+  {
+    "id": 178,
+    "require": {
+      "level": 10,
+      "quest": [
+        "Ice cream cones"
+      ]
+    },
+    "giver": "Therapist",
+    "turnin": "Therapist",
+    "title": "Postman Pat - Part 2",
+    "wiki": "https://escapefromtarkov.gamepedia.com/Postman_Pat_-_Part_2",
+    "exp": 4200,
+    "unlocks": [],
+    "reputation": [
+      {
+        "trader": "Therapist",
+        "rep": 0.06
+      }
+    ],
+    "objectives": [
+      {
+        "type": "pickup",
+        "target": "Sealed letter",
+        "number": 1,
+        "location": "Factory",
+        "id": 13
+      }
+    ],
+  },
+  {
+    "id": 179,
+    "require": {
+      "level": 11,
+      "quest": [
+        "Chemical - Part 3"
+      ]
+    },
+    "giver": "Therapist",
+    "turnin": "Therapist",
+    "title": "Out of curiosity",
+    "wiki": "https://escapefromtarkov.gamepedia.com/Out_of_curiosity",
+    "exp": 8300,
+    "unlocks": [],
+    "reputation": [
+      {
+        "trader": "Skier",
+        "rep": -0.3
+      },
+      {
+        "trader": "Therapist",
+        "rep": 0.3
+      },
+      {
+        "trader": "Prapor",
+        "rep": -0.15
+      }
+    ],
+    "objectives": [
+      {
+        "type": "mark",
+        "target": "Transport van",
+        "number": 1,
+        "location": "Customs",
+        "id": 77
+      }
+    ],
+    "alternative": ["Chemical - Part 4", "Big customer"],
+  },
+  {
+    "id": 180,
+    "require": {
+      "level": 11,
+      "quest": [
+        "Chemical - Part 3"
+      ]
+    },
+    "giver": "Prapor",
+    "turnin": "Prapor",
+    "title": "Big customer",
+    "wiki": "https://escapefromtarkov.gamepedia.com/Big_customer",
+    "exp": 8200,
+    "unlocks": [],
+    "reputation": [
+      {
+        "trader": "Skier",
+        "rep": -0.3
+      },
+      {
+        "trader": "Therapist",
+        "rep": -0.3
+      },
+      {
+        "trader": "Prapor",
+        "rep": 0.1
+      },
+      {
+        "trader": "Jaeger",
+        "rep": -0.01
+      }
+    ],
+    "objectives": [
+      {
+        "type": "mark",
+        "target": "Transport van",
+        "number": 1,
+        "location": "Customs",
+        "id": 77
+      }
+    ],
+    "alternative": ["Chemical - Part 4", "Out of curiosity"],
+  },
+  {
+    "id": 181,
+    "require": {
+      "quest": [
+        "The survivalist path - Cold blooded"
+      ]
+    },
+    "giver": "Jaeger",
+    "turnin": "Jaeger",
+    "title": "The survivalist path - Junkie",
+    "wiki": "https://escapefromtarkov.gamepedia.com/The_survivalist_path_-_Junkie",
+    "exp": 12000,
+    "unlocks": [],
+    "reputation": [
+      {
+        "trader": "Jaeger",
+        "rep": 0.03
+      },
+    ],
+    "objectives": [
+      {
+        "type": "kill",
+        "target": "Scavs",
+        "number": 20,
+        "location": "Woods",
+        "with": [
+          "Stimulants active",
+        ],
+        "id": 305
+      }
+    ],
+  },
+  {
+    "id": 182,
+    "require": {
+      "level": 40,
+      "quest": [
+        "Sew it good - Part 4"
+      ]
+    },
+    "giver": "Ragman",
+    "turnin": "Ragman",
+    "title": "Textile - Part 1",
+    "wiki": "https://escapefromtarkov.gamepedia.com/Textile_-_Part_1",
+    "exp": 0,
+    "unlocks": [],
+    "reputation": [
+    ],
+    "objectives": [
+      {
+        "type": "find",
+        "target": "Aramid fiber cloth",
+        "number": 5,
+        "location": "Any",
+        "id": 306
+      },
+      {
+        "type": "find",
+        "target": "Ripstop cloth",
+        "number": 10,
+        "location": "Any",
+        "id": 307
+      },
+      {
+        "type": "find",
+        "target": "Paracord",
+        "number": 3,
+        "location": "Any",
+        "id": 308
+      }
+    ],
+  },
+  {
+    "id": 183,
+    "require": {
+      "level": 47,
+      "quest": [
+        "Textile - Part 1"
+      ]
+    },
+    "giver": "Ragman",
+    "turnin": "Ragman",
+    "title": "Textile - Part 1",
+    "wiki": "https://escapefromtarkov.gamepedia.com/Textile_-_Part_2",
+    "exp": 0,
+    "unlocks": [],
+    "reputation": [
+    ],
+    "objectives": [
+      {
+        "type": "find",
+        "target": "Fleece cloth",
+        "number": 10,
+        "location": "Any",
+        "id": 309
+      },
+      {
+        "type": "find",
+        "target": "Polyamide fabric Cordura",
+        "number": 10,
+        "location": "Any",
+        "id": 310
+      },
+      {
+        "type": "find",
+        "target": "KEKTAPE duct tape",
+        "number": 5,
+        "location": "Any",
+        "id": 311
+      }
+    ],
+  },
 ]
