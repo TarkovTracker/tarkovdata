@@ -870,7 +870,7 @@
     ],
     "objectives": [
       {
-        "type": "collect",
+        "type": "find",
         "target": "Gas analyzer",
         "number": 2,
         "location": "Any",
