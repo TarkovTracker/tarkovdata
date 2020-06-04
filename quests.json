@@ -1053,7 +1053,7 @@
     "require": {
       "level": 10,
       "quest": [
-        "General wares"
+        "Pharmacist"
       ]
     },
     "giver": "Therapist",
@@ -4075,7 +4075,7 @@
     "require": {
       "level": 30,
       "quest": [
-        "Fertilizers"
+        "Farming - Part 4"
       ]
     },
     "giver": "Mechanic",
@@ -4534,7 +4534,7 @@
     "require": {
       "level": 29,
       "quest": [
-        "Hot delivery"
+        "Hot Delivery"
       ]
     },
     "giver": "Ragman",
@@ -5116,7 +5116,7 @@
     "require": {
       "level": 10,
       "quest": [
-        "The survivalist path - Unprotected, but dangerous"
+        "Acquaintance"
       ]
     },
     "giver": "Jaeger",
