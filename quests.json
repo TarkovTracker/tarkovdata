@@ -3900,21 +3900,21 @@
     ],
     "objectives": [
       {
-        "type": "collect",
+        "type": "find",
         "target": "Powercord",
         "number": 2,
         "location": "Any",
         "id": 179
       },
       {
-        "type": "collect",
+        "type": "find",
         "target": "T-Shaped Plug",
         "number": 4,
         "location": "Any",
         "id": 180
       },
       {
-        "type": "collect",
+        "type": "find",
         "target": "Printed circuit board",
         "number": 2,
         "location": "Any",
