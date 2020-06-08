@@ -4923,6 +4923,7 @@
         "Sew it good - Part 3"
       ]
     },
+
     "giver": "Ragman",
     "turnin": "Ragman",
     "title": "Living high is not a crime - Part 1",
@@ -4971,8 +4972,7 @@
     "require": {
       "level": 27,
       "quest": [
-        "The Blood of War - Part 3",
-        "Living high is not a crime - Part 1"
+        "The Blood of War - Part 3"
       ]
     },
     "giver": "Ragman",
@@ -5633,6 +5633,7 @@
   },
   {
     "id": 152,
+    "deprecated": true,
     "require": {
       "level": 17,
       "quest": [
@@ -5666,6 +5667,7 @@
   },
   {
     "id": 153,
+    "deprecated": true,
     "require": {
       "level": 17,
       "quest": [
