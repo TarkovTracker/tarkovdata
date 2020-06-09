@@ -16,7 +16,8 @@
             "quantity":3,
             "id":1
          }
-      ]
+      ],
+      "id":0
    },
    {
       "module":"Bitcoin farm",
@@ -53,7 +54,8 @@
             "quantity":1,
             "id":6
          }
-      ]
+      ],
+      "id":1
    },
    {
       "module":"Bitcoin farm",
@@ -96,7 +98,8 @@
             "quantity":2,
             "id":12
          }
-      ]
+      ],
+      "id":2
    },
    {
       "module":"Bitcoin farm",
@@ -145,7 +148,8 @@
             "quantity":2,
             "id":19
          }
-      ]
+      ],
+      "id":3
    },
    {
       "module":"Booze generator",
@@ -188,7 +192,8 @@
             "quantity":2,
             "id":25
          }
-      ]
+      ],
+      "id":4
    },
    {
       "module":"Booze generator",
@@ -231,7 +236,8 @@
             "quantity":2,
             "id":31
          }
-      ]
+      ],
+      "id":5
    },
    {
       "module":"Generator",
@@ -239,7 +245,8 @@
       "function":"Provides power for hideout crafting stations",
       "require":[
 
-      ]
+      ],
+      "id":6
    },
    {
       "module":"Generator",
@@ -282,7 +289,8 @@
             "quantity":15,
             "id":37
          }
-      ]
+      ],
+      "id":7
    },
    {
       "module":"Generator",
@@ -331,7 +339,8 @@
             "quantity":5,
             "id":44
          }
-      ]
+      ],
+      "id":8
    },
    {
       "module":"Heating",
@@ -339,7 +348,8 @@
       "function":"Provides passive out-of-raid energy regen for your PMC",
       "require":[
 
-      ]
+      ],
+      "id":9
    },
    {
       "module":"Heating",
@@ -352,7 +362,8 @@
             "quantity":1,
             "id":45
          }
-      ]
+      ],
+      "id":10
    },
    {
       "module":"Heating",
@@ -389,7 +400,8 @@
             "quantity":8,
             "id":50
          }
-      ]
+      ],
+      "id":11
    },
    {
       "module":"Illumination",
@@ -397,7 +409,8 @@
       "function":"Provides passive out-of-raid energy regen for your PMC",
       "require":[
 
-      ]
+      ],
+      "id":12
    },
    {
       "module":"Illumination",
@@ -428,7 +441,8 @@
             "quantity":5,
             "id":54
          }
-      ]
+      ],
+      "id":13
    },
    {
       "module":"Illumination",
@@ -459,7 +473,8 @@
             "quantity":7,
             "id":58
          }
-      ]
+      ],
+      "id":14
    },
    {
       "module":"Intelligence center",
@@ -484,7 +499,8 @@
             "quantity":1,
             "id":61
          }
-      ]
+      ],
+      "id":15
    },
    {
       "module":"Intelligence center",
@@ -539,7 +555,8 @@
             "quantity":4,
             "id":69
          }
-      ]
+      ],
+      "id":16
    },
    {
       "module":"Intelligence center",
@@ -582,7 +599,8 @@
             "quantity":4,
             "id":75
          }
-      ]
+      ],
+      "id":17
    },
    {
       "module":"Lavatory",
@@ -590,7 +608,8 @@
       "function":"Produces various trade items, mainly focused on fluid centric products",
       "require":[
 
-      ]
+      ],
+      "id":18
    },
    {
       "module":"Lavatory",
@@ -627,7 +646,8 @@
             "quantity":1,
             "id":80
          }
-      ]
+      ],
+      "id":19
    },
    {
       "module":"Lavatory",
@@ -670,7 +690,8 @@
             "quantity":3,
             "id":86
          }
-      ]
+      ],
+      "id":20
    },
    {
       "module":"Library",
@@ -683,7 +704,8 @@
             "quantity":3,
             "id":87
          }
-      ]
+      ],
+      "id":21
    },
    {
       "module":"Medstation",
@@ -691,7 +713,8 @@
       "function":"Provides passive healing and produces various healing items",
       "require":[
 
-      ]
+      ],
+      "id":22
    },
    {
       "module":"Medstation",
@@ -716,7 +739,8 @@
             "quantity":3,
             "id":90
          }
-      ]
+      ],
+      "id":23
    },
    {
       "module":"Medstation",
@@ -747,7 +771,8 @@
             "quantity":4,
             "id":94
          }
-      ]
+      ],
+      "id":24
    },
    {
       "module":"Nutrition unit",
@@ -766,7 +791,8 @@
             "quantity":2,
             "id":96
          }
-      ]
+      ],
+      "id":25
    },
    {
       "module":"Nutrition unit",
@@ -809,7 +835,8 @@
             "quantity":2,
             "id":102
          }
-      ]
+      ],
+      "id":26
    },
    {
       "module":"Nutrition unit",
@@ -852,7 +879,8 @@
             "quantity":3,
             "id":108
          }
-      ]
+      ],
+      "id":27
    },
    {
       "module":"Rest space",
@@ -860,7 +888,8 @@
       "function":"Provides passive out-of-raid energy regen and healing",
       "require":[
 
-      ]
+      ],
+      "id":28
    },
    {
       "module":"Rest space",
@@ -885,7 +914,8 @@
             "quantity":2,
             "id":111
          }
-      ]
+      ],
+      "id":29
    },
    {
       "module":"Rest space",
@@ -928,7 +958,8 @@
             "quantity":7,
             "id":117
          }
-      ]
+      ],
+      "id":30
    },
    {
       "module":"Scav case",
@@ -965,7 +996,8 @@
             "quantity":2,
             "id":122
          }
-      ]
+      ],
+      "id":31
    },
    {
       "module":"Security",
@@ -973,7 +1005,8 @@
       "function":"A resource sink to progress gate other hideout modules",
       "require":[
 
-      ]
+      ],
+      "id":32
    },
    {
       "module":"Security",
@@ -986,7 +1019,8 @@
             "quantity":1,
             "id":123
          }
-      ]
+      ],
+      "id":33
    },
    {
       "module":"Security",
@@ -1029,7 +1063,8 @@
             "quantity":1,
             "id":129
          }
-      ]
+      ],
+      "id":34
    },
    {
       "module":"Shooting range",
@@ -1066,7 +1101,8 @@
             "quantity":3,
             "id":134
          }
-      ]
+      ],
+      "id":35
    },
    {
       "module":"Solar power",
@@ -1103,7 +1139,8 @@
             "quantity":4,
             "id":139
          }
-      ]
+      ],
+      "id":36
    },
    {
       "module":"Stash",
@@ -1111,7 +1148,8 @@
       "function":"Provides you with permanent item storage",
       "require":[
 
-      ]
+      ],
+      "id":37
    },
    {
       "module":"Stash",
@@ -1142,7 +1180,8 @@
             "quantity":4,
             "id":143
          }
-      ]
+      ],
+      "id":38
    },
    {
       "module":"Stash",
@@ -1179,7 +1218,8 @@
             "quantity":8,
             "id":148
          }
-      ]
+      ],
+      "id":39
    },
    {
       "module":"Stash",
@@ -1216,7 +1256,8 @@
             "quantity":3,
             "id":153
          }
-      ]
+      ],
+      "id":40
    },
    {
       "module":"Vents",
@@ -1224,7 +1265,8 @@
       "function":"A resource sink to progress gate other hideout modules",
       "require":[
 
-      ]
+      ],
+      "id":41
    },
    {
       "module":"Vents",
@@ -1249,7 +1291,8 @@
             "quantity":1,
             "id":156
          }
-      ]
+      ],
+      "id":42
    },
    {
       "module":"Vents",
@@ -1292,7 +1335,8 @@
             "quantity":5,
             "id":162
          }
-      ]
+      ],
+      "id":43
    },
    {
       "module":"Water collector",
@@ -1323,7 +1367,8 @@
             "quantity":3,
             "id":166
          }
-      ]
+      ],
+      "id":44
    },
    {
       "module":"Water collector",
@@ -1360,7 +1405,8 @@
             "quantity":2,
             "id":171
          }
-      ]
+      ],
+      "id":45
    },
    {
       "module":"Water collector",
@@ -1397,7 +1443,8 @@
             "quantity":5,
             "id":176
          }
-      ]
+      ],
+      "id":46
    },
    {
       "module":"Workbench",
@@ -1422,7 +1469,8 @@
             "quantity":1,
             "id":179
          }
-      ]
+      ],
+      "id":47
    },
    {
       "module":"Workbench",
@@ -1459,7 +1507,8 @@
             "quantity":6,
             "id":184
          }
-      ]
+      ],
+      "id":48
    },
    {
       "module":"Workbench",
@@ -1490,6 +1539,7 @@
             "quantity":1,
             "id":188
          }
-      ]
+      ],
+      "id":49
    }
 ]
