@@ -1362,7 +1362,7 @@
         "type": "skill",
         "target": "Health",
         "number": 10,
-        "loation": "Any",
+        "location": "Any",
         "id": 61
       }
     ],
@@ -5825,7 +5825,7 @@
         "type": "locate",
         "target": "Food storage",
         "number": 1,
-        "location": "Reserv",
+        "location": "Reserve",
         "id": 274
       }
     ],
@@ -6125,7 +6125,7 @@
         "type": "kill",
         "target": "Glukhar",
         "number": 1,
-        "location": "Reserv",
+        "location": "Reserve",
         "id": 286
       }
     ],
