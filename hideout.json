@@ -1,0 +1,1288 @@
+[
+	{ 
+		"module": "Air Filtering Unit", 
+		"level": 1,
+		"function": "Allows use of absorbers to increase physical skill leveling speed",
+		"require": [
+			{
+				"type": "module", 
+				"name": "Generator", 
+				"quantity": 3
+			},
+			{
+				"type": "module", 
+				"name": "Vents", 
+				"quantity": 3
+			}
+		],
+	},
+	{ 
+		"module": "Bitcoin farm", 
+		"level": 1,
+		"function": "Allows production of Physical bitcoins",
+		"require": [
+			{
+				"type": "module", 
+				"name": "Intelligence center", 
+				"quantity": 2
+			},
+			{
+				"type": "item", 
+				"name": "CPU Fan", 
+				"quantity": 10
+			},
+			{
+				"type": "item", 
+				"name": "Power supply unit", 
+				"quantity": 5
+			},
+			{
+				"type": "item", 
+				"name": "Powercord", 
+				"quantity": 5
+			},
+			{
+				"type": "item", 
+				"name": "Electric drill", 
+				"quantity": 1
+			}
+		],
+	},
+	{ 
+		"module": "Bitcoin farm", 
+		"level": 2,
+		"function": "Allows production of Physical bitcoins",
+		"require": [
+			{
+				"type": "module", 
+				"name": "Generator", 
+				"quantity": 3
+			},
+			{
+				"type": "module", 
+				"name": "Bitcoin farm", 
+				"quantity": 1
+			},
+			{
+				"type": "item", 
+				"name": "CPU Fan", 
+				"quantity": 15
+			},
+			{
+				"type": "item", 
+				"name": "Power supply unit", 
+				"quantity": 5
+			},
+			{
+				"type": "item", 
+				"name": "Printed circuit board", 
+				"quantity": 5
+			},
+			{
+				"type": "item", 
+				"name": "Phase control relay", 
+				"quantity": 2
+			}
+		],
+	},
+	{ 
+		"module": "Bitcoin farm", 
+		"level": 3,
+		"function": "Allows production of Physical bitcoins",
+		"require": [
+			{
+				"type": "module", 
+				"name": "Water collector", 
+				"quantity": 3
+			},
+			{
+				"type": "module", 
+				"name": "Solar power", 
+				"quantity": 1
+			},
+			{
+				"type": "module", 
+				"name": "Bitcoin farm", 
+				"quantity": 2
+			},
+			{
+				"type": "item", 
+				"name": "CPU Fan", 
+				"quantity": 25
+			},
+			{
+				"type": "item", 
+				"name": "Silicone tubes", 
+				"quantity": 10
+			},
+			{
+				"type": "item", 
+				"name": "Electric motor", 
+				"quantity": 1
+			},
+			{
+				"type": "item", 
+				"name": "Pressure guages", 
+				"quantity": 2
+			}
+		],
+	},
+	{ 
+		"module": "Booze generator", 
+		"level": 1,
+		"function": "Allows production of moonshine",
+		"require": [
+			{
+				"type": "module", 
+				"name": "Water collector", 
+				"quantity": 3
+			},
+			{
+				"type": "module", 
+				"name": "Nutrition unit", 
+				"quantity": 3
+			},
+			{
+				"type": "item", 
+				"name": "Corrugated hose", 
+				"quantity": 5
+			},
+			{
+				"type": "item", 
+				"name": "Silicone tubes", 
+				"quantity": 4
+			},
+			{
+				"type": "item", 
+				"name": "Analog thermometer", 
+				"quantity": 2
+			},
+			{
+				"type": "item", 
+				"name": "Pressure guages", 
+				"quantity": 2
+			}
+		],
+	},
+	{ 
+		"module": "Booze generator", 
+		"level": 1,
+		"function": "Allows production of moonshine",
+		"require": [
+			{
+				"type": "module", 
+				"name": "Water collector", 
+				"quantity": 3
+			},
+			{
+				"type": "module", 
+				"name": "Nutrition unit", 
+				"quantity": 3
+			},
+			{
+				"type": "item", 
+				"name": "Corrugated hose", 
+				"quantity": 5
+			},
+			{
+				"type": "item", 
+				"name": "Silicone tubes", 
+				"quantity": 4
+			},
+			{
+				"type": "item", 
+				"name": "Analog thermometer", 
+				"quantity": 2
+			},
+			{
+				"type": "item", 
+				"name": "Pressure guages", 
+				"quantity": 2
+			}
+		],
+	},
+	{ 
+		"module": "Generator", 
+		"level": 1,
+		"function": "Provides power for hideout crafting stations",
+		"require": [],
+	},
+	{ 
+		"module": "Generator", 
+		"level": 2,
+		"function": "Provides power for hideout crafting stations",
+		"require": [
+			{
+				"type": "module", 
+				"name": "Generator", 
+				"quantity": 1
+			},
+			{
+				"type": "module", 
+				"name": "Security", 
+				"quantity": 2
+			},
+			{
+				"type": "module", 
+				"name": "Vents", 
+				"quantity": 2
+			},
+			{
+				"type": "item", 
+				"name": "Phase control relay", 
+				"quantity": 5
+			},
+			{
+				"type": "item", 
+				"name": "Electric motor", 
+				"quantity": 1
+			},
+			{
+				"type": "item", 
+				"name": "Wires", 
+				"quantity": 15
+			}
+		],
+	},
+	{ 
+		"module": "Generator", 
+		"level": 3,
+		"function": "Provides power for hideout crafting stations",
+		"require": [
+			{
+				"type": "module", 
+				"name": "Generator", 
+				"quantity": 2
+			},
+			{
+				"type": "module", 
+				"name": "Security", 
+				"quantity": 3
+			},
+			{
+				"type": "module", 
+				"name": "Vents", 
+				"quantity": 3
+			},
+			{
+				"type": "item", 
+				"name": "Phase control relay", 
+				"quantity": 6
+			},
+			{
+				"type": "item", 
+				"name": "Electric motor", 
+				"quantity": 2
+			},
+			{
+				"type": "item", 
+				"name": "Spark plug", 
+				"quantity": 5
+			},
+			{
+				"type": "item", 
+				"name": "Power supply unit", 
+				"quantity": 5
+			}
+		],
+	},
+	{ 
+		"module": "Heating", 
+		"level": 1,
+		"function": "Provides passive out-of-raid energy regen for your PMC",
+		"require": [],
+	},
+	{ 
+		"module": "Heating", 
+		"level": 2,
+		"function": "Provides passive out-of-raid energy regen for your PMC",
+		"require": [
+			{
+				"type": "module", 
+				"name": "Heating", 
+				"quantity": 1
+			},
+		],
+	},
+	{ 
+		"module": "Heating", 
+		"level": 3,
+		"function": "Provides passive out-of-raid energy regen for your PMC",
+		"require": [
+			{
+				"type": "module", 
+				"name": "Heating", 
+				"quantity": 2
+			},
+			{
+				"type": "module", 
+				"name": "Workbench", 
+				"quantity": 2
+			},
+			{
+				"type": "module", 
+				"name": "Generator", 
+				"quantity": 2
+			},
+			{
+				"type": "item", 
+				"name": "Radiator helix", 
+				"quantity": 8
+			},
+			{
+				"type": "item", 
+				"name": "Wires", 
+				"quantity": 8
+			},
+		],
+	},
+	{ 
+		"module": "Illumination", 
+		"level": 1,
+		"function": "Provides passive out-of-raid energy regen for your PMC",
+		"require": [],
+	},
+	{ 
+		"module": "Illumination", 
+		"level": 2,
+		"function": "Provides passive out-of-raid energy regen for your PMC",
+		"require": [
+			{
+				"type": "module", 
+				"name": "Illumination", 
+				"quantity": 1
+			},
+			{
+				"type": "module", 
+				"name": "Generator", 
+				"quantity": 1
+			},
+			{
+				"type": "item", 
+				"name": "Light bulb", 
+				"quantity": 14
+			},
+			{
+				"type": "item", 
+				"name": "Wires", 
+				"quantity": 5
+			},
+		],
+	},
+	{ 
+		"module": "Illumination", 
+		"level": 3,
+		"function": "Provides passive out-of-raid energy regen for your PMC",
+		"require": [
+			{
+				"type": "module", 
+				"name": "Illumination", 
+				"quantity": 2
+			},
+			{
+				"type": "module", 
+				"name": "Generator", 
+				"quantity": 2
+			},
+			{
+				"type": "item", 
+				"name": "Light bulb", 
+				"quantity": 14
+			},
+			{
+				"type": "item", 
+				"name": "Capacitors", 
+				"quantity": 7
+			},
+		],
+	},
+	{ 
+		"module": "Intelligence center", 
+		"level": 1,
+		"function": "Provides passive income boosts",
+		"require": [
+			{
+				"type": "module", 
+				"name": "Security", 
+				"quantity": 2
+			},
+			{
+				"type": "module", 
+				"name": "Vents", 
+				"quantity": 2
+			},
+			{
+				"type": "item", 
+				"name": "Folder with intelligence", 
+				"quantity": 1
+			},
+		],
+	},
+	{ 
+		"module": "Intelligence center", 
+		"level": 2,
+		"function": "Provides passive income boosts and produces rare data items",
+		"require": [
+			{
+				"type": "module", 
+				"name": "Intelligence center", 
+				"quantity": 1
+			},
+			{
+				"type": "module", 
+				"name": "Security", 
+				"quantity": 3
+			},
+			{
+				"type": "module", 
+				"name": "Medstation", 
+				"quantity": 3
+			},
+			{
+				"type": "module", 
+				"name": "Nutrition unit", 
+				"quantity": 3
+			},
+			{
+				"type": "item", 
+				"name": "Folder with intelligence", 
+				"quantity": 3
+			},
+			{
+				"type": "item", 
+				"name": "Secure flash drive", 
+				"quantity": 3
+			},
+			{
+				"type": "item", 
+				"name": "Powercord", 
+				"quantity": 4
+			},
+			{
+				"type": "item", 
+				"name": "Damaged hard drive", 
+				"quantity": 4
+			},
+		],
+	},
+	{ 
+		"module": "Intelligence center", 
+		"level": 3,
+		"function": "Provides passive income boosts and produces rare data items",
+		"require": [
+			{
+				"type": "module", 
+				"name": "Intelligence center", 
+				"quantity": 2
+			},
+			{
+				"type": "module", 
+				"name": "Generator", 
+				"quantity": 3
+			},
+			{
+				"type": "item", 
+				"name": "Military COFDM wireless signal transmitters", 
+				"quantity": 2
+			},
+			{
+				"type": "item", 
+				"name": "VPX flash storage modules", 
+				"quantity": 2
+			},
+			{
+				"type": "item", 
+				"name": "Gas analyzer", 
+				"quantity": 3
+			},
+			{
+				"type": "item", 
+				"name": "Military cable", 
+				"quantity": 4
+			},
+		],
+	},
+	{ 
+		"module": "Lavatory", 
+		"level": 1,
+		"function": "Produces various trade items, mainly focused on fluid centric products",
+		"require": [],
+	},
+	{ 
+		"module": "Lavatory", 
+		"level": 2,
+		"function": "Produces various trade items, mainly focused on fluid centric products",
+		"require": [
+			{
+				"type": "module", 
+				"name": "Lavatory", 
+				"quantity": 1
+			},
+			{
+				"type": "module", 
+				"name": "Water collector", 
+				"quantity": 1
+			},
+			{
+				"type": "item", 
+				"name": "Corrugated hose", 
+				"quantity": 3
+			},
+			{
+				"type": "item", 
+				"name": "A pack of screws", 
+				"quantity": 5
+			},
+			{
+				"type": "item", 
+				"name": "Electric drill", 
+				"quantity": 1
+			},
+		],
+	},
+	{ 
+		"module": "Lavatory", 
+		"level": 3,
+		"function": "Produces various trade items, mainly focused on fluid centric products",
+		"require": [
+			{
+				"type": "module", 
+				"name": "Lavatory", 
+				"quantity": 2
+			},
+			{
+				"type": "module", 
+				"name": "Water collector", 
+				"quantity": 2
+			},
+			{
+				"type": "item", 
+				"name": "Corrugated hose", 
+				"quantity": 6
+			},
+			{
+				"type": "item", 
+				"name": "Pressure guage", 
+				"quantity": 2
+			},
+			{
+				"type": "item", 
+				"name": "A set of tools", 
+				"quantity": 1
+			},
+			{
+				"type": "item", 
+				"name": "Xenomorph sealing foam", 
+				"quantity": 3
+			},
+		],
+	},
+	{ 
+		"module": "Library", 
+		"level": 1,
+		"function": "Provides exp and practical skills boost",
+		"require": [
+			{
+				"type": "module", 
+				"name": "Rest space", 
+				"quantity": 3
+			},
+		],
+	},
+	{ 
+		"module": "Medstation", 
+		"level": 1,
+		"function": "Provides passive healing and produces various healing items",
+		"require": [],
+	},
+	{ 
+		"module": "Medstation", 
+		"level": 2,
+		"function": "Provides passive healing and produces various healing items",
+		"require": [
+			{
+				"type": "module", 
+				"name": "Medstation", 
+				"quantity": 1
+			},
+			{
+				"type": "item", 
+				"name": "Medical bloodset", 
+				"quantity": 2
+			},
+			{
+				"type": "item", 
+				"name": "Saline solution", 
+				"quantity": 3
+			},
+		],
+	},
+	{ 
+		"module": "Medstation", 
+		"level": 3,
+		"function": "Provides passive healing and produces various healing items",
+		"require": [
+			{
+				"type": "module", 
+				"name": "Medstation", 
+				"quantity": 2
+			},
+			{
+				"type": "item", 
+				"name": "LEDX skin transilluminator", 
+				"quantity": 1
+			},
+			{
+				"type": "item", 
+				"name": "Opthalmoscope", 
+				"quantity": 1
+			},
+			{
+				"type": "item", 
+				"name": "Saline solution", 
+				"quantity": 4
+			},
+		],
+	},
+	{ 
+		"module": "Nutrition unit", 
+		"level": 1,
+		"function": "Provides passive out-of-raid energy regen and produces various consumables",
+		"require": [
+			{
+				"type": "module", 
+				"name": "Generator", 
+				"quantity": 1
+			},
+			{
+				"type": "item", 
+				"name": "Phase control relay", 
+				"quantity": 2
+			},
+		],
+	},
+	{ 
+		"module": "Nutrition unit", 
+		"level": 2,
+		"function": "Provides passive out-of-raid energy regen and produces various consumables",
+		"require": [
+			{
+				"type": "module", 
+				"name": "Nutrition unit", 
+				"quantity": 1
+			},
+			{
+				"type": "module", 
+				"name": "Lavatory", 
+				"quantity": 2
+			},
+			{
+				"type": "item", 
+				"name": "Phase control relay", 
+				"quantity": 1
+			},
+			{
+				"type": "item", 
+				"name": "Wrench", 
+				"quantity": 4
+			},
+			{
+				"type": "item", 
+				"name": "Corrugated hose", 
+				"quantity": 2
+			},
+			{
+				"type": "item", 
+				"name": "Heat-exchange alkali surface washer", 
+				"quantity": 2
+			},
+		],
+	},
+	{ 
+		"module": "Nutrition unit", 
+		"level": 3,
+		"function": "Provides passive out-of-raid energy regen and produces various consumables",
+		"require": [
+			{
+				"type": "module", 
+				"name": "Nutrition unit", 
+				"quantity": 2
+			},
+			{
+				"type": "module", 
+				"name": "Lavatory", 
+				"quantity": 3
+			},
+			{
+				"type": "module", 
+				"name": "Generator", 
+				"quantity": 2
+			},
+			{
+				"type": "module", 
+				"name": "Stash", 
+				"quantity": 2
+			},
+			{
+				"type": "item", 
+				"name": "Sodium bicarbonate", 
+				"quantity": 3
+			},
+			{
+				"type": "item", 
+				"name": "Coffee majaica", 
+				"quantity": 3
+			},
+		],
+	},
+	{ 
+		"module": "Rest space", 
+		"level": 1,
+		"function": "Provides passive out-of-raid energy regen and healing",
+		"require": [],
+	},
+	{ 
+		"module": "Rest space", 
+		"level": 2,
+		"function": "Provides passive out-of-raid energy regen and healing",
+		"require": [
+			{
+				"type": "module", 
+				"name": "Rest space", 
+				"quantity": 1
+			},
+			{
+				"type": "module", 
+				"name": "Generator", 
+				"quantity": 2
+			},
+			{
+				"type": "module", 
+				"name": "Heating", 
+				"quantity": 2
+			},
+		],
+	},
+	{ 
+		"module": "Rest space", 
+		"level": 3,
+		"function": "Provides passive out-of-raid energy regen and healing",
+		"require": [
+			{
+				"type": "module", 
+				"name": "Rest space", 
+				"quantity": 2
+			},
+			{
+				"type": "module", 
+				"name": "Generator", 
+				"quantity": 3
+			},
+			{
+				"type": "module", 
+				"name": "Heating", 
+				"quantity": 3
+			},
+			{
+				"type": "item", 
+				"name": "Powercord", 
+				"quantity": 4
+			},
+			{
+				"type": "item", 
+				"name": "Capacitors", 
+				"quantity": 5
+			},
+			{
+				"type": "item", 
+				"name": "Wires", 
+				"quantity": 7
+			},
+		],
+	},
+	{ 
+		"module": "Scav case", 
+		"level": 1,
+		"function": "Provides passive income in the form of follower missions",
+		"require": [
+			{
+				"type": "item", 
+				"name": "Bronze lion", 
+				"quantity": 4
+			},
+			{
+				"type": "item", 
+				"name": "Gold skull ring", 
+				"quantity": 6
+			},
+			{
+				"type": "item", 
+				"name": "Golden neck chain", 
+				"quantity": 8
+			},
+			{
+				"type": "item", 
+				"name": "Roler submariner gold wrist watch", 
+				"quantity": 4
+			},
+			{
+				"type": "module", 
+				"name": "Intelligence center", 
+				"quantity": 2
+			},
+		],
+	},
+	{ 
+		"module": "Security", 
+		"level": 1,
+		"function": "A resource sink to progress gate other hideout modules",
+		"require": [],
+	},
+	{ 
+		"module": "Security", 
+		"level": 2,
+		"function": "A resource sink to progress gate other hideout modules",
+		"require": [
+			{
+				"type": "module", 
+				"name": "Security", 
+				"quantity": 1
+			},
+		],
+	},
+	{ 
+		"module": "Security", 
+		"level": 3,
+		"function": "A resource sink to progress gate other hideout modules",
+		"require": [
+			{
+				"type": "module", 
+				"name": "Security", 
+				"quantity": 2
+			},
+			{
+				"type": "module", 
+				"name": "Illumination", 
+				"quantity": 3
+			},
+			{
+				"type": "item", 
+				"name": "Working LCD", 
+				"quantity": 2
+			},
+			{
+				"type": "item", 
+				"name": "Wires", 
+				"quantity": 4
+			},
+			{
+				"type": "item", 
+				"name": "NIXXOR lens", 
+				"quantity": 8
+			},
+			{
+				"type": "item", 
+				"name": "SSD drive", 
+				"quantity": 1
+			},
+		],
+	},
+	{ 
+		"module": "Shooting range", 
+		"level": 1,
+		"function": "Allows you to test fire your loadout",
+		"require": [
+			{
+				"type": "module", 
+				"name": "Illumination", 
+				"quantity": 2
+			},
+			{
+				"type": "item", 
+				"name": "A pack of nails", 
+				"quantity": 4
+			},
+			{
+				"type": "item", 
+				"name": "Screw nut", 
+				"quantity": 5
+			},
+			{
+				"type": "item", 
+				"name": "Bolts", 
+				"quantity": 5
+			},
+			{
+				"type": "item", 
+				"name": "Duct tape", 
+				"quantity": 3
+			},
+		],
+	},
+	{ 
+		"module": "Solar power", 
+		"level": 1,
+		"function": "Reduces generator fuel consumption by half",
+		"require": [
+			{
+				"type": "module", 
+				"name": "Generator", 
+				"quantity": 3
+			},
+			{
+				"type": "item", 
+				"name": "Workbench", 
+				"quantity": 3
+			},
+			{
+				"type": "item", 
+				"name": "Military cable", 
+				"quantity": 4
+			},
+			{
+				"type": "item", 
+				"name": "Phased array element", 
+				"quantity": 2
+			},
+			{
+				"type": "item", 
+				"name": "Military power filter", 
+				"quantity": 4
+			},
+		],
+	},
+	{ 
+		"module": "Stash", 
+		"level": 1,
+		"function": "Provides you with permanent item storage",
+		"require": [],
+	},
+	{ 
+		"module": "Stash", 
+		"level": 2,
+		"function": "Provides you with permanent item storage",
+		"require": [
+			{
+				"type": "module", 
+				"name": "Stash", 
+				"quantity": 1
+			},
+			{
+				"type": "item", 
+				"name": "Hand drill", 
+				"quantity": 1
+			},
+			{
+				"type": "item", 
+				"name": "A pack of screws", 
+				"quantity": 7
+			},
+			{
+				"type": "item", 
+				"name": "WD-40 100ml", 
+				"quantity": 4
+			},
+		],
+	},
+	{ 
+		"module": "Stash", 
+		"level": 3,
+		"function": "Provides you with permanent item storage",
+		"require": [
+			{
+				"type": "module", 
+				"name": "Stash", 
+				"quantity": 2
+			},
+			{
+				"type": "module", 
+				"name": "Heating", 
+				"quantity": 2
+			},
+			{
+				"type": "module", 
+				"name": "Vents", 
+				"quantity": 2
+			},
+			{
+				"type": "item", 
+				"name": "Electric drill", 
+				"quantity": 2
+			},
+			{
+				"type": "item", 
+				"name": "A pack of screws", 
+				"quantity": 8
+			},
+		],
+	},
+	{ 
+		"module": "Stash", 
+		"level": 4,
+		"function": "Provides you with permanent item storage",
+		"require": [
+			{
+				"type": "module", 
+				"name": "Stash", 
+				"quantity": 3
+			},
+			{
+				"type": "module", 
+				"name": "Generator", 
+				"quantity": 3
+			},
+			{
+				"type": "module", 
+				"name": "Workbench", 
+				"quantity": 3
+			},
+			{
+				"type": "module", 
+				"name": "Heating", 
+				"quantity": 3
+			},
+			{
+				"type": "module", 
+				"name": "Intelligence center", 
+				"quantity": 3
+			},
+		],
+	},
+	{ 
+		"module": "Vents", 
+		"level": 1,
+		"function": "A resource sink to progress gate other hideout modules",
+		"require": [],
+	},
+	{ 
+		"module": "Vents", 
+		"level": 2,
+		"function": "A resource sink to progress gate other hideout modules",
+		"require": [
+			{
+				"type": "module", 
+				"name": "Vents", 
+				"quantity": 1
+			},
+			{
+				"type": "item", 
+				"name": "Electric motor", 
+				"quantity": 1
+			},
+			{
+				"type": "item", 
+				"name": "Car battery", 
+				"quantity": 1
+			},
+		],
+	},
+	{ 
+		"module": "Vents", 
+		"level": 3,
+		"function": "A resource sink to progress gate other hideout modules",
+		"require": [
+			{
+				"type": "module", 
+				"name": "Vents", 
+				"quantity": 2
+			},
+			{
+				"type": "module", 
+				"name": "Generator", 
+				"quantity": 2
+			},
+			{
+				"type": "item", 
+				"name": "Electric motor", 
+				"quantity": 4
+			},
+			{
+				"type": "item", 
+				"name": "Car battery", 
+				"quantity": 4
+			},
+			{
+				"type": "item", 
+				"name": "Wires", 
+				"quantity": 14
+			},
+			{
+				"type": "item", 
+				"name": "Printed circuit board", 
+				"quantity": 5
+			},
+		],
+	},
+	{ 
+		"module": "Water collector", 
+		"level": 1,
+		"function": "Provides passive out-of-raid hydration regen",
+		"require": [
+			{
+				"type": "item", 
+				"name": "Corrugated hose", 
+				"quantity": 4
+			},
+			{
+				"type": "item", 
+				"name": "Bolts", 
+				"quantity": 5
+			},
+			{
+				"type": "item", 
+				"name": "Screw nut", 
+				"quantity": 5
+			},
+			{
+				"type": "item", 
+				"name": "Duct tape", 
+				"quantity": 3
+			},
+		],
+	},
+	{ 
+		"module": "Water collector", 
+		"level": 2,
+		"function": "Provides passive out-of-raid hydration regen",
+		"require": [
+			{
+				"type": "module", 
+				"name": "Water collector", 
+				"quantity": 1
+			},
+			{
+				"type": "module", 
+				"name": "Workbench", 
+				"quantity": 2
+			},
+			{
+				"type": "item", 
+				"name": "Corrugated hose", 
+				"quantity": 6
+			},
+			{
+				"type": "item", 
+				"name": "Electric motor", 
+				"quantity": 2
+			},
+			{
+				"type": "item", 
+				"name": "A set of tools", 
+				"quantity": 2
+			},
+		],
+	},
+	{ 
+		"module": "Water collector", 
+		"level": 3,
+		"function": "Provides passive out-of-raid hydration regen",
+		"require": [
+			{
+				"type": "module", 
+				"name": "Water collector", 
+				"quantity": 2
+			},
+			{
+				"type": "module", 
+				"name": "Generator", 
+				"quantity": 3
+			},
+			{
+				"type": "module", 
+				"name": "Heating", 
+				"quantity": 3
+			},
+			{
+				"type": "item", 
+				"name": "Pliers elite", 
+				"quantity": 2
+			},
+			{
+				"type": "item", 
+				"name": "Shustrilo sealing foam", 
+				"quantity": 5
+			},
+		],
+	},
+	{ 
+		"module": "Workbench", 
+		"level": 1,
+		"function": "Provides a wide variety of potential item crafts",
+		"require": [
+			{
+				"type": "item", 
+				"name": "Screw nuts", 
+				"quantity": 2
+			},
+			{
+				"type": "item", 
+				"name": "Bolts", 
+				"quantity": 2
+			},
+			{
+				"type": "item", 
+				"name": "Leatherman multitool", 
+				"quantity": 1
+			},
+		],
+	},
+	{ 
+		"module": "Workbench", 
+		"level": 2,
+		"function": "Provides a wide variety of potential item crafts",
+		"require": [
+			{
+				"type": "module", 
+				"name": "Workbench", 
+				"quantity": 1
+			},
+			{
+				"type": "module", 
+				"name": "Illumination", 
+				"quantity": 2
+			},
+			{
+				"type": "item", 
+				"name": "A set of tools", 
+				"quantity": 3
+			},
+			{
+				"type": "item", 
+				"name": "Electric drill", 
+				"quantity": 2
+			},
+			{
+				"type": "item", 
+				"name": "Bolts", 
+				"quantity": 6
+			},
+		],
+	},
+	{ 
+		"module": "Workbench", 
+		"level": 3,
+		"function": "Provides a wide variety of potential item crafts",
+		"require": [
+			{
+				"type": "module", 
+				"name": "Workbench", 
+				"quantity": 2
+			},
+			{
+				"type": "module", 
+				"name": "Stash", 
+				"quantity": 2
+			},
+			{
+				"type": "item", 
+				"name": "Pliers elite", 
+				"quantity": 2
+			},
+			{
+				"type": "item", 
+				"name": "FireKlean gun lube", 
+				"quantity": 1
+			},
+		],
+	},
+]
