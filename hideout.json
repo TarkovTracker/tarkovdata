@@ -7,12 +7,14 @@
          {
             "type":"module",
             "name":"Generator",
-            "quantity":3
+            "quantity":3,
+            "id":0
          },
          {
             "type":"module",
             "name":"Vents",
-            "quantity":3
+            "quantity":3,
+            "id":1
          }
       ]
    },
@@ -24,27 +26,32 @@
          {
             "type":"module",
             "name":"Intelligence center",
-            "quantity":2
+            "quantity":2,
+            "id":2
          },
          {
             "type":"item",
             "name":"CPU Fan",
-            "quantity":10
+            "quantity":10,
+            "id":3
          },
          {
             "type":"item",
             "name":"Power supply unit",
-            "quantity":5
+            "quantity":5,
+            "id":4
          },
          {
             "type":"item",
             "name":"Powercord",
-            "quantity":5
+            "quantity":5,
+            "id":5
          },
          {
             "type":"item",
             "name":"Electric drill",
-            "quantity":1
+            "quantity":1,
+            "id":6
          }
       ]
    },
@@ -56,32 +63,38 @@
          {
             "type":"module",
             "name":"Generator",
-            "quantity":3
+            "quantity":3,
+            "id":7
          },
          {
             "type":"module",
             "name":"Bitcoin farm",
-            "quantity":1
+            "quantity":1,
+            "id":8
          },
          {
             "type":"item",
             "name":"CPU Fan",
-            "quantity":15
+            "quantity":15,
+            "id":9
          },
          {
             "type":"item",
             "name":"Power supply unit",
-            "quantity":5
+            "quantity":5,
+            "id":10
          },
          {
             "type":"item",
             "name":"Printed circuit board",
-            "quantity":5
+            "quantity":5,
+            "id":11
          },
          {
             "type":"item",
             "name":"Phase control relay",
-            "quantity":2
+            "quantity":2,
+            "id":12
          }
       ]
    },
@@ -93,37 +106,44 @@
          {
             "type":"module",
             "name":"Water collector",
-            "quantity":3
+            "quantity":3,
+            "id":13
          },
          {
             "type":"module",
             "name":"Solar power",
-            "quantity":1
+            "quantity":1,
+            "id":14
          },
          {
             "type":"module",
             "name":"Bitcoin farm",
-            "quantity":2
+            "quantity":2,
+            "id":15
          },
          {
             "type":"item",
             "name":"CPU Fan",
-            "quantity":25
+            "quantity":25,
+            "id":16
          },
          {
             "type":"item",
             "name":"Silicone tubes",
-            "quantity":10
+            "quantity":10,
+            "id":17
          },
          {
             "type":"item",
             "name":"Electric motor",
-            "quantity":1
+            "quantity":1,
+            "id":18
          },
          {
             "type":"item",
             "name":"Pressure guages",
-            "quantity":2
+            "quantity":2,
+            "id":19
          }
       ]
    },
@@ -135,32 +155,38 @@
          {
             "type":"module",
             "name":"Water collector",
-            "quantity":3
+            "quantity":3,
+            "id":20
          },
          {
             "type":"module",
             "name":"Nutrition unit",
-            "quantity":3
+            "quantity":3,
+            "id":21
          },
          {
             "type":"item",
             "name":"Corrugated hose",
-            "quantity":5
+            "quantity":5,
+            "id":22
          },
          {
             "type":"item",
             "name":"Silicone tubes",
-            "quantity":4
+            "quantity":4,
+            "id":23
          },
          {
             "type":"item",
             "name":"Analog thermometer",
-            "quantity":2
+            "quantity":2,
+            "id":24
          },
          {
             "type":"item",
             "name":"Pressure guages",
-            "quantity":2
+            "quantity":2,
+            "id":25
          }
       ]
    },
@@ -172,32 +198,38 @@
          {
             "type":"module",
             "name":"Water collector",
-            "quantity":3
+            "quantity":3,
+            "id":26
          },
          {
             "type":"module",
             "name":"Nutrition unit",
-            "quantity":3
+            "quantity":3,
+            "id":27
          },
          {
             "type":"item",
             "name":"Corrugated hose",
-            "quantity":5
+            "quantity":5,
+            "id":28
          },
          {
             "type":"item",
             "name":"Silicone tubes",
-            "quantity":4
+            "quantity":4,
+            "id":29
          },
          {
             "type":"item",
             "name":"Analog thermometer",
-            "quantity":2
+            "quantity":2,
+            "id":30
          },
          {
             "type":"item",
             "name":"Pressure guages",
-            "quantity":2
+            "quantity":2,
+            "id":31
          }
       ]
    },
@@ -217,32 +249,38 @@
          {
             "type":"module",
             "name":"Generator",
-            "quantity":1
+            "quantity":1,
+            "id":32
          },
          {
             "type":"module",
             "name":"Security",
-            "quantity":2
+            "quantity":2,
+            "id":33
          },
          {
             "type":"module",
             "name":"Vents",
-            "quantity":2
+            "quantity":2,
+            "id":34
          },
          {
             "type":"item",
             "name":"Phase control relay",
-            "quantity":5
+            "quantity":5,
+            "id":35
          },
          {
             "type":"item",
             "name":"Electric motor",
-            "quantity":1
+            "quantity":1,
+            "id":36
          },
          {
             "type":"item",
             "name":"Wires",
-            "quantity":15
+            "quantity":15,
+            "id":37
          }
       ]
    },
@@ -254,37 +292,44 @@
          {
             "type":"module",
             "name":"Generator",
-            "quantity":2
+            "quantity":2,
+            "id":38
          },
          {
             "type":"module",
             "name":"Security",
-            "quantity":3
+            "quantity":3,
+            "id":39
          },
          {
             "type":"module",
             "name":"Vents",
-            "quantity":3
+            "quantity":3,
+            "id":40
          },
          {
             "type":"item",
             "name":"Phase control relay",
-            "quantity":6
+            "quantity":6,
+            "id":41
          },
          {
             "type":"item",
             "name":"Electric motor",
-            "quantity":2
+            "quantity":2,
+            "id":42
          },
          {
             "type":"item",
             "name":"Spark plug",
-            "quantity":5
+            "quantity":5,
+            "id":43
          },
          {
             "type":"item",
             "name":"Power supply unit",
-            "quantity":5
+            "quantity":5,
+            "id":44
          }
       ]
    },
@@ -304,7 +349,8 @@
          {
             "type":"module",
             "name":"Heating",
-            "quantity":1
+            "quantity":1,
+            "id":45
          }
       ]
    },
@@ -316,27 +362,32 @@
          {
             "type":"module",
             "name":"Heating",
-            "quantity":2
+            "quantity":2,
+            "id":46
          },
          {
             "type":"module",
             "name":"Workbench",
-            "quantity":2
+            "quantity":2,
+            "id":47
          },
          {
             "type":"module",
             "name":"Generator",
-            "quantity":2
+            "quantity":2,
+            "id":48
          },
          {
             "type":"item",
             "name":"Radiator helix",
-            "quantity":8
+            "quantity":8,
+            "id":49
          },
          {
             "type":"item",
             "name":"Wires",
-            "quantity":8
+            "quantity":8,
+            "id":50
          }
       ]
    },
@@ -356,22 +407,26 @@
          {
             "type":"module",
             "name":"Illumination",
-            "quantity":1
+            "quantity":1,
+            "id":51
          },
          {
             "type":"module",
             "name":"Generator",
-            "quantity":1
+            "quantity":1,
+            "id":52
          },
          {
             "type":"item",
             "name":"Light bulb",
-            "quantity":14
+            "quantity":14,
+            "id":53
          },
          {
             "type":"item",
             "name":"Wires",
-            "quantity":5
+            "quantity":5,
+            "id":54
          }
       ]
    },
@@ -383,22 +438,26 @@
          {
             "type":"module",
             "name":"Illumination",
-            "quantity":2
+            "quantity":2,
+            "id":55
          },
          {
             "type":"module",
             "name":"Generator",
-            "quantity":2
+            "quantity":2,
+            "id":56
          },
          {
             "type":"item",
             "name":"Light bulb",
-            "quantity":14
+            "quantity":14,
+            "id":57
          },
          {
             "type":"item",
             "name":"Capacitors",
-            "quantity":7
+            "quantity":7,
+            "id":58
          }
       ]
    },
@@ -410,17 +469,20 @@
          {
             "type":"module",
             "name":"Security",
-            "quantity":2
+            "quantity":2,
+            "id":59
          },
          {
             "type":"module",
             "name":"Vents",
-            "quantity":2
+            "quantity":2,
+            "id":60
          },
          {
             "type":"item",
             "name":"Folder with intelligence",
-            "quantity":1
+            "quantity":1,
+            "id":61
          }
       ]
    },
@@ -432,42 +494,50 @@
          {
             "type":"module",
             "name":"Intelligence center",
-            "quantity":1
+            "quantity":1,
+            "id":62
          },
          {
             "type":"module",
             "name":"Security",
-            "quantity":3
+            "quantity":3,
+            "id":63
          },
          {
             "type":"module",
             "name":"Medstation",
-            "quantity":3
+            "quantity":3,
+            "id":64
          },
          {
             "type":"module",
             "name":"Nutrition unit",
-            "quantity":3
+            "quantity":3,
+            "id":65
          },
          {
             "type":"item",
             "name":"Folder with intelligence",
-            "quantity":3
+            "quantity":3,
+            "id":66
          },
          {
             "type":"item",
             "name":"Secure flash drive",
-            "quantity":3
+            "quantity":3,
+            "id":67
          },
          {
             "type":"item",
             "name":"Powercord",
-            "quantity":4
+            "quantity":4,
+            "id":68
          },
          {
             "type":"item",
             "name":"Damaged hard drive",
-            "quantity":4
+            "quantity":4,
+            "id":69
          }
       ]
    },
@@ -479,32 +549,38 @@
          {
             "type":"module",
             "name":"Intelligence center",
-            "quantity":2
+            "quantity":2,
+            "id":70
          },
          {
             "type":"module",
             "name":"Generator",
-            "quantity":3
+            "quantity":3,
+            "id":71
          },
          {
             "type":"item",
             "name":"Military COFDM wireless signal transmitters",
-            "quantity":2
+            "quantity":2,
+            "id":72
          },
          {
             "type":"item",
             "name":"VPX flash storage modules",
-            "quantity":2
+            "quantity":2,
+            "id":73
          },
          {
             "type":"item",
             "name":"Gas analyzer",
-            "quantity":3
+            "quantity":3,
+            "id":74
          },
          {
             "type":"item",
             "name":"Military cable",
-            "quantity":4
+            "quantity":4,
+            "id":75
          }
       ]
    },
@@ -524,27 +600,32 @@
          {
             "type":"module",
             "name":"Lavatory",
-            "quantity":1
+            "quantity":1,
+            "id":76
          },
          {
             "type":"module",
             "name":"Water collector",
-            "quantity":1
+            "quantity":1,
+            "id":77
          },
          {
             "type":"item",
             "name":"Corrugated hose",
-            "quantity":3
+            "quantity":3,
+            "id":78
          },
          {
             "type":"item",
             "name":"A pack of screws",
-            "quantity":5
+            "quantity":5,
+            "id":79
          },
          {
             "type":"item",
             "name":"Electric drill",
-            "quantity":1
+            "quantity":1,
+            "id":80
          }
       ]
    },
@@ -556,32 +637,38 @@
          {
             "type":"module",
             "name":"Lavatory",
-            "quantity":2
+            "quantity":2,
+            "id":81
          },
          {
             "type":"module",
             "name":"Water collector",
-            "quantity":2
+            "quantity":2,
+            "id":82
          },
          {
             "type":"item",
             "name":"Corrugated hose",
-            "quantity":6
+            "quantity":6,
+            "id":83
          },
          {
             "type":"item",
             "name":"Pressure guage",
-            "quantity":2
+            "quantity":2,
+            "id":84
          },
          {
             "type":"item",
             "name":"A set of tools",
-            "quantity":1
+            "quantity":1,
+            "id":85
          },
          {
             "type":"item",
             "name":"Xenomorph sealing foam",
-            "quantity":3
+            "quantity":3,
+            "id":86
          }
       ]
    },
@@ -593,7 +680,8 @@
          {
             "type":"module",
             "name":"Rest space",
-            "quantity":3
+            "quantity":3,
+            "id":87
          }
       ]
    },
@@ -613,17 +701,20 @@
          {
             "type":"module",
             "name":"Medstation",
-            "quantity":1
+            "quantity":1,
+            "id":88
          },
          {
             "type":"item",
             "name":"Medical bloodset",
-            "quantity":2
+            "quantity":2,
+            "id":89
          },
          {
             "type":"item",
             "name":"Saline solution",
-            "quantity":3
+            "quantity":3,
+            "id":90
          }
       ]
    },
@@ -635,22 +726,26 @@
          {
             "type":"module",
             "name":"Medstation",
-            "quantity":2
+            "quantity":2,
+            "id":91
          },
          {
             "type":"item",
             "name":"LEDX skin transilluminator",
-            "quantity":1
+            "quantity":1,
+            "id":92
          },
          {
             "type":"item",
             "name":"Opthalmoscope",
-            "quantity":1
+            "quantity":1,
+            "id":93
          },
          {
             "type":"item",
             "name":"Saline solution",
-            "quantity":4
+            "quantity":4,
+            "id":94
          }
       ]
    },
@@ -662,12 +757,14 @@
          {
             "type":"module",
             "name":"Generator",
-            "quantity":1
+            "quantity":1,
+            "id":95
          },
          {
             "type":"item",
             "name":"Phase control relay",
-            "quantity":2
+            "quantity":2,
+            "id":96
          }
       ]
    },
@@ -679,32 +776,38 @@
          {
             "type":"module",
             "name":"Nutrition unit",
-            "quantity":1
+            "quantity":1,
+            "id":97
          },
          {
             "type":"module",
             "name":"Lavatory",
-            "quantity":2
+            "quantity":2,
+            "id":98
          },
          {
             "type":"item",
             "name":"Phase control relay",
-            "quantity":1
+            "quantity":1,
+            "id":99
          },
          {
             "type":"item",
             "name":"Wrench",
-            "quantity":4
+            "quantity":4,
+            "id":100
          },
          {
             "type":"item",
             "name":"Corrugated hose",
-            "quantity":2
+            "quantity":2,
+            "id":101
          },
          {
             "type":"item",
             "name":"Heat-exchange alkali surface washer",
-            "quantity":2
+            "quantity":2,
+            "id":102
          }
       ]
    },
@@ -716,32 +819,38 @@
          {
             "type":"module",
             "name":"Nutrition unit",
-            "quantity":2
+            "quantity":2,
+            "id":103
          },
          {
             "type":"module",
             "name":"Lavatory",
-            "quantity":3
+            "quantity":3,
+            "id":104
          },
          {
             "type":"module",
             "name":"Generator",
-            "quantity":2
+            "quantity":2,
+            "id":105
          },
          {
             "type":"module",
             "name":"Stash",
-            "quantity":2
+            "quantity":2,
+            "id":106
          },
          {
             "type":"item",
             "name":"Sodium bicarbonate",
-            "quantity":3
+            "quantity":3,
+            "id":107
          },
          {
             "type":"item",
             "name":"Coffee majaica",
-            "quantity":3
+            "quantity":3,
+            "id":108
          }
       ]
    },
@@ -761,17 +870,20 @@
          {
             "type":"module",
             "name":"Rest space",
-            "quantity":1
+            "quantity":1,
+            "id":109
          },
          {
             "type":"module",
             "name":"Generator",
-            "quantity":2
+            "quantity":2,
+            "id":110
          },
          {
             "type":"module",
             "name":"Heating",
-            "quantity":2
+            "quantity":2,
+            "id":111
          }
       ]
    },
@@ -783,32 +895,38 @@
          {
             "type":"module",
             "name":"Rest space",
-            "quantity":2
+            "quantity":2,
+            "id":112
          },
          {
             "type":"module",
             "name":"Generator",
-            "quantity":3
+            "quantity":3,
+            "id":113
          },
          {
             "type":"module",
             "name":"Heating",
-            "quantity":3
+            "quantity":3,
+            "id":114
          },
          {
             "type":"item",
             "name":"Powercord",
-            "quantity":4
+            "quantity":4,
+            "id":115
          },
          {
             "type":"item",
             "name":"Capacitors",
-            "quantity":5
+            "quantity":5,
+            "id":116
          },
          {
             "type":"item",
             "name":"Wires",
-            "quantity":7
+            "quantity":7,
+            "id":117
          }
       ]
    },
@@ -820,27 +938,32 @@
          {
             "type":"item",
             "name":"Bronze lion",
-            "quantity":4
+            "quantity":4,
+            "id":118
          },
          {
             "type":"item",
             "name":"Gold skull ring",
-            "quantity":6
+            "quantity":6,
+            "id":119
          },
          {
             "type":"item",
             "name":"Golden neck chain",
-            "quantity":8
+            "quantity":8,
+            "id":120
          },
          {
             "type":"item",
             "name":"Roler submariner gold wrist watch",
-            "quantity":4
+            "quantity":4,
+            "id":121
          },
          {
             "type":"module",
             "name":"Intelligence center",
-            "quantity":2
+            "quantity":2,
+            "id":122
          }
       ]
    },
@@ -860,7 +983,8 @@
          {
             "type":"module",
             "name":"Security",
-            "quantity":1
+            "quantity":1,
+            "id":123
          }
       ]
    },
@@ -872,32 +996,38 @@
          {
             "type":"module",
             "name":"Security",
-            "quantity":2
+            "quantity":2,
+            "id":124
          },
          {
             "type":"module",
             "name":"Illumination",
-            "quantity":3
+            "quantity":3,
+            "id":125
          },
          {
             "type":"item",
             "name":"Working LCD",
-            "quantity":2
+            "quantity":2,
+            "id":126
          },
          {
             "type":"item",
             "name":"Wires",
-            "quantity":4
+            "quantity":4,
+            "id":127
          },
          {
             "type":"item",
             "name":"NIXXOR lens",
-            "quantity":8
+            "quantity":8,
+            "id":128
          },
          {
             "type":"item",
             "name":"SSD drive",
-            "quantity":1
+            "quantity":1,
+            "id":129
          }
       ]
    },
@@ -909,27 +1039,32 @@
          {
             "type":"module",
             "name":"Illumination",
-            "quantity":2
+            "quantity":2,
+            "id":130
          },
          {
             "type":"item",
             "name":"A pack of nails",
-            "quantity":4
+            "quantity":4,
+            "id":131
          },
          {
             "type":"item",
             "name":"Screw nut",
-            "quantity":5
+            "quantity":5,
+            "id":132
          },
          {
             "type":"item",
             "name":"Bolts",
-            "quantity":5
+            "quantity":5,
+            "id":133
          },
          {
             "type":"item",
             "name":"Duct tape",
-            "quantity":3
+            "quantity":3,
+            "id":134
          }
       ]
    },
@@ -941,27 +1076,32 @@
          {
             "type":"module",
             "name":"Generator",
-            "quantity":3
+            "quantity":3,
+            "id":135
          },
          {
             "type":"item",
             "name":"Workbench",
-            "quantity":3
+            "quantity":3,
+            "id":136
          },
          {
             "type":"item",
             "name":"Military cable",
-            "quantity":4
+            "quantity":4,
+            "id":137
          },
          {
             "type":"item",
             "name":"Phased array element",
-            "quantity":2
+            "quantity":2,
+            "id":138
          },
          {
             "type":"item",
             "name":"Military power filter",
-            "quantity":4
+            "quantity":4,
+            "id":139
          }
       ]
    },
@@ -981,22 +1121,26 @@
          {
             "type":"module",
             "name":"Stash",
-            "quantity":1
+            "quantity":1,
+            "id":140
          },
          {
             "type":"item",
             "name":"Hand drill",
-            "quantity":1
+            "quantity":1,
+            "id":141
          },
          {
             "type":"item",
             "name":"A pack of screws",
-            "quantity":7
+            "quantity":7,
+            "id":142
          },
          {
             "type":"item",
             "name":"WD-40 100ml",
-            "quantity":4
+            "quantity":4,
+            "id":143
          }
       ]
    },
@@ -1008,27 +1152,32 @@
          {
             "type":"module",
             "name":"Stash",
-            "quantity":2
+            "quantity":2,
+            "id":144
          },
          {
             "type":"module",
             "name":"Heating",
-            "quantity":2
+            "quantity":2,
+            "id":145
          },
          {
             "type":"module",
             "name":"Vents",
-            "quantity":2
+            "quantity":2,
+            "id":146
          },
          {
             "type":"item",
             "name":"Electric drill",
-            "quantity":2
+            "quantity":2,
+            "id":147
          },
          {
             "type":"item",
             "name":"A pack of screws",
-            "quantity":8
+            "quantity":8,
+            "id":148
          }
       ]
    },
@@ -1040,27 +1189,32 @@
          {
             "type":"module",
             "name":"Stash",
-            "quantity":3
+            "quantity":3,
+            "id":149
          },
          {
             "type":"module",
             "name":"Generator",
-            "quantity":3
+            "quantity":3,
+            "id":150
          },
          {
             "type":"module",
             "name":"Workbench",
-            "quantity":3
+            "quantity":3,
+            "id":151
          },
          {
             "type":"module",
             "name":"Heating",
-            "quantity":3
+            "quantity":3,
+            "id":152
          },
          {
             "type":"module",
             "name":"Intelligence center",
-            "quantity":3
+            "quantity":3,
+            "id":153
          }
       ]
    },
@@ -1080,17 +1234,20 @@
          {
             "type":"module",
             "name":"Vents",
-            "quantity":1
+            "quantity":1,
+            "id":154
          },
          {
             "type":"item",
             "name":"Electric motor",
-            "quantity":1
+            "quantity":1,
+            "id":155
          },
          {
             "type":"item",
             "name":"Car battery",
-            "quantity":1
+            "quantity":1,
+            "id":156
          }
       ]
    },
@@ -1102,32 +1259,38 @@
          {
             "type":"module",
             "name":"Vents",
-            "quantity":2
+            "quantity":2,
+            "id":157
          },
          {
             "type":"module",
             "name":"Generator",
-            "quantity":2
+            "quantity":2,
+            "id":158
          },
          {
             "type":"item",
             "name":"Electric motor",
-            "quantity":4
+            "quantity":4,
+            "id":159
          },
          {
             "type":"item",
             "name":"Car battery",
-            "quantity":4
+            "quantity":4,
+            "id":160
          },
          {
             "type":"item",
             "name":"Wires",
-            "quantity":14
+            "quantity":14,
+            "id":161
          },
          {
             "type":"item",
             "name":"Printed circuit board",
-            "quantity":5
+            "quantity":5,
+            "id":162
          }
       ]
    },
@@ -1139,22 +1302,26 @@
          {
             "type":"item",
             "name":"Corrugated hose",
-            "quantity":4
+            "quantity":4,
+            "id":163
          },
          {
             "type":"item",
             "name":"Bolts",
-            "quantity":5
+            "quantity":5,
+            "id":164
          },
          {
             "type":"item",
             "name":"Screw nut",
-            "quantity":5
+            "quantity":5,
+            "id":165
          },
          {
             "type":"item",
             "name":"Duct tape",
-            "quantity":3
+            "quantity":3,
+            "id":166
          }
       ]
    },
@@ -1166,27 +1333,32 @@
          {
             "type":"module",
             "name":"Water collector",
-            "quantity":1
+            "quantity":1,
+            "id":167
          },
          {
             "type":"module",
             "name":"Workbench",
-            "quantity":2
+            "quantity":2,
+            "id":168
          },
          {
             "type":"item",
             "name":"Corrugated hose",
-            "quantity":6
+            "quantity":6,
+            "id":169
          },
          {
             "type":"item",
             "name":"Electric motor",
-            "quantity":2
+            "quantity":2,
+            "id":170
          },
          {
             "type":"item",
             "name":"A set of tools",
-            "quantity":2
+            "quantity":2,
+            "id":171
          }
       ]
    },
@@ -1198,27 +1370,32 @@
          {
             "type":"module",
             "name":"Water collector",
-            "quantity":2
+            "quantity":2,
+            "id":172
          },
          {
             "type":"module",
             "name":"Generator",
-            "quantity":3
+            "quantity":3,
+            "id":173
          },
          {
             "type":"module",
             "name":"Heating",
-            "quantity":3
+            "quantity":3,
+            "id":174
          },
          {
             "type":"item",
             "name":"Pliers elite",
-            "quantity":2
+            "quantity":2,
+            "id":175
          },
          {
             "type":"item",
             "name":"Shustrilo sealing foam",
-            "quantity":5
+            "quantity":5,
+            "id":176
          }
       ]
    },
@@ -1230,17 +1407,20 @@
          {
             "type":"item",
             "name":"Screw nuts",
-            "quantity":2
+            "quantity":2,
+            "id":177
          },
          {
             "type":"item",
             "name":"Bolts",
-            "quantity":2
+            "quantity":2,
+            "id":178
          },
          {
             "type":"item",
             "name":"Leatherman multitool",
-            "quantity":1
+            "quantity":1,
+            "id":179
          }
       ]
    },
@@ -1252,27 +1432,32 @@
          {
             "type":"module",
             "name":"Workbench",
-            "quantity":1
+            "quantity":1,
+            "id":180
          },
          {
             "type":"module",
             "name":"Illumination",
-            "quantity":2
+            "quantity":2,
+            "id":181
          },
          {
             "type":"item",
             "name":"A set of tools",
-            "quantity":3
+            "quantity":3,
+            "id":182
          },
          {
             "type":"item",
             "name":"Electric drill",
-            "quantity":2
+            "quantity":2,
+            "id":183
          },
          {
             "type":"item",
             "name":"Bolts",
-            "quantity":6
+            "quantity":6,
+            "id":184
          }
       ]
    },
@@ -1284,22 +1469,26 @@
          {
             "type":"module",
             "name":"Workbench",
-            "quantity":2
+            "quantity":2,
+            "id":185
          },
          {
             "type":"module",
             "name":"Stash",
-            "quantity":2
+            "quantity":2,
+            "id":186
          },
          {
             "type":"item",
             "name":"Pliers elite",
-            "quantity":2
+            "quantity":2,
+            "id":187
          },
          {
             "type":"item",
             "name":"FireKlean gun lube",
-            "quantity":1
+            "quantity":1,
+            "id":188
          }
       ]
    }
