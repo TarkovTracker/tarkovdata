@@ -513,7 +513,7 @@
          {
             "type":"kill",
             "target":"PMCs",
-            "number":20,
+            "number":5,
             "location":"Any",
             "with":[
                "M1A",
