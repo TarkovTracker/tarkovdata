@@ -15,6 +15,12 @@
             "name":"Vents",
             "quantity":3,
             "id":1
+         },
+         {
+            "type":"currency",
+            "name":"Dollars",
+            "quantity":10000,
+            "id":189
          }
       ],
       "id":0
@@ -244,7 +250,12 @@
       "level":1,
       "function":"Provides power for hideout crafting stations",
       "require":[
-
+         {
+            "type":"currency",
+            "name":"Rubles",
+            "quantity":100000,
+            "id":190
+         }
       ],
       "id":6
    },
@@ -347,7 +358,12 @@
       "level":1,
       "function":"Provides passive out-of-raid energy regen for your PMC",
       "require":[
-
+         {
+            "type":"currency",
+            "name":"Rubles",
+            "quantity":25000,
+            "id":191
+         }
       ],
       "id":9
    },
@@ -361,6 +377,12 @@
             "name":"Heating",
             "quantity":1,
             "id":45
+         },
+         {
+            "type":"currency",
+            "name":"Rubles",
+            "quantity":50000,
+            "id":192
          }
       ],
       "id":10
@@ -408,7 +430,12 @@
       "level":1,
       "function":"Provides passive out-of-raid energy regen for your PMC",
       "require":[
-
+         {
+            "type":"currency",
+            "name":"Rubles",
+            "quantity":10000,
+            "id":193
+         }
       ],
       "id":12
    },
@@ -472,6 +499,12 @@
             "name":"Capacitors",
             "quantity":7,
             "id":58
+         },
+         {
+            "type":"currency",
+            "name":"Rubles",
+            "quantity":50000,
+            "id":194
          }
       ],
       "id":14
@@ -607,7 +640,12 @@
       "level":1,
       "function":"Produces various trade items, mainly focused on fluid centric products",
       "require":[
-
+         {
+            "type":"currency",
+            "name":"Rubles",
+            "quantity":2000,
+            "id":195
+         }
       ],
       "id":18
    },
@@ -703,6 +741,12 @@
             "name":"Rest space",
             "quantity":3,
             "id":87
+         },
+         {
+            "type":"currency",
+            "name":"Rubles",
+            "quantity":400000,
+            "id":196
          }
       ],
       "id":21
@@ -712,7 +756,12 @@
       "level":1,
       "function":"Provides passive healing and produces various healing items",
       "require":[
-
+         {
+            "type":"currency",
+            "name":"Rubles",
+            "quantity":25000,
+            "id":197
+         }
       ],
       "id":22
    },
@@ -738,6 +787,12 @@
             "name":"Saline solution",
             "quantity":3,
             "id":90
+         },
+         {
+            "type":"currency",
+            "name":"Rubles",
+            "quantity":50000,
+            "id":198
          }
       ],
       "id":23
@@ -770,6 +825,12 @@
             "name":"Saline solution",
             "quantity":4,
             "id":94
+         },
+         {
+            "type":"currency",
+            "name":"Rubles",
+            "quantity":150000,
+            "id":199
          }
       ],
       "id":24
@@ -790,6 +851,12 @@
             "name":"Phase control relay",
             "quantity":2,
             "id":96
+         },
+         {
+            "type":"currency",
+            "name":"Rubles",
+            "quantity":25000,
+            "id":200
          }
       ],
       "id":25
@@ -878,6 +945,12 @@
             "name":"Coffee majaica",
             "quantity":3,
             "id":108
+         },
+         {
+            "type":"currency",
+            "name":"Rubles",
+            "quantity":125000,
+            "id":201
          }
       ],
       "id":27
@@ -887,7 +960,12 @@
       "level":1,
       "function":"Provides passive out-of-raid energy regen and healing",
       "require":[
-
+         {
+            "type":"currency",
+            "name":"Rubles",
+            "quantity":10000,
+            "id":202
+         }
       ],
       "id":28
    },
@@ -913,6 +991,12 @@
             "name":"Heating",
             "quantity":2,
             "id":111
+         },
+         {
+            "type":"currency",
+            "name":"Rubles",
+            "quantity":35000,
+            "id":203
          }
       ],
       "id":29
@@ -957,6 +1041,12 @@
             "name":"Wires",
             "quantity":7,
             "id":117
+         },
+         {
+            "type":"currency",
+            "name":"Dollars",
+            "quantity":3000,
+            "id":204
          }
       ],
       "id":30
@@ -1004,7 +1094,12 @@
       "level":1,
       "function":"A resource sink to progress gate other hideout modules",
       "require":[
-
+         {
+            "type":"currency",
+            "name":"Rubles",
+            "quantity":20000,
+            "id":205
+         }
       ],
       "id":32
    },
@@ -1018,6 +1113,12 @@
             "name":"Security",
             "quantity":1,
             "id":123
+         },
+         {
+            "type":"currency",
+            "name":"Rubles",
+            "quantity":45000,
+            "id":206
          }
       ],
       "id":33
@@ -1138,6 +1239,12 @@
             "name":"Military power filter",
             "quantity":4,
             "id":139
+         },
+         {
+            "type":"currency",
+            "name":"Euros",
+            "quantity":15000,
+            "id":207
          }
       ],
       "id":36
@@ -1179,6 +1286,12 @@
             "name":"WD-40 100ml",
             "quantity":4,
             "id":143
+         },
+         {
+            "type":"currency",
+            "name":"Rubles",
+            "quantity":3500000,
+            "id":208
          }
       ],
       "id":38
@@ -1217,6 +1330,12 @@
             "name":"A pack of screws",
             "quantity":8,
             "id":148
+         },
+         {
+            "type":"currency",
+            "name":"Rubles",
+            "quantity":8500000,
+            "id":209
          }
       ],
       "id":39
@@ -1255,6 +1374,12 @@
             "name":"Intelligence center",
             "quantity":3,
             "id":153
+         },
+         {
+            "type":"currency",
+            "name":"Euros",
+            "quantity":150000,
+            "id":210
          }
       ],
       "id":40
@@ -1264,7 +1389,12 @@
       "level":1,
       "function":"A resource sink to progress gate other hideout modules",
       "require":[
-
+         {
+            "type":"currency",
+            "name":"Rubles",
+            "quantity":25000,
+            "id":211
+         }
       ],
       "id":41
    },
@@ -1442,6 +1572,12 @@
             "name":"Shustrilo sealing foam",
             "quantity":5,
             "id":176
+         },
+         {
+            "type":"currency",
+            "name":"Rubles",
+            "quantity":125000,
+            "id":212
          }
       ],
       "id":46
@@ -1538,6 +1674,12 @@
             "name":"FireKlean gun lube",
             "quantity":1,
             "id":188
+         },
+         {
+            "type":"currency",
+            "name":"Rubles",
+            "quantity":195000,
+            "id":213
          }
       ],
       "id":49
