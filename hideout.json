@@ -3,6 +3,7 @@
       "module":"Air Filtering Unit",
       "level":1,
       "function":"Allows use of absorbers to increase physical skill leveling speed",
+      "imgSource":"/img/Air_Filtering_Unit_Portrait.png",
       "require":[
          {
             "type":"module",
@@ -29,6 +30,7 @@
       "module":"Bitcoin farm",
       "level":1,
       "function":"Allows production of Physical bitcoins",
+      "imgSource":"/img/Bitcoin_farm_Portrait.png",
       "require":[
          {
             "type":"module",
@@ -67,6 +69,7 @@
       "module":"Bitcoin farm",
       "level":2,
       "function":"Allows production of Physical bitcoins",
+      "imgSource":"/img/Bitcoin_farm_Portrait.png",
       "require":[
          {
             "type":"module",
@@ -111,6 +114,7 @@
       "module":"Bitcoin farm",
       "level":3,
       "function":"Allows production of Physical bitcoins",
+      "imgSource":"/img/Bitcoin_farm_Portrait.png",
       "require":[
          {
             "type":"module",
@@ -161,6 +165,7 @@
       "module":"Booze generator",
       "level":1,
       "function":"Allows production of moonshine",
+      "imgSource":"/img/Booze_generator_portrait.png",
       "require":[
          {
             "type":"module",
@@ -205,6 +210,7 @@
       "module":"Booze generator",
       "level":1,
       "function":"Allows production of moonshine",
+      "imgSource":"/img/Booze_generator_portrait.png",
       "require":[
          {
             "type":"module",
@@ -249,6 +255,7 @@
       "module":"Generator",
       "level":1,
       "function":"Provides power for hideout crafting stations",
+      "imgSource":"/img/Generator_Portrait.png",
       "require":[
          {
             "type":"currency",
@@ -263,6 +270,7 @@
       "module":"Generator",
       "level":2,
       "function":"Provides power for hideout crafting stations",
+      "imgSource":"/img/Generator_Portrait.png",
       "require":[
          {
             "type":"module",
@@ -307,6 +315,7 @@
       "module":"Generator",
       "level":3,
       "function":"Provides power for hideout crafting stations",
+      "imgSource":"/img/Generator_Portrait.png",
       "require":[
          {
             "type":"module",
@@ -357,6 +366,7 @@
       "module":"Heating",
       "level":1,
       "function":"Provides passive out-of-raid energy regen for your PMC",
+      "imgSource":"/img/Heating_Portrait.png",
       "require":[
          {
             "type":"currency",
@@ -371,6 +381,7 @@
       "module":"Heating",
       "level":2,
       "function":"Provides passive out-of-raid energy regen for your PMC",
+      "imgSource":"/img/Heating_Portrait.png",
       "require":[
          {
             "type":"module",
@@ -391,6 +402,7 @@
       "module":"Heating",
       "level":3,
       "function":"Provides passive out-of-raid energy regen for your PMC",
+      "imgSource":"/img/Heating_Portrait.png",
       "require":[
          {
             "type":"module",
@@ -428,7 +440,8 @@
    {
       "module":"Illumination",
       "level":1,
-      "function":"Provides passive out-of-raid energy regen for your PMC",
+      "function":"A resource sink that gates other modules, while also providing 3d visibility",
+      "imgSource":"/img/Illumination_Portrait.png",
       "require":[
          {
             "type":"currency",
@@ -442,7 +455,8 @@
    {
       "module":"Illumination",
       "level":2,
-      "function":"Provides passive out-of-raid energy regen for your PMC",
+      "function":"A resource sink that gates other modules, while also providing 3d visibility",
+      "imgSource":"/img/Illumination_Portrait.png",
       "require":[
          {
             "type":"module",
@@ -474,7 +488,8 @@
    {
       "module":"Illumination",
       "level":3,
-      "function":"Provides passive out-of-raid energy regen for your PMC",
+      "function":"A resource sink that gates other modules, while also providing 3d visibility",
+      "imgSource":"/img/Illumination_Portrait.png",
       "require":[
          {
             "type":"module",
@@ -513,6 +528,7 @@
       "module":"Intelligence center",
       "level":1,
       "function":"Provides passive income boosts",
+      "imgSource":"/img/Intelligence_Center_Portrait.png",
       "require":[
          {
             "type":"module",
@@ -539,6 +555,7 @@
       "module":"Intelligence center",
       "level":2,
       "function":"Provides passive income boosts and produces rare data items",
+      "imgSource":"/img/Intelligence_Center_Portrait.png",
       "require":[
          {
             "type":"module",
@@ -595,6 +612,7 @@
       "module":"Intelligence center",
       "level":3,
       "function":"Provides passive income boosts and produces rare data items",
+      "imgSource":"/img/Intelligence_Center_Portrait.png",
       "require":[
          {
             "type":"module",
@@ -639,6 +657,7 @@
       "module":"Lavatory",
       "level":1,
       "function":"Produces various trade items, mainly focused on fluid centric products",
+      "imgSource":"/img/Lavatory_Portrait.png",
       "require":[
          {
             "type":"currency",
@@ -653,6 +672,7 @@
       "module":"Lavatory",
       "level":2,
       "function":"Produces various trade items, mainly focused on fluid centric products",
+      "imgSource":"/img/Lavatory_Portrait.png",
       "require":[
          {
             "type":"module",
@@ -691,6 +711,7 @@
       "module":"Lavatory",
       "level":3,
       "function":"Produces various trade items, mainly focused on fluid centric products",
+      "imgSource":"/img/Lavatory_Portrait.png",
       "require":[
          {
             "type":"module",
@@ -735,6 +756,7 @@
       "module":"Library",
       "level":1,
       "function":"Provides exp and practical skills boost",
+      "imgSource":"/img/Library_Portrait.png",
       "require":[
          {
             "type":"module",
@@ -755,6 +777,7 @@
       "module":"Medstation",
       "level":1,
       "function":"Provides passive healing and produces various healing items",
+      "imgSource":"/img/Medstation_Portrait.png",
       "require":[
          {
             "type":"currency",
@@ -769,6 +792,7 @@
       "module":"Medstation",
       "level":2,
       "function":"Provides passive healing and produces various healing items",
+      "imgSource":"/img/Medstation_Portrait.png",
       "require":[
          {
             "type":"module",
@@ -801,6 +825,7 @@
       "module":"Medstation",
       "level":3,
       "function":"Provides passive healing and produces various healing items",
+      "imgSource":"/img/Medstation_Portrait.png",
       "require":[
          {
             "type":"module",
@@ -839,6 +864,7 @@
       "module":"Nutrition unit",
       "level":1,
       "function":"Provides passive out-of-raid energy regen and produces various consumables",
+      "imgSource":"/img/Nutrition_unit_Portrait.png",
       "require":[
          {
             "type":"module",
@@ -865,6 +891,7 @@
       "module":"Nutrition unit",
       "level":2,
       "function":"Provides passive out-of-raid energy regen and produces various consumables",
+      "imgSource":"/img/Nutrition_unit_Portrait.png",
       "require":[
          {
             "type":"module",
@@ -909,6 +936,7 @@
       "module":"Nutrition unit",
       "level":3,
       "function":"Provides passive out-of-raid energy regen and produces various consumables",
+      "imgSource":"/img/Nutrition_unit_Portrait.png",
       "require":[
          {
             "type":"module",
@@ -959,6 +987,7 @@
       "module":"Rest space",
       "level":1,
       "function":"Provides passive out-of-raid energy regen and healing",
+      "imgSource":"/img/Rest_Space_Portrait.png",
       "require":[
          {
             "type":"currency",
@@ -973,6 +1002,7 @@
       "module":"Rest space",
       "level":2,
       "function":"Provides passive out-of-raid energy regen and healing",
+      "imgSource":"/img/Rest_Space_Portrait.png",
       "require":[
          {
             "type":"module",
@@ -1005,6 +1035,7 @@
       "module":"Rest space",
       "level":3,
       "function":"Provides passive out-of-raid energy regen and healing",
+      "imgSource":"/img/Rest_Space_Portrait.png",
       "require":[
          {
             "type":"module",
@@ -1055,6 +1086,7 @@
       "module":"Scav case",
       "level":1,
       "function":"Provides passive income in the form of follower missions",
+      "imgSource":"/img/Scav_case_Portrait.png",
       "require":[
          {
             "type":"item",
@@ -1093,6 +1125,7 @@
       "module":"Security",
       "level":1,
       "function":"A resource sink to progress gate other hideout modules",
+      "imgSource":"/img/Security_Portrait.png",
       "require":[
          {
             "type":"currency",
@@ -1107,6 +1140,7 @@
       "module":"Security",
       "level":2,
       "function":"A resource sink to progress gate other hideout modules",
+      "imgSource":"/img/Security_Portrait.png",
       "require":[
          {
             "type":"module",
@@ -1127,6 +1161,7 @@
       "module":"Security",
       "level":3,
       "function":"A resource sink to progress gate other hideout modules",
+      "imgSource":"/img/Security_Portrait.png",
       "require":[
          {
             "type":"module",
@@ -1171,6 +1206,7 @@
       "module":"Shooting range",
       "level":1,
       "function":"Allows you to test fire your loadout",
+      "imgSource":"/img/Shooting_range_Portrait.png",
       "require":[
          {
             "type":"module",
@@ -1209,6 +1245,7 @@
       "module":"Solar power",
       "level":1,
       "function":"Reduces generator fuel consumption by half",
+      "imgSource":"/img/Solar_power_Portrait.png",
       "require":[
          {
             "type":"module",
@@ -1253,6 +1290,7 @@
       "module":"Stash",
       "level":1,
       "function":"Provides you with permanent item storage",
+      "imgSource":"/img/Stash_Portrait.png",
       "require":[
 
       ],
@@ -1262,6 +1300,7 @@
       "module":"Stash",
       "level":2,
       "function":"Provides you with permanent item storage",
+      "imgSource":"/img/Stash_Portrait.png",
       "require":[
          {
             "type":"module",
@@ -1300,6 +1339,7 @@
       "module":"Stash",
       "level":3,
       "function":"Provides you with permanent item storage",
+      "imgSource":"/img/Stash_Portrait.png",
       "require":[
          {
             "type":"module",
@@ -1344,6 +1384,7 @@
       "module":"Stash",
       "level":4,
       "function":"Provides you with permanent item storage",
+      "imgSource":"/img/Stash_Portrait.png",
       "require":[
          {
             "type":"module",
@@ -1388,6 +1429,7 @@
       "module":"Vents",
       "level":1,
       "function":"A resource sink to progress gate other hideout modules",
+      "imgSource":"/img/Vents_Portrait.png",
       "require":[
          {
             "type":"currency",
@@ -1402,6 +1444,7 @@
       "module":"Vents",
       "level":2,
       "function":"A resource sink to progress gate other hideout modules",
+      "imgSource":"/img/Vents_Portrait.png",
       "require":[
          {
             "type":"module",
@@ -1428,6 +1471,7 @@
       "module":"Vents",
       "level":3,
       "function":"A resource sink to progress gate other hideout modules",
+      "imgSource":"/img/Vents_Portrait.png",
       "require":[
          {
             "type":"module",
@@ -1472,6 +1516,7 @@
       "module":"Water collector",
       "level":1,
       "function":"Provides passive out-of-raid hydration regen",
+      "imgSource":"/img/Water_collector_Portrait.png",
       "require":[
          {
             "type":"item",
@@ -1504,6 +1549,7 @@
       "module":"Water collector",
       "level":2,
       "function":"Provides passive out-of-raid hydration regen",
+      "imgSource":"/img/Water_collector_Portrait.png",
       "require":[
          {
             "type":"module",
@@ -1542,6 +1588,7 @@
       "module":"Water collector",
       "level":3,
       "function":"Provides passive out-of-raid hydration regen",
+      "imgSource":"/img/Water_collector_Portrait.png",
       "require":[
          {
             "type":"module",
@@ -1586,6 +1633,7 @@
       "module":"Workbench",
       "level":1,
       "function":"Provides a wide variety of potential item crafts",
+      "imgSource":"/img/Workbench_Portrait.png",
       "require":[
          {
             "type":"item",
@@ -1612,6 +1660,7 @@
       "module":"Workbench",
       "level":2,
       "function":"Provides a wide variety of potential item crafts",
+      "imgSource":"/img/Workbench_Portrait.png",
       "require":[
          {
             "type":"module",
@@ -1650,6 +1699,7 @@
       "module":"Workbench",
       "level":3,
       "function":"Provides a wide variety of potential item crafts",
+      "imgSource":"/img/Workbench_Portrait.png",
       "require":[
          {
             "type":"module",
