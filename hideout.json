@@ -165,7 +165,7 @@
       "module":"Booze generator",
       "level":1,
       "function":"Allows production of moonshine",
-      "imgSource":"/img/Booze_generator_portrait.png",
+      "imgSource":"/img/Booze_generator_Portrait.png",
       "require":[
          {
             "type":"module",
@@ -205,51 +205,6 @@
          }
       ],
       "id":4
-   },
-   {
-      "module":"Booze generator",
-      "level":1,
-      "function":"Allows production of moonshine",
-      "imgSource":"/img/Booze_generator_portrait.png",
-      "require":[
-         {
-            "type":"module",
-            "name":"Water collector",
-            "quantity":3,
-            "id":26
-         },
-         {
-            "type":"module",
-            "name":"Nutrition unit",
-            "quantity":3,
-            "id":27
-         },
-         {
-            "type":"item",
-            "name":"Corrugated hose",
-            "quantity":5,
-            "id":28
-         },
-         {
-            "type":"item",
-            "name":"Silicone tubes",
-            "quantity":4,
-            "id":29
-         },
-         {
-            "type":"item",
-            "name":"Analog thermometer",
-            "quantity":2,
-            "id":30
-         },
-         {
-            "type":"item",
-            "name":"Pressure guages",
-            "quantity":2,
-            "id":31
-         }
-      ],
-      "id":5
    },
    {
       "module":"Generator",

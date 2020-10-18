@@ -691,7 +691,7 @@
          {
             "type":"collect",
             "target":"Bars A-2607",
-            "number":10,
+            "number":5,
             "location":"Any",
             "have":5,
             "id":31
@@ -2290,7 +2290,7 @@
          {
             "type":"skill",
             "target":"Stress Resistance",
-            "number":8,
+            "number":6,
             "location":"Any",
             "id":109
          }
@@ -3966,7 +3966,7 @@
       "require":{
          "level":15,
          "quest":[
-            "Signal - Part 3"
+            "Signal - Part 2"
          ]
       },
       "giver":"Mechanic",
@@ -5131,7 +5131,7 @@
    {
       "id":131,
       "require":{
-         "level":23,
+         "level":30,
          "quest":[
             "The Blood of War - Part 2"
          ]
@@ -5526,7 +5526,7 @@
    {
       "id":141,
       "require":{
-         "level":10,
+         "level":20,
          "quest":[
             "The survivalist path - Tough guy"
          ]
@@ -6639,7 +6639,7 @@
    {
       "id":172,
       "require":{
-         "level":10,
+         "level":25,
          "quest":[
             "Polikhim hobo"
          ]
