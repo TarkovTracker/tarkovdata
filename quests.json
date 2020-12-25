@@ -40,6 +40,45 @@
       ]
    },
    {
+      "id":9000,
+      "require":{
+         "level":1,
+         "quest":[
+            "Debut"
+         ]
+      },
+      "giver":"Prapor",
+      "turnin":"Prapor",
+      "title":"Search Mission",
+      "wiki":"https://escapefromtarkov.gamepedia.com/Search_mission",
+      "exp":2000,
+      "unlocks":[
+      ],
+      "reputation":[
+         {
+            "trader":"Prapor",
+            "rep":0.04
+         }
+      ],
+      "objectives":[
+         {
+            "type":"find",
+            "target":"Prapor's Missing Convoy",
+            "number":1,
+            "location":"Woods",
+            "id":0
+         },
+         {
+            "type":"find",
+            "target":"Locate temporary USEC camp",
+            "number":1,
+            "location":"Woods",
+            "have":0,
+            "id":1
+         }
+      ]
+   },   
+   {
       "id":1,
       "require":{
          "level":2,
