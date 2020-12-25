@@ -122,7 +122,7 @@
       "turnin":"Prapor",
       "title":"Shootout picnic",
       "wiki":"https://escapefromtarkov.gamepedia.com/Shootout_picnic",
-      "exp":2000,
+      "exp":2500,
       "unlocks":[
 
       ],
@@ -1481,16 +1481,16 @@
       ],
       "objectives":[
          {
-            "type":"collect",
+            "type":"find",
             "target":"Module-3M bodyarmor",
-            "number":4,
+            "number":1,
             "location":"Any",
             "id":62
          },
          {
-            "type":"collect",
+            "type":"find",
             "target":"TOZ-106 bolt-action shotgun",
-            "number":4,
+            "number":1,
             "location":"Any",
             "id":63
          }
@@ -5361,23 +5361,23 @@
       ],
       "objectives":[
          {
-            "type":"collect",
+            "type":"find",
             "target":"Iskra lunch box",
-            "number":5,
+            "number":3,
             "location":"Any",
             "id":244
          },
          {
-            "type":"collect",
+            "type":"find",
             "target":"Emelya rye croutons",
-            "number":6,
+            "number":2,
             "location":"Any",
             "id":245
          },
          {
-            "type":"collect",
+            "type":"find",
             "target":"Can of delicious beef stew",
-            "number":3,
+            "number":2,
             "location":"Any",
             "id":246
          }
@@ -5670,7 +5670,7 @@
             "number":8,
             "location":"Any",
             "with":[
-               "Mosin without scope",
+               "A bolt-action sniper rifle without scope",
                "At least 40 meters away"
             ],
             "id":258
@@ -5706,7 +5706,7 @@
             "number":3,
             "location":"Any",
             "with":[
-               "Mosin",
+               "A bolt-action sniper rifle",
                "Leg shots",
                "At least 60 meters away"
             ],
@@ -5718,7 +5718,7 @@
             "number":2,
             "location":"Any",
             "with":[
-               "Mosin",
+               "A bolt-action sniper rifle",
                "head shots",
                "At least 60 meters away"
             ],
@@ -5752,10 +5752,10 @@
          {
             "type":"kill",
             "target":"PMCs",
-            "number":4,
+            "number":3,
             "location":"Any",
             "with":[
-               "Mosin",
+               "A bolt-action sniper rifle",
                "Less than 25 meters away"
             ],
             "id":261
@@ -5823,7 +5823,7 @@
             "number":10,
             "location":"Customs",
             "with":[
-               "Mosin",
+               "A bolt-action sniper rifle",
                "Between 21 and 05 hours"
             ],
             "id":263
@@ -5856,10 +5856,10 @@
          {
             "type":"kill",
             "target":"Scavs",
-            "number":7,
+            "number":5,
             "location":"Any",
             "with":[
-               "Mosin",
+               "A bolt-action sniper rifle",
                "Must be sniper scavs"
             ],
             "id":264
