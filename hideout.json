@@ -149,13 +149,13 @@
          {
             "type":"item",
             "name":"Electric motor",
-            "quantity":1,
+            "quantity":2,
             "id":18
          },
          {
             "type":"item",
             "name":"Pressure guages",
-            "quantity":2,
+            "quantity":4,
             "id":19
          }
       ],

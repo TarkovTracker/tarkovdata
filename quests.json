@@ -34,7 +34,6 @@
             "target":"MP-133 pump-action shotguns",
             "number":2,
             "location":"Any",
-            "have":0,
             "id":1
          }
       ]
@@ -270,9 +269,9 @@
       ],
       "objectives":[
          {
-            "type":"collect",
+            "type":"find",
             "target":"60-round 6L31 5.45x39 magazine for AK-74 and compatibles",
-            "number":6,
+            "number":3,
             "location":"Any",
             "have":0,
             "id":12
@@ -838,7 +837,7 @@
          {
             "type":"collect",
             "target":"Salewa First Aid Kit",
-            "number":5,
+            "number":3,
             "location":"Any",
             "id":39
          }
@@ -1353,7 +1352,7 @@
    {
       "id":34,
       "require":{
-         "level":30,
+         "level":35,
          "quest":[
             "Health Care Privacy - Part 4"
          ]
@@ -1374,16 +1373,16 @@
       ],
       "objectives":[
          {
-            "type":"collect",
+            "type":"find",
             "target":"Ophthalmoscope",
-            "number":3,
+            "number":2,
             "location":"Any",
             "id":59
          },
          {
-            "type":"collect",
+            "type":"find",
             "target":"LEDX Skin Transilluminator",
-            "number":3,
+            "number":1,
             "location":"Any",
             "id":60
          }
@@ -1442,16 +1441,16 @@
       ],
       "objectives":[
          {
-            "type":"collect",
+            "type":"find",
             "target":"Module-3M bodyarmor",
-            "number":4,
+            "number":1,
             "location":"Any",
             "id":62
          },
          {
-            "type":"collect",
+            "type":"find",
             "target":"TOZ-106 bolt-action shotgun",
-            "number":4,
+            "number":1,
             "location":"Any",
             "id":63
          }
@@ -2057,6 +2056,7 @@
       "title":"Peacekeeping mission",
       "wiki":"https://escapefromtarkov.gamepedia.com/Peacekeeping_mission",
       "exp":32400,
+      "nokappa":true,
       "unlocks":[
 
       ],
@@ -2609,7 +2609,7 @@
             "id":127
          },
          {
-            "type":"collect",
+            "type":"find",
             "target":"MRE lunch box",
             "number":5,
             "location":"Any",
@@ -4216,6 +4216,7 @@
       "title":"Import",
       "wiki":"https://escapefromtarkov.gamepedia.com/Import",
       "exp":42800,
+      "nokappa":true,
       "unlocks":[
 
       ],
@@ -4508,16 +4509,16 @@
       ],
       "objectives":[
          {
-            "type":"collect",
+            "type":"find",
             "target":"Ushanka ear-flap cap",
-            "number":7,
+            "number":2,
             "location":"Any",
             "id":203
          },
          {
-            "type":"collect",
+            "type":"find",
             "target":"Kinda cowboy hat",
-            "number":7,
+            "number":2,
             "location":"Any",
             "id":204
          }
@@ -5045,6 +5046,7 @@
       "title":"Charisma brings success",
       "wiki":"https://escapefromtarkov.gamepedia.com/Charisma_brings_success",
       "exp":12700,
+      "nokappa":true,
       "unlocks":[
 
       ],
@@ -5187,6 +5189,7 @@
       "title":"Living high is not a crime - Part 1",
       "wiki":"https://escapefromtarkov.gamepedia.com/Living_high_is_not_a_crime_-_Part_1",
       "exp":23000,
+      "nokappa":true,
       "unlocks":[
 
       ],
@@ -5269,9 +5272,8 @@
    {
       "id":134,
       "require":{
-         "level":10,
+         "level":2,
          "quest":[
-            "Gunsmith - Part 1"
          ]
       },
       "giver":"Mechanic",
@@ -5301,7 +5303,7 @@
    {
       "id":135,
       "require":{
-         "level":10,
+         "level":2,
          "quest":[
             "Introduction"
          ]
@@ -5322,23 +5324,23 @@
       ],
       "objectives":[
          {
-            "type":"collect",
+            "type":"find",
             "target":"Iskra lunch box",
-            "number":5,
+            "number":3,
             "location":"Any",
             "id":244
          },
          {
-            "type":"collect",
+            "type":"find",
             "target":"Emelya rye croutons",
-            "number":6,
+            "number":2,
             "location":"Any",
             "id":245
          },
          {
-            "type":"collect",
+            "type":"find",
             "target":"Can of delicious beef stew",
-            "number":3,
+            "number":2,
             "location":"Any",
             "id":246
          }
@@ -5481,7 +5483,7 @@
          {
             "type":"kill",
             "target":"Scavs",
-            "number":4,
+            "number":3,
             "location":"Any",
             "with":[
                "Suffering from pain effect"
@@ -5513,7 +5515,7 @@
          {
             "type":"kill",
             "target":"Scavs",
-            "number":4,
+            "number":3,
             "location":"Woods",
             "with":[
                "In one raid",
@@ -5925,7 +5927,7 @@
          {
             "type":"kill",
             "target":"PMCs",
-            "number":3,
+            "number":2,
             "location":"Any",
             "with":[
                "Headshot",
@@ -6105,7 +6107,7 @@
          {
             "type":"kill",
             "target":"PMCs",
-            "number":8,
+            "number":6,
             "location":"Factory",
             "with":[
                "In the office area"
@@ -6191,6 +6193,7 @@
       "title":"Huntsman path - Controller",
       "wiki":"https://escapefromtarkov.gamepedia.com/Huntsman_path_-_Controller",
       "exp":21000,
+      "nokappa":true,
       "unlocks":[
 
       ],
@@ -6512,6 +6515,7 @@
       "title":"Hunting trip",
       "wiki":"https://escapefromtarkov.gamepedia.com/Hunting_trip",
       "exp":16000,
+      "nokappa":true,
       "unlocks":[
 
       ],
@@ -6649,6 +6653,7 @@
       "title":"Regulated materials",
       "wiki":"https://escapefromtarkov.gamepedia.com/Regulated_materials",
       "exp":0,
+      "nokappa":true,
       "unlocks":[
 
       ],
@@ -6669,7 +6674,7 @@
          {
             "type":"find",
             "target":"30-mil. shells for BMP cannon",
-            "number":10,
+            "number":5,
             "location":"Any",
             "id":294
          }
@@ -6731,6 +6736,7 @@
       "title":"Mentor",
       "wiki":"https://escapefromtarkov.gamepedia.com/Mentor",
       "exp":4700,
+      "nokappa":true,
       "unlocks":[
 
       ],
@@ -6835,9 +6841,9 @@
    {
       "id":177,
       "require":{
-         "level":26,
+         "level":20,
          "quest":[
-
+            "What's on the flash drive?"
          ]
       },
       "giver":"Jaeger",
@@ -7013,7 +7019,7 @@
          {
             "type":"kill",
             "target":"Scavs",
-            "number":20,
+            "number":15,
             "location":"Woods",
             "with":[
                "Stimulants active"
@@ -7035,6 +7041,7 @@
       "title":"Textile - Part 1",
       "wiki":"https://escapefromtarkov.gamepedia.com/Textile_-_Part_1",
       "exp":0,
+      "nokappa":true,
       "unlocks":[
 
       ],
@@ -7078,11 +7085,12 @@
       "title":"Textile - Part 2",
       "wiki":"https://escapefromtarkov.gamepedia.com/Textile_-_Part_2",
       "exp":0,
+      "nokappa":true,
       "unlocks":[
 
       ],
       "reputation":[
-
+         
       ],
       "objectives":[
          {
@@ -7105,6 +7113,608 @@
             "number":5,
             "location":"Any",
             "id":311
+         }
+      ]
+   },
+   {
+      "id":184,
+      "require":{
+         "level":21,
+         "quest":[
+            "Shaking up teller"
+         ]
+      },
+      "giver":"Prapor",
+      "turnin":"Prapor",
+      "title":"Anesthesia",
+      "wiki":"https://escapefromtarkov.gamepedia.com/Anesthesia",
+      "exp":12600,
+      "nokappa":true,
+      "unlocks":[
+         {
+            "trader":"Prapor",
+            "rep":0.1
+         }
+      ],
+      "reputation":[
+
+      ],
+      "objectives":[
+         {
+            "type":"mark",
+            "target":"Trading post 1",
+            "number":1,
+            "location":"Shoreline",
+            "id":312
+         },
+         {
+            "type":"mark",
+            "target":"Trading post 2",
+            "number":1,
+            "location":"Shoreline",
+            "id":313
+         },
+         {
+            "type":"mark",
+            "target":"Trading post 3",
+            "number":1,
+            "location":"Shoreline",
+            "id":314
+         }
+      ]
+   },
+   {
+      "id":185,
+      "require":{
+         "level":10,
+         "quest":[
+            "General wares"
+         ]
+      },
+      "giver":"Therapist",
+      "turnin":"Therapist",
+      "title":"Colleagues - Part 1",
+      "wiki":"https://escapefromtarkov.gamepedia.com/Colleagues_-_Part_1",
+      "exp":12600,
+      "nokappa":true,
+      "unlocks":[
+
+      ],
+      "reputation":[
+         {
+            "trader":"Therapist",
+            "rep":0.08
+         }
+      ],
+      "objectives":[
+         {
+            "type":"locate",
+            "target":"Health resort group",
+            "number":1,
+            "location":"Shoreline",
+            "id":315
+         },
+         {
+            "type":"locate",
+            "target":"Pier group",
+            "number":1,
+            "location":"Shoreline",
+            "id":316
+         },
+         {
+            "type":"locate",
+            "target":"Cottage group",
+            "number":1,
+            "location":"Shoreline",
+            "id":317
+         }
+      ]
+   },
+   {
+      "id":185,
+      "require":{
+         "level":10,
+         "quest":[
+            "Colleagues - Part 1"
+         ]
+      },
+      "giver":"Therapist",
+      "turnin":"Therapist",
+      "title":"Colleagues - Part 2",
+      "wiki":"https://escapefromtarkov.gamepedia.com/Colleagues_-_Part_2",
+      "exp":13200,
+      "nokappa":true,
+      "unlocks":[
+
+      ],
+      "reputation":[
+         {
+            "trader":"Therapist",
+            "rep":0.12
+         }
+      ],
+      "objectives":[
+         {
+            "type":"pickup",
+            "target":"Sanitar's surgery kit",
+            "number":1,
+            "location":"Shoreline",
+            "id":318
+         },
+         {
+            "type":"pickup",
+            "target":"Sanitar's ophthalmoscope",
+            "number":1,
+            "location":"Shoreline",
+            "id":319
+         }
+
+      ]
+   },
+   {
+      "id":185,
+      "require":{
+         "level":10,
+         "quest":[
+            "Colleagues - Part 2",
+            "Rigged game",
+            "The chemistry closet"
+         ]
+      },
+      "giver":"Therapist",
+      "turnin":"Therapist",
+      "title":"Colleagues - Part 3",
+      "wiki":"https://escapefromtarkov.gamepedia.com/Colleagues_-_Part_3",
+      "exp":13200,
+      "nokappa":true,
+      "unlocks":[
+
+      ],
+      "reputation":[
+         {
+            "trader":"Therapist",
+            "rep":0.12
+         }
+      ],
+      "objectives":[
+         {
+            "type":"warning",
+            "target":"Do not kill Sanitar",
+            "number":1,
+            "location":"Shoreline",
+            "id":320
+         },
+         {
+            "type":"key",
+            "target":"Cottage back entrance key",
+            "number":1,
+            "location":"Shoreline",
+            "id":321
+         },
+         {
+            "type":"find",
+            "target":"AHF1-M",
+            "number":1,
+            "location":"Any",
+            "id":322
+         },
+         {
+            "type":"find",
+            "target":"3-(b-TG)",
+            "number":1,
+            "location":"Any",
+            "id":323
+         },
+         {
+            "type":"collect",
+            "target":"Blue keycard",
+            "number":1,
+            "location":"Any",
+            "id":324
+         },
+         {
+            "type":"collect",
+            "target":"Green keycard",
+            "number":1,
+            "location":"Any",
+            "id":325
+         }
+      ],
+      "alternative":[
+         "Huntsman path - Sadist"
+      ]
+   },
+   {
+      "id":186,
+      "require":{
+         "level":21,
+         "quest":[
+            "Anesthesia"
+         ]
+      },
+      "giver":"Skier",
+      "turnin":"Skier",
+      "title":"Rigged game",
+      "wiki":"https://escapefromtarkov.gamepedia.com/Rigged_game",
+      "exp":13200,
+      "nokappa":true,
+      "unlocks":[
+
+      ],
+      "reputation":[
+         {
+            "trader":"Skier",
+            "rep":0.1
+         }
+      ],
+      "objectives":[
+         {
+            "type":"mark",
+            "target":"Health resort Medical container",
+            "number":1,
+            "location":"Shoreline",
+            "id":326
+         },
+         {
+            "type":"mark",
+            "target":"Cottages Medical container",
+            "number":1,
+            "location":"Shoreline",
+            "id":327
+         },
+         {
+            "type":"mark",
+            "target":"Pier Medical container",
+            "number":1,
+            "location":"Shoreline",
+            "id":328
+         }
+      ]
+   },
+   {
+      "id":187,
+      "require":{
+         "level":21,
+         "quest":[
+            "Anesthesia",
+            "Colleagues - Part 1"
+         ]
+      },
+      "giver":"Mechanic",
+      "turnin":"Mechanic",
+      "title":"Chemistry closet",
+      "wiki":"https://escapefromtarkov.gamepedia.com/The_chemistry_closet",
+      "exp":13800,
+      "nokappa":true,
+      "unlocks":[
+
+      ],
+      "reputation":[
+         {
+            "trader":"Mechanic",
+            "rep":0.14
+         }
+      ],
+      "objectives":[
+         {
+            "type":"key",
+            "target":"Key with tape",
+            "number":1,
+            "location":"Shoreline",
+            "id":329
+         },
+         {
+            "type":"locate",
+            "target":"Sanitar's office",
+            "number":1,
+            "location":"Shoreline",
+            "id":330
+         }
+      ]
+   },
+   {
+      "id":188,
+      "require":{
+         "level":21,
+         "quest":[
+            "Anesthesia",
+            "Colleagues - Part 1"
+         ]
+      },
+      "giver":"Peacekeeper",
+      "turnin":"Peacekeeper",
+      "title":"Samples",
+      "wiki":"https://escapefromtarkov.gamepedia.com/Samples",
+      "exp":13200,
+      "nokappa":true,
+      "unlocks":[
+
+      ],
+      "reputation":[
+         {
+            "trader":"Peacekeeper",
+            "rep":0.12
+         }
+      ],
+      "objectives":[
+         {
+            "type":"find",
+            "target":"M.U.L.E. stimulator",
+            "number":1,
+            "location":"Any",
+            "id":331
+         },
+         {
+            "type":"find",
+            "target":"Cocktail \"Obdolbos\"",
+            "number":1,
+            "location":"Any",
+            "id":332
+         },
+         {
+            "type":"find",
+            "target":"Meldonin",
+            "number":1,
+            "location":"Any",
+            "id":333
+         },
+         {
+            "type":"find",
+            "target":"AHF1-M",
+            "number":1,
+            "location":"Any",
+            "id":334
+         },
+         {
+            "type":"find",
+            "target":"P22",
+            "number":1,
+            "location":"Any",
+            "id":335
+         },
+         {
+            "type":"find",
+            "target":"L1 (Norepinephrine)",
+            "number":1,
+            "location":"Any",
+            "id":336
+         },
+         {
+            "type":"find",
+            "target":"3-(b-TG)",
+            "number":1,
+            "location":"Any",
+            "id":337
+         }
+      ]
+   },
+   {
+      "id":189,
+      "require":{
+         "level":21,
+         "quest":[
+            "Samples",
+            "Huntsman path - Sadist"
+         ]
+      },
+      "giver":"Peacekeeper",
+      "turnin":"Peacekeeper",
+      "title":"Samples",
+      "wiki":"https://escapefromtarkov.gamepedia.com/TerraGroup_employee",
+      "exp":14400,
+      "nokappa":true,
+      "unlocks":[
+
+      ],
+      "reputation":[
+         {
+            "trader":"Peacekeeper",
+            "rep":0.2
+         }
+      ],
+      "objectives":[
+         {
+            "type":"key",
+            "target":"Key card with a blue marking",
+            "number":1,
+            "location":"Labs",
+            "id":338
+         },
+         {
+            "type":"locate",
+            "target":"Sanitar's workplace",
+            "number":1,
+            "location":"Labs",
+            "id":339
+         },
+         {
+            "type":"pickup",
+            "target":"Marked with tape flash drive",
+            "number":1,
+            "location":"Labs",
+            "id":340
+         }
+      ]
+   },
+   {
+      "id":190,
+      "require":{
+         "level":21,
+         "quest":[
+            "Colleagues - Part 2",
+            "Rigged game",
+            "The chemistry closet"
+         ]
+      },
+      "giver":"Jaeger",
+      "turnin":"Jaeger",
+      "title":"Samples",
+      "wiki":"https://escapefromtarkov.gamepedia.com/Huntsman_path_-_Sadist",
+      "exp":13800,
+      "nokappa":true,
+      "unlocks":[
+
+      ],
+      "reputation":[
+         {
+            "trader":"Jaeger",
+            "rep":0.2
+         },
+         {
+            "trader":"Therapist",
+            "rep":-0.2
+         }
+      ],
+      "objectives":[
+         {
+            "type":"kill",
+            "target":"Sanitar",
+            "number":1,
+            "location":"Shoreline",
+            "id":341
+         }
+      ],
+      "alternative":[
+         "Colleagues - Part 3"
+      ]
+   },
+   {
+      "id":191,
+      "require":{
+         "level":10,
+         "quest":[
+            "BP depot"
+         ]
+      },
+      "giver":"Prapor",
+      "turnin":"Prapor",
+      "title":"The bunker - Part 1",
+      "wiki":"https://escapefromtarkov.gamepedia.com/The_bunker_-_Part_1",
+      "exp":6000,
+      "nokappa":true,
+      "unlocks":[
+
+      ],
+      "reputation":[
+         {
+            "trader":"Prapor",
+            "rep":0.08
+         }
+      ],
+      "objectives":[
+         {
+            "type":"locate",
+            "target":"Underground bunker",
+            "number":1,
+            "location":"Reserve",
+            "id":342
+         },
+         {
+            "type":"locate",
+            "target":"Bunker control room",
+            "number":1,
+            "location":"Reserve",
+            "id":343
+         }
+      ]
+   },
+   {
+      "id":192,
+      "require":{
+         "level":10,
+         "quest":[
+            "The bunker - Part 1"
+         ]
+      },
+      "giver":"Prapor",
+      "turnin":"Prapor",
+      "title":"The bunker - Part 2",
+      "wiki":"https://escapefromtarkov.gamepedia.com/The_bunker_-_Part_2",
+      "exp":6600,
+      "nokappa":true,
+      "unlocks":[
+
+      ],
+      "reputation":[
+         {
+            "trader":"Prapor",
+            "rep":0.08
+         }
+      ],
+      "objectives":[
+         {
+            "type":"locate",
+            "target":"White Bishop hermetic door",
+            "number":1,
+            "location":"Reserve",
+            "id":344
+         },
+         {
+            "type":"locate",
+            "target":"Black Bishop hermetic door",
+            "number":1,
+            "location":"Reserve",
+            "id":345
+         },
+         {
+            "type":"locate",
+            "target":"Black Pawn hermetic door",
+            "number":1,
+            "location":"Reserve",
+            "id":346
+         },
+         {
+            "type":"locate",
+            "target":"White Pawn hermetic door",
+            "number":1,
+            "location":"Reserve",
+            "id":347
+         },
+         {
+            "type":"locate",
+            "target":"White King hermetic door",
+            "number":1,
+            "location":"Reserve",
+            "id":348
+         }
+      ]
+   },
+   {
+      "id":193,
+      "require":{
+         "level":5,
+         "quest":[
+            "Debut"
+         ]
+      },
+      "giver":"Prapor",
+      "turnin":"Prapor",
+      "title":"Search mission",
+      "wiki":"https://escapefromtarkov.gamepedia.com/Search_mission",
+      "exp":2000,
+      "unlocks":[
+
+      ],
+      "reputation":[
+         {
+            "trader":"Prapor",
+            "rep":0.04
+         }
+      ],
+      "objectives":[
+         {
+            "type":"locate",
+            "target":"Missing convoy",
+            "number":1,
+            "location":"Woods",
+            "id":349
+         },
+         {
+            "type":"locate",
+            "target":"Temporary USEC camp",
+            "number":1,
+            "location":"Woods",
+            "id":350
          }
       ]
    }
