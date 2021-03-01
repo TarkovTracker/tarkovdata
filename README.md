@@ -1,7 +1,11 @@
 # Tarkov Data
 The quest and hideout data for [Escape From Tarkov](https://www.escapefromtarkov.com/), contributed by the community and maintained by [Tarkov Tracker](https://tarkovtracker.io/).
 
-If you would like to help keep the quest data up to date with changes, please submit a pull request to the master branch.
+See [quests.json](quests.json) for Quest Data
+
+See [hideout.json](hideout.json) for Hideout Data
+
+If you would like to help keep the quest data up to date with changes, please submit a pull request to the master branch. Feel free to utilize the Github discussions feature to talk about data format and potential additions.
 
 Quest data syntax:
 
