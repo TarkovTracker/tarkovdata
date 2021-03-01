@@ -149,13 +149,13 @@
          {
             "type":"item",
             "name":"Electric motor",
-            "quantity":4,
+            "quantity":10,
             "id":18
          },
          {
             "type":"item",
             "name":"Pressure gauge",
-            "quantity":8,
+            "quantity":10,
             "id":19
          }
       ],
@@ -1263,7 +1263,7 @@
             "id":135
          },
          {
-            "type":"item",
+            "type":"module",
             "name":"Workbench",
             "quantity":3,
             "id":136
@@ -1326,7 +1326,7 @@
          {
             "type":"item",
             "name":"A pack of screws",
-            "quantity":7,
+            "quantity":10,
             "id":142
          },
          {
@@ -1334,6 +1334,12 @@
             "name":"WD-40 100ml",
             "quantity":4,
             "id":143
+         },
+         {
+            "type":"item",
+            "name":"A pack of nails",
+            "quantity":5,
+            "id":228
          },
          {
             "type":"currency",
@@ -1422,7 +1428,7 @@
          {
             "type":"module",
             "name":"Intelligence center",
-            "quantity":3,
+            "quantity":2,
             "id":153
          },
          {
@@ -1430,6 +1436,24 @@
             "name":"Euros",
             "quantity":150000,
             "id":210
+         },
+         {
+            "type":"item",
+            "name":"Screw nut",
+            "quantity":5,
+            "id":225
+         },
+         {
+            "type":"item",
+            "name":"Bolts",
+            "quantity":5,
+            "id":226
+         },
+         {
+            "type":"item",
+            "name":"Shustrilo sealing foam",
+            "quantity":5,
+            "id":227
          }
       ],
       "id":40

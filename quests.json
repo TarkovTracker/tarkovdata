@@ -1393,7 +1393,7 @@
          {
             "type":"find",
             "target":"Ophthalmoscope",
-            "number":2,
+            "number":1,
             "location":"Any",
             "id":59
          },
@@ -3598,7 +3598,7 @@
    {
       "id":88,
       "require":{
-         "level":18,
+         "level":19,
          "quest":[
             "Gunsmith - Part 6"
          ]
@@ -4767,7 +4767,13 @@
          }
       ],
       "objectives":[
-
+         {
+            "type":"warning",
+            "target":"\"Survive\" Interchange 7 times (they do not have to be consecutive)",
+            "number":7,
+            "location":"Interchange",
+            "id":373
+         }
       ]
    },
    {
@@ -5770,7 +5776,7 @@
       "objectives":[
          {
             "type":"kill",
-            "target":"Scavs",
+            "target":"Any",
             "number":3,
             "location":"Any",
             "with":[
@@ -5782,7 +5788,7 @@
          },
          {
             "type":"kill",
-            "target":"Scavs",
+            "target":"Any",
             "number":2,
             "location":"Any",
             "with":[
@@ -6374,6 +6380,7 @@
       "title":"Huntsman path - Evil watchman",
       "wiki":"https://escapefromtarkov.gamepedia.com/Huntsman_path_-_Evil_watchman",
       "exp":21000,
+      "nokappa": true,
       "unlocks":[
 
       ],
@@ -6480,6 +6487,7 @@
       "title":"Huntsman path - Justice",
       "wiki":"https://escapefromtarkov.gamepedia.com/Huntsman_path_-_Justice",
       "exp":20000,
+      "nokappa":true,
       "unlocks":[
 
       ],
@@ -6638,7 +6646,7 @@
          {
             "type":"kill",
             "target":"Scavs",
-            "number":8,
+            "number":6,
             "location":"Any",
             "with":[
                "Raider scavs"
@@ -6980,7 +6988,7 @@
          {
             "type":"pickup",
             "target":"Clothes design handbook Part 1",
-            "hint": "Idea side 1F",
+            "hint": "Oli side 2F",
             "number":1,
             "location":"Interchange",
             "id":300
@@ -6988,7 +6996,7 @@
          {
             "type":"pickup",
             "target":"Clothes design handbook Part 2",
-            "hint": "Oli side 2F",
+            "hint": "Idea side 1F",
             "number":1,
             "location":"Interchange",
             "id":301
@@ -7842,64 +7850,60 @@
       "require":{
          "level":40,
          "quest":[
-            [
-              "Shootout picnic",
-              "Perfect mediator",
-              "Insomnia",
-              "Test drive",
-              "The Punisher - Part 6",
-              "Supply plans",
-              "Kind of sabotage",
-              "General wares",
-              "Car repair",
-              "Decontamination Service",
-              "Athlete",
-              "Chemical - Part 4",
-              "\"Vitamins\" - Part 2",
-              "Lend lease - Part 2",
-              "Silent caliber",
-              "Flint",
-              "Setup",
-              "The Cult - Part 2",
-              "Cargo X - Part 3",
-              "Psycho Sniper",
-              "The guide",
-              "Gunsmith - Part 16",
-              "Signal - Part 4",
-              "Scout",
-              "Insider",
-              "Fertilizers",
-              "A Shooter Born in Heaven",
-              "Supervisor",
-              "Scavenger",
-              "Make ULTRA Great Again",
-              "Minibus",
-              "Sew it good - Part 4",
-              "No fuss needed",
-              "Living high is not a crime - Part 2",
-              "The survivalist path - Unprotected, but dangerous",
-              "Nostalgia",
-              "The Tarkov shooter - Part 8",
-              "The survivalist path - Combat medic",
-              "Ambulance",
-              "Reserv",
-              "Huntsman path - Evil watchman",
-              "Fishing place",
-              "Huntsman path - Justice",
-              "Huntsman path - Eraser - Part 2",
-              "Operation Aquarius - Part 2",
-              "Polikhim hobo",
-              "Stirrup",
-              "Bad habit",
-              "Shady Business",
-              "Postman Pat - Part 2",
-              "Out of curiosity",
-              "Big customer",
-              "The survivalist path - Junkie",
-              "Search mission",
-              "Thee survivalist path - Eagle-owl",
-              "An apple a day - keeps the doctor away"
-            ]
+           "Shootout picnic",
+           "Perfect mediator",
+           "Insomnia",
+           "Test drive",
+           "The Punisher - Part 6",
+           "Supply plans",
+           "Kind of sabotage",
+           "General wares",
+           "Car repair",
+           "Decontamination Service",
+           "Athlete",
+           "Chemical - Part 4",
+           "\"Vitamins\" - Part 2",
+           "Lend lease - Part 2",
+           "Silent caliber",
+           "Flint",
+           "Setup",
+           "The Cult - Part 2",
+           "Cargo X - Part 3",
+           "Psycho Sniper",
+           "The guide",
+           "Gunsmith - Part 16",
+           "Signal - Part 4",
+           "Scout",
+           "Insider",
+           "Fertilizers",
+           "A Shooter Born in Heaven",
+           "Supervisor",
+           "Scavenger",
+           "Make ULTRA Great Again",
+           "Minibus",
+           "Sew it good - Part 4",
+           "No fuss needed",
+           "Living high is not a crime - Part 2",
+           "The survivalist path - Unprotected, but dangerous",
+           "Nostalgia",
+           "The Tarkov shooter - Part 8",
+           "The survivalist path - Combat medic",
+           "Ambulance",
+           "Reserv",
+           "Fishing place",
+           "Huntsman path - Eraser - Part 2",
+           "Operation Aquarius - Part 2",
+           "Polikhim hobo",
+           "Stirrup",
+           "Bad habit",
+           "Shady Business",
+           "Postman Pat - Part 2",
+           "Out of curiosity",
+           "Big customer",
+           "The survivalist path - Junkie",
+           "Search mission",
+           "Thee survivalist path - Eagle-owl",
+           "An apple a day - keeps the doctor away"
          ]
       },
       "giver":"Fence",
