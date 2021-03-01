@@ -62,6 +62,13 @@
       ],
       "objectives":[
          {
+            "type":"key",
+            "target":"Machinery key",
+            "number":1,
+            "location":"Customs",
+            "id":371
+         },
+         {
             "type":"pickup",
             "target":"bronze pocket watch",
             "number":1,
@@ -128,7 +135,6 @@
          {
             "type":"key",
             "target":"Customs office key",
-            "wiki":"https://escapefromtarkov.gamepedia.com/Delivery_from_the_past",
             "number":1,
             "location":"Customs",
             "id":86
@@ -178,28 +184,36 @@
       "objectives":[
          {
             "type":"mark",
+            "tool":"MS2000 marker",
             "target":"Tanker 1",
+            "hint":"Gas station",
             "number":1,
             "location":"Customs",
             "id":6
          },
          {
             "type":"mark",
+            "tool":"MS2000 marker",
             "target":"Tanker 2",
+            "hint":"Old Gas Station",
             "number":1,
             "location":"Customs",
             "id":7
          },
          {
             "type":"mark",
+            "tool":"MS2000 marker",
             "target":"Tanker 3",
+            "hint":"Construction",
             "number":1,
             "location":"Customs",
             "id":8
          },
          {
             "type":"mark",
+            "tool":"MS2000 marker",
             "target":"Tanker 4",
+            "hint":"Garages",
             "number":1,
             "location":"Customs",
             "id":9
@@ -688,11 +702,10 @@
             "id":30
          },
          {
-            "type":"collect",
+            "type":"find",
             "target":"Bars A-2607",
             "number":5,
             "location":"Any",
-            "have":5,
             "id":31
          }
       ]
@@ -732,23 +745,23 @@
             "id":32
          },
          {
-            "type":"collect",
+            "type":"find",
             "target":"AK-74N",
-            "number":3,
+            "number":1,
             "location":"Any",
             "id":33
          },
          {
-            "type":"collect",
+            "type":"find",
             "target":"M4A1",
-            "number":3,
+            "number":1,
             "location":"Any",
             "id":34
          },
          {
-            "type":"collect",
+            "type":"find",
             "target":"PM pistol",
-            "number":5,
+            "number":2,
             "location":"Any",
             "id":35
          }
@@ -835,7 +848,7 @@
       ],
       "objectives":[
          {
-            "type":"collect",
+            "type":"find",
             "target":"Salewa First Aid Kit",
             "number":3,
             "location":"Any",
@@ -867,7 +880,7 @@
       ],
       "objectives":[
          {
-            "type":"collect",
+            "type":"find",
             "target":"Gas analyzer",
             "number":1,
             "location":"Any",
@@ -1155,21 +1168,27 @@
       "objectives":[
          {
             "type":"mark",
+            "tool":"MS2000 marker",
             "target":"Ambulance 1",
+            "hint":"Resort",
             "number":1,
             "location":"Shoreline",
             "id":50
          },
          {
             "type":"mark",
+            "tool":"MS2000 marker",
             "target":"Ambulance 2",
+            "hint":"Tunnel close",
             "number":1,
             "location":"Shoreline",
             "id":51
          },
          {
             "type":"mark",
+            "tool":"MS2000 marker",
             "target":"Ambulance 3",
+            "hint":"Tunnel far",
             "number":1,
             "location":"Shoreline",
             "id":52
@@ -1338,11 +1357,10 @@
          {
             "type":"kill",
             "target":"Scavs",
-            "number":30,
+            "number":40,
             "location":"Interchange",
             "with":[
-               "Respirator",
-               "Module-3M bodyarmor",
+               "Respirator OR Gasmask",
                "Close range"
             ],
             "id":58
@@ -1423,7 +1441,8 @@
    {
       "id":36,
       "require":{
-         "level":5
+         "level":5,
+         "quest":[]
       },
       "giver":"Skier",
       "turnin":"Skier",
@@ -1742,6 +1761,7 @@
       "objectives":[
          {
             "type":"mark",
+            "tool":"MS2000 marker",
             "target":"Transport van",
             "number":1,
             "location":"Customs",
@@ -1803,14 +1823,16 @@
          },
          {
             "type":"pickup",
-            "target":"Chemical container (Mantis)",
+            "target":"Chemical container",
+            "hint": "Mantis",
             "number":1,
             "location":"Interchange",
             "id":81
          },
          {
             "type":"pickup",
-            "target":"Chemical container (Emercom)",
+            "target":"Chemical container",
+            "hint": "Emercom",
             "number":1,
             "location":"Interchange",
             "id":82
@@ -1970,6 +1992,7 @@
          {
             "type":"pickup",
             "target":"Motor Controller",
+            "hint":"SUV",
             "number":1,
             "location":"Woods",
             "id":90
@@ -1977,6 +2000,7 @@
          {
             "type":"pickup",
             "target":"Motor Controller",
+            "hint":"By Eastern drone",
             "number":1,
             "location":"Shoreline",
             "id":91
@@ -1984,6 +2008,7 @@
          {
             "type":"pickup",
             "target":"Motor Controller",
+            "hint":"East 306/308",
             "number":1,
             "location":"Shoreline",
             "id":92
@@ -1991,6 +2016,7 @@
          {
             "type":"pickup",
             "target":"Single-axis Fiber Optic Gyroscope",
+            "hint":"West 216",
             "number":1,
             "location":"Shoreline",
             "id":93
@@ -1998,6 +2024,7 @@
          {
             "type":"pickup",
             "target":"Single-axis Fiber Optic Gyroscope",
+            "hint":"Truck bed",
             "number":1,
             "location":"Woods",
             "id":94
@@ -2141,22 +2168,25 @@
       ],
       "objectives":[
          {
-            "type":"place",
-            "target":"WIFI Camera",
+            "type":"mark",
+            "tool": "WIFI Camera",
+            "target":"Brutal",
             "number":1,
             "location":"Interchange",
             "id":101
          },
          {
-            "type":"place",
-            "target":"WIFI Camera",
+            "type":"mark",
+            "tool": "WIFI Camera",
+            "target":"Pier",
             "number":1,
             "location":"Woods",
             "id":102
          },
          {
-            "type":"place",
-            "target":"WIFI Camera",
+            "type":"mark",
+            "tool": "WIFI Camera",
+            "target":"Roadblock",
             "number":1,
             "location":"Customs",
             "id":103
@@ -2461,21 +2491,27 @@
       "objectives":[
          {
             "type":"mark",
+            "tool":"MS2000 marker",
             "target":"Tigr vehicle 1",
+            "hint": "Checkpoint",
             "number":1,
             "location":"Customs",
             "id":118
          },
          {
             "type":"mark",
+            "tool":"MS2000 marker",
             "target":"Tigr vehicle 2",
+            "hint": "Gas station",
             "number":1,
             "location":"Customs",
             "id":119
          },
          {
             "type":"mark",
+            "tool":"MS2000 marker",
             "target":"Tigr vehicle 3",
+            "hint": "Bridge",
             "number":1,
             "location":"Customs",
             "id":120
@@ -2511,21 +2547,27 @@
       "objectives":[
          {
             "type":"mark",
+            "tool":"MS2000 marker",
             "target":"T-90 tank 1",
+            "hint": "Town",
             "number":1,
             "location":"Shoreline",
             "id":121
          },
          {
             "type":"mark",
+            "tool":"MS2000 marker",
             "target":"T-90 tank 2",
+            "hint": "Weather station",
             "number":1,
             "location":"Shoreline",
             "id":122
          },
          {
             "type":"mark",
+            "tool":"MS2000 marker",
             "target":"T-90 tank 3",
+            "hint": "Bunker",
             "number":1,
             "location":"Shoreline",
             "id":123
@@ -2558,6 +2600,7 @@
          {
             "type":"pickup",
             "target":"SAS disk 1",
+            "hint": "East Drone",
             "number":1,
             "location":"Shoreline",
             "id":124
@@ -2565,6 +2608,7 @@
          {
             "type":"pickup",
             "target":"SAS disk 2",
+            "hint": "North Drone",
             "number":1,
             "location":"Shoreline",
             "id":125
@@ -2596,6 +2640,7 @@
       "objectives":[
          {
             "type":"mark",
+            "tool":"MS2000 marker",
             "target":"Un cargo truck 1",
             "number":1,
             "location":"Shoreline",
@@ -2603,13 +2648,14 @@
          },
          {
             "type":"mark",
+            "tool":"MS2000 marker",
             "target":"Un cargo truck 2",
             "number":1,
             "location":"Shoreline",
             "id":127
          },
          {
-            "type":"find",
+            "type":"collect",
             "target":"MRE lunch box",
             "number":5,
             "location":"Any",
@@ -2692,6 +2738,7 @@
          },
          {
             "type":"mark",
+            "tool":"MS2000 marker",
             "target":"Ritual spot",
             "number":1,
             "location":"Shoreline",
@@ -2699,13 +2746,25 @@
          },
          {
             "type":"mark",
-            "target":"Ritual spot",
+            "tool":"MS2000 marker",
+            "target":"Ritual spot 1",
+            "hint": "Cabins",
             "number":1,
             "location":"Woods",
             "id":133
          },
          {
             "type":"mark",
+            "tool":"MS2000 marker",
+            "target":"Ritual spot 2",
+            "hint": "Checkpoint",
+            "number":1,
+            "location":"Woods",
+            "id":268
+         },
+         {
+            "type":"mark",
+            "tool":"MS2000 marker",
             "target":"Ritual spot",
             "number":1,
             "location":"Customs",
@@ -2773,6 +2832,7 @@
       "objectives":[
          {
             "type":"mark",
+            "tool":"MS2000 marker",
             "target":"Helicopter",
             "number":1,
             "location":"Shoreline",
@@ -2780,6 +2840,7 @@
          },
          {
             "type":"mark",
+            "tool":"MS2000 marker",
             "target":"Safe road",
             "number":1,
             "location":"Shoreline",
@@ -3175,6 +3236,7 @@
       "objectives":[
          {
             "type":"mark",
+            "tool":"MS2000 marker",
             "target":"Fisher's dwelling",
             "number":1,
             "location":"Shoreline",
@@ -3314,7 +3376,7 @@
       "objectives":[
          {
             "type":"skill",
-            "target":"Sniper rifle handling",
+            "target":"Sniper Rifles",
             "number":7,
             "location":"Any",
             "id":161
@@ -3343,7 +3405,7 @@
       "objectives":[
          {
             "type":"skill",
-            "target":"Sniper rifle handling",
+            "target":"Sniper Rifles",
             "number":9,
             "location":"Any",
             "id":162
@@ -3381,7 +3443,9 @@
    {
       "id":82,
       "require":{
-         "level":10
+         "level":10,
+         "quest":[
+         ]
       },
       "giver":"Mechanic",
       "turnin":"Mechanic",
@@ -3907,22 +3971,28 @@
       ],
       "objectives":[
          {
-            "type":"place",
-            "target":"Signal Jammer",
+            "type":"mark",
+            "tool": "Signal Jammer",
+            "target":"Antenna 1",
+            "hint": "Weather Station",
             "number":1,
             "location":"Shoreline",
             "id":169
          },
          {
-            "type":"place",
-            "target":"Signal Jammer",
+            "type":"mark",
+            "tool": "Signal Jammer",
+            "target":"Antenna 2",
+            "hint": "Radio tower",
             "number":1,
             "location":"Shoreline",
             "id":170
          },
          {
-            "type":"place",
-            "target":"Signal Jammer",
+            "type":"mark",
+            "tool": "Signal Jammer",
+            "target":"Antenna 3",
+            "hint": "West Resort Roof",
             "number":1,
             "location":"Shoreline",
             "id":171
@@ -3987,6 +4057,7 @@
          {
             "type":"locate",
             "target":"Factory exit 1",
+            "hint": "Main",
             "number":1,
             "location":"Factory",
             "id":173
@@ -3994,6 +4065,7 @@
          {
             "type":"locate",
             "target":"Factory exit 2",
+            "hint": "Forlifts",
             "number":1,
             "location":"Factory",
             "id":174
@@ -4001,6 +4073,7 @@
          {
             "type":"locate",
             "target":"Factory exit 3",
+            "hint": "Staging side",
             "number":1,
             "location":"Factory",
             "id":175
@@ -4066,6 +4139,7 @@
          {
             "type":"place",
             "target":"A set of tools",
+            "hint": "Forklifts",
             "number":1,
             "location":"Factory",
             "id":177
@@ -4073,6 +4147,7 @@
          {
             "type":"place",
             "target":"A set of tools",
+            "hint": "Glass hallway",
             "number":1,
             "location":"Factory",
             "id":178
@@ -4287,7 +4362,7 @@
       "require":{
          "level":30,
          "quest":[
-            "Farming - Part 4"
+            "Farming - Part 3"
          ]
       },
       "giver":"Mechanic",
@@ -4319,7 +4394,7 @@
             "type":"kill",
             "target":"PMCs",
             "number":3,
-            "location":"Interchange",
+            "location":"Reserve",
             "with":[
                "Headshot from more than 100 meters"
             ],
@@ -4464,21 +4539,27 @@
       "objectives":[
          {
             "type":"mark",
-            "target":"Tank 1",
+            "tool":"MS2000 marker",
+            "target":"Tanker 1",
+            "hint": "Behind Goshan",
             "number":1,
             "location":"Interchange",
             "id":200
          },
          {
             "type":"mark",
-            "target":"Tank 2",
+            "tool":"MS2000 marker",
+            "target":"Tanker 2",
+            "hint": "Highway Checkpoint",
             "number":1,
             "location":"Interchange",
             "id":201
          },
          {
             "type":"mark",
-            "target":"Tank 3",
+            "tool":"MS2000 marker",
+            "target":"Tanker 3",
+            "hint": "Power Station",
             "number":1,
             "location":"Interchange",
             "id":202
@@ -4747,6 +4828,7 @@
          {
             "type":"place",
             "target":"Peltor ComTac 2 headset",
+            "hint": "AVOKADO",
             "number":2,
             "location":"Interchange",
             "id":215
@@ -4754,6 +4836,7 @@
          {
             "type":"place",
             "target":"6B47 Ratnik-BSh Helmet",
+            "hint": "AVOKADO",
             "number":2,
             "location":"Interchange",
             "id":216
@@ -4761,6 +4844,7 @@
          {
             "type":"place",
             "target":"BNTI Gzhel-K armor",
+            "hint": "Front Stage",
             "number":2,
             "location":"Interchange",
             "id":217
@@ -4856,21 +4940,27 @@
       "objectives":[
          {
             "type":"mark",
+            "tool":"MS2000 marker",
             "target":"Minibus 1",
+            "hint": "Safe Room",
             "number":1,
             "location":"Interchange",
             "id":220
          },
          {
             "type":"mark",
+            "tool":"MS2000 marker",
             "target":"Minibus 2",
+            "hint": "Beside Ramp",
             "number":1,
             "location":"Interchange",
             "id":221
          },
          {
             "type":"mark",
+            "tool":"MS2000 marker",
             "target":"Minibus 3",
+            "hint": "Oli Containers",
             "number":1,
             "location":"Interchange",
             "id":222
@@ -5071,7 +5161,7 @@
       "require":{
          "level":25,
          "quest":[
-            "Charisma brings success"
+            "The key to success"
          ]
       },
       "giver":"Ragman",
@@ -5155,21 +5245,27 @@
       "objectives":[
          {
             "type":"mark",
+            "tool":"MS2000 marker",
             "target":"Fuel stash 1",
+            "hint": "Outskirts side",
             "number":1,
             "location":"Woods",
             "id":234
          },
          {
             "type":"mark",
+            "tool":"MS2000 marker",
             "target":"Fuel stash 2",
+            "hint": "Sniper rock",
             "number":1,
             "location":"Woods",
             "id":235
          },
          {
             "type":"mark",
+            "tool":"MS2000 marker",
             "target":"Fuel stash 3",
+            "hint": "Jaeger camp",
             "number":1,
             "location":"Woods",
             "id":236
@@ -5406,28 +5502,32 @@
       "objectives":[
          {
             "type":"place",
-            "target":"Iskra lunch box 1",
+            "target":"Iskra lunch box",
+            "hint": "ZB-014",
             "number":1,
             "location":"Woods",
             "id":248
          },
          {
             "type":"place",
-            "target":"Bottle of water 1",
+            "target":"Bottle of water",
+            "hint": "ZB-014",
             "number":1,
             "location":"Woods",
             "id":249
          },
          {
             "type":"place",
-            "target":"Iskra lunch box 2",
+            "target":"Iskra lunch box",
+            "hint": "ZB-016",
             "number":1,
             "location":"Woods",
             "id":250
          },
          {
             "type":"place",
-            "target":"Bottle of water 2",
+            "target":"Bottle of water",
+            "hint": "ZB-016",
             "number":1,
             "location":"Woods",
             "id":251
@@ -5457,7 +5557,13 @@
          }
       ],
       "objectives":[
-
+         {
+            "type":"warning",
+            "target":"Gain the dehydrated status for 5 minutes",
+            "number":1,
+            "location":"Any",
+            "id":352
+         }
       ]
    },
    {
@@ -5608,8 +5714,7 @@
       "require":{
          "level":17,
          "quest":[
-            "Gunsmith - Part 5",
-            "Acquaintance"
+            "Gunsmith - Part 5"
          ]
       },
       "giver":"Jaeger",
@@ -5630,10 +5735,10 @@
          {
             "type":"kill",
             "target":"Scavs",
-            "number":8,
+            "number":5,
             "location":"Any",
             "with":[
-               "Mosin without scope",
+               "A bolt-action sniper rifle without scope",
                "At least 40 meters away"
             ],
             "id":258
@@ -5669,9 +5774,9 @@
             "number":3,
             "location":"Any",
             "with":[
-               "Mosin",
+               "A bolt-action sniper rifle",
                "Leg shots",
-               "At least 60 meters away"
+               "At least 40 meters away"
             ],
             "id":259
          },
@@ -5681,9 +5786,9 @@
             "number":2,
             "location":"Any",
             "with":[
-               "Mosin",
+               "A bolt-action sniper rifle",
                "head shots",
-               "At least 60 meters away"
+               "At least 40 meters away"
             ],
             "id":260
          }
@@ -5715,10 +5820,10 @@
          {
             "type":"kill",
             "target":"PMCs",
-            "number":4,
+            "number":3,
             "location":"Any",
             "with":[
-               "Mosin",
+               "A bolt-action sniper rifle",
                "Less than 25 meters away"
             ],
             "id":261
@@ -5751,7 +5856,7 @@
          {
             "type":"skill",
             "target":"Sniper Rifles",
-            "number":4,
+            "number":3,
             "location":"Any",
             "id":262
          }
@@ -5783,10 +5888,10 @@
          {
             "type":"kill",
             "target":"Scavs",
-            "number":10,
+            "number":8,
             "location":"Customs",
             "with":[
-               "Mosin",
+               "A bolt-action sniper rifle",
                "Between 21 and 05 hours"
             ],
             "id":263
@@ -5819,10 +5924,10 @@
          {
             "type":"kill",
             "target":"Scavs",
-            "number":7,
+            "number":5,
             "location":"Any",
             "with":[
-               "Mosin",
+               "A bolt-action sniper rifle",
                "Must be sniper scavs"
             ],
             "id":264
@@ -5858,8 +5963,8 @@
             "number":5,
             "location":"Any",
             "with":[
-               "Supressed Mosin",
-               "At least 55 meters away"
+               "Supressed bolt-action sniper rifle",
+               "At least 45 meters away"
             ],
             "id":265
          }
@@ -5894,7 +5999,7 @@
             "number":3,
             "location":"Woods",
             "with":[
-               "Mosin",
+               "A bolt-action sniper rifle",
                "In a single raid"
             ],
             "id":266
@@ -5939,75 +6044,116 @@
    },
    {
       "id":152,
-      "deprecated":true,
       "require":{
-         "level":17,
+         "level":10,
          "quest":[
-            "The survivalist path - Cold blooded"
+            "Colleagues - Part 1"
          ]
       },
-      "giver":"Jaeger",
-      "turnin":"Jaeger",
-      "title":"The survivalist path - Zatoichi",
-      "wiki":"https://escapefromtarkov.gamepedia.com/The_survivalist_path_-_Zatoichi",
-      "exp":12000,
+      "giver":"Therapist",
+      "turnin":"Therapist",
+      "title":"Colleagues - Part 2",
+      "wiki":"https://escapefromtarkov.gamepedia.com/Colleagues_-_Part_2",
+      "exp":13200,
+      "nokappa":true,
       "unlocks":[
 
       ],
       "reputation":[
          {
-            "trader":"Jaeger",
-            "rep":0.03
+            "trader":"Therapist",
+            "rep":0.12
          }
       ],
       "objectives":[
          {
-            "type":"kill",
-            "target":"PMCs",
-            "number":2,
-            "location":"Any",
-            "with":[
-               "While you are flashed"
-            ],
-            "id":268
+            "type":"pickup",
+            "target":"Sanitar's surgery kit",
+            "number":1,
+            "location":"Shoreline",
+            "id":318
+         },
+         {
+            "type":"pickup",
+            "target":"Sanitar's ophthalmoscope",
+            "number":1,
+            "location":"Shoreline",
+            "id":319
          }
+
       ]
    },
    {
       "id":153,
-      "deprecated":true,
       "require":{
-         "level":17,
+         "level":10,
          "quest":[
-            "The survivalist path - Zatoichi"
+            "Colleagues - Part 2",
+            "Rigged game",
+            "The chemistry closet"
          ]
       },
-      "giver":"Jaeger",
-      "turnin":"Jaeger",
-      "title":"The survivalist path - Eagle-owl",
-      "wiki":"https://escapefromtarkov.gamepedia.com/The_survivalist_path_-_Eagle-owl",
-      "exp":13000,
+      "giver":"Therapist",
+      "turnin":"Therapist",
+      "title":"Colleagues - Part 3",
+      "wiki":"https://escapefromtarkov.gamepedia.com/Colleagues_-_Part_3",
+      "exp":13200,
+      "nokappa":true,
       "unlocks":[
 
       ],
       "reputation":[
          {
-            "trader":"Jaeger",
-            "rep":0.03
+            "trader":"Therapist",
+            "rep":0.12
          }
       ],
       "objectives":[
          {
-            "type":"kill",
-            "target":"Scavs",
-            "number":10,
+            "type":"warning",
+            "target":"Do not kill Sanitar",
+            "number":1,
+            "location":"Shoreline",
+            "id":320
+         },
+         {
+            "type":"key",
+            "target":"Cottage back entrance key",
+            "number":1,
+            "location":"Shoreline",
+            "id":321
+         },
+         {
+            "type":"find",
+            "target":"AHF1-M",
+            "number":1,
             "location":"Any",
-            "with":[
-               "Between 21 and 04 hours",
-               "Not using NVG or Thermal sights"
-            ],
-            "id":269
+            "id":322
+         },
+         {
+            "type":"find",
+            "target":"3-(b-TG)",
+            "number":1,
+            "location":"Any",
+            "id":323
+         },
+         {
+            "type":"collect",
+            "target":"Blue keycard",
+            "number":1,
+            "location":"Any",
+            "id":324
+         },
+         {
+            "type":"collect",
+            "target":"Green keycard",
+            "number":1,
+            "location":"Any",
+            "id":325
          }
+      ],
+      "alternative":[
+         "Huntsman path - Sadist"
       ]
    },
    {
@@ -6174,7 +6320,7 @@
          {
             "type":"kill",
             "target":"Scavs",
-            "number":40,
+            "number":30,
             "location":"Any",
             "id":275
          }
@@ -6242,7 +6388,7 @@
          {
             "type":"kill",
             "target":"PMCs",
-            "number":7,
+            "number":5,
             "location":"Customs",
             "with":[
                "In the dorms area"
@@ -6277,7 +6423,7 @@
          {
             "type":"find",
             "target":"TerraGroup Labs access keycard",
-            "number":3,
+            "number":2,
             "location":"Any",
             "id":278
          }
@@ -6526,7 +6672,17 @@
          }
       ],
       "objectives":[
-
+         {
+            "type":"kill",
+            "target":"Shturman",
+            "number":1,
+            "location":"Woods",
+            "with":[
+               "Remington M700",
+               "March Tactical 3-24x42 FPP scope"
+            ],
+            "id":269
+         }
       ]
    },
    {
@@ -6565,7 +6721,7 @@
          },
          {
             "type":"locate",
-            "target":"The hidden water",
+            "target":"The hidden water in 2-story dorms, room 206",
             "number":1,
             "location":"Customs",
             "id":290
@@ -6825,6 +6981,7 @@
          {
             "type":"pickup",
             "target":"Clothes design handbook Part 1",
+            "hint": "Idea side 1F",
             "number":1,
             "location":"Interchange",
             "id":300
@@ -6832,6 +6989,7 @@
          {
             "type":"pickup",
             "target":"Clothes design handbook Part 2",
+            "hint": "Oli side 2F",
             "number":1,
             "location":"Interchange",
             "id":301
@@ -6935,6 +7093,7 @@
       "objectives":[
          {
             "type":"mark",
+            "tool":"MS2000 marker",
             "target":"Transport van",
             "number":1,
             "location":"Customs",
@@ -6983,6 +7142,7 @@
       "objectives":[
          {
             "type":"mark",
+            "tool":"MS2000 marker",
             "target":"Transport van",
             "number":1,
             "location":"Customs",
@@ -7142,21 +7302,27 @@
       "objectives":[
          {
             "type":"mark",
+            "tool":"MS2000 marker",
             "target":"Trading post 1",
+            "hint":"Cottages",
             "number":1,
             "location":"Shoreline",
             "id":312
          },
          {
             "type":"mark",
+            "tool":"MS2000 marker",
             "target":"Trading post 2",
+            "hint":"Pier",
             "number":1,
             "location":"Shoreline",
             "id":313
          },
          {
             "type":"mark",
+            "tool":"MS2000 marker",
             "target":"Trading post 3",
+            "hint":"Resort",
             "number":1,
             "location":"Shoreline",
             "id":314
@@ -7211,120 +7377,6 @@
       ]
    },
    {
-      "id":185,
-      "require":{
-         "level":10,
-         "quest":[
-            "Colleagues - Part 1"
-         ]
-      },
-      "giver":"Therapist",
-      "turnin":"Therapist",
-      "title":"Colleagues - Part 2",
-      "wiki":"https://escapefromtarkov.gamepedia.com/Colleagues_-_Part_2",
-      "exp":13200,
-      "nokappa":true,
-      "unlocks":[
-
-      ],
-      "reputation":[
-         {
-            "trader":"Therapist",
-            "rep":0.12
-         }
-      ],
-      "objectives":[
-         {
-            "type":"pickup",
-            "target":"Sanitar's surgery kit",
-            "number":1,
-            "location":"Shoreline",
-            "id":318
-         },
-         {
-            "type":"pickup",
-            "target":"Sanitar's ophthalmoscope",
-            "number":1,
-            "location":"Shoreline",
-            "id":319
-         }
-
-      ]
-   },
-   {
-      "id":185,
-      "require":{
-         "level":10,
-         "quest":[
-            "Colleagues - Part 2",
-            "Rigged game",
-            "The chemistry closet"
-         ]
-      },
-      "giver":"Therapist",
-      "turnin":"Therapist",
-      "title":"Colleagues - Part 3",
-      "wiki":"https://escapefromtarkov.gamepedia.com/Colleagues_-_Part_3",
-      "exp":13200,
-      "nokappa":true,
-      "unlocks":[
-
-      ],
-      "reputation":[
-         {
-            "trader":"Therapist",
-            "rep":0.12
-         }
-      ],
-      "objectives":[
-         {
-            "type":"warning",
-            "target":"Do not kill Sanitar",
-            "number":1,
-            "location":"Shoreline",
-            "id":320
-         },
-         {
-            "type":"key",
-            "target":"Cottage back entrance key",
-            "number":1,
-            "location":"Shoreline",
-            "id":321
-         },
-         {
-            "type":"find",
-            "target":"AHF1-M",
-            "number":1,
-            "location":"Any",
-            "id":322
-         },
-         {
-            "type":"find",
-            "target":"3-(b-TG)",
-            "number":1,
-            "location":"Any",
-            "id":323
-         },
-         {
-            "type":"collect",
-            "target":"Blue keycard",
-            "number":1,
-            "location":"Any",
-            "id":324
-         },
-         {
-            "type":"collect",
-            "target":"Green keycard",
-            "number":1,
-            "location":"Any",
-            "id":325
-         }
-      ],
-      "alternative":[
-         "Huntsman path - Sadist"
-      ]
-   },
-   {
       "id":186,
       "require":{
          "level":21,
@@ -7350,6 +7402,7 @@
       "objectives":[
          {
             "type":"mark",
+            "tool":"MS2000 marker",
             "target":"Health resort Medical container",
             "number":1,
             "location":"Shoreline",
@@ -7357,6 +7410,7 @@
          },
          {
             "type":"mark",
+            "tool":"MS2000 marker",
             "target":"Cottages Medical container",
             "number":1,
             "location":"Shoreline",
@@ -7364,6 +7418,7 @@
          },
          {
             "type":"mark",
+            "tool":"MS2000 marker",
             "target":"Pier Medical container",
             "number":1,
             "location":"Shoreline",
@@ -7382,7 +7437,7 @@
       },
       "giver":"Mechanic",
       "turnin":"Mechanic",
-      "title":"Chemistry closet",
+      "title":"The chemistry closet",
       "wiki":"https://escapefromtarkov.gamepedia.com/The_chemistry_closet",
       "exp":13800,
       "nokappa":true,
@@ -7499,7 +7554,7 @@
       },
       "giver":"Peacekeeper",
       "turnin":"Peacekeeper",
-      "title":"Samples",
+      "title":"TerraGroup employee",
       "wiki":"https://escapefromtarkov.gamepedia.com/TerraGroup_employee",
       "exp":14400,
       "nokappa":true,
@@ -7548,7 +7603,7 @@
       },
       "giver":"Jaeger",
       "turnin":"Jaeger",
-      "title":"Samples",
+      "title":"Huntsman path - Sadist",
       "wiki":"https://escapefromtarkov.gamepedia.com/Huntsman_path_-_Sadist",
       "exp":13800,
       "nokappa":true,
@@ -7715,6 +7770,219 @@
             "number":1,
             "location":"Woods",
             "id":350
+         }
+      ]
+   },
+   {
+      "id":194,
+      "require":{
+         "level":26,
+         "quest":[
+            "The key to success"
+         ]
+      },
+      "giver":"Ragman",
+      "turnin":"Ragman",
+      "title":"The stylish one",
+      "wiki":"https://escapefromtarkov.gamepedia.com/The_stylish_one",
+      "exp":0,
+      "nokappa":true,
+      "unlocks":[
+
+      ],
+      "reputation":[
+
+      ],
+      "objectives":[
+         {
+            "type":"kill",
+            "target":"Killa",
+            "number":100,
+            "location":"Interchange",
+            "id":351
+         }
+      ]
+   },
+   {
+      "id":196,
+      "require":{
+         "quest":[
+            "The survivalist path - Cold blooded"
+         ]
+      },
+      "giver":"Jaeger",
+      "turnin":"Jaeger",
+      "title":"Thee survivalist path - Eagle-owl",
+      "wiki":"https://escapefromtarkov.gamepedia.com/The_survivalist_path_-_Eagle-owl",
+      "exp":13000,
+      "unlocks":[
+
+      ],
+      "reputation":[
+         {
+            "trader":"Jaeger",
+            "rep":0.03
+         }
+      ],
+      "objectives":[
+         {
+            "type":"kill",
+            "target":"Scavs",
+            "number":6,
+            "location":"Any",
+            "with":[
+               "No NVG or Thermals",
+               "Between 21 and 04 hours"
+            ],
+            "id":288
+         }
+      ]
+   },
+   {
+      "id":195,
+      "require":{
+         "level":40,
+         "quest":[
+            "Thee survivalist path - Eagle-owl", "Search mission", "The survivalist path - Junkie", "Big customer", "Out of curiosity", "Postman Pat - Part 2", "Shady Business", "Bad habit", "Stirrup", "Operation Aquarius - Part 2", "Huntsman path - Eraser - Part 2", "Huntsman path - Justice", "Fishing place", "Huntsman path - Evil watchman", "Reserv", "Ambulance", "The survivalist path - Combat medic", "The Tarkov shooter - Part 8", "Nostalgia", "The survivalist path - Unprotected, but dangerous", "Living high is not a crime - Part 2", "No fuss needed", "Minibus", "Make ULTRA Great Again", "Scavenger", "Supervisor", "A Shooter Born in Heaven", "Fertilizers", "Insider", "Scout", "Signal - Part 4", "Gunsmith - Part 16", "The guide", "Psycho Sniper", "Cargo X - Part 3", "The Cult - Part 2", "Setup", "Flint", "Silent caliber", "\"Vitamins\" - Part 2", "Chemical - Part 4", "Athlete", "Decontamination Service", "Car repair", "Kind of sabotage", "Supply plans", "The Punisher - Part 6", "Test drive", "Insomnia", "Perfect mediator", "Shootout picnic"
+         ]
+      },
+      "giver":"Fence",
+      "turnin":"Fence",
+      "title":"Collector",
+      "wiki":"https://escapefromtarkov.gamepedia.com/Collector",
+      "exp":0,
+      "unlocks":[
+
+      ],
+      "reputation":[
+
+      ],
+      "objectives":[
+         {
+            "type":"find",
+            "target":"Old firesteel",
+            "number":1,
+            "location":"Any",
+            "id":353
+         },
+         {
+            "type":"find",
+            "target":"Antique axe",
+            "number":1,
+            "location":"Any",
+            "id":354
+         },
+         {
+            "type":"find",
+            "target":"Battered antique Book",
+            "number":1,
+            "location":"Any",
+            "id":355
+         },
+         {
+            "type":"find",
+            "target":"FireKlean gun lube",
+            "number":1,
+            "location":"Any",
+            "id":356
+         },
+         {
+            "type":"find",
+            "target":"Golden rooster",
+            "number":1,
+            "location":"Any",
+            "id":357
+         },
+         {
+            "type":"find",
+            "target":"Silver Badge",
+            "number":1,
+            "location":"Any",
+            "id":358
+         },
+         {
+            "type":"find",
+            "target":"Deadlyslob's beard oil",
+            "number":1,
+            "location":"Any",
+            "id":359
+         },
+         {
+            "type":"find",
+            "target":"Golden 1GPhone",
+            "number":1,
+            "location":"Any",
+            "id":360
+         },
+         {
+            "type":"find",
+            "target":"Jar of DevilDog mayo",
+            "number":1,
+            "location":"Any",
+            "id":361
+         },
+         {
+            "type":"find",
+            "target":"Can of sprats",
+            "number":1,
+            "location":"Any",
+            "id":362
+         },
+         {
+            "type":"find",
+            "target":"Fake mustache",
+            "number":1,
+            "location":"Any",
+            "id":363
+         },
+         {
+            "type":"find",
+            "target":"Kotton beanie",
+            "number":1,
+            "location":"Any",
+            "id":364
+         },
+         {
+            "type":"find",
+            "target":"Can of Dr. Lupo's coffee beans",
+            "number":1,
+            "location":"Any",
+            "id":365
+         },
+         {
+            "type":"find",
+            "target":"Pestily plague mask",
+            "number":1,
+            "location":"Any",
+            "id":366
+         },
+         {
+            "type":"find",
+            "target":"Raven figurine",
+            "number":1,
+            "location":"Any",
+            "id":367
+         },
+         {
+            "type":"find",
+            "target":"Shroud half-mask",
+            "number":1,
+            "location":"Any",
+            "id":368
+         },
+         {
+            "type":"find",
+            "target":"Veritas guitar pick",
+            "number":1,
+            "location":"Any",
+            "id":369
+         },
+         {
+            "type":"find",
+            "target":"42nd Signature Blend English Tea",
+            "number":1,
+            "location":"Any",
+            "id":370
          }
       ]
    }

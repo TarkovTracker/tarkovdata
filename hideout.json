@@ -41,13 +41,13 @@
          {
             "type":"item",
             "name":"CPU Fan",
-            "quantity":10,
+            "quantity":15,
             "id":3
          },
          {
             "type":"item",
             "name":"Power supply unit",
-            "quantity":5,
+            "quantity":10,
             "id":4
          },
          {
@@ -92,19 +92,19 @@
          {
             "type":"item",
             "name":"Power supply unit",
-            "quantity":5,
+            "quantity":8,
             "id":10
          },
          {
             "type":"item",
             "name":"Printed circuit board",
-            "quantity":5,
+            "quantity":10,
             "id":11
          },
          {
             "type":"item",
             "name":"Phase control relay",
-            "quantity":2,
+            "quantity":5,
             "id":12
          }
       ],
@@ -142,20 +142,20 @@
          },
          {
             "type":"item",
-            "name":"Silicone tubes",
-            "quantity":10,
+            "name":"Silicone tube",
+            "quantity":15,
             "id":17
          },
          {
             "type":"item",
             "name":"Electric motor",
-            "quantity":2,
+            "quantity":4,
             "id":18
          },
          {
             "type":"item",
-            "name":"Pressure guages",
-            "quantity":4,
+            "name":"Pressure gauge",
+            "quantity":8,
             "id":19
          }
       ],
@@ -199,7 +199,7 @@
          },
          {
             "type":"item",
-            "name":"Pressure guages",
+            "name":"Pressure gauges",
             "quantity":2,
             "id":25
          }
@@ -345,6 +345,12 @@
             "id":45
          },
          {
+            "type":"skill",
+            "name":"Endurance",
+            "quantity":1,
+            "id":26
+         },
+         {
             "type":"currency",
             "name":"Rubles",
             "quantity":50000,
@@ -460,12 +466,6 @@
          },
          {
             "type":"item",
-            "name":"Light bulb",
-            "quantity":14,
-            "id":57
-         },
-         {
-            "type":"item",
             "name":"Capacitors",
             "quantity":7,
             "id":58
@@ -535,6 +535,12 @@
             "name":"Nutrition unit",
             "quantity":3,
             "id":65
+         },
+         {
+            "type":"skill",
+            "name":"Attention",
+            "quantity":3,
+            "id":27
          },
          {
             "type":"item",
@@ -688,7 +694,7 @@
          },
          {
             "type":"item",
-            "name":"Pressure guage",
+            "name":"Pressure gauge",
             "quantity":2,
             "id":84
          },
@@ -718,6 +724,12 @@
             "name":"Rest space",
             "quantity":3,
             "id":87
+         },
+         {
+            "type":"skill",
+            "name":"Memory",
+            "quantity":8,
+            "id":28
          },
          {
             "type":"currency",
@@ -756,6 +768,12 @@
             "id":88
          },
          {
+            "type":"skill",
+            "name":"Health",
+            "quantity":2,
+            "id":29
+         },
+         {
             "type":"item",
             "name":"Medical bloodset",
             "quantity":2,
@@ -787,6 +805,12 @@
             "name":"Medstation",
             "quantity":2,
             "id":91
+         },
+         {
+            "type":"skill",
+            "name":"Vitality",
+            "quantity":3,
+            "id":30
          },
          {
             "type":"item",
@@ -916,6 +940,12 @@
             "name":"Stash",
             "quantity":2,
             "id":106
+         },
+         {
+            "type":"skill",
+            "name":"Metabolism",
+            "quantity":3,
+            "id":31
          },
          {
             "type":"item",
@@ -1104,6 +1134,12 @@
             "id":123
          },
          {
+            "type":"skill",
+            "name":"Endurance",
+            "quantity":2,
+            "id":57
+         },
+         {
             "type":"currency",
             "name":"Rubles",
             "quantity":45000,
@@ -1217,25 +1253,25 @@
          {
             "type":"item",
             "name":"Military cable",
-            "quantity":4,
+            "quantity":8,
             "id":137
          },
          {
             "type":"item",
             "name":"Phased array element",
-            "quantity":2,
+            "quantity":4,
             "id":138
          },
          {
             "type":"item",
             "name":"Military power filter",
-            "quantity":4,
+            "quantity":8,
             "id":139
          },
          {
             "type":"currency",
             "name":"Euros",
-            "quantity":15000,
+            "quantity":25000,
             "id":207
          }
       ],
@@ -1441,6 +1477,12 @@
             "id":158
          },
          {
+            "type":"skill",
+            "name":"Strength",
+            "quantity":2,
+            "id":214
+         },
+         {
             "type":"item",
             "name":"Electric motor",
             "quantity":4,
@@ -1517,6 +1559,12 @@
             "name":"Workbench",
             "quantity":2,
             "id":168
+         },
+         {
+            "type":"skill",
+            "name":"Attention",
+            "quantity":3,
+            "id":215
          },
          {
             "type":"item",
