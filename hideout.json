@@ -217,6 +217,12 @@
             "name":"Rubles",
             "quantity":100000,
             "id":190
+         },
+         {
+            "type":"item",
+            "name":"Spark plug",
+            "quantity":1,
+            "id":217
          }
       ],
       "id":6
@@ -469,6 +475,12 @@
             "name":"Capacitors",
             "quantity":7,
             "id":58
+         },
+         {
+            "type":"item",
+            "name":"Wires",
+            "quantity":6,
+            "id":216
          },
          {
             "type":"currency",
@@ -946,6 +958,12 @@
             "name":"Metabolism",
             "quantity":3,
             "id":31
+         },
+         {
+            "type":"item",
+            "name":"Smoked Chimney drain cleaner",
+            "quantity":2,
+            "id":219
          },
          {
             "type":"item",
@@ -1454,6 +1472,12 @@
             "name":"Car battery",
             "quantity":1,
             "id":156
+         },
+         {
+            "type":"item",
+            "name":"CPU Fan",
+            "quantity":3,
+            "id":218
          }
       ],
       "id":42
@@ -1736,5 +1760,44 @@
          }
       ],
       "id":49
+   },
+   {
+      "module":"Christmas Tree",
+      "level":1,
+      "function":"Provides a wide variety of potential item crafts",
+      "imgSource":"/img/Christmas_tree_Portrait.png",
+      "require":[
+         {
+            "type":"module",
+            "name":"Generator",
+            "quantity":1,
+            "id":220
+         },
+         {
+            "type":"item",
+            "name":"Christmas tree decoration ball (red)",
+            "quantity":1,
+            "id":221
+         },
+         {
+            "type":"item",
+            "name":"Christmas tree decoration ball (silver)",
+            "quantity":1,
+            "id":222
+         },
+         {
+            "type":"item",
+            "name":"Christmas tree decoration ball (violet)",
+            "quantity":1,
+            "id":223
+         },
+         {
+            "type":"currency",
+            "name":"Rubles",
+            "quantity":10000,
+            "id":224
+         }
+      ],
+      "id":5
    }
 ]

@@ -1,0 +1,23 @@
+{
+  "name": "tarkovdata",
+  "version": "1.0.0",
+  "description": "Escape From Tarkov game data for external tools & fan sites",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "verify-quest-data": "./cli.js verify-quest-data"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thaddeus/tarkovdata.git"
+  },
+  "author": "Thaddeus Bond <thaddeus@thaddeusbond.com> (https://github.com/thaddeus)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thaddeus/tarkovdata/issues"
+  },
+  "homepage": "https://thaddeus.github.io/tarkovdata/",
+  "dependencies": {
+    "vorpal": "^1.12.0"
+  }
+}

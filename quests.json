@@ -494,7 +494,7 @@
             "number":30,
             "location":"Any",
             "with":[
-               "Nighttime (23 - 04 hours)"
+               "Nighttime (22 - 05 hours)"
             ],
             "id":23
          }
@@ -2242,7 +2242,7 @@
             "target":"PMCs",
             "number":5,
             "with":[
-               "Between 23 and 10 hours"
+               "Between 22 and 10 hours"
             ],
             "location":"Interchange",
             "id":304
@@ -2549,7 +2549,7 @@
             "type":"mark",
             "tool":"MS2000 marker",
             "target":"T-90 tank 1",
-            "hint": "Town",
+            "hint": "Bunker",
             "number":1,
             "location":"Shoreline",
             "id":121
@@ -2558,7 +2558,7 @@
             "type":"mark",
             "tool":"MS2000 marker",
             "target":"T-90 tank 2",
-            "hint": "Weather station",
+            "hint": "Town",
             "number":1,
             "location":"Shoreline",
             "id":122
@@ -2567,7 +2567,7 @@
             "type":"mark",
             "tool":"MS2000 marker",
             "target":"T-90 tank 3",
-            "hint": "Bunker",
+            "hint": "Weather station",
             "number":1,
             "location":"Shoreline",
             "id":123
@@ -4360,7 +4360,7 @@
    {
       "id":110,
       "require":{
-         "level":30,
+         "level":14,
          "quest":[
             "Farming - Part 3"
          ]
@@ -6067,6 +6067,13 @@
       ],
       "objectives":[
          {
+            "type":"key",
+            "target":"Cottage back entrance key",
+            "number":1,
+            "location":"Shoreline",
+            "id":321
+         },
+         {
             "type":"pickup",
             "target":"Sanitar's surgery kit",
             "number":1,
@@ -6080,7 +6087,6 @@
             "location":"Shoreline",
             "id":319
          }
-
       ]
    },
    {
@@ -6115,13 +6121,6 @@
             "number":1,
             "location":"Shoreline",
             "id":320
-         },
-         {
-            "type":"key",
-            "target":"Cottage back entrance key",
-            "number":1,
-            "location":"Shoreline",
-            "id":321
          },
          {
             "type":"find",
@@ -6191,7 +6190,7 @@
    {
       "id":155,
       "require":{
-         "level":17,
+         "level":25,
          "quest":[
             "The survivalist path - Cold blooded"
          ]
@@ -7843,7 +7842,64 @@
       "require":{
          "level":40,
          "quest":[
-            "Thee survivalist path - Eagle-owl", "Search mission", "The survivalist path - Junkie", "Big customer", "Out of curiosity", "Postman Pat - Part 2", "Shady Business", "Bad habit", "Stirrup", "Operation Aquarius - Part 2", "Huntsman path - Eraser - Part 2", "Huntsman path - Justice", "Fishing place", "Huntsman path - Evil watchman", "Reserv", "Ambulance", "The survivalist path - Combat medic", "The Tarkov shooter - Part 8", "Nostalgia", "The survivalist path - Unprotected, but dangerous", "Living high is not a crime - Part 2", "No fuss needed", "Minibus", "Make ULTRA Great Again", "Scavenger", "Supervisor", "A Shooter Born in Heaven", "Fertilizers", "Insider", "Scout", "Signal - Part 4", "Gunsmith - Part 16", "The guide", "Psycho Sniper", "Cargo X - Part 3", "The Cult - Part 2", "Setup", "Flint", "Silent caliber", "\"Vitamins\" - Part 2", "Chemical - Part 4", "Athlete", "Decontamination Service", "Car repair", "Kind of sabotage", "Supply plans", "The Punisher - Part 6", "Test drive", "Insomnia", "Perfect mediator", "Shootout picnic"
+            [
+              "Shootout picnic",
+              "Perfect mediator",
+              "Insomnia",
+              "Test drive",
+              "The Punisher - Part 6",
+              "Supply plans",
+              "Kind of sabotage",
+              "General wares",
+              "Car repair",
+              "Decontamination Service",
+              "Athlete",
+              "Chemical - Part 4",
+              "\"Vitamins\" - Part 2",
+              "Lend lease - Part 2",
+              "Silent caliber",
+              "Flint",
+              "Setup",
+              "The Cult - Part 2",
+              "Cargo X - Part 3",
+              "Psycho Sniper",
+              "The guide",
+              "Gunsmith - Part 16",
+              "Signal - Part 4",
+              "Scout",
+              "Insider",
+              "Fertilizers",
+              "A Shooter Born in Heaven",
+              "Supervisor",
+              "Scavenger",
+              "Make ULTRA Great Again",
+              "Minibus",
+              "Sew it good - Part 4",
+              "No fuss needed",
+              "Living high is not a crime - Part 2",
+              "The survivalist path - Unprotected, but dangerous",
+              "Nostalgia",
+              "The Tarkov shooter - Part 8",
+              "The survivalist path - Combat medic",
+              "Ambulance",
+              "Reserv",
+              "Huntsman path - Evil watchman",
+              "Fishing place",
+              "Huntsman path - Justice",
+              "Huntsman path - Eraser - Part 2",
+              "Operation Aquarius - Part 2",
+              "Polikhim hobo",
+              "Stirrup",
+              "Bad habit",
+              "Shady Business",
+              "Postman Pat - Part 2",
+              "Out of curiosity",
+              "Big customer",
+              "The survivalist path - Junkie",
+              "Search mission",
+              "Thee survivalist path - Eagle-owl",
+              "An apple a day - keeps the doctor away"
+            ]
          ]
       },
       "giver":"Fence",
@@ -7983,6 +8039,32 @@
             "number":1,
             "location":"Any",
             "id":370
+         }
+      ]
+   },
+   {
+      "id":197,
+      "require":{
+         "quest":[
+            "Health Care Privacy - Part 3"
+         ]
+      },
+      "giver":"Therapist",
+      "turnin":"Therapist",
+      "title":"An apple a day - keeps the doctor away",
+      "wiki":"https://escapefromtarkov.gamepedia.com/An_apple_a_day_-_keeps_the_doctor_away",
+      "exp":0,
+      "unlocks":[
+      ],
+      "reputation":[
+      ],
+      "objectives":[
+         {
+            "type":"collect",
+            "target":"Rubles",
+            "number":400000,
+            "location":"Any",
+            "id":372
          }
       ]
    }
