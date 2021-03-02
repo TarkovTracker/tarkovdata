@@ -378,14 +378,23 @@ function verifyQuestData(args) {
 		if (!('giver' in debugQuests[i])) {
 			console.log("ID " + i + " doesn't have giver")
 		}
-		if ('require' in debugQuests[i] && 'quest' in debugQuests[i].require) {
-			for (var x = debugQuests[i].require.quest.length - 1; x >= 0; x--) {
-				if (questDictionaryTitle[debugQuests[i].require.quest[x]] == null) {
+		if ('require' in debugQuests[i] && 'quests' in debugQuests[i].require) {
+			for (var x = debugQuests[i].require.quests.length - 1; x >= 0; x--) {
+				if (Array.isArray(debugQuests[i].require.quests[x])) {
+					for (var y = debugQuests[i].require.quests[x].length - 1; y >= 0; y--) {
+						if (questDictionaryId[debugQuests[i].require.quests[x][y]] == null) {
+							badRequirement.push({
+								quest: i,
+								requirement: debugQuests[i].require.quests[x][y]
+							})
+						}
+					}
+				} else if (questDictionaryId[debugQuests[i].require.quests[x]] == null) {
 					badRequirement.push({
 						quest: i,
-						requirement: debugQuests[i].require.quest[x]
+						requirement: debugQuests[i].require.quests[x]
 					})
-					console.log("ID " + i + " has undefined requirement " + debugQuests[i].require.quest[x])
+					console.log("ID " + i + " has undefined requirement " + debugQuests[i].require.quests[x])
 				}
 			}
 		} else {
