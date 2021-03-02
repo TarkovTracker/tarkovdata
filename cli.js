@@ -49,6 +49,58 @@ vorpal
 		callback();
 	});
 
+vorpal
+	.command('link-quests', 'Converts any titled require or alternative links to quest IDs')
+	.action(function(args, callback) {
+		linkQuests(args)
+		callback();
+	});
+
+function linkQuests(args) {
+	var debugQuests = require('./quests.json')
+	var questDictionaryTitle = debugQuests.reduce((a, x) => ({ ...a,
+		[x.title.toLowerCase()]: x
+	}), {})
+
+	debugQuests.forEach((quest, questIndex) => {
+		if ('quests' in quest.require) {
+			quest.require.quests.forEach((requiredQuest, requiredIndex) => {
+				if (Array.isArray(requiredQuest)) {
+					// Required quest is a 'one-of' array
+					quest.require.quests[requiredIndex].forEach((oneOfQuest, oneOfIndex) => {
+						if (typeof oneOfQuest === 'string') {
+							console.log(`Replacing ${oneOfQuest} with ${questDictionaryTitle[oneOfQuest.toLowerCase()].id}`)
+							debugQuests[questIndex].require.quests[requiredIndex][oneOfIndex] = questDictionaryTitle[oneOfQuest.toLowerCase()].id
+						}
+						
+					})
+				}else if (typeof requiredQuest === 'string') {
+					console.log(`Replacing ${requiredQuest} with ${questDictionaryTitle[requiredQuest.toLowerCase()].id}`)
+					debugQuests[questIndex].require.quests[requiredIndex] = questDictionaryTitle[requiredQuest.toLowerCase()].id
+				}
+			})
+		}
+		if ('fail' in quest.require) {
+			quest.require.fail.forEach((failedQuest, failedIndex) => {
+				if (typeof failedQuest === 'string') {
+					console.log(`Replacing ${failedQuest} with ${questDictionaryTitle[failedQuest.toLowerCase()].id}`)
+					debugQuests[questIndex].require.fail[failedIndex] = questDictionaryTitle[failedQuest.toLowerCase()].id
+				}
+			})
+		}
+		if ('alternatives' in quest) {
+			quest.alternatives.forEach((alternativeQuest, alternativeIndex) => {
+				if (typeof alternativeQuest === 'string') {
+					console.log(`Replacing ${alternativeQuest} with ${questDictionaryTitle[alternativeQuest.toLowerCase()].id}`)
+					debugQuests[questIndex].alternatives[alternativeIndex] = questDictionaryTitle[alternativeQuest.toLowerCase()].id
+				}
+			})
+		}
+	})
+	const fs = require('fs'); 
+	fs.writeFileSync('./quests.json', JSON.stringify(debugQuests, null, 4) , 'utf-8');
+}
+
 function checkCollectorRequirements(args) {
 	var collectorQuests = []
 	var highestCollectorLevel = 0
