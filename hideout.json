@@ -49,14 +49,6 @@
          "imgSource": "/img/Illumination_Portrait.png"
       },
       {
-         "id": 5,
-         "locales": {
-            "en": "Intelligence center"
-         },
-         "function": "Provides passive income boosts",
-         "imgSource": "/img/Intelligence_Center_Portrait.png"
-      },
-      {
          "id": 6,
          "locales": {
             "en": "Lavatory"
@@ -167,7 +159,15 @@
          },
          "function": "Provides a wide variety of potential item crafts",
          "imgSource": "/img/Christmas_tree_Portrait.png"
-      }
+      },
+      {
+         "id": 20,
+         "locales": {
+            "en": "Intelligence center"
+         },
+         "function": "Provides passive income boosts and produces rare data items",
+         "imgSource": "/img/Intelligence_Center_Portrait.png"
+}
    ],
    "modules": [
       {
@@ -651,8 +651,6 @@
       {
          "module": "Intelligence center",
          "level": 1,
-         "function": "Provides passive income boosts",
-         "imgSource": "/img/Intelligence_Center_Portrait.png",
          "require": [
             {
                "type": "module",
@@ -674,13 +672,11 @@
             }
          ],
          "id": 15,
-         "stationId": 6
+         "stationId": 20
       },
       {
          "module": "Intelligence center",
          "level": 2,
-         "function": "Provides passive income boosts and produces rare data items",
-         "imgSource": "/img/Intelligence_Center_Portrait.png",
          "require": [
             {
                "type": "module",
@@ -738,13 +734,11 @@
             }
          ],
          "id": 16,
-         "stationId": 6
+         "stationId": 20
       },
       {
          "module": "Intelligence center",
          "level": 3,
-         "function": "Provides passive income boosts and produces rare data items",
-         "imgSource": "/img/Intelligence_Center_Portrait.png",
          "require": [
             {
                "type": "module",
@@ -784,13 +778,11 @@
             }
          ],
          "id": 17,
-         "stationId": 6
+         "stationId": 20
       },
       {
          "module": "Lavatory",
          "level": 1,
-         "function": "Produces various trade items, mainly focused on fluid centric products",
-         "imgSource": "/img/Lavatory_Portrait.png",
          "require": [
             {
                "type": "currency",
@@ -800,13 +792,11 @@
             }
          ],
          "id": 18,
-         "stationId": 7
+         "stationId": 6
       },
       {
          "module": "Lavatory",
          "level": 2,
-         "function": "Produces various trade items, mainly focused on fluid centric products",
-         "imgSource": "/img/Lavatory_Portrait.png",
          "require": [
             {
                "type": "module",
@@ -840,13 +830,11 @@
             }
          ],
          "id": 19,
-         "stationId": 7
+         "stationId": 6
       },
       {
          "module": "Lavatory",
          "level": 3,
-         "function": "Produces various trade items, mainly focused on fluid centric products",
-         "imgSource": "/img/Lavatory_Portrait.png",
          "require": [
             {
                "type": "module",
@@ -886,13 +874,11 @@
             }
          ],
          "id": 20,
-         "stationId": 7
+         "stationId": 6
       },
       {
          "module": "Library",
          "level": 1,
-         "function": "Provides exp and practical skills boost",
-         "imgSource": "/img/Library_Portrait.png",
          "require": [
             {
                "type": "module",
@@ -913,7 +899,7 @@
                "id": 196
             }
          ],
-         "id": 21
+         "id": 7
       },
       {
          "module": "Medstation",
