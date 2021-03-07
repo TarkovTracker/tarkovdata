@@ -1,1827 +1,1960 @@
-[
-   {
-      "module":"Air Filtering Unit",
-      "level":1,
-      "function":"Allows use of absorbers to increase physical skill leveling speed",
-      "imgSource":"/img/Air_Filtering_Unit_Portrait.png",
-      "require":[
-         {
-            "type":"module",
-            "name":"Generator",
-            "quantity":3,
-            "id":0
-         },
-         {
-            "type":"module",
-            "name":"Vents",
-            "quantity":3,
-            "id":1
-         },
-         {
-            "type":"currency",
-            "name":"Dollars",
-            "quantity":10000,
-            "id":189
-         }
-      ],
-      "id":0
-   },
-   {
-      "module":"Bitcoin farm",
-      "level":1,
-      "function":"Allows production of Physical bitcoins",
-      "imgSource":"/img/Bitcoin_farm_Portrait.png",
-      "require":[
-         {
-            "type":"module",
-            "name":"Intelligence center",
-            "quantity":2,
-            "id":2
-         },
-         {
-            "type":"item",
-            "name":"CPU Fan",
-            "quantity":15,
-            "id":3
-         },
-         {
-            "type":"item",
-            "name":"Power supply unit",
-            "quantity":10,
-            "id":4
-         },
-         {
-            "type":"item",
-            "name":"Powercord",
-            "quantity":5,
-            "id":5
-         },
-         {
-            "type":"item",
-            "name":"Electric drill",
-            "quantity":1,
-            "id":6
-         }
-      ],
-      "id":1
-   },
-   {
-      "module":"Bitcoin farm",
-      "level":2,
-      "function":"Allows production of Physical bitcoins",
-      "imgSource":"/img/Bitcoin_farm_Portrait.png",
-      "require":[
-         {
-            "type":"module",
-            "name":"Generator",
-            "quantity":3,
-            "id":7
-         },
-         {
-            "type":"module",
-            "name":"Bitcoin farm",
-            "quantity":1,
-            "id":8
-         },
-         {
-            "type":"item",
-            "name":"CPU Fan",
-            "quantity":15,
-            "id":9
-         },
-         {
-            "type":"item",
-            "name":"Power supply unit",
-            "quantity":8,
-            "id":10
-         },
-         {
-            "type":"item",
-            "name":"Printed circuit board",
-            "quantity":10,
-            "id":11
-         },
-         {
-            "type":"item",
-            "name":"Phase control relay",
-            "quantity":5,
-            "id":12
-         }
-      ],
-      "id":2
-   },
-   {
-      "module":"Bitcoin farm",
-      "level":3,
-      "function":"Allows production of Physical bitcoins",
-      "imgSource":"/img/Bitcoin_farm_Portrait.png",
-      "require":[
-         {
-            "type":"module",
-            "name":"Water collector",
-            "quantity":3,
-            "id":13
-         },
-         {
-            "type":"module",
-            "name":"Solar power",
-            "quantity":1,
-            "id":14
-         },
-         {
-            "type":"module",
-            "name":"Bitcoin farm",
-            "quantity":2,
-            "id":15
-         },
-         {
-            "type":"item",
-            "name":"CPU Fan",
-            "quantity":25,
-            "id":16
-         },
-         {
-            "type":"item",
-            "name":"Silicone tube",
-            "quantity":15,
-            "id":17
-         },
-         {
-            "type":"item",
-            "name":"Electric motor",
-            "quantity":10,
-            "id":18
-         },
-         {
-            "type":"item",
-            "name":"Pressure gauge",
-            "quantity":10,
-            "id":19
-         }
-      ],
-      "id":3
-   },
-   {
-      "module":"Booze generator",
-      "level":1,
-      "function":"Allows production of moonshine",
-      "imgSource":"/img/Booze_generator_Portrait.png",
-      "require":[
-         {
-            "type":"module",
-            "name":"Water collector",
-            "quantity":3,
-            "id":20
-         },
-         {
-            "type":"module",
-            "name":"Nutrition unit",
-            "quantity":3,
-            "id":21
-         },
-         {
-            "type":"item",
-            "name":"Corrugated hose",
-            "quantity":5,
-            "id":22
-         },
-         {
-            "type":"item",
-            "name":"Silicone tubes",
-            "quantity":4,
-            "id":23
-         },
-         {
-            "type":"item",
-            "name":"Analog thermometer",
-            "quantity":2,
-            "id":24
-         },
-         {
-            "type":"item",
-            "name":"Pressure gauges",
-            "quantity":2,
-            "id":25
-         }
-      ],
-      "id":4
-   },
-   {
-      "module":"Generator",
-      "level":1,
-      "function":"Provides power for hideout crafting stations",
-      "imgSource":"/img/Generator_Portrait.png",
-      "require":[
-         {
-            "type":"currency",
-            "name":"Rubles",
-            "quantity":100000,
-            "id":190
-         },
-         {
-            "type":"item",
-            "name":"Spark plug",
-            "quantity":1,
-            "id":217
-         }
-      ],
-      "id":6
-   },
-   {
-      "module":"Generator",
-      "level":2,
-      "function":"Provides power for hideout crafting stations",
-      "imgSource":"/img/Generator_Portrait.png",
-      "require":[
-         {
-            "type":"module",
-            "name":"Generator",
-            "quantity":1,
-            "id":32
-         },
-         {
-            "type":"module",
-            "name":"Security",
-            "quantity":2,
-            "id":33
-         },
-         {
-            "type":"module",
-            "name":"Vents",
-            "quantity":2,
-            "id":34
-         },
-         {
-            "type":"item",
-            "name":"Phase control relay",
-            "quantity":5,
-            "id":35
-         },
-         {
-            "type":"item",
-            "name":"Electric motor",
-            "quantity":1,
-            "id":36
-         },
-         {
-            "type":"item",
-            "name":"Wires",
-            "quantity":15,
-            "id":37
-         }
-      ],
-      "id":7
-   },
-   {
-      "module":"Generator",
-      "level":3,
-      "function":"Provides power for hideout crafting stations",
-      "imgSource":"/img/Generator_Portrait.png",
-      "require":[
-         {
-            "type":"module",
-            "name":"Generator",
-            "quantity":2,
-            "id":38
-         },
-         {
-            "type":"module",
-            "name":"Security",
-            "quantity":3,
-            "id":39
-         },
-         {
-            "type":"module",
-            "name":"Vents",
-            "quantity":3,
-            "id":40
-         },
-         {
-            "type":"item",
-            "name":"Phase control relay",
-            "quantity":6,
-            "id":41
-         },
-         {
-            "type":"item",
-            "name":"Electric motor",
-            "quantity":2,
-            "id":42
-         },
-         {
-            "type":"item",
-            "name":"Spark plug",
-            "quantity":5,
-            "id":43
-         },
-         {
-            "type":"item",
-            "name":"Power supply unit",
-            "quantity":5,
-            "id":44
-         }
-      ],
-      "id":8
-   },
-   {
-      "module":"Heating",
-      "level":1,
-      "function":"Provides passive out-of-raid energy regen for your PMC",
-      "imgSource":"/img/Heating_Portrait.png",
-      "require":[
-         {
-            "type":"currency",
-            "name":"Rubles",
-            "quantity":25000,
-            "id":191
-         }
-      ],
-      "id":9
-   },
-   {
-      "module":"Heating",
-      "level":2,
-      "function":"Provides passive out-of-raid energy regen for your PMC",
-      "imgSource":"/img/Heating_Portrait.png",
-      "require":[
-         {
-            "type":"module",
-            "name":"Heating",
-            "quantity":1,
-            "id":45
-         },
-         {
-            "type":"skill",
-            "name":"Endurance",
-            "quantity":1,
-            "id":26
-         },
-         {
-            "type":"currency",
-            "name":"Rubles",
-            "quantity":50000,
-            "id":192
-         }
-      ],
-      "id":10
-   },
-   {
-      "module":"Heating",
-      "level":3,
-      "function":"Provides passive out-of-raid energy regen for your PMC",
-      "imgSource":"/img/Heating_Portrait.png",
-      "require":[
-         {
-            "type":"module",
-            "name":"Heating",
-            "quantity":2,
-            "id":46
-         },
-         {
-            "type":"module",
-            "name":"Workbench",
-            "quantity":2,
-            "id":47
-         },
-         {
-            "type":"module",
-            "name":"Generator",
-            "quantity":2,
-            "id":48
-         },
-         {
-            "type":"item",
-            "name":"Radiator helix",
-            "quantity":8,
-            "id":49
-         },
-         {
-            "type":"item",
-            "name":"Wires",
-            "quantity":8,
-            "id":50
-         }
-      ],
-      "id":11
-   },
-   {
-      "module":"Illumination",
-      "level":1,
-      "function":"A resource sink that gates other modules, while also providing 3d visibility",
-      "imgSource":"/img/Illumination_Portrait.png",
-      "require":[
-         {
-            "type":"currency",
-            "name":"Rubles",
-            "quantity":10000,
-            "id":193
-         }
-      ],
-      "id":12
-   },
-   {
-      "module":"Illumination",
-      "level":2,
-      "function":"A resource sink that gates other modules, while also providing 3d visibility",
-      "imgSource":"/img/Illumination_Portrait.png",
-      "require":[
-         {
-            "type":"module",
-            "name":"Illumination",
-            "quantity":1,
-            "id":51
-         },
-         {
-            "type":"module",
-            "name":"Generator",
-            "quantity":1,
-            "id":52
-         },
-         {
-            "type":"item",
-            "name":"Light bulb",
-            "quantity":14,
-            "id":53
-         },
-         {
-            "type":"item",
-            "name":"Wires",
-            "quantity":5,
-            "id":54
-         }
-      ],
-      "id":13
-   },
-   {
-      "module":"Illumination",
-      "level":3,
-      "function":"A resource sink that gates other modules, while also providing 3d visibility",
-      "imgSource":"/img/Illumination_Portrait.png",
-      "require":[
-         {
-            "type":"module",
-            "name":"Illumination",
-            "quantity":2,
-            "id":55
-         },
-         {
-            "type":"module",
-            "name":"Generator",
-            "quantity":2,
-            "id":56
-         },
-         {
-            "type":"item",
-            "name":"Capacitors",
-            "quantity":7,
-            "id":58
-         },
-         {
-            "type":"item",
-            "name":"Wires",
-            "quantity":6,
-            "id":216
-         },
-         {
-            "type":"currency",
-            "name":"Rubles",
-            "quantity":50000,
-            "id":194
-         }
-      ],
-      "id":14
-   },
-   {
-      "module":"Intelligence center",
-      "level":1,
-      "function":"Provides passive income boosts",
-      "imgSource":"/img/Intelligence_Center_Portrait.png",
-      "require":[
-         {
-            "type":"module",
-            "name":"Security",
-            "quantity":2,
-            "id":59
-         },
-         {
-            "type":"module",
-            "name":"Vents",
-            "quantity":2,
-            "id":60
-         },
-         {
-            "type":"item",
-            "name":"Folder with intelligence",
-            "quantity":1,
-            "id":61
-         }
-      ],
-      "id":15
-   },
-   {
-      "module":"Intelligence center",
-      "level":2,
-      "function":"Provides passive income boosts and produces rare data items",
-      "imgSource":"/img/Intelligence_Center_Portrait.png",
-      "require":[
-         {
-            "type":"module",
-            "name":"Intelligence center",
-            "quantity":1,
-            "id":62
-         },
-         {
-            "type":"module",
-            "name":"Security",
-            "quantity":3,
-            "id":63
-         },
-         {
-            "type":"module",
-            "name":"Medstation",
-            "quantity":3,
-            "id":64
-         },
-         {
-            "type":"module",
-            "name":"Nutrition unit",
-            "quantity":3,
-            "id":65
-         },
-         {
-            "type":"skill",
-            "name":"Attention",
-            "quantity":3,
-            "id":27
-         },
-         {
-            "type":"item",
-            "name":"Folder with intelligence",
-            "quantity":3,
-            "id":66
-         },
-         {
-            "type":"item",
-            "name":"Secure flash drive",
-            "quantity":3,
-            "id":67
-         },
-         {
-            "type":"item",
-            "name":"Powercord",
-            "quantity":4,
-            "id":68
-         },
-         {
-            "type":"item",
-            "name":"Damaged hard drive",
-            "quantity":4,
-            "id":69
-         }
-      ],
-      "id":16
-   },
-   {
-      "module":"Intelligence center",
-      "level":3,
-      "function":"Provides passive income boosts and produces rare data items",
-      "imgSource":"/img/Intelligence_Center_Portrait.png",
-      "require":[
-         {
-            "type":"module",
-            "name":"Intelligence center",
-            "quantity":2,
-            "id":70
-         },
-         {
-            "type":"module",
-            "name":"Generator",
-            "quantity":3,
-            "id":71
-         },
-         {
-            "type":"item",
-            "name":"Military COFDM wireless signal transmitters",
-            "quantity":2,
-            "id":72
-         },
-         {
-            "type":"item",
-            "name":"VPX flash storage modules",
-            "quantity":2,
-            "id":73
-         },
-         {
-            "type":"item",
-            "name":"Gas analyzer",
-            "quantity":3,
-            "id":74
-         },
-         {
-            "type":"item",
-            "name":"Military cable",
-            "quantity":4,
-            "id":75
-         }
-      ],
-      "id":17
-   },
-   {
-      "module":"Lavatory",
-      "level":1,
-      "function":"Produces various trade items, mainly focused on fluid centric products",
-      "imgSource":"/img/Lavatory_Portrait.png",
-      "require":[
-         {
-            "type":"currency",
-            "name":"Rubles",
-            "quantity":2000,
-            "id":195
-         }
-      ],
-      "id":18
-   },
-   {
-      "module":"Lavatory",
-      "level":2,
-      "function":"Produces various trade items, mainly focused on fluid centric products",
-      "imgSource":"/img/Lavatory_Portrait.png",
-      "require":[
-         {
-            "type":"module",
-            "name":"Lavatory",
-            "quantity":1,
-            "id":76
-         },
-         {
-            "type":"module",
-            "name":"Water collector",
-            "quantity":1,
-            "id":77
-         },
-         {
-            "type":"item",
-            "name":"Corrugated hose",
-            "quantity":3,
-            "id":78
-         },
-         {
-            "type":"item",
-            "name":"A pack of screws",
-            "quantity":5,
-            "id":79
-         },
-         {
-            "type":"item",
-            "name":"Electric drill",
-            "quantity":1,
-            "id":80
-         }
-      ],
-      "id":19
-   },
-   {
-      "module":"Lavatory",
-      "level":3,
-      "function":"Produces various trade items, mainly focused on fluid centric products",
-      "imgSource":"/img/Lavatory_Portrait.png",
-      "require":[
-         {
-            "type":"module",
-            "name":"Lavatory",
-            "quantity":2,
-            "id":81
-         },
-         {
-            "type":"module",
-            "name":"Water collector",
-            "quantity":2,
-            "id":82
-         },
-         {
-            "type":"item",
-            "name":"Corrugated hose",
-            "quantity":6,
-            "id":83
-         },
-         {
-            "type":"item",
-            "name":"Pressure gauge",
-            "quantity":2,
-            "id":84
-         },
-         {
-            "type":"item",
-            "name":"A set of tools",
-            "quantity":1,
-            "id":85
-         },
-         {
-            "type":"item",
-            "name":"Xenomorph sealing foam",
-            "quantity":3,
-            "id":86
-         }
-      ],
-      "id":20
-   },
-   {
-      "module":"Library",
-      "level":1,
-      "function":"Provides exp and practical skills boost",
-      "imgSource":"/img/Library_Portrait.png",
-      "require":[
-         {
-            "type":"module",
-            "name":"Rest space",
-            "quantity":3,
-            "id":87
-         },
-         {
-            "type":"skill",
-            "name":"Memory",
-            "quantity":8,
-            "id":28
-         },
-         {
-            "type":"currency",
-            "name":"Rubles",
-            "quantity":400000,
-            "id":196
-         }
-      ],
-      "id":21
-   },
-   {
-      "module":"Medstation",
-      "level":1,
-      "function":"Provides passive healing and produces various healing items",
-      "imgSource":"/img/Medstation_Portrait.png",
-      "require":[
-         {
-            "type":"currency",
-            "name":"Rubles",
-            "quantity":25000,
-            "id":197
-         }
-      ],
-      "id":22
-   },
-   {
-      "module":"Medstation",
-      "level":2,
-      "function":"Provides passive healing and produces various healing items",
-      "imgSource":"/img/Medstation_Portrait.png",
-      "require":[
-         {
-            "type":"module",
-            "name":"Medstation",
-            "quantity":1,
-            "id":88
-         },
-         {
-            "type":"skill",
-            "name":"Health",
-            "quantity":2,
-            "id":29
-         },
-         {
-            "type":"item",
-            "name":"Medical bloodset",
-            "quantity":2,
-            "id":89
-         },
-         {
-            "type":"item",
-            "name":"Saline solution",
-            "quantity":3,
-            "id":90
-         },
-         {
-            "type":"currency",
-            "name":"Rubles",
-            "quantity":50000,
-            "id":198
-         }
-      ],
-      "id":23
-   },
-   {
-      "module":"Medstation",
-      "level":3,
-      "function":"Provides passive healing and produces various healing items",
-      "imgSource":"/img/Medstation_Portrait.png",
-      "require":[
-         {
-            "type":"module",
-            "name":"Medstation",
-            "quantity":2,
-            "id":91
-         },
-         {
-            "type":"skill",
-            "name":"Vitality",
-            "quantity":3,
-            "id":30
-         },
-         {
-            "type":"item",
-            "name":"LEDX skin transilluminator",
-            "quantity":1,
-            "id":92
-         },
-         {
-            "type":"item",
-            "name":"Opthalmoscope",
-            "quantity":1,
-            "id":93
-         },
-         {
-            "type":"item",
-            "name":"Saline solution",
-            "quantity":4,
-            "id":94
-         },
-         {
-            "type":"currency",
-            "name":"Rubles",
-            "quantity":150000,
-            "id":199
-         }
-      ],
-      "id":24
-   },
-   {
-      "module":"Nutrition unit",
-      "level":1,
-      "function":"Provides passive out-of-raid energy regen and produces various consumables",
-      "imgSource":"/img/Nutrition_unit_Portrait.png",
-      "require":[
-         {
-            "type":"module",
-            "name":"Generator",
-            "quantity":1,
-            "id":95
-         },
-         {
-            "type":"item",
-            "name":"Phase control relay",
-            "quantity":2,
-            "id":96
-         },
-         {
-            "type":"currency",
-            "name":"Rubles",
-            "quantity":25000,
-            "id":200
-         }
-      ],
-      "id":25
-   },
-   {
-      "module":"Nutrition unit",
-      "level":2,
-      "function":"Provides passive out-of-raid energy regen and produces various consumables",
-      "imgSource":"/img/Nutrition_unit_Portrait.png",
-      "require":[
-         {
-            "type":"module",
-            "name":"Nutrition unit",
-            "quantity":1,
-            "id":97
-         },
-         {
-            "type":"module",
-            "name":"Lavatory",
-            "quantity":2,
-            "id":98
-         },
-         {
-            "type":"item",
-            "name":"Phase control relay",
-            "quantity":1,
-            "id":99
-         },
-         {
-            "type":"item",
-            "name":"Wrench",
-            "quantity":4,
-            "id":100
-         },
-         {
-            "type":"item",
-            "name":"Corrugated hose",
-            "quantity":2,
-            "id":101
-         },
-         {
-            "type":"item",
-            "name":"Heat-exchange alkali surface washer",
-            "quantity":2,
-            "id":102
-         }
-      ],
-      "id":26
-   },
-   {
-      "module":"Nutrition unit",
-      "level":3,
-      "function":"Provides passive out-of-raid energy regen and produces various consumables",
-      "imgSource":"/img/Nutrition_unit_Portrait.png",
-      "require":[
-         {
-            "type":"module",
-            "name":"Nutrition unit",
-            "quantity":2,
-            "id":103
-         },
-         {
-            "type":"module",
-            "name":"Lavatory",
-            "quantity":3,
-            "id":104
-         },
-         {
-            "type":"module",
-            "name":"Generator",
-            "quantity":2,
-            "id":105
-         },
-         {
-            "type":"module",
-            "name":"Stash",
-            "quantity":2,
-            "id":106
-         },
-         {
-            "type":"skill",
-            "name":"Metabolism",
-            "quantity":3,
-            "id":31
-         },
-         {
-            "type":"item",
-            "name":"Smoked Chimney drain cleaner",
-            "quantity":2,
-            "id":219
-         },
-         {
-            "type":"item",
-            "name":"Sodium bicarbonate",
-            "quantity":3,
-            "id":107
-         },
-         {
-            "type":"item",
-            "name":"Coffee majaica",
-            "quantity":3,
-            "id":108
-         },
-         {
-            "type":"currency",
-            "name":"Rubles",
-            "quantity":125000,
-            "id":201
-         }
-      ],
-      "id":27
-   },
-   {
-      "module":"Rest space",
-      "level":1,
-      "function":"Provides passive out-of-raid energy regen and healing",
-      "imgSource":"/img/Rest_Space_Portrait.png",
-      "require":[
-         {
-            "type":"currency",
-            "name":"Rubles",
-            "quantity":10000,
-            "id":202
-         }
-      ],
-      "id":28
-   },
-   {
-      "module":"Rest space",
-      "level":2,
-      "function":"Provides passive out-of-raid energy regen and healing",
-      "imgSource":"/img/Rest_Space_Portrait.png",
-      "require":[
-         {
-            "type":"module",
-            "name":"Rest space",
-            "quantity":1,
-            "id":109
-         },
-         {
-            "type":"module",
-            "name":"Generator",
-            "quantity":2,
-            "id":110
-         },
-         {
-            "type":"module",
-            "name":"Heating",
-            "quantity":2,
-            "id":111
-         },
-         {
-            "type":"currency",
-            "name":"Rubles",
-            "quantity":35000,
-            "id":203
-         }
-      ],
-      "id":29
-   },
-   {
-      "module":"Rest space",
-      "level":3,
-      "function":"Provides passive out-of-raid energy regen and healing",
-      "imgSource":"/img/Rest_Space_Portrait.png",
-      "require":[
-         {
-            "type":"module",
-            "name":"Rest space",
-            "quantity":2,
-            "id":112
-         },
-         {
-            "type":"module",
-            "name":"Generator",
-            "quantity":3,
-            "id":113
-         },
-         {
-            "type":"module",
-            "name":"Heating",
-            "quantity":3,
-            "id":114
-         },
-         {
-            "type":"item",
-            "name":"Powercord",
-            "quantity":4,
-            "id":115
-         },
-         {
-            "type":"item",
-            "name":"Capacitors",
-            "quantity":5,
-            "id":116
-         },
-         {
-            "type":"item",
-            "name":"Wires",
-            "quantity":7,
-            "id":117
-         },
-         {
-            "type":"currency",
-            "name":"Dollars",
-            "quantity":3000,
-            "id":204
-         }
-      ],
-      "id":30
-   },
-   {
-      "module":"Scav case",
-      "level":1,
-      "function":"Provides passive income in the form of follower missions",
-      "imgSource":"/img/Scav_case_Portrait.png",
-      "require":[
-         {
-            "type":"item",
-            "name":"Bronze lion",
-            "quantity":4,
-            "id":118
-         },
-         {
-            "type":"item",
-            "name":"Gold skull ring",
-            "quantity":6,
-            "id":119
-         },
-         {
-            "type":"item",
-            "name":"Golden neck chain",
-            "quantity":8,
-            "id":120
-         },
-         {
-            "type":"item",
-            "name":"Roler submariner gold wrist watch",
-            "quantity":4,
-            "id":121
-         },
-         {
-            "type":"module",
-            "name":"Intelligence center",
-            "quantity":2,
-            "id":122
-         }
-      ],
-      "id":31
-   },
-   {
-      "module":"Security",
-      "level":1,
-      "function":"A resource sink to progress gate other hideout modules",
-      "imgSource":"/img/Security_Portrait.png",
-      "require":[
-         {
-            "type":"currency",
-            "name":"Rubles",
-            "quantity":20000,
-            "id":205
-         }
-      ],
-      "id":32
-   },
-   {
-      "module":"Security",
-      "level":2,
-      "function":"A resource sink to progress gate other hideout modules",
-      "imgSource":"/img/Security_Portrait.png",
-      "require":[
-         {
-            "type":"module",
-            "name":"Security",
-            "quantity":1,
-            "id":123
-         },
-         {
-            "type":"skill",
-            "name":"Endurance",
-            "quantity":2,
-            "id":57
-         },
-         {
-            "type":"currency",
-            "name":"Rubles",
-            "quantity":45000,
-            "id":206
-         }
-      ],
-      "id":33
-   },
-   {
-      "module":"Security",
-      "level":3,
-      "function":"A resource sink to progress gate other hideout modules",
-      "imgSource":"/img/Security_Portrait.png",
-      "require":[
-         {
-            "type":"module",
-            "name":"Security",
-            "quantity":2,
-            "id":124
-         },
-         {
-            "type":"module",
-            "name":"Illumination",
-            "quantity":3,
-            "id":125
-         },
-         {
-            "type":"item",
-            "name":"Working LCD",
-            "quantity":2,
-            "id":126
-         },
-         {
-            "type":"item",
-            "name":"Wires",
-            "quantity":4,
-            "id":127
-         },
-         {
-            "type":"item",
-            "name":"NIXXOR lens",
-            "quantity":8,
-            "id":128
-         },
-         {
-            "type":"item",
-            "name":"SSD drive",
-            "quantity":1,
-            "id":129
-         }
-      ],
-      "id":34
-   },
-   {
-      "module":"Shooting range",
-      "level":1,
-      "function":"Allows you to test fire your loadout",
-      "imgSource":"/img/Shooting_range_Portrait.png",
-      "require":[
-         {
-            "type":"module",
-            "name":"Illumination",
-            "quantity":2,
-            "id":130
-         },
-         {
-            "type":"item",
-            "name":"A pack of nails",
-            "quantity":4,
-            "id":131
-         },
-         {
-            "type":"item",
-            "name":"Screw nut",
-            "quantity":5,
-            "id":132
-         },
-         {
-            "type":"item",
-            "name":"Bolts",
-            "quantity":5,
-            "id":133
-         },
-         {
-            "type":"item",
-            "name":"Duct tape",
-            "quantity":3,
-            "id":134
-         }
-      ],
-      "id":35
-   },
-   {
-      "module":"Solar power",
-      "level":1,
-      "function":"Reduces generator fuel consumption by half",
-      "imgSource":"/img/Solar_power_Portrait.png",
-      "require":[
-         {
-            "type":"module",
-            "name":"Generator",
-            "quantity":3,
-            "id":135
-         },
-         {
-            "type":"module",
-            "name":"Workbench",
-            "quantity":3,
-            "id":136
-         },
-         {
-            "type":"item",
-            "name":"Military cable",
-            "quantity":8,
-            "id":137
-         },
-         {
-            "type":"item",
-            "name":"Phased array element",
-            "quantity":4,
-            "id":138
-         },
-         {
-            "type":"item",
-            "name":"Military power filter",
-            "quantity":8,
-            "id":139
-         },
-         {
-            "type":"currency",
-            "name":"Euros",
-            "quantity":25000,
-            "id":207
-         }
-      ],
-      "id":36
-   },
-   {
-      "module":"Stash",
-      "level":1,
-      "function":"Provides you with permanent item storage",
-      "imgSource":"/img/Stash_Portrait.png",
-      "require":[
-
-      ],
-      "id":37
-   },
-   {
-      "module":"Stash",
-      "level":2,
-      "function":"Provides you with permanent item storage",
-      "imgSource":"/img/Stash_Portrait.png",
-      "require":[
-         {
-            "type":"module",
-            "name":"Stash",
-            "quantity":1,
-            "id":140
-         },
-         {
-            "type":"item",
-            "name":"Hand drill",
-            "quantity":1,
-            "id":141
-         },
-         {
-            "type":"item",
-            "name":"A pack of screws",
-            "quantity":10,
-            "id":142
-         },
-         {
-            "type":"item",
-            "name":"WD-40 100ml",
-            "quantity":4,
-            "id":143
-         },
-         {
-            "type":"item",
-            "name":"A pack of nails",
-            "quantity":5,
-            "id":228
-         },
-         {
-            "type":"currency",
-            "name":"Rubles",
-            "quantity":3500000,
-            "id":208
-         }
-      ],
-      "id":38
-   },
-   {
-      "module":"Stash",
-      "level":3,
-      "function":"Provides you with permanent item storage",
-      "imgSource":"/img/Stash_Portrait.png",
-      "require":[
-         {
-            "type":"module",
-            "name":"Stash",
-            "quantity":2,
-            "id":144
-         },
-         {
-            "type":"module",
-            "name":"Heating",
-            "quantity":2,
-            "id":145
-         },
-         {
-            "type":"module",
-            "name":"Vents",
-            "quantity":2,
-            "id":146
-         },
-         {
-            "type":"item",
-            "name":"Electric drill",
-            "quantity":2,
-            "id":147
-         },
-         {
-            "type":"item",
-            "name":"A pack of screws",
-            "quantity":8,
-            "id":148
-         },
-         {
-            "type":"currency",
-            "name":"Rubles",
-            "quantity":8500000,
-            "id":209
-         }
-      ],
-      "id":39
-   },
-   {
-      "module":"Stash",
-      "level":4,
-      "function":"Provides you with permanent item storage",
-      "imgSource":"/img/Stash_Portrait.png",
-      "require":[
-         {
-            "type":"module",
-            "name":"Stash",
-            "quantity":3,
-            "id":149
-         },
-         {
-            "type":"module",
-            "name":"Generator",
-            "quantity":3,
-            "id":150
-         },
-         {
-            "type":"module",
-            "name":"Workbench",
-            "quantity":3,
-            "id":151
-         },
-         {
-            "type":"module",
-            "name":"Heating",
-            "quantity":3,
-            "id":152
-         },
-         {
-            "type":"module",
-            "name":"Intelligence center",
-            "quantity":2,
-            "id":153
-         },
-         {
-            "type":"currency",
-            "name":"Euros",
-            "quantity":150000,
-            "id":210
-         },
-         {
-            "type":"item",
-            "name":"Screw nut",
-            "quantity":5,
-            "id":225
-         },
-         {
-            "type":"item",
-            "name":"Bolts",
-            "quantity":5,
-            "id":226
-         },
-         {
-            "type":"item",
-            "name":"Shustrilo sealing foam",
-            "quantity":5,
-            "id":227
-         }
-      ],
-      "id":40
-   },
-   {
-      "module":"Vents",
-      "level":1,
-      "function":"A resource sink to progress gate other hideout modules",
-      "imgSource":"/img/Vents_Portrait.png",
-      "require":[
-         {
-            "type":"currency",
-            "name":"Rubles",
-            "quantity":25000,
-            "id":211
-         }
-      ],
-      "id":41
-   },
-   {
-      "module":"Vents",
-      "level":2,
-      "function":"A resource sink to progress gate other hideout modules",
-      "imgSource":"/img/Vents_Portrait.png",
-      "require":[
-         {
-            "type":"module",
-            "name":"Vents",
-            "quantity":1,
-            "id":154
-         },
-         {
-            "type":"item",
-            "name":"Electric motor",
-            "quantity":1,
-            "id":155
-         },
-         {
-            "type":"item",
-            "name":"Car battery",
-            "quantity":1,
-            "id":156
-         },
-         {
-            "type":"item",
-            "name":"CPU Fan",
-            "quantity":3,
-            "id":218
-         }
-      ],
-      "id":42
-   },
-   {
-      "module":"Vents",
-      "level":3,
-      "function":"A resource sink to progress gate other hideout modules",
-      "imgSource":"/img/Vents_Portrait.png",
-      "require":[
-         {
-            "type":"module",
-            "name":"Vents",
-            "quantity":2,
-            "id":157
-         },
-         {
-            "type":"module",
-            "name":"Generator",
-            "quantity":2,
-            "id":158
-         },
-         {
-            "type":"skill",
-            "name":"Strength",
-            "quantity":2,
-            "id":214
-         },
-         {
-            "type":"item",
-            "name":"Electric motor",
-            "quantity":4,
-            "id":159
-         },
-         {
-            "type":"item",
-            "name":"Car battery",
-            "quantity":4,
-            "id":160
-         },
-         {
-            "type":"item",
-            "name":"Wires",
-            "quantity":14,
-            "id":161
-         },
-         {
-            "type":"item",
-            "name":"Printed circuit board",
-            "quantity":5,
-            "id":162
-         }
-      ],
-      "id":43
-   },
-   {
-      "module":"Water collector",
-      "level":1,
-      "function":"Provides passive out-of-raid hydration regen",
-      "imgSource":"/img/Water_collector_Portrait.png",
-      "require":[
-         {
-            "type":"item",
-            "name":"Corrugated hose",
-            "quantity":4,
-            "id":163
-         },
-         {
-            "type":"item",
-            "name":"Bolts",
-            "quantity":5,
-            "id":164
-         },
-         {
-            "type":"item",
-            "name":"Screw nut",
-            "quantity":5,
-            "id":165
-         },
-         {
-            "type":"item",
-            "name":"Duct tape",
-            "quantity":3,
-            "id":166
-         }
-      ],
-      "id":44
-   },
-   {
-      "module":"Water collector",
-      "level":2,
-      "function":"Provides passive out-of-raid hydration regen",
-      "imgSource":"/img/Water_collector_Portrait.png",
-      "require":[
-         {
-            "type":"module",
-            "name":"Water collector",
-            "quantity":1,
-            "id":167
-         },
-         {
-            "type":"module",
-            "name":"Workbench",
-            "quantity":2,
-            "id":168
-         },
-         {
-            "type":"skill",
-            "name":"Attention",
-            "quantity":3,
-            "id":215
-         },
-         {
-            "type":"item",
-            "name":"Corrugated hose",
-            "quantity":6,
-            "id":169
-         },
-         {
-            "type":"item",
-            "name":"Electric motor",
-            "quantity":2,
-            "id":170
-         },
-         {
-            "type":"item",
-            "name":"A set of tools",
-            "quantity":2,
-            "id":171
-         }
-      ],
-      "id":45
-   },
-   {
-      "module":"Water collector",
-      "level":3,
-      "function":"Provides passive out-of-raid hydration regen",
-      "imgSource":"/img/Water_collector_Portrait.png",
-      "require":[
-         {
-            "type":"module",
-            "name":"Water collector",
-            "quantity":2,
-            "id":172
-         },
-         {
-            "type":"module",
-            "name":"Generator",
-            "quantity":3,
-            "id":173
-         },
-         {
-            "type":"module",
-            "name":"Heating",
-            "quantity":3,
-            "id":174
-         },
-         {
-            "type":"item",
-            "name":"Pliers elite",
-            "quantity":2,
-            "id":175
-         },
-         {
-            "type":"item",
-            "name":"Shustrilo sealing foam",
-            "quantity":5,
-            "id":176
-         },
-         {
-            "type":"currency",
-            "name":"Rubles",
-            "quantity":125000,
-            "id":212
-         }
-      ],
-      "id":46
-   },
-   {
-      "module":"Workbench",
-      "level":1,
-      "function":"Provides a wide variety of potential item crafts",
-      "imgSource":"/img/Workbench_Portrait.png",
-      "require":[
-         {
-            "type":"item",
-            "name":"Screw nuts",
-            "quantity":2,
-            "id":177
-         },
-         {
-            "type":"item",
-            "name":"Bolts",
-            "quantity":2,
-            "id":178
-         },
-         {
-            "type":"item",
-            "name":"Leatherman multitool",
-            "quantity":1,
-            "id":179
-         }
-      ],
-      "id":47
-   },
-   {
-      "module":"Workbench",
-      "level":2,
-      "function":"Provides a wide variety of potential item crafts",
-      "imgSource":"/img/Workbench_Portrait.png",
-      "require":[
-         {
-            "type":"module",
-            "name":"Workbench",
-            "quantity":1,
-            "id":180
-         },
-         {
-            "type":"module",
-            "name":"Illumination",
-            "quantity":2,
-            "id":181
-         },
-         {
-            "type":"item",
-            "name":"A set of tools",
-            "quantity":3,
-            "id":182
-         },
-         {
-            "type":"item",
-            "name":"Electric drill",
-            "quantity":2,
-            "id":183
-         },
-         {
-            "type":"item",
-            "name":"Bolts",
-            "quantity":6,
-            "id":184
-         }
-      ],
-      "id":48
-   },
-   {
-      "module":"Workbench",
-      "level":3,
-      "function":"Provides a wide variety of potential item crafts",
-      "imgSource":"/img/Workbench_Portrait.png",
-      "require":[
-         {
-            "type":"module",
-            "name":"Workbench",
-            "quantity":2,
-            "id":185
-         },
-         {
-            "type":"module",
-            "name":"Stash",
-            "quantity":2,
-            "id":186
-         },
-         {
-            "type":"item",
-            "name":"Pliers elite",
-            "quantity":2,
-            "id":187
-         },
-         {
-            "type":"item",
-            "name":"FireKlean gun lube",
-            "quantity":1,
-            "id":188
-         },
-         {
-            "type":"currency",
-            "name":"Rubles",
-            "quantity":195000,
-            "id":213
-         }
-      ],
-      "id":49
-   },
-   {
-      "module":"Christmas Tree",
-      "level":1,
-      "function":"Provides a wide variety of potential item crafts",
-      "imgSource":"/img/Christmas_tree_Portrait.png",
-      "require":[
-         {
-            "type":"module",
-            "name":"Generator",
-            "quantity":1,
-            "id":220
-         },
-         {
-            "type":"item",
-            "name":"Christmas tree decoration ball (red)",
-            "quantity":1,
-            "id":221
-         },
-         {
-            "type":"item",
-            "name":"Christmas tree decoration ball (silver)",
-            "quantity":1,
-            "id":222
-         },
-         {
-            "type":"item",
-            "name":"Christmas tree decoration ball (violet)",
-            "quantity":1,
-            "id":223
-         },
-         {
-            "type":"currency",
-            "name":"Rubles",
-            "quantity":10000,
-            "id":224
-         }
-      ],
-      "id":5
-   }
-]
+{
+   "stations": [
+      {
+         "id": 0,
+         "locales": {
+            "en": "Generator"
+         },
+         "function": "Provides power for hideout crafting stations",
+         "imgSource": "/img/Generator_Portrait.png"
+      },
+      {
+         "id": 1,
+         "locales": {
+            "en": "Air Filtering Unit"
+         },
+         "function": "Allows use of absorbers to increase physical skill leveling speed",
+         "imgSource": "/img/Air_Filtering_Unit_Portrait.png"
+      },
+      {
+         "id": 2,
+         "locales": {
+            "en": "Bitcoin farm"
+         },
+         "function": "Allows production of Physical bitcoins",
+         "imgSource": "/img/Bitcoin_farm_Portrait.png"
+      },
+      {
+         "id": 3,
+         "locales": {
+            "en": "Booze generator"
+         },
+         "function": "Allows production of moonshine",
+         "imgSource": "/img/Booze_generator_Portrait.png"
+      },
+      {
+         "id": 4,
+         "locales": {
+            "en": "Heating"
+         },
+         "function": "Provides passive out-of-raid energy regen for your PMC",
+         "imgSource": "/img/Heating_Portrait.png"
+      },
+      {
+         "id": 5,
+         "locales": {
+            "en": "Illumination"
+         },
+         "function": "A resource sink that gates other modules, while also providing 3d visibility",
+         "imgSource": "/img/Illumination_Portrait.png"
+      },
+      {
+         "id": 5,
+         "locales": {
+            "en": "Intelligence center"
+         },
+         "function": "Provides passive income boosts",
+         "imgSource": "/img/Intelligence_Center_Portrait.png"
+      },
+      {
+         "id": 6,
+         "locales": {
+            "en": "Lavatory"
+         },
+         "function": "Produces various trade items, mainly focused on fluid centric products",
+         "imgSource": "/img/Lavatory_Portrait.png"
+      },
+      {
+         "id": 7,
+         "locales": {
+            "en": "Library"
+         },
+         "function": "Provides exp and practical skills boost",
+         "imgSource": "/img/Library_Portrait.png"
+      },
+      {
+         "id": 8,
+         "locales": {
+            "en": "Medstation"
+         },
+         "function": "Provides passive healing and produces various healing items",
+         "imgSource": "/img/Medstation_Portrait.png"
+      },
+      {
+         "id": 9,
+         "locales": {
+            "en": "Nutrition Unit"
+         },
+         "function": "Provides passive out-of-raid energy regen and produces various consumables",
+         "imgSource": "/img/Nutrition_unit_Portrait.png"
+      },
+      {
+         "id": 10,
+         "locales": {
+            "en": "Rest space"
+         },
+         "function": "Provides passive out-of-raid energy regen and healing",
+         "imgSource": "/img/Rest_Space_Portrait.png"
+      },
+      {
+         "id": 11,
+         "locales": {
+            "en": "Scav case"
+         },
+         "function": "Provides passive income in the form of follower missions",
+         "imgSource": "/img/Scav_case_Portrait.png"
+      },
+      {
+         "id": 12,
+         "locales": {
+            "en": "Security"
+         },
+         "function": "A resource sink to progress gate other hideout modules",
+         "imgSource": "/img/Security_Portrait.png"
+      },
+      {
+         "id": 13,
+         "locales": {
+            "en": "Shooting range"
+         },
+         "function": "Allows you to test fire your loadout",
+         "imgSource": "/img/Shooting_range_Portrait.png"
+      },
+      {
+         "id": 14,
+         "locale": {
+            "en": "Solar power"
+         },
+         "function": "Reduces generator fuel consumption by half",
+         "imgSource": "/img/Solar_power_Portrait.png"
+      },
+      {
+         "id": 15,
+         "locales": {
+            "en": "Stash"
+         },
+         "function": "Provides you with permanent item storage",
+         "imgSource": "/img/Stash_Portrait.png"
+      },
+      {
+         "id": 16,
+         "locales": {
+            "en": "Vents"
+         },
+         "function": "A resource sink to progress gate other hideout modules",
+         "imgSource": "/img/Vents_Portrait.png"
+      },
+      {
+         "id": 17,
+         "locales": {
+            "en": "Water collector"
+         },
+         "function": "Provides passive out-of-raid hydration regen",
+         "imgSource": "/img/Water_collector_Portrait.png"
+      },
+      {
+         "id": 18,
+         "locales": {
+            "en": "Workbench"
+         },
+         "function": "Provides a wide variety of potential item crafts",
+         "imgSource": "/img/Workbench_Portrait.png"
+      },
+      {
+         "id": 19,
+         "locales": {
+            "en": "Christmas Tree"
+         },
+         "function": "Provides a wide variety of potential item crafts",
+         "imgSource": "/img/Christmas_tree_Portrait.png"
+      }
+   ],
+   "modules": [
+      {
+         "module": "Air Filtering Unit",
+         "level": 1,
+         "require": [
+            {
+               "type": "module",
+               "name": "Generator",
+               "quantity": 3,
+               "id": 0
+            },
+            {
+               "type": "module",
+               "name": "Vents",
+               "quantity": 3,
+               "id": 1
+            },
+            {
+               "type": "currency",
+               "name": "Dollars",
+               "quantity": 10000,
+               "id": 189
+            }
+         ],
+         "id": 0,
+         "stationId": 1
+      },
+      {
+         "module": "Bitcoin farm",
+         "level": 1,
+         "require": [
+            {
+               "type": "module",
+               "name": "Intelligence center",
+               "quantity": 2,
+               "id": 2
+            },
+            {
+               "type": "item",
+               "name": "CPU Fan",
+               "quantity": 15,
+               "id": 3
+            },
+            {
+               "type": "item",
+               "name": "Power supply unit",
+               "quantity": 10,
+               "id": 4
+            },
+            {
+               "type": "item",
+               "name": "Powercord",
+               "quantity": 5,
+               "id": 5
+            },
+            {
+               "type": "item",
+               "name": "Electric drill",
+               "quantity": 1,
+               "id": 6
+            }
+         ],
+         "id": 1,
+         "stationId": 2
+      },
+      {
+         "module": "Bitcoin farm",
+         "level": 2,
+         "require": [
+            {
+               "type": "module",
+               "name": "Generator",
+               "quantity": 3,
+               "id": 7
+            },
+            {
+               "type": "module",
+               "name": "Bitcoin farm",
+               "quantity": 1,
+               "id": 8
+            },
+            {
+               "type": "item",
+               "name": "CPU Fan",
+               "quantity": 15,
+               "id": 9
+            },
+            {
+               "type": "item",
+               "name": "Power supply unit",
+               "quantity": 8,
+               "id": 10
+            },
+            {
+               "type": "item",
+               "name": "Printed circuit board",
+               "quantity": 10,
+               "id": 11
+            },
+            {
+               "type": "item",
+               "name": "Phase control relay",
+               "quantity": 5,
+               "id": 12
+            }
+         ],
+         "id": 2,
+         "stationId": 2
+      },
+      {
+         "module": "Bitcoin farm",
+         "level": 3,
+         "require": [
+            {
+               "type": "module",
+               "name": "Water collector",
+               "quantity": 3,
+               "id": 13
+            },
+            {
+               "type": "module",
+               "name": "Solar power",
+               "quantity": 1,
+               "id": 14
+            },
+            {
+               "type": "module",
+               "name": "Bitcoin farm",
+               "quantity": 2,
+               "id": 15
+            },
+            {
+               "type": "item",
+               "name": "CPU Fan",
+               "quantity": 25,
+               "id": 16
+            },
+            {
+               "type": "item",
+               "name": "Silicone tube",
+               "quantity": 15,
+               "id": 17
+            },
+            {
+               "type": "item",
+               "name": "Electric motor",
+               "quantity": 10,
+               "id": 18
+            },
+            {
+               "type": "item",
+               "name": "Pressure gauge",
+               "quantity": 10,
+               "id": 19
+            }
+         ],
+         "id": 3,
+         "stationId": 2
+      },
+      {
+         "module": "Booze generator",
+         "level": 1,
+         "require": [
+            {
+               "type": "module",
+               "name": "Water collector",
+               "quantity": 3,
+               "id": 20
+            },
+            {
+               "type": "module",
+               "name": "Nutrition unit",
+               "quantity": 3,
+               "id": 21
+            },
+            {
+               "type": "item",
+               "name": "Corrugated hose",
+               "quantity": 5,
+               "id": 22
+            },
+            {
+               "type": "item",
+               "name": "Silicone tubes",
+               "quantity": 4,
+               "id": 23
+            },
+            {
+               "type": "item",
+               "name": "Analog thermometer",
+               "quantity": 2,
+               "id": 24
+            },
+            {
+               "type": "item",
+               "name": "Pressure gauges",
+               "quantity": 2,
+               "id": 25
+            }
+         ],
+         "id": 4,
+         "stationId": 3
+      },
+      {
+         "module": "Generator",
+         "level": 1,
+         "require": [
+            {
+               "type": "currency",
+               "name": "Rubles",
+               "quantity": 100000,
+               "id": 190
+            },
+            {
+               "type": "item",
+               "name": "Spark plug",
+               "quantity": 1,
+               "id": 217
+            }
+         ],
+         "id": 6,
+         "stationId": 0
+      },
+      {
+         "module": "Generator",
+         "level": 2,
+         "require": [
+            {
+               "type": "module",
+               "name": "Generator",
+               "quantity": 1,
+               "id": 32
+            },
+            {
+               "type": "module",
+               "name": "Security",
+               "quantity": 2,
+               "id": 33
+            },
+            {
+               "type": "module",
+               "name": "Vents",
+               "quantity": 2,
+               "id": 34
+            },
+            {
+               "type": "item",
+               "name": "Phase control relay",
+               "quantity": 5,
+               "id": 35
+            },
+            {
+               "type": "item",
+               "name": "Electric motor",
+               "quantity": 1,
+               "id": 36
+            },
+            {
+               "type": "item",
+               "name": "Wires",
+               "quantity": 15,
+               "id": 37
+            }
+         ],
+         "id": 7,
+         "stationId": 0
+      },
+      {
+         "module": "Generator",
+         "level": 3,
+         "require": [
+            {
+               "type": "module",
+               "name": "Generator",
+               "quantity": 2,
+               "id": 38
+            },
+            {
+               "type": "module",
+               "name": "Security",
+               "quantity": 3,
+               "id": 39
+            },
+            {
+               "type": "module",
+               "name": "Vents",
+               "quantity": 3,
+               "id": 40
+            },
+            {
+               "type": "item",
+               "name": "Phase control relay",
+               "quantity": 6,
+               "id": 41
+            },
+            {
+               "type": "item",
+               "name": "Electric motor",
+               "quantity": 2,
+               "id": 42
+            },
+            {
+               "type": "item",
+               "name": "Spark plug",
+               "quantity": 5,
+               "id": 43
+            },
+            {
+               "type": "item",
+               "name": "Power supply unit",
+               "quantity": 5,
+               "id": 44
+            }
+         ],
+         "id": 8,
+         "stationId": 0
+      },
+      {
+         "module": "Heating",
+         "level": 1,
+         "require": [
+            {
+               "type": "currency",
+               "name": "Rubles",
+               "quantity": 25000,
+               "id": 191
+            }
+         ],
+         "id": 9,
+         "stationId": 4
+      },
+      {
+         "module": "Heating",
+         "level": 2,
+         "require": [
+            {
+               "type": "module",
+               "name": "Heating",
+               "quantity": 1,
+               "id": 45
+            },
+            {
+               "type": "skill",
+               "name": "Endurance",
+               "quantity": 1,
+               "id": 26
+            },
+            {
+               "type": "currency",
+               "name": "Rubles",
+               "quantity": 50000,
+               "id": 192
+            }
+         ],
+         "id": 10,
+         "stationId": 4
+      },
+      {
+         "module": "Heating",
+         "level": 3,
+         "require": [
+            {
+               "type": "module",
+               "name": "Heating",
+               "quantity": 2,
+               "id": 46
+            },
+            {
+               "type": "module",
+               "name": "Workbench",
+               "quantity": 2,
+               "id": 47
+            },
+            {
+               "type": "module",
+               "name": "Generator",
+               "quantity": 2,
+               "id": 48
+            },
+            {
+               "type": "item",
+               "name": "Radiator helix",
+               "quantity": 8,
+               "id": 49
+            },
+            {
+               "type": "item",
+               "name": "Wires",
+               "quantity": 8,
+               "id": 50
+            }
+         ],
+         "id": 11,
+         "stationId": 4
+      },
+      {
+         "module": "Illumination",
+         "level": 1,
+         "require": [
+            {
+               "type": "currency",
+               "name": "Rubles",
+               "quantity": 10000,
+               "id": 193
+            }
+         ],
+         "id": 12,
+         "stationId": 5
+      },
+      {
+         "module": "Illumination",
+         "level": 2,
+         "require": [
+            {
+               "type": "module",
+               "name": "Illumination",
+               "quantity": 1,
+               "id": 51
+            },
+            {
+               "type": "module",
+               "name": "Generator",
+               "quantity": 1,
+               "id": 52
+            },
+            {
+               "type": "item",
+               "name": "Light bulb",
+               "quantity": 14,
+               "id": 53
+            },
+            {
+               "type": "item",
+               "name": "Wires",
+               "quantity": 5,
+               "id": 54
+            }
+         ],
+         "id": 13,
+         "stationId": 5
+      },
+      {
+         "module": "Illumination",
+         "level": 3,
+         "require": [
+            {
+               "type": "module",
+               "name": "Illumination",
+               "quantity": 2,
+               "id": 55
+            },
+            {
+               "type": "module",
+               "name": "Generator",
+               "quantity": 2,
+               "id": 56
+            },
+            {
+               "type": "item",
+               "name": "Capacitors",
+               "quantity": 7,
+               "id": 58
+            },
+            {
+               "type": "item",
+               "name": "Wires",
+               "quantity": 6,
+               "id": 216
+            },
+            {
+               "type": "currency",
+               "name": "Rubles",
+               "quantity": 50000,
+               "id": 194
+            }
+         ],
+         "id": 14,
+         "stationId": 5
+      },
+      {
+         "module": "Intelligence center",
+         "level": 1,
+         "function": "Provides passive income boosts",
+         "imgSource": "/img/Intelligence_Center_Portrait.png",
+         "require": [
+            {
+               "type": "module",
+               "name": "Security",
+               "quantity": 2,
+               "id": 59
+            },
+            {
+               "type": "module",
+               "name": "Vents",
+               "quantity": 2,
+               "id": 60
+            },
+            {
+               "type": "item",
+               "name": "Folder with intelligence",
+               "quantity": 1,
+               "id": 61
+            }
+         ],
+         "id": 15,
+         "stationId": 6
+      },
+      {
+         "module": "Intelligence center",
+         "level": 2,
+         "function": "Provides passive income boosts and produces rare data items",
+         "imgSource": "/img/Intelligence_Center_Portrait.png",
+         "require": [
+            {
+               "type": "module",
+               "name": "Intelligence center",
+               "quantity": 1,
+               "id": 62
+            },
+            {
+               "type": "module",
+               "name": "Security",
+               "quantity": 3,
+               "id": 63
+            },
+            {
+               "type": "module",
+               "name": "Medstation",
+               "quantity": 3,
+               "id": 64
+            },
+            {
+               "type": "module",
+               "name": "Nutrition unit",
+               "quantity": 3,
+               "id": 65
+            },
+            {
+               "type": "skill",
+               "name": "Attention",
+               "quantity": 3,
+               "id": 27
+            },
+            {
+               "type": "item",
+               "name": "Folder with intelligence",
+               "quantity": 3,
+               "id": 66
+            },
+            {
+               "type": "item",
+               "name": "Secure flash drive",
+               "quantity": 3,
+               "id": 67
+            },
+            {
+               "type": "item",
+               "name": "Powercord",
+               "quantity": 4,
+               "id": 68
+            },
+            {
+               "type": "item",
+               "name": "Damaged hard drive",
+               "quantity": 4,
+               "id": 69
+            }
+         ],
+         "id": 16,
+         "stationId": 6
+      },
+      {
+         "module": "Intelligence center",
+         "level": 3,
+         "function": "Provides passive income boosts and produces rare data items",
+         "imgSource": "/img/Intelligence_Center_Portrait.png",
+         "require": [
+            {
+               "type": "module",
+               "name": "Intelligence center",
+               "quantity": 2,
+               "id": 70
+            },
+            {
+               "type": "module",
+               "name": "Generator",
+               "quantity": 3,
+               "id": 71
+            },
+            {
+               "type": "item",
+               "name": "Military COFDM wireless signal transmitters",
+               "quantity": 2,
+               "id": 72
+            },
+            {
+               "type": "item",
+               "name": "VPX flash storage modules",
+               "quantity": 2,
+               "id": 73
+            },
+            {
+               "type": "item",
+               "name": "Gas analyzer",
+               "quantity": 3,
+               "id": 74
+            },
+            {
+               "type": "item",
+               "name": "Military cable",
+               "quantity": 4,
+               "id": 75
+            }
+         ],
+         "id": 17,
+         "stationId": 6
+      },
+      {
+         "module": "Lavatory",
+         "level": 1,
+         "function": "Produces various trade items, mainly focused on fluid centric products",
+         "imgSource": "/img/Lavatory_Portrait.png",
+         "require": [
+            {
+               "type": "currency",
+               "name": "Rubles",
+               "quantity": 2000,
+               "id": 195
+            }
+         ],
+         "id": 18,
+         "stationId": 7
+      },
+      {
+         "module": "Lavatory",
+         "level": 2,
+         "function": "Produces various trade items, mainly focused on fluid centric products",
+         "imgSource": "/img/Lavatory_Portrait.png",
+         "require": [
+            {
+               "type": "module",
+               "name": "Lavatory",
+               "quantity": 1,
+               "id": 76
+            },
+            {
+               "type": "module",
+               "name": "Water collector",
+               "quantity": 1,
+               "id": 77
+            },
+            {
+               "type": "item",
+               "name": "Corrugated hose",
+               "quantity": 3,
+               "id": 78
+            },
+            {
+               "type": "item",
+               "name": "A pack of screws",
+               "quantity": 5,
+               "id": 79
+            },
+            {
+               "type": "item",
+               "name": "Electric drill",
+               "quantity": 1,
+               "id": 80
+            }
+         ],
+         "id": 19,
+         "stationId": 7
+      },
+      {
+         "module": "Lavatory",
+         "level": 3,
+         "function": "Produces various trade items, mainly focused on fluid centric products",
+         "imgSource": "/img/Lavatory_Portrait.png",
+         "require": [
+            {
+               "type": "module",
+               "name": "Lavatory",
+               "quantity": 2,
+               "id": 81
+            },
+            {
+               "type": "module",
+               "name": "Water collector",
+               "quantity": 2,
+               "id": 82
+            },
+            {
+               "type": "item",
+               "name": "Corrugated hose",
+               "quantity": 6,
+               "id": 83
+            },
+            {
+               "type": "item",
+               "name": "Pressure gauge",
+               "quantity": 2,
+               "id": 84
+            },
+            {
+               "type": "item",
+               "name": "A set of tools",
+               "quantity": 1,
+               "id": 85
+            },
+            {
+               "type": "item",
+               "name": "Xenomorph sealing foam",
+               "quantity": 3,
+               "id": 86
+            }
+         ],
+         "id": 20,
+         "stationId": 7
+      },
+      {
+         "module": "Library",
+         "level": 1,
+         "function": "Provides exp and practical skills boost",
+         "imgSource": "/img/Library_Portrait.png",
+         "require": [
+            {
+               "type": "module",
+               "name": "Rest space",
+               "quantity": 3,
+               "id": 87
+            },
+            {
+               "type": "skill",
+               "name": "Memory",
+               "quantity": 8,
+               "id": 28
+            },
+            {
+               "type": "currency",
+               "name": "Rubles",
+               "quantity": 400000,
+               "id": 196
+            }
+         ],
+         "id": 21
+      },
+      {
+         "module": "Medstation",
+         "level": 1,
+         "require": [
+            {
+               "type": "currency",
+               "name": "Rubles",
+               "quantity": 25000,
+               "id": 197
+            }
+         ],
+         "id": 22,
+         "stationId": 8
+      },
+      {
+         "module": "Medstation",
+         "level": 2,
+         "require": [
+            {
+               "type": "module",
+               "name": "Medstation",
+               "quantity": 1,
+               "id": 88
+            },
+            {
+               "type": "skill",
+               "name": "Health",
+               "quantity": 2,
+               "id": 29
+            },
+            {
+               "type": "item",
+               "name": "Medical bloodset",
+               "quantity": 2,
+               "id": 89
+            },
+            {
+               "type": "item",
+               "name": "Saline solution",
+               "quantity": 3,
+               "id": 90
+            },
+            {
+               "type": "currency",
+               "name": "Rubles",
+               "quantity": 50000,
+               "id": 198
+            }
+         ],
+         "id": 23,
+         "stationId": 8
+      },
+      {
+         "module": "Medstation",
+         "level": 3,
+         "require": [
+            {
+               "type": "module",
+               "name": "Medstation",
+               "quantity": 2,
+               "id": 91
+            },
+            {
+               "type": "skill",
+               "name": "Vitality",
+               "quantity": 3,
+               "id": 30
+            },
+            {
+               "type": "item",
+               "name": "LEDX skin transilluminator",
+               "quantity": 1,
+               "id": 92
+            },
+            {
+               "type": "item",
+               "name": "Opthalmoscope",
+               "quantity": 1,
+               "id": 93
+            },
+            {
+               "type": "item",
+               "name": "Saline solution",
+               "quantity": 4,
+               "id": 94
+            },
+            {
+               "type": "currency",
+               "name": "Rubles",
+               "quantity": 150000,
+               "id": 199
+            }
+         ],
+         "id": 24,
+         "stationId": 8
+      },
+      {
+         "module": "Nutrition unit",
+         "level": 1,
+         "require": [
+            {
+               "type": "module",
+               "name": "Generator",
+               "quantity": 1,
+               "id": 95
+            },
+            {
+               "type": "item",
+               "name": "Phase control relay",
+               "quantity": 2,
+               "id": 96
+            },
+            {
+               "type": "currency",
+               "name": "Rubles",
+               "quantity": 25000,
+               "id": 200
+            }
+         ],
+         "id": 25,
+         "stationId": 9
+      },
+      {
+         "module": "Nutrition unit",
+         "level": 2,
+         "require": [
+            {
+               "type": "module",
+               "name": "Nutrition unit",
+               "quantity": 1,
+               "id": 97
+            },
+            {
+               "type": "module",
+               "name": "Lavatory",
+               "quantity": 2,
+               "id": 98
+            },
+            {
+               "type": "item",
+               "name": "Phase control relay",
+               "quantity": 1,
+               "id": 99
+            },
+            {
+               "type": "item",
+               "name": "Wrench",
+               "quantity": 4,
+               "id": 100
+            },
+            {
+               "type": "item",
+               "name": "Corrugated hose",
+               "quantity": 2,
+               "id": 101
+            },
+            {
+               "type": "item",
+               "name": "Heat-exchange alkali surface washer",
+               "quantity": 2,
+               "id": 102
+            }
+         ],
+         "id": 26,
+         "stationId": 9
+      },
+      {
+         "module": "Nutrition unit",
+         "level": 3,
+         "require": [
+            {
+               "type": "module",
+               "name": "Nutrition unit",
+               "quantity": 2,
+               "id": 103
+            },
+            {
+               "type": "module",
+               "name": "Lavatory",
+               "quantity": 3,
+               "id": 104
+            },
+            {
+               "type": "module",
+               "name": "Generator",
+               "quantity": 2,
+               "id": 105
+            },
+            {
+               "type": "module",
+               "name": "Stash",
+               "quantity": 2,
+               "id": 106
+            },
+            {
+               "type": "skill",
+               "name": "Metabolism",
+               "quantity": 3,
+               "id": 31
+            },
+            {
+               "type": "item",
+               "name": "Smoked Chimney drain cleaner",
+               "quantity": 2,
+               "id": 219
+            },
+            {
+               "type": "item",
+               "name": "Sodium bicarbonate",
+               "quantity": 3,
+               "id": 107
+            },
+            {
+               "type": "item",
+               "name": "Coffee majaica",
+               "quantity": 3,
+               "id": 108
+            },
+            {
+               "type": "currency",
+               "name": "Rubles",
+               "quantity": 125000,
+               "id": 201
+            }
+         ],
+         "id": 27,
+         "stationId": 9
+      },
+      {
+         "module": "Rest space",
+         "level": 1,
+         "require": [
+            {
+               "type": "currency",
+               "name": "Rubles",
+               "quantity": 10000,
+               "id": 202
+            }
+         ],
+         "id": 28,
+         "stationId": 10
+      },
+      {
+         "module": "Rest space",
+         "level": 2,
+         "require": [
+            {
+               "type": "module",
+               "name": "Rest space",
+               "quantity": 1,
+               "id": 109
+            },
+            {
+               "type": "module",
+               "name": "Generator",
+               "quantity": 2,
+               "id": 110
+            },
+            {
+               "type": "module",
+               "name": "Heating",
+               "quantity": 2,
+               "id": 111
+            },
+            {
+               "type": "currency",
+               "name": "Rubles",
+               "quantity": 35000,
+               "id": 203
+            }
+         ],
+         "id": 29,
+         "stationId": 10
+      },
+      {
+         "module": "Rest space",
+         "level": 3,
+         "require": [
+            {
+               "type": "module",
+               "name": "Rest space",
+               "quantity": 2,
+               "id": 112
+            },
+            {
+               "type": "module",
+               "name": "Generator",
+               "quantity": 3,
+               "id": 113
+            },
+            {
+               "type": "module",
+               "name": "Heating",
+               "quantity": 3,
+               "id": 114
+            },
+            {
+               "type": "item",
+               "name": "Powercord",
+               "quantity": 4,
+               "id": 115
+            },
+            {
+               "type": "item",
+               "name": "Capacitors",
+               "quantity": 5,
+               "id": 116
+            },
+            {
+               "type": "item",
+               "name": "Wires",
+               "quantity": 7,
+               "id": 117
+            },
+            {
+               "type": "currency",
+               "name": "Dollars",
+               "quantity": 3000,
+               "id": 204
+            }
+         ],
+         "id": 30,
+         "stationId": 10
+      },
+      {
+         "module": "Scav case",
+         "level": 1,
+         "require": [
+            {
+               "type": "item",
+               "name": "Bronze lion",
+               "quantity": 4,
+               "id": 118
+            },
+            {
+               "type": "item",
+               "name": "Gold skull ring",
+               "quantity": 6,
+               "id": 119
+            },
+            {
+               "type": "item",
+               "name": "Golden neck chain",
+               "quantity": 8,
+               "id": 120
+            },
+            {
+               "type": "item",
+               "name": "Roler submariner gold wrist watch",
+               "quantity": 4,
+               "id": 121
+            },
+            {
+               "type": "module",
+               "name": "Intelligence center",
+               "quantity": 2,
+               "id": 122
+            }
+         ],
+         "id": 31,
+         "stationId": 11
+      },
+      {
+         "module": "Security",
+         "level": 1,
+         "require": [
+            {
+               "type": "currency",
+               "name": "Rubles",
+               "quantity": 20000,
+               "id": 205
+            }
+         ],
+         "id": 32,
+         "stationId": 12
+      },
+      {
+         "module": "Security",
+         "level": 2,
+         "require": [
+            {
+               "type": "module",
+               "name": "Security",
+               "quantity": 1,
+               "id": 123
+            },
+            {
+               "type": "skill",
+               "name": "Endurance",
+               "quantity": 2,
+               "id": 57
+            },
+            {
+               "type": "currency",
+               "name": "Rubles",
+               "quantity": 45000,
+               "id": 206
+            }
+         ],
+         "id": 33,
+         "stationId": 12
+      },
+      {
+         "module": "Security",
+         "level": 3,
+         "require": [
+            {
+               "type": "module",
+               "name": "Security",
+               "quantity": 2,
+               "id": 124
+            },
+            {
+               "type": "module",
+               "name": "Illumination",
+               "quantity": 3,
+               "id": 125
+            },
+            {
+               "type": "item",
+               "name": "Working LCD",
+               "quantity": 2,
+               "id": 126
+            },
+            {
+               "type": "item",
+               "name": "Wires",
+               "quantity": 4,
+               "id": 127
+            },
+            {
+               "type": "item",
+               "name": "NIXXOR lens",
+               "quantity": 8,
+               "id": 128
+            },
+            {
+               "type": "item",
+               "name": "SSD drive",
+               "quantity": 1,
+               "id": 129
+            }
+         ],
+         "id": 34,
+         "stationId": 12
+      },
+      {
+         "module": "Shooting range",
+         "level": 1,
+         "require": [
+            {
+               "type": "module",
+               "name": "Illumination",
+               "quantity": 2,
+               "id": 130
+            },
+            {
+               "type": "item",
+               "name": "A pack of nails",
+               "quantity": 4,
+               "id": 131
+            },
+            {
+               "type": "item",
+               "name": "Screw nut",
+               "quantity": 5,
+               "id": 132
+            },
+            {
+               "type": "item",
+               "name": "Bolts",
+               "quantity": 5,
+               "id": 133
+            },
+            {
+               "type": "item",
+               "name": "Duct tape",
+               "quantity": 3,
+               "id": 134
+            }
+         ],
+         "id": 35,
+         "stationId": 13
+      },
+      {
+         "module": "Solar power",
+         "level": 1,
+         "require": [
+            {
+               "type": "module",
+               "name": "Generator",
+               "quantity": 3,
+               "id": 135
+            },
+            {
+               "type": "module",
+               "name": "Workbench",
+               "quantity": 3,
+               "id": 136
+            },
+            {
+               "type": "item",
+               "name": "Military cable",
+               "quantity": 8,
+               "id": 137
+            },
+            {
+               "type": "item",
+               "name": "Phased array element",
+               "quantity": 4,
+               "id": 138
+            },
+            {
+               "type": "item",
+               "name": "Military power filter",
+               "quantity": 8,
+               "id": 139
+            },
+            {
+               "type": "currency",
+               "name": "Euros",
+               "quantity": 25000,
+               "id": 207
+            }
+         ],
+         "id": 36,
+         "stationId": 14
+      },
+      {
+         "module": "Stash",
+         "level": 1,
+         "require": [],
+         "id": 37,
+         "stationId": 15
+      },
+      {
+         "module": "Stash",
+         "level": 2,
+         "require": [
+            {
+               "type": "module",
+               "name": "Stash",
+               "quantity": 1,
+               "id": 140
+            },
+            {
+               "type": "item",
+               "name": "Hand drill",
+               "quantity": 1,
+               "id": 141
+            },
+            {
+               "type": "item",
+               "name": "A pack of screws",
+               "quantity": 10,
+               "id": 142
+            },
+            {
+               "type": "item",
+               "name": "WD-40 100ml",
+               "quantity": 4,
+               "id": 143
+            },
+            {
+               "type": "item",
+               "name": "A pack of nails",
+               "quantity": 5,
+               "id": 228
+            },
+            {
+               "type": "currency",
+               "name": "Rubles",
+               "quantity": 3500000,
+               "id": 208
+            }
+         ],
+         "id": 38,
+         "stationId": 15
+      },
+      {
+         "module": "Stash",
+         "level": 3,
+         "require": [
+            {
+               "type": "module",
+               "name": "Stash",
+               "quantity": 2,
+               "id": 144
+            },
+            {
+               "type": "module",
+               "name": "Heating",
+               "quantity": 2,
+               "id": 145
+            },
+            {
+               "type": "module",
+               "name": "Vents",
+               "quantity": 2,
+               "id": 146
+            },
+            {
+               "type": "item",
+               "name": "Electric drill",
+               "quantity": 2,
+               "id": 147
+            },
+            {
+               "type": "item",
+               "name": "A pack of screws",
+               "quantity": 8,
+               "id": 148
+            },
+            {
+               "type": "currency",
+               "name": "Rubles",
+               "quantity": 8500000,
+               "id": 209
+            }
+         ],
+         "id": 39,
+         "stationId": 15
+      },
+      {
+         "module": "Stash",
+         "level": 4,
+         "require": [
+            {
+               "type": "module",
+               "name": "Stash",
+               "quantity": 3,
+               "id": 149
+            },
+            {
+               "type": "module",
+               "name": "Generator",
+               "quantity": 3,
+               "id": 150
+            },
+            {
+               "type": "module",
+               "name": "Workbench",
+               "quantity": 3,
+               "id": 151
+            },
+            {
+               "type": "module",
+               "name": "Heating",
+               "quantity": 3,
+               "id": 152
+            },
+            {
+               "type": "module",
+               "name": "Intelligence center",
+               "quantity": 2,
+               "id": 153
+            },
+            {
+               "type": "currency",
+               "name": "Euros",
+               "quantity": 150000,
+               "id": 210
+            },
+            {
+               "type": "item",
+               "name": "Screw nut",
+               "quantity": 5,
+               "id": 225
+            },
+            {
+               "type": "item",
+               "name": "Bolts",
+               "quantity": 5,
+               "id": 226
+            },
+            {
+               "type": "item",
+               "name": "Shustrilo sealing foam",
+               "quantity": 5,
+               "id": 227
+            }
+         ],
+         "id": 40,
+         "stationId": 15
+      },
+      {
+         "module": "Vents",
+         "level": 1,
+         "require": [
+            {
+               "type": "currency",
+               "name": "Rubles",
+               "quantity": 25000,
+               "id": 211
+            }
+         ],
+         "id": 41,
+         "stationId": 16
+      },
+      {
+         "module": "Vents",
+         "level": 2,
+         "require": [
+            {
+               "type": "module",
+               "name": "Vents",
+               "quantity": 1,
+               "id": 154
+            },
+            {
+               "type": "item",
+               "name": "Electric motor",
+               "quantity": 1,
+               "id": 155
+            },
+            {
+               "type": "item",
+               "name": "Car battery",
+               "quantity": 1,
+               "id": 156
+            },
+            {
+               "type": "item",
+               "name": "CPU Fan",
+               "quantity": 3,
+               "id": 218
+            }
+         ],
+         "id": 42,
+         "stationId": 16
+      },
+      {
+         "module": "Vents",
+         "level": 3,
+         "require": [
+            {
+               "type": "module",
+               "name": "Vents",
+               "quantity": 2,
+               "id": 157
+            },
+            {
+               "type": "module",
+               "name": "Generator",
+               "quantity": 2,
+               "id": 158
+            },
+            {
+               "type": "skill",
+               "name": "Strength",
+               "quantity": 2,
+               "id": 214
+            },
+            {
+               "type": "item",
+               "name": "Electric motor",
+               "quantity": 4,
+               "id": 159
+            },
+            {
+               "type": "item",
+               "name": "Car battery",
+               "quantity": 4,
+               "id": 160
+            },
+            {
+               "type": "item",
+               "name": "Wires",
+               "quantity": 14,
+               "id": 161
+            },
+            {
+               "type": "item",
+               "name": "Printed circuit board",
+               "quantity": 5,
+               "id": 162
+            }
+         ],
+         "id": 43,
+         "stationId": 16
+      },
+      {
+         "module": "Water collector",
+         "level": 1,
+         "require": [
+            {
+               "type": "item",
+               "name": "Corrugated hose",
+               "quantity": 4,
+               "id": 163
+            },
+            {
+               "type": "item",
+               "name": "Bolts",
+               "quantity": 5,
+               "id": 164
+            },
+            {
+               "type": "item",
+               "name": "Screw nut",
+               "quantity": 5,
+               "id": 165
+            },
+            {
+               "type": "item",
+               "name": "Duct tape",
+               "quantity": 3,
+               "id": 166
+            }
+         ],
+         "id": 44,
+         "stationId": 17
+      },
+      {
+         "module": "Water collector",
+         "level": 2,
+         "require": [
+            {
+               "type": "module",
+               "name": "Water collector",
+               "quantity": 1,
+               "id": 167
+            },
+            {
+               "type": "module",
+               "name": "Workbench",
+               "quantity": 2,
+               "id": 168
+            },
+            {
+               "type": "skill",
+               "name": "Attention",
+               "quantity": 3,
+               "id": 215
+            },
+            {
+               "type": "item",
+               "name": "Corrugated hose",
+               "quantity": 6,
+               "id": 169
+            },
+            {
+               "type": "item",
+               "name": "Electric motor",
+               "quantity": 2,
+               "id": 170
+            },
+            {
+               "type": "item",
+               "name": "A set of tools",
+               "quantity": 2,
+               "id": 171
+            }
+         ],
+         "id": 45,
+         "stationId": 17
+      },
+      {
+         "module": "Water collector",
+         "level": 3,
+         "require": [
+            {
+               "type": "module",
+               "name": "Water collector",
+               "quantity": 2,
+               "id": 172
+            },
+            {
+               "type": "module",
+               "name": "Generator",
+               "quantity": 3,
+               "id": 173
+            },
+            {
+               "type": "module",
+               "name": "Heating",
+               "quantity": 3,
+               "id": 174
+            },
+            {
+               "type": "item",
+               "name": "Pliers elite",
+               "quantity": 2,
+               "id": 175
+            },
+            {
+               "type": "item",
+               "name": "Shustrilo sealing foam",
+               "quantity": 5,
+               "id": 176
+            },
+            {
+               "type": "currency",
+               "name": "Rubles",
+               "quantity": 125000,
+               "id": 212
+            }
+         ],
+         "id": 46,
+         "stationId": 17
+      },
+      {
+         "module": "Workbench",
+         "level": 1,
+         "require": [
+            {
+               "type": "item",
+               "name": "Screw nuts",
+               "quantity": 2,
+               "id": 177
+            },
+            {
+               "type": "item",
+               "name": "Bolts",
+               "quantity": 2,
+               "id": 178
+            },
+            {
+               "type": "item",
+               "name": "Leatherman multitool",
+               "quantity": 1,
+               "id": 179
+            }
+         ],
+         "id": 47,
+         "stationId": 18
+      },
+      {
+         "module": "Workbench",
+         "level": 2,
+         "require": [
+            {
+               "type": "module",
+               "name": "Workbench",
+               "quantity": 1,
+               "id": 180
+            },
+            {
+               "type": "module",
+               "name": "Illumination",
+               "quantity": 2,
+               "id": 181
+            },
+            {
+               "type": "item",
+               "name": "A set of tools",
+               "quantity": 3,
+               "id": 182
+            },
+            {
+               "type": "item",
+               "name": "Electric drill",
+               "quantity": 2,
+               "id": 183
+            },
+            {
+               "type": "item",
+               "name": "Bolts",
+               "quantity": 6,
+               "id": 184
+            }
+         ],
+         "id": 48,
+         "stationId": 18
+      },
+      {
+         "module": "Workbench",
+         "level": 3,
+         "require": [
+            {
+               "type": "module",
+               "name": "Workbench",
+               "quantity": 2,
+               "id": 185
+            },
+            {
+               "type": "module",
+               "name": "Stash",
+               "quantity": 2,
+               "id": 186
+            },
+            {
+               "type": "item",
+               "name": "Pliers elite",
+               "quantity": 2,
+               "id": 187
+            },
+            {
+               "type": "item",
+               "name": "FireKlean gun lube",
+               "quantity": 1,
+               "id": 188
+            },
+            {
+               "type": "currency",
+               "name": "Rubles",
+               "quantity": 195000,
+               "id": 213
+            }
+         ],
+         "id": 49,
+         "stationId": 18
+      },
+      {
+         "module": "Christmas Tree",
+         "level": 1,
+         "require": [
+            {
+               "type": "module",
+               "name": "Generator",
+               "quantity": 1,
+               "id": 220
+            },
+            {
+               "type": "item",
+               "name": "Christmas tree decoration ball (red)",
+               "quantity": 1,
+               "id": 221
+            },
+            {
+               "type": "item",
+               "name": "Christmas tree decoration ball (silver)",
+               "quantity": 1,
+               "id": 222
+            },
+            {
+               "type": "item",
+               "name": "Christmas tree decoration ball (violet)",
+               "quantity": 1,
+               "id": 223
+            },
+            {
+               "type": "currency",
+               "name": "Rubles",
+               "quantity": 10000,
+               "id": 224
+            }
+         ],
+         "id": 5,
+         "stationId": 19
+      }
+   ]
+}
