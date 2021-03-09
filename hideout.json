@@ -49,14 +49,6 @@
          "imgSource": "/img/Illumination_Portrait.png"
       },
       {
-         "id": 5,
-         "locales": {
-            "en": "Intelligence center"
-         },
-         "function": "Provides passive income boosts",
-         "imgSource": "/img/Intelligence_Center_Portrait.png"
-      },
-      {
          "id": 6,
          "locales": {
             "en": "Lavatory"
@@ -167,6 +159,14 @@
          },
          "function": "Provides a wide variety of potential item crafts",
          "imgSource": "/img/Christmas_tree_Portrait.png"
+      },
+      {
+         "id": 20,
+         "locales": {
+            "en": "Intelligence center"
+         },
+         "function": "Provides passive income boosts and produces rare data items",
+         "imgSource": "/img/Intelligence_Center_Portrait.png"
       }
    ],
    "modules": [
@@ -191,6 +191,18 @@
                "name": "Dollars",
                "quantity": 10000,
                "id": 189
+            },
+            {
+               "type": "item",
+               "name": "Military power filter",
+               "quantity": 1,
+               "id": 229
+            },
+            {
+               "type": "item",
+               "name": "Air filter for gas mask",
+               "quantity": 2,
+               "id": 230
             }
          ],
          "id": 0,
@@ -221,7 +233,7 @@
             {
                "type": "item",
                "name": "Powercord",
-               "quantity": 5,
+               "quantity": 10,
                "id": 5
             },
             {
@@ -259,13 +271,13 @@
             {
                "type": "item",
                "name": "Power supply unit",
-               "quantity": 8,
+               "quantity": 10,
                "id": 10
             },
             {
                "type": "item",
                "name": "Printed circuit board",
-               "quantity": 10,
+               "quantity": 15,
                "id": 11
             },
             {
@@ -495,6 +507,12 @@
                "name": "Rubles",
                "quantity": 25000,
                "id": 191
+            },
+            {
+               "type": "item",
+               "name": "Classic matches",
+               "quantity": 2,
+               "id": 231
             }
          ],
          "id": 9,
@@ -521,6 +539,18 @@
                "name": "Rubles",
                "quantity": 50000,
                "id": 192
+            },
+            {
+               "type": "item",
+               "name": "Dry fuel",
+               "quantity": 3,
+               "id": 232
+            },
+            {
+               "type": "item",
+               "name": "Hunter matches",
+               "quantity": 2,
+               "id": 233
             }
          ],
          "id": 10,
@@ -622,6 +652,12 @@
             },
             {
                "type": "module",
+               "name": "Workbench",
+               "quantity": 1,
+               "id": 234
+            },
+            {
+               "type": "module",
                "name": "Generator",
                "quantity": 2,
                "id": 56
@@ -651,8 +687,6 @@
       {
          "module": "Intelligence center",
          "level": 1,
-         "function": "Provides passive income boosts",
-         "imgSource": "/img/Intelligence_Center_Portrait.png",
          "require": [
             {
                "type": "module",
@@ -674,13 +708,11 @@
             }
          ],
          "id": 15,
-         "stationId": 6
+         "stationId": 20
       },
       {
          "module": "Intelligence center",
          "level": 2,
-         "function": "Provides passive income boosts and produces rare data items",
-         "imgSource": "/img/Intelligence_Center_Portrait.png",
          "require": [
             {
                "type": "module",
@@ -738,13 +770,11 @@
             }
          ],
          "id": 16,
-         "stationId": 6
+         "stationId": 20
       },
       {
          "module": "Intelligence center",
          "level": 3,
-         "function": "Provides passive income boosts and produces rare data items",
-         "imgSource": "/img/Intelligence_Center_Portrait.png",
          "require": [
             {
                "type": "module",
@@ -757,6 +787,12 @@
                "name": "Generator",
                "quantity": 3,
                "id": 71
+            },
+            {
+               "type": "module",
+               "name": "Workbench",
+               "quantity": 3,
+               "id": 235
             },
             {
                "type": "item",
@@ -784,29 +820,31 @@
             }
          ],
          "id": 17,
-         "stationId": 6
+         "stationId": 20
       },
       {
          "module": "Lavatory",
          "level": 1,
-         "function": "Produces various trade items, mainly focused on fluid centric products",
-         "imgSource": "/img/Lavatory_Portrait.png",
          "require": [
             {
                "type": "currency",
                "name": "Rubles",
                "quantity": 2000,
                "id": 195
+            },
+            {
+               "type": "item",
+               "name": "Toilet paper",
+               "quantity": 1,
+               "id": 236
             }
          ],
          "id": 18,
-         "stationId": 7
+         "stationId": 6
       },
       {
          "module": "Lavatory",
          "level": 2,
-         "function": "Produces various trade items, mainly focused on fluid centric products",
-         "imgSource": "/img/Lavatory_Portrait.png",
          "require": [
             {
                "type": "module",
@@ -819,6 +857,12 @@
                "name": "Water collector",
                "quantity": 1,
                "id": 77
+            },
+            {
+               "type": "module",
+               "name": "Vents",
+               "quantity": 1,
+               "id": 237
             },
             {
                "type": "item",
@@ -837,16 +881,20 @@
                "name": "Electric drill",
                "quantity": 1,
                "id": 80
+            },
+            {
+               "type": "item",
+               "name": "KEKTAPE duct tape",
+               "quantity": 1,
+               "id": 238
             }
          ],
          "id": 19,
-         "stationId": 7
+         "stationId": 6
       },
       {
          "module": "Lavatory",
          "level": 3,
-         "function": "Produces various trade items, mainly focused on fluid centric products",
-         "imgSource": "/img/Lavatory_Portrait.png",
          "require": [
             {
                "type": "module",
@@ -859,6 +907,12 @@
                "name": "Water collector",
                "quantity": 2,
                "id": 82
+            },
+            {
+               "type": "module",
+               "name": "Vents",
+               "quantity": 2,
+               "id": 239
             },
             {
                "type": "item",
@@ -886,13 +940,11 @@
             }
          ],
          "id": 20,
-         "stationId": 7
+         "stationId": 6
       },
       {
          "module": "Library",
          "level": 1,
-         "function": "Provides exp and practical skills boost",
-         "imgSource": "/img/Library_Portrait.png",
          "require": [
             {
                "type": "module",
@@ -911,9 +963,21 @@
                "name": "Rubles",
                "quantity": 400000,
                "id": 196
+            },
+            {
+               "type": "item",
+               "name": "Chainlet",
+               "quantity": 2,
+               "id": 240
+            },
+            {
+               "type": "currency",
+               "name": "Horse figurine",
+               "quantity": 1,
+               "id": 241
             }
          ],
-         "id": 21
+         "id": 7
       },
       {
          "module": "Medstation",
@@ -922,7 +986,7 @@
             {
                "type": "currency",
                "name": "Rubles",
-               "quantity": 25000,
+               "quantity": 20000,
                "id": 197
             }
          ],
@@ -944,6 +1008,12 @@
                "name": "Health",
                "quantity": 2,
                "id": 29
+            },
+            {
+               "type": "item",
+               "name": "Esmarch tourniquet",
+               "quantity": 2,
+               "id": 242
             },
             {
                "type": "item",
@@ -976,6 +1046,18 @@
                "name": "Medstation",
                "quantity": 2,
                "id": 91
+            },
+            {
+               "type": "module",
+               "name": "Lavatory",
+               "quantity": 2,
+               "id": 243
+            },
+            {
+               "type": "module",
+               "name": "Generator",
+               "quantity": 2,
+               "id": 244
             },
             {
                "type": "skill",
@@ -1148,6 +1230,12 @@
          "level": 1,
          "require": [
             {
+               "type": "module",
+               "name": "Vents",
+               "quantity": 1,
+               "id": 245
+            },
+            {
                "type": "currency",
                "name": "Rubles",
                "quantity": 10000,
@@ -1178,6 +1266,24 @@
                "name": "Heating",
                "quantity": 2,
                "id": 111
+            },
+            {
+               "type": "item",
+               "name": "Magnet",
+               "quantity": 1,
+               "id": 246
+            },
+            {
+               "type": "item",
+               "name": "DVD drive",
+               "quantity": 1,
+               "id": 247
+            },
+            {
+               "type": "item",
+               "name": "Energy-saving lamp",
+               "quantity": 3,
+               "id": 248
             },
             {
                "type": "currency",
@@ -1418,7 +1524,7 @@
             {
                "type": "item",
                "name": "Military cable",
-               "quantity": 8,
+               "quantity": 10,
                "id": 137
             },
             {
@@ -1430,13 +1536,13 @@
             {
                "type": "item",
                "name": "Military power filter",
-               "quantity": 8,
+               "quantity": 10,
                "id": 139
             },
             {
                "type": "currency",
                "name": "Euros",
-               "quantity": 25000,
+               "quantity": 50000,
                "id": 207
             }
          ],
@@ -1459,6 +1565,12 @@
                "name": "Stash",
                "quantity": 1,
                "id": 140
+            },
+            {
+               "type": "module",
+               "name": "Vents",
+               "quantity": 1,
+               "id": 249
             },
             {
                "type": "item",
@@ -1525,7 +1637,7 @@
             {
                "type": "item",
                "name": "A pack of screws",
-               "quantity": 8,
+               "quantity": 15,
                "id": 148
             },
             {
@@ -1723,6 +1835,12 @@
                "name": "Duct tape",
                "quantity": 3,
                "id": 166
+            },
+            {
+               "type": "module",
+               "name": "Security",
+               "quantity": 1,
+               "id": 250
             }
          ],
          "id": 44,
@@ -1767,6 +1885,12 @@
                "name": "A set of tools",
                "quantity": 2,
                "id": 171
+            },
+            {
+               "type": "item",
+               "name": "KEKTAPE duct tape",
+               "quantity": 1,
+               "id": 251
             }
          ],
          "id": 45,
@@ -1895,6 +2019,12 @@
                "name": "Stash",
                "quantity": 2,
                "id": 186
+            },
+            {
+               "type": "module",
+               "name": "Generator",
+               "quantity": 2,
+               "id": 252
             },
             {
                "type": "item",
