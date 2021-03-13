@@ -5,6 +5,19 @@ See [quests.json](quests.json) for Quest Data
 
 See [hideout.json](hideout.json) for Hideout Data
 
+## SVG Maps
+
+SVG maps are currently being worked on to use as basic indicators for quest locations. These aren't meant to be replacements for the fully labeled maps that the community has made, but as a blank canvas to overlay data programmatically. I've added the source files from Adobe Illustrator that I used to create them if anyone would like to help contribute them.
+
+Some general guidelines for the maps:
+- They should be entirely SVG drawn, no imported images
+- They should be as close to the in-game maps as possible, when available
+- They should not include labels
+- They should not include every detail, but just major landmarks
+- They should not split floors into separate spaces
+
+See `maps` folder for SVG maps
+
 ## CLI Tool
 
 I've created a simple CLI tool to do some basic data integrity checks.
@@ -20,14 +33,16 @@ Quest data syntax:
   "id": 1, // Unique integer defining this quest
   "require": {
     "level": 10, // Level requirement to accept this quest
-    "quest": [ "A name of a quest", "Name of another quest" ], // An array of quest names that are required to be completed before accpeting this quest. This will eventually be changed to numerical IDs, but I haven't gotten to that yet.
+    "quest": [ 0, 2, [3, 4] ], // Array of quests that are required - sub-arrays are "one-of" optional requirements
   },
   "giver": "Prapor", // The quest giver's name
-  "turnin": "Prapor", // Almost always the same as giver's name. Chemical Part 1 is the only situation where I wasn't sure if this was needed.
+  "turnin": "Prapor", // Almost always the same as giver's name.
   "title": "Quest's Proper Name", // The proper name of the quest
-  "wiki": "https://escapefromtarkov.gamepedia.com/Lend_lease_-_Part_1", // Quests dont currently have this, but if you can add a link to the wiki page for the quest, it would be helpful. I'd like to provide users a route to the wiki page for further guidance.
-  "exp": 1000, // The amount of EXP rewarded for the quest, eventually will try to help people optimize leveling to 40 as an alternative to Kappa goal
-  "unlocks": ["Item name", "Another item name"], // Array of item names that a quest unlocks - want to create a page to help people prioritize gear they want to unlock.
+  "wiki": "https://escapefromtarkov.gamepedia.com/Lend_lease_-_Part_1", // Wiki link
+  "exp": 1000, // The amount of EXP rewarded for the quest
+  "unlocks": ["Item name", "Another item name"], // Array of item names that a quest unlocks. Eventually this should be a separate data file with IDs
+  "nokappa": true, // Optional flag to indicate if this quest is needed to unlock Collector
+  "alternatives": [5, 6], // Array of quest IDs that if we complete will be 'failed'
   "reputation": [ // To go with leveling/trader unlocks guidance later on
   {
     "trader": "Prapor", // Name of the trader for the reputation change
