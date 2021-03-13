@@ -977,7 +977,8 @@
                "id": 241
             }
          ],
-         "id": 7
+         "id": 7,
+         "stationId": 7
       },
       {
          "module": "Medstation",
