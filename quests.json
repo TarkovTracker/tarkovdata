@@ -29,7 +29,7 @@
             },
             {
                 "type": "collect",
-                "target": "MP-133 pump-action shotguns",
+                "target": "MP-133 12ga shotgun",
                 "number": 2,
                 "location": "Any",
                 "id": 1
@@ -276,7 +276,7 @@
         "objectives": [
             {
                 "type": "find",
-                "target": "60-round 6L31 5.45x39 magazine for AK-74 and compatibles",
+                "target": "60-round 6L31 5.45x39 magazine for АК-74 and compatibles",
                 "number": 3,
                 "location": "Any",
                 "have": 0,
@@ -587,7 +587,7 @@
             },
             {
                 "type": "find",
-                "target": "Lower half-masks",
+                "target": "Lower half-mask",
                 "number": 7,
                 "location": "Any",
                 "id": 27
@@ -681,7 +681,7 @@
             },
             {
                 "type": "find",
-                "target": "Bars A-2607",
+                "target": "Bars A-2607- 95x18",
                 "number": 5,
                 "location": "Any",
                 "id": 31
@@ -724,21 +724,21 @@
             },
             {
                 "type": "find",
-                "target": "AK-74N",
+                "target": "AK-74N 5.45x39 assault rifle",
                 "number": 1,
                 "location": "Any",
                 "id": 33
             },
             {
                 "type": "find",
-                "target": "M4A1",
+                "target": "Colt M4A1 5.56x45 Assault Rifle",
                 "number": 1,
                 "location": "Any",
                 "id": 34
             },
             {
                 "type": "find",
-                "target": "PM pistol",
+                "target": "PM 9x18PM pistol",
                 "number": 2,
                 "location": "Any",
                 "id": 35
@@ -2783,7 +2783,7 @@
         "objectives": [
             {
                 "type": "find",
-                "target": "WD-40 100ml",
+                "target": "WD-40 100ml.",
                 "number": 1,
                 "location": "Any",
                 "id": 138
@@ -4760,7 +4760,7 @@
         "objectives": [
             {
                 "type": "find",
-                "target": "Ski hat with holes for eyes 1",
+                "target": "Ski hat with holes for eyes",
                 "number": 1,
                 "location": "Any",
                 "id": 223
@@ -4871,7 +4871,7 @@
         "objectives": [
             {
                 "type": "find",
-                "target": "Wartech gear rig",
+                "target": "Wartech gear rig (TV-109, TV-106)",
                 "number": 2,
                 "location": "Any",
                 "id": 229
@@ -5843,14 +5843,14 @@
             },
             {
                 "type": "collect",
-                "target": "Blue keycard",
+                "target": "Lab. Blue keycard",
                 "number": 1,
                 "location": "Any",
                 "id": 324
             },
             {
                 "type": "collect",
-                "target": "Green keycard",
+                "target": "Lab. Green keycard",
                 "number": 1,
                 "location": "Any",
                 "id": 325
@@ -5913,7 +5913,7 @@
         "objectives": [
             {
                 "type": "find",
-                "target": "CMS surgery kit",
+                "target": "CMS kit",
                 "number": 2,
                 "location": "Any",
                 "id": 271
@@ -6148,7 +6148,7 @@
             },
             {
                 "type": "find",
-                "target": "golden TT",
+                "target": "TT pistol 7.62x25 TT Gold",
                 "number": 1,
                 "location": "Customs",
                 "id": 280
@@ -6219,7 +6219,7 @@
             },
             {
                 "type": "find",
-                "target": "Killa's helmet",
+                "target": "Maska 1Sch helmet (Killa)",
                 "number": 1,
                 "location": "Interchange",
                 "id": 283
@@ -6256,7 +6256,7 @@
             },
             {
                 "type": "find",
-                "target": "Shturman's key",
+                "target": "Shturman key",
                 "number": 1,
                 "location": "Woods",
                 "id": 285
@@ -6490,14 +6490,14 @@
         "objectives": [
             {
                 "type": "find",
-                "target": "Military battery",
+                "target": "6-STEN-140-M military battery",
                 "number": 1,
                 "location": "Any",
                 "id": 293
             },
             {
                 "type": "find",
-                "target": "30-mil. shells for BMP cannon",
+                "target": "OFZ 30x160mm shell",
                 "number": 5,
                 "location": "Any",
                 "id": 294
@@ -6930,7 +6930,7 @@
         "wiki": "https://escapefromtarkov.gamepedia.com/Anesthesia",
         "exp": 12600,
         "nokappa": true,
-        "unlocks": [            
+        "unlocks": [
         ],
         "reputation": [
             {
@@ -7545,7 +7545,7 @@
             },
             {
                 "type": "find",
-                "target": "FireKlean gun lube",
+                "target": "#FireKlean gun lube",
                 "number": 1,
                 "location": "Any",
                 "id": 356
