@@ -786,14 +786,14 @@
             },
             {
                 "type": "collect",
-                "target": "USEC dogtags",
+                "target": "Dogtag USEC",
                 "number": 7,
                 "location": "Any",
                 "id": 37
             },
             {
                 "type": "collect",
-                "target": "BEAR dogtags",
+                "target": "Dogtag BEAR",
                 "number": 7,
                 "location": "Any",
                 "id": 38
@@ -1849,7 +1849,7 @@
             },
             {
                 "type": "find",
-                "target": "USEC dogtags",
+                "target": "Dogtag USEC",
                 "number": 7,
                 "location": "Any",
                 "id": 85
