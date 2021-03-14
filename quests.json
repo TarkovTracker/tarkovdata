@@ -4797,14 +4797,16 @@
         "objectives": [
             {
                 "type": "collect",
-                "target": "BNTI Gzhel-K armor 0-50% condition",
+                "target": "BNTI Gzhel-K armor",
+                "hint": "0-50% condition",
                 "number": 1,
                 "location": "Any",
                 "id": 225
             },
             {
                 "type": "collect",
-                "target": "BNTI Gzhel-K armor 50-100% condition",
+                "target": "BNTI Gzhel-K armor",
+                "hint": "50-100% condition",
                 "number": 1,
                 "location": "Any",
                 "id": 226
@@ -4834,14 +4836,16 @@
         "objectives": [
             {
                 "type": "collect",
-                "target": "6B43 Zabralo-Sh 6A Armor 0-50% condition",
+                "target": "6B43 Zabralo-Sh 6A Armor",
+                "hint": "0-50% condition",
                 "number": 1,
                 "location": "Any",
                 "id": 227
             },
             {
                 "type": "collect",
-                "target": "6B43 Zabralo-Sh 6A Armor 50-100% condition",
+                "target": "6B43 Zabralo-Sh 6A Armor",
+                "hint": "50-100% condition",
                 "number": 1,
                 "location": "Any",
                 "id": 228
