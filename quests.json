@@ -32,7 +32,8 @@
                 "target": "MP-133 12ga shotgun",
                 "number": 2,
                 "location": "Any",
-                "id": "54491c4f4bdc2db1078b4568"
+                "id": 1,
+                "bsgId": "54491c4f4bdc2db1078b4568"
             }
         ]
     },
@@ -280,7 +281,8 @@
                 "number": 3,
                 "location": "Any",
                 "have": 0,
-                "id": "55d482194bdc2d1d4e8b456b"
+                "id": 12,
+                "bsgId": "55d482194bdc2d1d4e8b456b"
             }
         ]
     },
@@ -590,7 +592,8 @@
                 "target": "Lower half-mask",
                 "number": 7,
                 "location": "Any",
-                "id": "572b7fa524597762b747ce82"
+                "id": 27,
+                "bsgId": "572b7fa524597762b747ce82"
             }
         ]
     },
@@ -684,7 +687,8 @@
                 "target": "Bars A-2607- 95x18",
                 "number": 5,
                 "location": "Any",
-                "id": "57e26fc7245977162a14b800"
+                "id": 31,
+                "bsgId": "57e26fc7245977162a14b800"
             }
         ]
     },
@@ -727,21 +731,24 @@
                 "target": "AK-74N 5.45x39 assault rifle",
                 "number": 1,
                 "location": "Any",
-                "id": "5644bd2b4bdc2d3b4c8b4572"
+                "id": 33,
+                "bsgId": "5644bd2b4bdc2d3b4c8b4572"
             },
             {
                 "type": "find",
                 "target": "Colt M4A1 5.56x45 Assault Rifle",
                 "number": 1,
                 "location": "Any",
-                "id": "5447a9cd4bdc2dbd208b4567"
+                "id": 34,
+                "bsgId": "5447a9cd4bdc2dbd208b4567"
             },
             {
                 "type": "find",
                 "target": "PM 9x18PM pistol",
                 "number": 2,
                 "location": "Any",
-                "id": "5448bd6b4bdc2dfc2f8b4569"
+                "id": 35,
+                "bsgId": "5448bd6b4bdc2dfc2f8b4569"
             }
         ]
     },
@@ -789,14 +796,16 @@
                 "target": "Dogtag USEC",
                 "number": 7,
                 "location": "Any",
-                "id": "59f32c3b86f77472a31742f0"
+                "id": 37,
+                "bsgId": "59f32c3b86f77472a31742f0"
             },
             {
                 "type": "collect",
                 "target": "Dogtag BEAR",
                 "number": 7,
                 "location": "Any",
-                "id": "59f32bb586f774757e1e8442"
+                "id": 38,
+                "bsgId": "59f32bb586f774757e1e8442"
             }
         ]
     },
@@ -824,7 +833,8 @@
                 "target": "Salewa First Aid Kit",
                 "number": 3,
                 "location": "Any",
-                "id": "544fb45d4bdc2dee738b4568"
+                "id": 39,
+                "bsgId": "544fb45d4bdc2dee738b4568"
             }
         ]
     },
@@ -856,7 +866,8 @@
                 "target": "Gas analyzer",
                 "number": 1,
                 "location": "Any",
-                "id": "590a3efd86f77437d351a25b"
+                "id": 40,
+                "bsgId": "590a3efd86f77437d351a25b"
             }
         ]
     },
@@ -886,7 +897,8 @@
                 "target": "Gas analyzer",
                 "number": 2,
                 "location": "Any",
-                "id": "590a3efd86f77437d351a25b"
+                "id": 41,
+                "bsgId": "590a3efd86f77437d351a25b"
             }
         ]
     },
@@ -917,7 +929,8 @@
                 "number": 4,
                 "location": "Any",
                 "have": 0,
-                "id": "544fb3f34bdc2d03748b456a"
+                "id": 42,
+                "bsgId": "544fb3f34bdc2d03748b456a"
             }
         ]
     },
@@ -1060,7 +1073,8 @@
                 "target": "Can of beef stew",
                 "number": 15,
                 "location": "Any",
-                "id": "57347d7224597744596b4e72"
+                "id": 47,
+                "bsgId": "57347d7224597744596b4e72"
             }
         ]
     },
@@ -1091,7 +1105,8 @@
                 "number": 4,
                 "location": "Any",
                 "have": 0,
-                "id": "5733279d245977289b77ec24"
+                "id": 48,
+                "bsgId": "5733279d245977289b77ec24"
             },
             {
                 "type": "find",
@@ -1099,7 +1114,8 @@
                 "number": 8,
                 "location": "Any",
                 "have": 0,
-                "id": "590a3c0a86f774385a33c450"
+                "id": 49,
+                "bsgId": "590a3c0a86f774385a33c450"
             }
         ]
     },
@@ -1345,14 +1361,16 @@
                 "target": "Ophthalmoscope",
                 "number": 1,
                 "location": "Any",
-                "id": "5af0534a86f7743b6f354284"
+                "id": 59,
+                "bsgId": "5af0534a86f7743b6f354284"
             },
             {
                 "type": "find",
                 "target": "LEDX Skin Transilluminator",
                 "number": 1,
                 "location": "Any",
-                "id": "5c0530ee86f774697952d952"
+                "id": 60,
+                "bsgId": "5c0530ee86f774697952d952"
             }
         ]
     },
@@ -1414,14 +1432,16 @@
                 "target": "Module-3M bodyarmor",
                 "number": 1,
                 "location": "Any",
-                "id": "59e7635f86f7742cbf2c1095"
+                "id": 62,
+                "bsgId": "59e7635f86f7742cbf2c1095"
             },
             {
                 "type": "find",
                 "target": "TOZ-106 bolt-action shotgun",
                 "number": 1,
                 "location": "Any",
-                "id": "5a38e6bac4a2826c6e06d79b"
+                "id": 63,
+                "bsgId": "5a38e6bac4a2826c6e06d79b"
             }
         ]
     },
@@ -1492,7 +1512,8 @@
                 "target": "Secure Flash drive",
                 "number": 2,
                 "location": "Any",
-                "id": "590c621186f774138d11ea29"
+                "id": 66,
+                "bsgId": "590c621186f774138d11ea29"
             }
         ]
     },
@@ -1805,14 +1826,16 @@
                 "target": "Respirator",
                 "number": 4,
                 "location": "Any",
-                "id": "59e7715586f7742ee5789605"
+                "id": 83,
+                "bsgId": "59e7715586f7742ee5789605"
             },
             {
                 "type": "find",
                 "target": "Medical bloodset",
                 "number": 3,
                 "location": "Any",
-                "id": "5b4335ba86f7744d2837a264"
+                "id": 84,
+                "bsgId": "5b4335ba86f7744d2837a264"
             }
         ]
     },
@@ -1852,7 +1875,8 @@
                 "target": "Dogtag USEC",
                 "number": 7,
                 "location": "Any",
-                "id": "59f32c3b86f77472a31742f0"
+                "id": 85,
+                "bsgId": "59f32c3b86f77472a31742f0"
             }
         ]
     },
@@ -1882,7 +1906,8 @@
                 "target": "Dollars",
                 "number": 6000,
                 "location": "Any",
-                "id": "5696686a4bdc2da3298b456a"
+                "id": 87,
+                "bsgId": "5696686a4bdc2da3298b456a"
             }
         ]
     },
@@ -1989,14 +2014,16 @@
                 "target": "Virtex programmable processor",
                 "number": 2,
                 "location": "Any",
-                "id": "5c05308086f7746b2101e90b"
+                "id": 95,
+                "bsgId": "5c05308086f7746b2101e90b"
             },
             {
                 "type": "find",
                 "target": "Military COFDM wireless Signal Transmitter",
                 "number": 1,
                 "location": "Any",
-                "id": "5c052f6886f7746b1e3db148"
+                "id": 96,
+                "bsgId": "5c052f6886f7746b1e3db148"
             }
         ]
     },
@@ -2577,7 +2604,8 @@
                 "target": "MRE lunch box",
                 "number": 5,
                 "location": "Any",
-                "id": "590c5f0d86f77413997acfab"
+                "id": 128,
+                "bsgId": "590c5f0d86f77413997acfab"
             },
             {
                 "type": "kill",
@@ -2786,28 +2814,32 @@
                 "target": "WD-40 100ml.",
                 "number": 1,
                 "location": "Any",
-                "id": "590c5bbd86f774785762df04"
+                "id": 138,
+                "bsgId": "590c5bbd86f774785762df04"
             },
             {
                 "type": "find",
                 "target": "Clin wiper",
                 "number": 2,
                 "location": "Any",
-                "id": "59e358a886f7741776641ac3"
+                "id": 139,
+                "bsgId": "59e358a886f7741776641ac3"
             },
             {
                 "type": "find",
                 "target": "Corrugated hose",
                 "number": 2,
                 "location": "Any",
-                "id": "59e35cbb86f7741778269d83"
+                "id": 140,
+                "bsgId": "59e35cbb86f7741778269d83"
             },
             {
                 "type": "find",
                 "target": "Ox bleach",
                 "number": 2,
                 "location": "Any",
-                "id": "59e3556c86f7741776641ac2"
+                "id": 141,
+                "bsgId": "59e3556c86f7741776641ac2"
             }
         ]
     },
@@ -2911,7 +2943,8 @@
                 "target": "Dollars",
                 "number": 8000,
                 "location": "Any",
-                "id": "5696686a4bdc2da3298b456a"
+                "id": 146,
+                "bsgId": "5696686a4bdc2da3298b456a"
             }
         ]
     },
@@ -2945,28 +2978,32 @@
                 "target": "Morphine injector",
                 "number": 4,
                 "location": "Any",
-                "id": "544fb3f34bdc2d03748b456a"
+                "id": 147,
+                "bsgId": "544fb3f34bdc2d03748b456a"
             },
             {
                 "type": "find",
                 "target": "Heat-exchange alkali surface washer",
                 "number": 2,
                 "location": "Any",
-                "id": "59faf98186f774067b6be103"
+                "id": 148,
+                "bsgId": "59faf98186f774067b6be103"
             },
             {
                 "type": "find",
                 "target": "Corrugated hose",
                 "number": 2,
                 "location": "Any",
-                "id": "59e35cbb86f7741778269d83"
+                "id": 149,
+                "bsgId": "59e35cbb86f7741778269d83"
             },
             {
                 "type": "find",
                 "target": "5L propane tank",
                 "number": 2,
                 "location": "Any",
-                "id": "59fafb5d86f774067a6f2084"
+                "id": 150,
+                "bsgId": "59fafb5d86f774067a6f2084"
             }
         ]
     },
@@ -3736,28 +3773,32 @@
                 "target": "PC CPU",
                 "number": 3,
                 "location": "Any",
-                "id": "573477e124597737dd42e191"
+                "id": 165,
+                "bsgId": "573477e124597737dd42e191"
             },
             {
                 "type": "find",
                 "target": "Rechargeable battery",
                 "number": 3,
                 "location": "Any",
-                "id": "590a358486f77429692b2790"
+                "id": 166,
+                "bsgId": "590a358486f77429692b2790"
             },
             {
                 "type": "find",
                 "target": "Printed circuit board",
                 "number": 3,
                 "location": "Any",
-                "id": "590a3b0486f7743954552bdb"
+                "id": 167,
+                "bsgId": "590a3b0486f7743954552bdb"
             },
             {
                 "type": "find",
                 "target": "Broken GPhone",
                 "number": 3,
                 "location": "Any",
-                "id": "56742c324bdc2d150f8b456d"
+                "id": 168,
+                "bsgId": "56742c324bdc2d150f8b456d"
             }
         ]
     },
@@ -3984,21 +4025,24 @@
                 "target": "Powercord",
                 "number": 2,
                 "location": "Any",
-                "id": "59e36c6f86f774176c10a2a7"
+                "id": 179,
+                "bsgId": "59e36c6f86f774176c10a2a7"
             },
             {
                 "type": "find",
                 "target": "T-Shaped Plug",
                 "number": 4,
                 "location": "Any",
-                "id": "57347cd0245977445a2d6ff1"
+                "id": 180,
+                "bsgId": "57347cd0245977445a2d6ff1"
             },
             {
                 "type": "find",
                 "target": "Printed circuit board",
                 "number": 2,
                 "location": "Any",
-                "id": "590a3b0486f7743954552bdb"
+                "id": 181,
+                "bsgId": "590a3b0486f7743954552bdb"
             }
         ]
     },
@@ -4065,14 +4109,16 @@
                 "target": "Graphics card",
                 "number": 3,
                 "location": "Any",
-                "id": "57347ca924597744596b4e71"
+                "id": 184,
+                "bsgId": "57347ca924597744596b4e71"
             },
             {
                 "type": "find",
                 "target": "CPU Fan",
                 "number": 8,
                 "location": "Any",
-                "id": "5734779624597737e04bf329"
+                "id": 185,
+                "bsgId": "5734779624597737e04bf329"
             }
         ]
     },
@@ -4103,14 +4149,16 @@
                 "target": "UHF RFID Reader",
                 "number": 1,
                 "location": "Any",
-                "id": "5c052fb986f7746b2101e909"
+                "id": 186,
+                "bsgId": "5c052fb986f7746b2101e909"
             },
             {
                 "type": "find",
                 "target": "VPX Flash Storage Module",
                 "number": 1,
                 "location": "Any",
-                "id": "5c05300686f7746dce784e5d"
+                "id": 187,
+                "bsgId": "5c05300686f7746dce784e5d"
             }
         ]
     },
@@ -4140,14 +4188,16 @@
                 "target": "Wires",
                 "number": 5,
                 "location": "Any",
-                "id": "5c06779c86f77426e00dd782"
+                "id": 188,
+                "bsgId": "5c06779c86f77426e00dd782"
             },
             {
                 "type": "find",
                 "target": "Capacitors",
                 "number": 5,
                 "location": "Any",
-                "id": "5c06782b86f77426df5407d2"
+                "id": 189,
+                "bsgId": "5c06782b86f77426df5407d2"
             }
         ]
     },
@@ -4376,14 +4426,16 @@
                 "target": "Ushanka ear-flap cap",
                 "number": 2,
                 "location": "Any",
-                "id": "59e7708286f7742cbd762753"
+                "id": 203,
+                "bsgId": "59e7708286f7742cbd762753"
             },
             {
                 "type": "find",
                 "target": "Kinda cowboy hat",
                 "number": 2,
                 "location": "Any",
-                "id": "5aa2b9ede5b5b000137b758b"
+                "id": 204,
+                "bsgId": "5aa2b9ede5b5b000137b758b"
             }
         ]
     },
@@ -4576,7 +4628,8 @@
                 "target": "Key to Goshan cash register",
                 "number": 1,
                 "location": "Any",
-                "id": "5ad7247386f7747487619dc3"
+                "id": 214,
+                "bsgId": "5ad7247386f7747487619dc3"
             }
         ]
     },
@@ -4763,14 +4816,16 @@
                 "target": "Ski hat with holes for eyes",
                 "number": 1,
                 "location": "Any",
-                "id": "5ab8f20c86f7745cdb629fb2"
+                "id": 223,
+                "bsgId": "5ab8f20c86f7745cdb629fb2"
             },
             {
                 "type": "find",
                 "target": "Pilgrim tourist backpack",
                 "number": 1,
                 "location": "Any",
-                "id": "59e763f286f7742ee57895da"
+                "id": 224,
+                "bsgId": "59e763f286f7742ee57895da"
             }
         ]
     },
@@ -4801,7 +4856,8 @@
                 "hint": "0-50% condition",
                 "number": 1,
                 "location": "Any",
-                "id": "5ab8e79e86f7742d8b372e78"
+                "id": 225,
+                "bsgId": "5ab8e79e86f7742d8b372e78"
             },
             {
                 "type": "collect",
@@ -4809,7 +4865,8 @@
                 "hint": "50-100% condition",
                 "number": 1,
                 "location": "Any",
-                "id": "5ab8e79e86f7742d8b372e78"
+                "id": 226,
+                "bsgId": "5ab8e79e86f7742d8b372e78"
             }
         ]
     },
@@ -4840,7 +4897,8 @@
                 "hint": "0-50% condition",
                 "number": 1,
                 "location": "Any",
-                "id": "545cdb794bdc2d3a198b456a"
+                "id": 227,
+                "bsgId": "545cdb794bdc2d3a198b456a"
             },
             {
                 "type": "collect",
@@ -4848,7 +4906,8 @@
                 "hint": "50-100% condition",
                 "number": 1,
                 "location": "Any",
-                "id": "545cdb794bdc2d3a198b456a"
+                "id": 228,
+                "bsgId": "545cdb794bdc2d3a198b456a"
             }
         ]
     },
@@ -4878,14 +4937,16 @@
                 "target": "Wartech gear rig (TV-109, TV-106)",
                 "number": 2,
                 "location": "Any",
-                "id": "59e7643b86f7742cbf2c109a"
+                "id": 229,
+                "bsgId": "59e7643b86f7742cbf2c109a"
             },
             {
                 "type": "find",
                 "target": "BlackRock chest rig",
                 "number": 2,
                 "location": "Any",
-                "id": "5648a69d4bdc2ded0b8b457b"
+                "id": 230,
+                "bsgId": "5648a69d4bdc2ded0b8b457b"
             }
         ]
     },
@@ -4976,7 +5037,8 @@
                 "target": "Fuel conditioner",
                 "number": 4,
                 "location": "Any",
-                "id": "5b43575a86f77424f443fe62"
+                "id": 233,
+                "bsgId": "5b43575a86f77424f443fe62"
             }
         ]
     },
@@ -5057,28 +5119,32 @@
                 "target": "Bronze lion",
                 "number": 2,
                 "location": "Any",
-                "id": "59e3639286f7741777737013"
+                "id": 237,
+                "bsgId": "59e3639286f7741777737013"
             },
             {
                 "type": "find",
                 "target": "Horse figurine",
                 "number": 2,
                 "location": "Any",
-                "id": "573478bc24597738002c6175"
+                "id": 238,
+                "bsgId": "573478bc24597738002c6175"
             },
             {
                 "type": "find",
                 "target": "Cat figurine",
                 "number": 1,
                 "location": "Any",
-                "id": "59e3658a86f7741776641ac4"
+                "id": 239,
+                "bsgId": "59e3658a86f7741776641ac4"
             },
             {
                 "type": "find",
                 "target": "Roler submariner gold wrist watch",
                 "number": 1,
                 "location": "Any",
-                "id": "59faf7ca86f7740dbe19f6c2"
+                "id": 240,
+                "bsgId": "59faf7ca86f7740dbe19f6c2"
             }
         ]
     },
@@ -5108,14 +5174,16 @@
                 "target": "Antique teapot",
                 "number": 3,
                 "location": "Any",
-                "id": "590de71386f774347051a052"
+                "id": 241,
+                "bsgId": "590de71386f774347051a052"
             },
             {
                 "type": "find",
                 "target": "Antique vase",
                 "number": 2,
                 "location": "Any",
-                "id": "590de7e986f7741b096e5f32"
+                "id": 242,
+                "bsgId": "590de7e986f7741b096e5f32"
             }
         ]
     },
@@ -5173,21 +5241,24 @@
                 "target": "Iskra lunch box",
                 "number": 3,
                 "location": "Any",
-                "id": "590c5d4b86f774784e1b9c45"
+                "id": 244,
+                "bsgId": "590c5d4b86f774784e1b9c45"
             },
             {
                 "type": "find",
                 "target": "Emelya rye croutons",
                 "number": 2,
                 "location": "Any",
-                "id": "5751487e245977207e26a315"
+                "id": 245,
+                "bsgId": "5751487e245977207e26a315"
             },
             {
                 "type": "find",
                 "target": "Can of delicious beef stew",
                 "number": 2,
                 "location": "Any",
-                "id": "57347da92459774491567cf5"
+                "id": 246,
+                "bsgId": "57347da92459774491567cf5"
             }
         ]
     },
@@ -5836,28 +5907,32 @@
                 "target": "AHF1-M",
                 "number": 1,
                 "location": "Any",
-                "id": "5ed515f6915ec335206e4152"
+                "id": 322,
+                "bsgId": "5ed515f6915ec335206e4152"
             },
             {
                 "type": "find",
                 "target": "3-(b-TG)",
                 "number": 1,
                 "location": "Any",
-                "id": "5ed515c8d380ab312177c0fa"
+                "id": 323,
+                "bsgId": "5ed515c8d380ab312177c0fa"
             },
             {
                 "type": "collect",
                 "target": "Lab. Blue keycard",
                 "number": 1,
                 "location": "Any",
-                "id": "5c1d0c5f86f7744bb2683cf0"
+                "id": 324,
+                "bsgId": "5c1d0c5f86f7744bb2683cf0"
             },
             {
                 "type": "collect",
                 "target": "Lab. Green keycard",
                 "number": 1,
                 "location": "Any",
-                "id": "5c1d0dc586f7744baf2e7b79"
+                "id": 325,
+                "bsgId": "5c1d0dc586f7744baf2e7b79"
             }
         ],
         "alternatives": [
@@ -5920,14 +5995,16 @@
                 "target": "CMS kit",
                 "number": 2,
                 "location": "Any",
-                "id": "5d02778e86f774203e7dedbe"
+                "id": 271,
+                "bsgId": "5d02778e86f774203e7dedbe"
             },
             {
                 "type": "find",
                 "target": "Portable defibrillator",
                 "number": 1,
                 "location": "Any",
-                "id": "5c052e6986f7746b207bc3c9"
+                "id": 272,
+                "bsgId": "5c052e6986f7746b207bc3c9"
             }
         ]
     },
@@ -6118,7 +6195,8 @@
                 "target": "TerraGroup Labs access keycard",
                 "number": 2,
                 "location": "Any",
-                "id": "5c94bbff86f7747ee735c08f"
+                "id": 278,
+                "bsgId": "5c94bbff86f7747ee735c08f"
             }
         ]
     },
@@ -6155,7 +6233,8 @@
                 "target": "TT pistol 7.62x25 TT Gold",
                 "number": 1,
                 "location": "Customs",
-                "id": "5b3b713c5acfc4330140bd8d"
+                "id": 280,
+                "bsgId": "5b3b713c5acfc4330140bd8d"
             }
         ]
     },
@@ -6226,7 +6305,8 @@
                 "target": "Maska 1Sch helmet (Killa)",
                 "number": 1,
                 "location": "Interchange",
-                "id": "5c0e874186f7745dc7616606"
+                "id": 283,
+                "bsgId": "5c0e874186f7745dc7616606"
             }
         ]
     },
@@ -6263,7 +6343,8 @@
                 "target": "Shturman key",
                 "number": 1,
                 "location": "Woods",
-                "id": "5d08d21286f774736e7c94c3"
+                "id": 285,
+                "bsgId": "5d08d21286f774736e7c94c3"
             }
         ]
     },
@@ -6497,14 +6578,16 @@
                 "target": "6-STEN-140-M military battery",
                 "number": 1,
                 "location": "Any",
-                "id": "5d03794386f77420415576f5"
+                "id": 293,
+                "bsgId": "5d03794386f77420415576f5"
             },
             {
                 "type": "find",
                 "target": "OFZ 30x160mm shell",
                 "number": 5,
                 "location": "Any",
-                "id": "5d0379a886f77420407aa271"
+                "id": 294,
+                "bsgId": "5d0379a886f77420407aa271"
             }
         ]
     },
@@ -6571,7 +6654,8 @@
                 "target": "Euros",
                 "number": 50000,
                 "location": "Any",
-                "id": "569668774bdc2da2298b4568"
+                "id": 296,
+                "bsgId": "569668774bdc2da2298b4568"
             }
         ]
     },
@@ -6601,21 +6685,24 @@
                 "target": "Malboro cigarettes",
                 "number": 5,
                 "location": "Any",
-                "id": "573476d324597737da2adc13"
+                "id": 297,
+                "bsgId": "573476d324597737da2adc13"
             },
             {
                 "type": "find",
                 "target": "Strike cigarettes",
                 "number": 5,
                 "location": "Any",
-                "id": "5734770f24597738025ee254"
+                "id": 298,
+                "bsgId": "5734770f24597738025ee254"
             },
             {
                 "type": "find",
                 "target": "Wilston cigarettes",
                 "number": 5,
                 "location": "Any",
-                "id": "573476f124597737e04bf328"
+                "id": 299,
+                "bsgId": "573476f124597737e04bf328"
             }
         ]
     },
@@ -6684,7 +6771,8 @@
                 "target": "Secure Flash drive",
                 "number": 3,
                 "location": "Any",
-                "id": "590c621186f774138d11ea29"
+                "id": 302,
+                "bsgId": "590c621186f774138d11ea29"
             }
         ]
     },
@@ -6862,21 +6950,24 @@
                 "target": "Aramid fiber cloth",
                 "number": 5,
                 "location": "Any",
-                "id": "5e2af4d286f7746d4159f07a"
+                "id": 306,
+                "bsgId": "5e2af4d286f7746d4159f07a"
             },
             {
                 "type": "find",
                 "target": "Ripstop cloth",
                 "number": 10,
                 "location": "Any",
-                "id": "5e2af4a786f7746d3f3c3400"
+                "id": 307,
+                "bsgId": "5e2af4a786f7746d3f3c3400"
             },
             {
                 "type": "find",
                 "target": "Paracord",
                 "number": 3,
                 "location": "Any",
-                "id": "5c12688486f77426843c7d32"
+                "id": 308,
+                "bsgId": "5c12688486f77426843c7d32"
             }
         ]
     },
@@ -6902,21 +6993,24 @@
                 "target": "Fleece cloth",
                 "number": 10,
                 "location": "Any",
-                "id": "5e2af47786f7746d404f3aaa"
+                "id": 309,
+                "bsgId": "5e2af47786f7746d404f3aaa"
             },
             {
                 "type": "find",
                 "target": "Polyamide fabric Cordura",
                 "number": 10,
                 "location": "Any",
-                "id": "5e2af41e86f774755a234b67"
+                "id": 310,
+                "bsgId": "5e2af41e86f774755a234b67"
             },
             {
                 "type": "find",
                 "target": "KEKTAPE duct tape",
                 "number": 5,
                 "location": "Any",
-                "id": "5e2af29386f7746d4159f077"
+                "id": 311,
+                "bsgId": "5e2af29386f7746d4159f077"
             }
         ]
     },
@@ -7131,49 +7225,56 @@
                 "target": "M.U.L.E. stimulator",
                 "number": 1,
                 "location": "Any",
-                "id": "5ed51652f6c34d2cc26336a1"
+                "id": 331,
+                "bsgId": "5ed51652f6c34d2cc26336a1"
             },
             {
                 "type": "find",
                 "target": "Cocktail \"Obdolbos\"",
                 "number": 1,
                 "location": "Any",
-                "id": "5ed5166ad380ab312177c100"
+                "id": 332,
+                "bsgId": "5ed5166ad380ab312177c100"
             },
             {
                 "type": "find",
                 "target": "Meldonin",
                 "number": 1,
                 "location": "Any",
-                "id": "5ed5160a87bb8443d10680b5"
+                "id": 333,
+                "bsgId": "5ed5160a87bb8443d10680b5"
             },
             {
                 "type": "find",
                 "target": "AHF1-M",
                 "number": 1,
                 "location": "Any",
-                "id": "5ed515f6915ec335206e4152"
+                "id": 334,
+                "bsgId": "5ed515f6915ec335206e4152"
             },
             {
                 "type": "find",
                 "target": "P22",
                 "number": 1,
                 "location": "Any",
-                "id": "5ed515ece452db0eb56fc028"
+                "id": 335,
+                "bsgId": "5ed515ece452db0eb56fc028"
             },
             {
                 "type": "find",
                 "target": "L1 (Norepinephrine)",
                 "number": 1,
                 "location": "Any",
-                "id": "5ed515e03a40a50460332579"
+                "id": 336,
+                "bsgId": "5ed515e03a40a50460332579"
             },
             {
                 "type": "find",
                 "target": "3-(b-TG)",
                 "number": 1,
                 "location": "Any",
-                "id": "5ed515c8d380ab312177c0fa"
+                "id": 337,
+                "bsgId": "5ed515c8d380ab312177c0fa"
             }
         ]
     },
@@ -7530,126 +7631,144 @@
                 "target": "Old firesteel",
                 "number": 1,
                 "location": "Any",
-                "id": "5bc9c377d4351e3bac12251b"
+                "id": 353,
+                "bsgId": "5bc9c377d4351e3bac12251b"
             },
             {
                 "type": "find",
                 "target": "Antique axe",
                 "number": 1,
                 "location": "Any",
-                "id": "5bc9c1e2d4351e00367fbcf0"
+                "id": 354,
+                "bsgId": "5bc9c1e2d4351e00367fbcf0"
             },
             {
                 "type": "find",
                 "target": "Battered antique Book",
                 "number": 1,
                 "location": "Any",
-                "id": "5bc9c049d4351e44f824d360"
+                "id": 355,
+                "bsgId": "5bc9c049d4351e44f824d360"
             },
             {
                 "type": "find",
                 "target": "#FireKlean gun lube",
                 "number": 1,
                 "location": "Any",
-                "id": "5bc9b355d4351e6d1509862a"
+                "id": 356,
+                "bsgId": "5bc9b355d4351e6d1509862a"
             },
             {
                 "type": "find",
                 "target": "Golden rooster",
                 "number": 1,
                 "location": "Any",
-                "id": "5bc9bc53d4351e00367fbcee"
+                "id": 357,
+                "bsgId": "5bc9bc53d4351e00367fbcee"
             },
             {
                 "type": "find",
                 "target": "Silver Badge",
                 "number": 1,
                 "location": "Any",
-                "id": "5bc9bdb8d4351e003562b8a1"
+                "id": 358,
+                "bsgId": "5bc9bdb8d4351e003562b8a1"
             },
             {
                 "type": "find",
                 "target": "Deadlyslob's beard oil",
                 "number": 1,
                 "location": "Any",
-                "id": "5bc9b9ecd4351e3bac122519"
+                "id": 359,
+                "bsgId": "5bc9b9ecd4351e3bac122519"
             },
             {
                 "type": "find",
                 "target": "Golden 1GPhone",
                 "number": 1,
                 "location": "Any",
-                "id": "5bc9b720d4351e450201234b"
+                "id": 360,
+                "bsgId": "5bc9b720d4351e450201234b"
             },
             {
                 "type": "find",
                 "target": "Jar of DevilDog mayo",
                 "number": 1,
                 "location": "Any",
-                "id": "5bc9b156d4351e00367fbce9"
+                "id": 361,
+                "bsgId": "5bc9b156d4351e00367fbce9"
             },
             {
                 "type": "find",
                 "target": "Can of sprats",
                 "number": 1,
                 "location": "Any",
-                "id": "5bc9c29cd4351e003562b8a3"
+                "id": 362,
+                "bsgId": "5bc9c29cd4351e003562b8a3"
             },
             {
                 "type": "find",
                 "target": "Fake mustache",
                 "number": 1,
                 "location": "Any",
-                "id": "5bd073a586f7747e6f135799"
+                "id": 363,
+                "bsgId": "5bd073a586f7747e6f135799"
             },
             {
                 "type": "find",
                 "target": "Kotton beanie",
                 "number": 1,
                 "location": "Any",
-                "id": "5bd073c986f7747f627e796c"
+                "id": 364,
+                "bsgId": "5bd073c986f7747f627e796c"
             },
             {
                 "type": "find",
                 "target": "Can of Dr. Lupo's coffee beans",
                 "number": 1,
                 "location": "Any",
-                "id": "5e54f6af86f7742199090bf3"
+                "id": 365,
+                "bsgId": "5e54f6af86f7742199090bf3"
             },
             {
                 "type": "find",
                 "target": "Pestily plague mask",
                 "number": 1,
                 "location": "Any",
-                "id": "5e54f79686f7744022011103"
+                "id": 366,
+                "bsgId": "5e54f79686f7744022011103"
             },
             {
                 "type": "find",
                 "target": "Raven figurine",
                 "number": 1,
                 "location": "Any",
-                "id": "5e54f62086f774219b0f1937"
+                "id": 367,
+                "bsgId": "5e54f62086f774219b0f1937"
             },
             {
                 "type": "find",
                 "target": "Shroud half-mask",
                 "number": 1,
                 "location": "Any",
-                "id": "5e54f76986f7740366043752"
+                "id": 368,
+                "bsgId": "5e54f76986f7740366043752"
             },
             {
                 "type": "find",
                 "target": "Veritas guitar pick",
                 "number": 1,
                 "location": "Any",
-                "id": "5f745ee30acaeb0d490d8c5b"
+                "id": 369,
+                "bsgId": "5f745ee30acaeb0d490d8c5b"
             },
             {
                 "type": "find",
                 "target": "42nd Signature Blend English Tea",
                 "number": 1,
                 "location": "Any",
-                "id": "5bc9be8fd4351e00334cae6e"
+                "id": 370,
+                "bsgId": "5bc9be8fd4351e00334cae6e"
             }
         ]
     },
@@ -7673,7 +7792,7 @@
                 "target": "Rubles",
                 "number": 400000,
                 "location": "Any",
-                "id": "5449016a4bdc2d6f028b456f"
+                "id": 372
             }
         ]
     }
