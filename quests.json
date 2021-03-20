@@ -6934,8 +6934,7 @@
         "wiki": "https://escapefromtarkov.gamepedia.com/Anesthesia",
         "exp": 12600,
         "nokappa": true,
-        "unlocks": [
-        ],
+        "unlocks": [],
         "reputation": [
             {
                 "trader": "Prapor",
