@@ -114,7 +114,7 @@
       },
       {
          "id": 14,
-         "locale": {
+         "locales": {
             "en": "Solar power"
          },
          "function": "Reduces generator fuel consumption by half",
