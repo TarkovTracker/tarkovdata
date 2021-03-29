@@ -22,7 +22,7 @@ See `maps` folder for SVG maps
 
 I've created a simple CLI tool to do some basic data integrity checks.
 
-Provided you have node/npm installed, you can run `npm cli.js help` to list available commands. Commands like `npm cli.js verify-quest-data` and `npm cli.js verify-hideout-data` are important to check that no important mistakes were made when modifying the data. Commands like `npm cli.js new-quest-id` can find the next consecutive quest ID to utilize for new quests, there are similar commmands for hideout & objectives.
+Provided you have node/npm installed, you can run `npm cli.js help` to list available commands. Commands like `node cli.js verify-quest-data` and `node cli.js verify-hideout-data` are important to check that no important mistakes were made when modifying the data. Commands like `node cli.js new-quest-id` can find the next consecutive quest ID to utilize for new quests, there are similar commmands for hideout & objectives.
 
 If you would like to help keep the quest data up to date with changes, please submit a pull request to the master branch. Feel free to utilize the Github discussions feature to talk about data format and potential additions.
 
