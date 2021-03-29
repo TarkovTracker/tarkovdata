@@ -56,6 +56,30 @@ vorpal
 		callback();
 	});
 
+vorpal
+	.command('find-quests', 'Tests against an array of quest names to find them in quest data')
+	.action(function(args, callback) {
+		findQuests(args)
+		callback();
+	});
+
+function findQuests(args) {
+	var debugQuests = require('./quests.json')
+	var testNames = require('./testdata.json')
+	
+	var questDictionaryTitle = debugQuests.reduce((a, x) => ({ ...a,
+		[x.title.toLowerCase()]: x
+	}), {})
+
+	//console.log(testNames)
+
+	testNames.forEach((name) => {
+		if(questDictionaryTitle[name.toLowerCase()] == null) {
+			console.log(`Couldn't find ${name}`)
+		}
+	})
+}
+
 function linkQuests(args) {
 	var debugQuests = require('./quests.json')
 	var questDictionaryTitle = debugQuests.reduce((a, x) => ({ ...a,
