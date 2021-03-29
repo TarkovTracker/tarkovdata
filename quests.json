@@ -323,7 +323,12 @@
             "quests": [
                 7
             ],
-            "loyalty": "Prapor2"
+            "loyalty": [
+                {
+                    "trader": "Prapor",
+                    "stage": 2
+                }
+            ]
         },
         "giver": "Prapor",
         "turnin": "Prapor",
@@ -7674,6 +7679,36 @@
                 "number": 400000,
                 "location": "Any",
                 "id": 372
+            }
+        ]
+    },
+    {
+        "id": 198,
+        "require": {
+            "level": 33,
+            "quests": [135],
+            "loyalty": [
+                {
+                    "trader": "Jaeger",
+                    "stage": 4
+                }
+            ]
+        },
+        "giver": "Jaeger",
+        "turnin": "Jaeger",
+        "title": "Hunter",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Hunter",
+        "exp": 0,
+        "unlocks": [],
+        "reputation": [],
+        "nokappa": true,
+        "objectives": [
+            {
+                "type": "kill",
+                "target": "Shturman",
+                "number": 25,
+                "location": "Woods",
+                "id": 374
             }
         ]
     }
