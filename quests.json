@@ -7711,5 +7711,149 @@
                 "id": 374
             }
         ]
+    },
+    {
+        "id": 199,
+        "require": {
+            "level": 11,
+            "quests": [[43, 179]]
+        },
+        "giver": "Prapor",
+        "turnin": "Prapor",
+        "title": "No offence",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/No_offence",
+        "exp": 0,
+        "unlocks": [],
+        "reputation": [
+            {
+                "trader": "Prapor",
+                "rep": 0.4
+            }
+        ],
+        "nokappa": true,
+        "objectives": [
+            {
+                "type": "collect",
+                "target": "M67 grenade",
+                "number": 10,
+                "location": "Any",
+                "id": 375
+            }
+        ]
+    },
+    {
+        "id": 200,
+        "require": {
+            "level": 11,
+            "quests": [[43, 180]]
+        },
+        "giver": "Therapist",
+        "turnin": "Therapist",
+        "title": "Trust regain",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Trust_regain",
+        "exp": 0,
+        "unlocks": [],
+        "reputation": [
+            {
+                "trader": "Therapist",
+                "rep": 0.3
+            }
+        ],
+        "nokappa": true,
+        "objectives": [
+            {
+                "type": "collect",
+                "target": "Dorm room 303 Key",
+                "number": 1,
+                "location": "Any",
+                "id": 376
+            },
+            {
+                "type": "collect",
+                "target": "Key ZB-014",
+                "number": 1,
+                "location": "Any",
+                "id": 377
+            },
+            {
+                "type": "collect",
+                "target": "Military base checkpoint key",
+                "number": 1,
+                "location": "Any",
+                "id": 378
+            },
+            {
+                "type": "collect",
+                "target": "The key to the gas station storage room",
+                "number": 1,
+                "location": "Any",
+                "id": 379
+            }
+        ]
+    },
+    {
+        "id": 201,
+        "require": {
+            "level": 11,
+            "quests": [[179, 180]]
+        },
+        "giver": "Skier",
+        "turnin": "Skier",
+        "title": "Loyalty buyout",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Loyalty_buyout",
+        "exp": 0,
+        "unlocks": [],
+        "reputation": [
+            {
+                "trader": "Skier",
+                "rep": 0.3
+            }
+        ],
+        "nokappa": true,
+        "objectives": [
+            {
+                "type": "collect",
+                "target": "Roubles",
+                "number": 1000000,
+                "location": "Any",
+                "id": 380
+            }
+        ]
+    },
+    {
+        "id": 202,
+        "require": {
+            "level": 10,
+            "quests": [173, 27]
+        },
+        "giver": "Therapist",
+        "turnin": "Therapist",
+        "title": "Hippocratic Vow",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Hippocratic_Vow",
+        "exp": 0,
+        "unlocks": [],
+        "reputation": [
+            {
+                "trader": "Therapist",
+                "rep": 0.2
+            }
+        ],
+        "nokappa": true,
+        "objectives": [
+            {
+                "type": "warning",
+                "target": "This quest is only available if you have less than 0.6 repuation with Therapist",
+                "number": 1,
+                "location": "None",
+                "id": 381
+            },
+            {
+                "type": "collect",
+                "target": "Dollars",
+                "number": 500,
+                "location": "Any",
+                "id": 382
+            }
+        ]
     }
 ]
