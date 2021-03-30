@@ -7675,7 +7675,7 @@
         "objectives": [
             {
                 "type": "collect",
-                "target": "Rubles",
+                "target": "Roubles",
                 "number": 400000,
                 "location": "Any",
                 "id": 372
