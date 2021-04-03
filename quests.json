@@ -5763,7 +5763,7 @@
     {
         "id": 152,
         "require": {
-            "level": 10,
+            "level": 21,
             "quests": [
                 185
             ]
@@ -5808,7 +5808,7 @@
     {
         "id": 153,
         "require": {
-            "level": 10,
+            "level": 21,
             "quests": [
                 152,
                 186,
@@ -6979,7 +6979,7 @@
     {
         "id": 185,
         "require": {
-            "level": 10,
+            "level": 21,
             "quests": [
                 26
             ]
