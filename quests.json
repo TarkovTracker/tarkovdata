@@ -7734,7 +7734,7 @@
         "objectives": [
             {
                 "type": "collect",
-                "target": "M67 grenade",
+                "target": "M67 Hand grenade",
                 "number": 10,
                 "location": "Any",
                 "id": 375
