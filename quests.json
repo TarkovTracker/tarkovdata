@@ -7113,8 +7113,7 @@
         "require": {
             "level": 21,
             "quests": [
-                184,
-                185
+                184
             ]
         },
         "giver": "Peacekeeper",
