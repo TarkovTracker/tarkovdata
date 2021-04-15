@@ -1416,7 +1416,7 @@
                "type": "currency",
                "name": "Rubles",
                "quantity": 20000,
-               "id": 257
+               "id": 205
             },
             {
                "type": "item",
@@ -1458,15 +1458,15 @@
             },
             {
                "type": "item",
-               "name": "Pliers Elite",
+               "name": "Pliers elite",
                "quantity": 1,
-               "id": 258
+               "id": 260
             },
             {
                "type": "item",
                "name": "WD-40 100ml",
                "quantity": 1,
-               "id": 258
+               "id": 261
             }
          ],
          "id": 33,
