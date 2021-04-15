@@ -837,6 +837,18 @@
                "name": "Toilet paper",
                "quantity": 1,
                "id": 236
+            },
+            {
+               "type": "item",
+               "name": "Toothpaste",
+               "quantity": 1,
+               "id": 253
+            },
+            {
+               "type": "item",
+               "name": "Soap",
+               "quantity": 1,
+               "id": 254
             }
          ],
          "id": 18,
@@ -989,6 +1001,18 @@
                "name": "Rubles",
                "quantity": 20000,
                "id": 197
+            },
+            {
+               "type": "item",
+               "name": "Disposable syringe",
+               "quantity": 1,
+               "id": 255
+            },
+            {
+               "type": "item",
+               "name": "Pile of meds",
+               "quantity": 1,
+               "id": 256
             }
          ],
          "id": 22,
@@ -1392,7 +1416,13 @@
                "type": "currency",
                "name": "Rubles",
                "quantity": 20000,
-               "id": 205
+               "id": 257
+            },
+            {
+               "type": "item",
+               "name": "Construction measuring tape",
+               "quantity": 1,
+               "id": 258
             }
          ],
          "id": 32,
@@ -1409,6 +1439,12 @@
                "id": 123
             },
             {
+               "type": "module",
+               "name": "Illumination",
+               "quantity": 1,
+               "id": 259
+            },
+            {
                "type": "skill",
                "name": "Endurance",
                "quantity": 2,
@@ -1419,6 +1455,18 @@
                "name": "Rubles",
                "quantity": 45000,
                "id": 206
+            },
+            {
+               "type": "item",
+               "name": "Pliers Elite",
+               "quantity": 1,
+               "id": 258
+            },
+            {
+               "type": "item",
+               "name": "WD-40 100ml",
+               "quantity": 1,
+               "id": 258
             }
          ],
          "id": 33,
