@@ -12,27 +12,27 @@
         "loyalty": [
             {
                 "level": 1,
-                "reqLevel": 1,
-                "reqReputation": 0,
-                "reqSales": 0
+                "requiredLevel": 1,
+                "requiredReputation": 0,
+                "requiredSales": 0
             },
             {
                 "level": 2,
-                "reqLevel": 15,
-                "reqReputation": 0.2,
-                "reqSales": 750000
+                "requiredLevel": 15,
+                "requiredReputation": 0.2,
+                "requiredSales": 750000
             },
             {
                 "level": 3,
-                "reqLevel": 22,
-                "reqReputation": 0.35,
-                "reqSales": 1500000
+                "requiredLevel": 22,
+                "requiredReputation": 0.35,
+                "requiredSales": 1500000
             },
             {
                 "level": 4,
-                "reqLevel": 33,
-                "reqReputation": 0.5,
-                "reqSales": 2300000
+                "requiredLevel": 33,
+                "requiredReputation": 0.5,
+                "requiredSales": 2300000
             }
         ]
     },
@@ -49,27 +49,27 @@
         "loyalty": [
             {
                 "level": 1,
-                "reqLevel": 1,
-                "reqReputation": 0,
-                "reqSales": 0
+                "requiredLevel": 1,
+                "requiredReputation": 0,
+                "requiredSales": 0
             },
             {
                 "level": 2,
-                "reqLevel": 13,
-                "reqReputation": 0.15,
-                "reqSales": 400000
+                "requiredLevel": 13,
+                "requiredReputation": 0.15,
+                "requiredSales": 400000
             },
             {
                 "level": 3,
-                "reqLevel": 20,
-                "reqReputation": 0.3,
-                "reqSales": 700000
+                "requiredLevel": 20,
+                "requiredReputation": 0.3,
+                "requiredSales": 700000
             },
             {
                 "level": 4,
-                "reqLevel": 32,
-                "reqReputation": 0.6,
-                "reqSales": 900000
+                "requiredLevel": 32,
+                "requiredReputation": 0.6,
+                "requiredSales": 900000
             }
         ]
     },
@@ -86,27 +86,27 @@
         "loyalty": [
             {
                 "level": 1,
-                "reqLevel": 1,
-                "reqReputation": 0,
-                "reqSales": 0
+                "requiredLevel": 1,
+                "requiredReputation": 0,
+                "requiredSales": 0
             },
             {
                 "level": 2,
-                "reqLevel": 15,
-                "reqReputation": 0.2,
-                "reqSales": 800000
+                "requiredLevel": 15,
+                "requiredReputation": 0.2,
+                "requiredSales": 800000
             },
             {
                 "level": 3,
-                "reqLevel": 28,
-                "reqReputation": 0.4,
-                "reqSales": 1600000
+                "requiredLevel": 28,
+                "requiredReputation": 0.4,
+                "requiredSales": 1600000
             },
             {
                 "level": 4,
-                "reqLevel": 35,
-                "reqReputation": 0.75,
-                "reqSales": 2600000
+                "requiredLevel": 35,
+                "requiredReputation": 0.75,
+                "requiredSales": 2600000
             }
         ]
     },
@@ -123,27 +123,27 @@
         "loyalty": [
             {
                 "level": 1,
-                "reqLevel": 1,
-                "reqReputation": 0,
-                "reqSales": 0
+                "requiredLevel": 1,
+                "requiredReputation": 0,
+                "requiredSales": 0
             },
             {
                 "level": 2,
-                "reqLevel": 10,
-                "reqReputation": 0,
-                "reqSales": 11000
+                "requiredLevel": 10,
+                "requiredReputation": 0,
+                "requiredSales": 11000
             },
             {
                 "level": 3,
-                "reqLevel": 18,
-                "reqReputation": 0.3,
-                "reqSales": 25000
+                "requiredLevel": 18,
+                "requiredReputation": 0.3,
+                "requiredSales": 25000
             },
             {
                 "level": 4,
-                "reqLevel": 29,
-                "reqReputation": 0.6,
-                "reqSales": 32000
+                "requiredLevel": 29,
+                "requiredReputation": 0.6,
+                "requiredSales": 32000
             }
         ]
     },
@@ -160,31 +160,31 @@
         "loyalty": [
             {
                 "level": 1,
-                "reqLevel": 1,
-                "reqReputation": 0,
-                "reqSales": 0
+                "requiredLevel": 1,
+                "requiredReputation": 0,
+                "requiredSales": 0
             },
             {
                 "level": 2,
-                "reqLevel": 20,
-                "reqReputation": 0.15,
-                "reqSales": 750000
+                "requiredLevel": 20,
+                "requiredReputation": 0.15,
+                "requiredSales": 750000
             },
             {
                 "level": 3,
-                "reqLevel": 30,
-                "reqReputation": 0.3,
-                "reqSales": 1600000
+                "requiredLevel": 30,
+                "requiredReputation": 0.3,
+                "requiredSales": 1600000
             },
             {
                 "level": 4,
-                "reqLevel": 40,
-                "reqReputation": 0.6,
-                "reqSales": 2500000
+                "requiredLevel": 40,
+                "requiredReputation": 0.6,
+                "requiredSales": 2500000
             }
         ]
     },
-    "Ragman": {
+    "ragman": {
         "id": 5,
         "name": "Abramyan Arshavir Sarkisivich",
         "locale": {
@@ -197,27 +197,27 @@
         "loyalty": [
             {
                 "level": 1,
-                "reqLevel": 1,
-                "reqReputation": 0,
-                "reqSales": 0
+                "requiredLevel": 1,
+                "requiredReputation": 0,
+                "requiredSales": 0
             },
             {
                 "level": 2,
-                "reqLevel": 15,
-                "reqReputation": 0,
-                "reqSales": 750000
+                "requiredLevel": 15,
+                "requiredReputation": 0,
+                "requiredSales": 750000
             },
             {
                 "level": 3,
-                "reqLevel": 30,
-                "reqReputation": 0.3,
-                "reqSales": 1600000
+                "requiredLevel": 30,
+                "requiredReputation": 0.3,
+                "requiredSales": 1600000
             },
             {
                 "level": 4,
-                "reqLevel": 40,
-                "reqReputation": 0.6,
-                "reqSales": 2500000
+                "requiredLevel": 40,
+                "requiredReputation": 0.6,
+                "requiredSales": 2500000
             }
         ]
     },
@@ -234,27 +234,27 @@
         "loyalty": [
             {
                 "level": 1,
-                "reqLevel": 1,
-                "reqReputation": 0,
-                "reqSales": 0
+                "requiredLevel": 1,
+                "requiredReputation": 0,
+                "requiredSales": 0
             },
             {
                 "level": 2,
-                "reqLevel": 15,
-                "reqReputation": 0.2,
-                "reqSales": 750000
+                "requiredLevel": 15,
+                "requiredReputation": 0.2,
+                "requiredSales": 750000
             },
             {
                 "level": 3,
-                "reqLevel": 22,
-                "reqReputation": 0.35,
-                "reqSales": 1500000
+                "requiredLevel": 22,
+                "requiredReputation": 0.35,
+                "requiredSales": 1500000
             },
             {
                 "level": 4,
-                "reqLevel": 33,
-                "reqReputation": 0.5,
-                "reqSales": 2300000
+                "requiredLevel": 33,
+                "requiredReputation": 0.5,
+                "requiredSales": 2300000
             }
         ]
     },
@@ -271,9 +271,9 @@
         "loyalty": [
             {
                 "level": 1,
-                "reqLevel": 1,
-                "reqReputation": 0,
-                "reqSales": 0
+                "requiredLevel": 1,
+                "requiredReputation": 0,
+                "requiredSales": 0
             }
         ]
     }
