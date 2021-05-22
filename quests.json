@@ -1,6 +1,6 @@
 [
     {
-        "id": 0,
+        "id": "5936d90786f7742b1420ba5b",
         "require": {
             "level": 1,
             "quests": []
@@ -11,7 +11,7 @@
         "wiki": "https://escapefromtarkov.gamepedia.com/Debut",
         "exp": 600,
         "unlocks": [
-            "Kalashnikov AKS-74U 5.45x39"
+            "57dc2fa62459775949412633"
         ],
         "reputation": [
             {
@@ -29,7 +29,7 @@
             },
             {
                 "type": "collect",
-                "target": "MP-133 12ga shotgun",
+                "target": "54491c4f4bdc2db1078b4568",
                 "number": 2,
                 "location": "Any",
                 "id": 1
@@ -37,7 +37,7 @@
         ]
     },
     {
-        "id": 1,
+        "id": "5936da9e86f7742d65037edf",
         "require": {
             "level": 2,
             "quests": [
@@ -59,7 +59,7 @@
         "objectives": [
             {
                 "type": "key",
-                "target": "Machinery key",
+                "target": "5937ee6486f77408994ba448",
                 "number": 1,
                 "location": "Customs",
                 "id": 371
@@ -74,7 +74,7 @@
         ]
     },
     {
-        "id": 2,
+        "id": "59674cd986f7744ab26e32f2",
         "require": {
             "level": 3,
             "quests": [
@@ -104,7 +104,7 @@
         ]
     },
     {
-        "id": 3,
+        "id": "59674eb386f774539f14813a",
         "require": {
             "level": 5,
             "quests": [
@@ -117,7 +117,7 @@
         "wiki": "https://escapefromtarkov.gamepedia.com/Delivery_from_the_past",
         "exp": 4100,
         "unlocks": [
-            "5.45x39 mm PS"
+            "56dff3afd2720bba668b4567"
         ],
         "reputation": [
             {
@@ -128,7 +128,7 @@
         "objectives": [
             {
                 "type": "key",
-                "target": "Customs office key",
+                "target": "5780d0532459777a5108b9a2",
                 "number": 1,
                 "location": "Customs",
                 "id": 86
@@ -150,7 +150,7 @@
         ]
     },
     {
-        "id": 4,
+        "id": "59c124d686f774189b3c843f",
         "require": {
             "level": 5,
             "quests": [
@@ -213,7 +213,7 @@
         ]
     },
     {
-        "id": 5,
+        "id": "5967530a86f77462ba22226b",
         "require": {
             "level": 6,
             "quests": [
@@ -226,7 +226,7 @@
         "wiki": "https://escapefromtarkov.gamepedia.com/Bad_rep_evidence",
         "exp": 4200,
         "unlocks": [
-            "Zenit-Belomo PSO 1M2-1 4x24 scope"
+            "576fd4ec2459777f0b518431"
         ],
         "reputation": [
             {
@@ -237,7 +237,7 @@
         "objectives": [
             {
                 "type": "key",
-                "target": "Portable cabin key of customs Factory zone",
+                "target": "5938144586f77473c2087145",
                 "number": 1,
                 "location": "Customs",
                 "id": 10
@@ -252,7 +252,7 @@
         ]
     },
     {
-        "id": 6,
+        "id": "59675d6c86f7740a842fc482",
         "require": {
             "level": 9,
             "quests": [
@@ -265,7 +265,7 @@
         "wiki": "https://escapefromtarkov.gamepedia.com/Ice_cream_cones",
         "exp": 5400,
         "unlocks": [
-            "60-round 6L31 5.45x39 magazine for AK-74 and compatibles"
+            "55d482194bdc2d1d4e8b456b"
         ],
         "reputation": [
             {
@@ -276,7 +276,7 @@
         "objectives": [
             {
                 "type": "find",
-                "target": "60-round 6L31 5.45x39 magazine for АК-74 and compatibles",
+                "target": "55d482194bdc2d1d4e8b456b",
                 "number": 3,
                 "location": "Any",
                 "have": 0,
@@ -285,7 +285,7 @@
         ]
     },
     {
-        "id": 7,
+        "id": "59675ea386f77414b32bded2",
         "require": {
             "level": 10,
             "quests": [
@@ -298,7 +298,7 @@
         "wiki": "https://escapefromtarkov.gamepedia.com/Postman_Pat_-_Part_1",
         "exp": 6000,
         "unlocks": [
-            "Salewa FIRST AID KIT"
+            "544fb45d4bdc2dee738b4568"
         ],
         "reputation": [
             {
@@ -317,7 +317,7 @@
         ]
     },
     {
-        "id": 8,
+        "id": "5967725e86f774601a446662",
         "require": {
             "level": 10,
             "quests": [
@@ -336,8 +336,8 @@
         "wiki": "https://escapefromtarkov.gamepedia.com/Shaking_up_teller",
         "exp": 6100,
         "unlocks": [
-            "PBS-4 5.45x39 Silencer",
-            "Hexagon 12K sound suppressor"
+            "57ffb0e42459777d047111c5",
+            "59c0ec5b86f77435b128bfca"
         ],
         "reputation": [
             {
@@ -352,7 +352,7 @@
         "objectives": [
             {
                 "type": "key",
-                "target": "Dorm room 203 Key",
+                "target": "5938504186f7740991483f30",
                 "number": 1,
                 "location": "Customs",
                 "id": 14
@@ -367,7 +367,7 @@
         ]
     },
     {
-        "id": 9,
+        "id": "5c12452c86f7744b83469073",
         "require": {
             "level": 35,
             "quests": [
@@ -432,7 +432,7 @@
         ]
     },
     {
-        "id": 10,
+        "id": "5c0d190cd09282029f5390d8",
         "require": {
             "level": 30,
             "quests": [
@@ -445,7 +445,7 @@
         "wiki": "https://escapefromtarkov.gamepedia.com/Grenadier",
         "exp": 21300,
         "unlocks": [
-            "8 pcs pack of 9x39 7N12 BP ammo"
+            "5c1260dc86f7746b106e8748"
         ],
         "reputation": [],
         "objectives": [
@@ -462,7 +462,7 @@
         ]
     },
     {
-        "id": 11,
+        "id": "5c0bd01e86f7747cdd799e56",
         "require": {
             "level": 30,
             "quests": [
@@ -490,7 +490,7 @@
         ]
     },
     {
-        "id": 12,
+        "id": "5c0bd94186f7747a727f09b2",
         "require": {
             "level": 30,
             "quests": [
@@ -499,7 +499,7 @@
         },
         "giver": "Prapor",
         "turnin": "Prapor",
-        "title": "Test drive",
+        "title": "Test drive. Pt. 1",
         "wiki": "https://escapefromtarkov.gamepedia.com/Test_drive_-_Part_1",
         "exp": 31000,
         "unlocks": [],
@@ -525,7 +525,7 @@
         ]
     },
     {
-        "id": 13,
+        "id": "59c50a9e86f7745fef66f4ff",
         "require": {
             "level": 17,
             "quests": [
@@ -538,7 +538,7 @@
         "wiki": "https://escapefromtarkov.gamepedia.com/The_Punisher_-_Part_1",
         "exp": 10800,
         "unlocks": [
-            "SV-98 bolt-action sniper rifle"
+            "55801eed4bdc2d89578b4588"
         ],
         "reputation": [
             {
@@ -560,7 +560,7 @@
         ]
     },
     {
-        "id": 14,
+        "id": "59c50c8886f7745fed3193bf",
         "require": {
             "level": 18,
             "quests": [
@@ -592,7 +592,7 @@
             },
             {
                 "type": "find",
-                "target": "Lower half-mask",
+                "target": "572b7fa524597762b747ce82",
                 "number": 7,
                 "location": "Any",
                 "id": 27
@@ -600,7 +600,7 @@
         ]
     },
     {
-        "id": 15,
+        "id": "59c512ad86f7741f0d09de9b",
         "require": {
             "level": 19,
             "quests": [
@@ -637,7 +637,7 @@
         ]
     },
     {
-        "id": 16,
+        "id": "59ca264786f77445a80ed044",
         "require": {
             "level": 20,
             "quests": [
@@ -650,7 +650,7 @@
         "wiki": "https://escapefromtarkov.gamepedia.com/The_Punisher_-_Part_4",
         "exp": 19000,
         "unlocks": [
-            "5.45x39 mm BT"
+            "56dff061d2720bb5668b4567"
         ],
         "reputation": [
             {
@@ -686,7 +686,7 @@
             },
             {
                 "type": "find",
-                "target": "Bars A-2607- 95x18",
+                "target": "57e26fc7245977162a14b800",
                 "number": 5,
                 "location": "Any",
                 "id": 31
@@ -694,7 +694,7 @@
         ]
     },
     {
-        "id": 17,
+        "id": "59ca29fb86f77445ab465c87",
         "require": {
             "level": 20,
             "quests": [
@@ -707,7 +707,7 @@
         "wiki": "https://escapefromtarkov.gamepedia.com/The_Punisher_-_Part_5",
         "exp": 19300,
         "unlocks": [
-            "7.62x39 mm BP"
+            "59e0d99486f7744a32234762"
         ],
         "reputation": [
             {
@@ -729,21 +729,21 @@
             },
             {
                 "type": "find",
-                "target": "AK-74N 5.45x39 assault rifle",
+                "target": "5644bd2b4bdc2d3b4c8b4572",
                 "number": 1,
                 "location": "Any",
                 "id": 33
             },
             {
                 "type": "find",
-                "target": "Colt M4A1 5.56x45 Assault Rifle",
+                "target": "5447a9cd4bdc2dbd208b4567",
                 "number": 1,
                 "location": "Any",
                 "id": 34
             },
             {
                 "type": "find",
-                "target": "PM 9x18PM pistol",
+                "target": "5448bd6b4bdc2dfc2f8b4569",
                 "number": 2,
                 "location": "Any",
                 "id": 35
@@ -751,7 +751,7 @@
         ]
     },
     {
-        "id": 18,
+        "id": "59ca2eb686f77445a80ed049",
         "require": {
             "level": 21,
             "quests": [
@@ -791,14 +791,14 @@
             },
             {
                 "type": "collect",
-                "target": "Dogtag USEC",
+                "target": "59f32c3b86f77472a31742f0",
                 "number": 7,
                 "location": "Any",
                 "id": 37
             },
             {
                 "type": "collect",
-                "target": "Dogtag BEAR",
+                "target": "59f32bb586f774757e1e8442",
                 "number": 7,
                 "location": "Any",
                 "id": 38
@@ -806,7 +806,7 @@
         ]
     },
     {
-        "id": 19,
+        "id": "5967733e86f774602332fc84",
         "require": {
             "level": 1,
             "quests": []
@@ -826,7 +826,7 @@
         "objectives": [
             {
                 "type": "find",
-                "target": "Salewa First Aid Kit",
+                "target": "544fb45d4bdc2dee738b4568",
                 "number": 3,
                 "location": "Any",
                 "id": 39
@@ -834,7 +834,7 @@
         ]
     },
     {
-        "id": 20,
+        "id": "59689ee586f7740d1570bbd5",
         "require": {
             "level": 4,
             "quests": [
@@ -847,7 +847,7 @@
         "wiki": "https://escapefromtarkov.gamepedia.com/Sanitary_Standards_-_Part_1",
         "exp": 2200,
         "unlocks": [
-            "Car first aid kit"
+            "590c661e86f7741e566b646a"
         ],
         "reputation": [
             {
@@ -858,7 +858,7 @@
         "objectives": [
             {
                 "type": "find",
-                "target": "Gas analyzer",
+                "target": "590a3efd86f77437d351a25b",
                 "number": 1,
                 "location": "Any",
                 "id": 40
@@ -866,7 +866,7 @@
         ]
     },
     {
-        "id": 21,
+        "id": "596a204686f774576d4c95de",
         "require": {
             "level": 8,
             "quests": [
@@ -888,7 +888,7 @@
         "objectives": [
             {
                 "type": "find",
-                "target": "Gas analyzer",
+                "target": "590a3efd86f77437d351a25b",
                 "number": 2,
                 "location": "Any",
                 "id": 41
@@ -896,7 +896,7 @@
         ]
     },
     {
-        "id": 22,
+        "id": "5969f90786f77420d2328015",
         "require": {
             "level": 8,
             "quests": [
@@ -918,7 +918,7 @@
         "objectives": [
             {
                 "type": "find",
-                "target": "Morphine injector",
+                "target": "544fb3f34bdc2d03748b456a",
                 "number": 4,
                 "location": "Any",
                 "have": 0,
@@ -927,7 +927,7 @@
         ]
     },
     {
-        "id": 23,
+        "id": "5969f9e986f7741dde183a50",
         "require": {
             "level": 10,
             "quests": [
@@ -940,7 +940,7 @@
         "wiki": "https://escapefromtarkov.gamepedia.com/Pharmacist",
         "exp": 5900,
         "unlocks": [
-            "6B47 Helmet with cover (flora digital)"
+            "5aa7cfc0e5b5b00015693143"
         ],
         "reputation": [
             {
@@ -951,7 +951,7 @@
         "objectives": [
             {
                 "type": "key",
-                "target": "Dorm room 114 Key",
+                "target": "59387a4986f77401cc236e62",
                 "number": 1,
                 "location": "Customs",
                 "id": 43
@@ -966,7 +966,7 @@
         ]
     },
     {
-        "id": 24,
+        "id": "596a0e1686f7741ddf17dbee",
         "require": {
             "level": 13,
             "quests": [
@@ -1003,7 +1003,7 @@
         ]
     },
     {
-        "id": 25,
+        "id": "596a101f86f7741ddb481582",
         "require": {
             "level": 13,
             "quests": [
@@ -1040,7 +1040,7 @@
         ]
     },
     {
-        "id": 26,
+        "id": "596a1e6c86f7741ddc2d3206",
         "require": {
             "level": 10,
             "quests": [
@@ -1062,7 +1062,7 @@
         "objectives": [
             {
                 "type": "find",
-                "target": "Can of beef stew",
+                "target": "57347d7224597744596b4e72",
                 "number": 15,
                 "location": "Any",
                 "id": 47
@@ -1070,7 +1070,7 @@
         ]
     },
     {
-        "id": 27,
+        "id": "596a218586f77420d232807c",
         "require": {
             "level": 10,
             "quests": [
@@ -1092,7 +1092,7 @@
         "objectives": [
             {
                 "type": "find",
-                "target": "Car battery",
+                "target": "5733279d245977289b77ec24",
                 "number": 4,
                 "location": "Any",
                 "have": 0,
@@ -1100,7 +1100,7 @@
             },
             {
                 "type": "find",
-                "target": "Spark plug",
+                "target": "590a3c0a86f774385a33c450",
                 "number": 8,
                 "location": "Any",
                 "have": 0,
@@ -1109,7 +1109,7 @@
         ]
     },
     {
-        "id": 28,
+        "id": "5a68661a86f774500f48afb0",
         "require": {
             "level": 10,
             "quests": [
@@ -1122,7 +1122,7 @@
         "wiki": "https://escapefromtarkov.gamepedia.com/Health_Care_Privacy_-_Part_1",
         "exp": 6500,
         "unlocks": [
-            "IFAK personal tactical first aid kit"
+            "590c678286f77426c9660122"
         ],
         "reputation": [
             {
@@ -1161,7 +1161,7 @@
         ]
     },
     {
-        "id": 29,
+        "id": "5a68663e86f774501078f78a",
         "require": {
             "level": 10,
             "quests": [
@@ -1183,7 +1183,7 @@
         "objectives": [
             {
                 "type": "key",
-                "target": "West wing room 306 key",
+                "target": "5a13f46386f7741dd7384b04",
                 "number": 1,
                 "location": "Shoreline",
                 "id": 53
@@ -1198,7 +1198,7 @@
         ]
     },
     {
-        "id": 30,
+        "id": "5a68665c86f774255929b4c7",
         "require": {
             "level": 10,
             "quests": [
@@ -1211,7 +1211,7 @@
         "wiki": "https://escapefromtarkov.gamepedia.com/Health_Care_Privacy_-_Part_3",
         "exp": 9400,
         "unlocks": [
-            "Morphine injector"
+            "544fb3f34bdc2d03748b456a"
         ],
         "reputation": [
             {
@@ -1230,7 +1230,7 @@
         ]
     },
     {
-        "id": 31,
+        "id": "5a68667486f7742607157d28",
         "require": {
             "level": 10,
             "quests": [
@@ -1260,7 +1260,7 @@
         ]
     },
     {
-        "id": 32,
+        "id": "5a68669a86f774255929b4d4",
         "require": {
             "level": 10,
             "quests": [
@@ -1282,7 +1282,7 @@
         "objectives": [
             {
                 "type": "place",
-                "target": "Gunpowder \"Kite\"",
+                "target": "590c5a7286f7747884343aea",
                 "number": 3,
                 "location": "Factory",
                 "id": 57
@@ -1290,7 +1290,7 @@
         ]
     },
     {
-        "id": 33,
+        "id": "5c0d1c4cd0928202a02a6f5c",
         "require": {
             "level": 30,
             "quests": [
@@ -1325,7 +1325,7 @@
         ]
     },
     {
-        "id": 34,
+        "id": "5c0be5fc86f774467a116593",
         "require": {
             "level": 35,
             "quests": [
@@ -1347,14 +1347,14 @@
         "objectives": [
             {
                 "type": "find",
-                "target": "Ophthalmoscope",
+                "target": "5af0534a86f7743b6f354284",
                 "number": 1,
                 "location": "Any",
                 "id": 59
             },
             {
                 "type": "find",
-                "target": "LEDX Skin Transilluminator",
+                "target": "5c0530ee86f774697952d952",
                 "number": 1,
                 "location": "Any",
                 "id": 60
@@ -1362,7 +1362,7 @@
         ]
     },
     {
-        "id": 35,
+        "id": "5c0d0d5086f774363760aef2",
         "require": {
             "level": 30,
             "quests": [
@@ -1375,7 +1375,7 @@
         "wiki": "https://escapefromtarkov.gamepedia.com/Athlete",
         "exp": 19600,
         "unlocks": [
-            "Adrenaline injector"
+            "5c10c8fd86f7743d7d706df3"
         ],
         "reputation": [
             {
@@ -1394,7 +1394,7 @@
         ]
     },
     {
-        "id": 36,
+        "id": "596b36c586f77450d6045ad2",
         "require": {
             "level": 5,
             "quests": []
@@ -1405,7 +1405,7 @@
         "wiki": "https://escapefromtarkov.gamepedia.com/Supplier",
         "exp": 3300,
         "unlocks": [
-            "Saiga-9 9x19 Carbine"
+            "59f9cabd86f7743a10721f46"
         ],
         "reputation": [
             {
@@ -1416,14 +1416,14 @@
         "objectives": [
             {
                 "type": "find",
-                "target": "Module-3M bodyarmor",
+                "target": "59e7635f86f7742cbf2c1095",
                 "number": 1,
                 "location": "Any",
                 "id": 62
             },
             {
                 "type": "find",
-                "target": "TOZ-106 bolt-action shotgun",
+                "target": "5a38e6bac4a2826c6e06d79b",
                 "number": 1,
                 "location": "Any",
                 "id": 63
@@ -1431,7 +1431,7 @@
         ]
     },
     {
-        "id": 37,
+        "id": "596b43fb86f77457ca186186",
         "require": {
             "level": 7,
             "quests": [
@@ -1453,7 +1453,7 @@
         "objectives": [
             {
                 "type": "key",
-                "target": "Unknown key",
+                "target": "593962ca86f774068014d9af",
                 "number": 1,
                 "location": "Customs",
                 "id": 64
@@ -1468,7 +1468,7 @@
         ]
     },
     {
-        "id": 38,
+        "id": "5979ed3886f77431307dc512",
         "require": {
             "level": 8,
             "quests": [
@@ -1494,7 +1494,7 @@
         "objectives": [
             {
                 "type": "find",
-                "target": "Secure Flash drive",
+                "target": "590c621186f774138d11ea29",
                 "number": 2,
                 "location": "Any",
                 "id": 66
@@ -1502,7 +1502,7 @@
         ]
     },
     {
-        "id": 39,
+        "id": "5979eee086f774311955e614",
         "require": {
             "level": 8,
             "quests": [
@@ -1515,7 +1515,7 @@
         "wiki": "https://escapefromtarkov.gamepedia.com/Golden_swag",
         "exp": 4600,
         "unlocks": [
-            "VOMZ Pilad P1X42 \"WEAVER\" reflex sight"
+            "584984812459776a704a82a6"
         ],
         "reputation": [
             {
@@ -1526,14 +1526,14 @@
         "objectives": [
             {
                 "type": "key",
-                "target": "Dorm room 303 Key",
+                "target": "593aa4be86f77457f56379f8",
                 "number": 1,
                 "location": "Customs",
                 "id": 67
             },
             {
                 "type": "key",
-                "target": "Trailer park cabin key",
+                "target": "5913611c86f77479e0084092",
                 "number": 1,
                 "location": "Customs",
                 "id": 68
@@ -1555,7 +1555,7 @@
         ]
     },
     {
-        "id": 40,
+        "id": "5979f9ba86f7740f6c3fe9f2",
         "require": {
             "level": 10,
             "quests": [
@@ -1577,7 +1577,7 @@
         "objectives": [
             {
                 "type": "key",
-                "target": "Dorm room 220 Key",
+                "target": "5780cfa52459777dfb276eb1",
                 "number": 1,
                 "location": "Customs",
                 "id": 71
@@ -1592,7 +1592,7 @@
         ]
     },
     {
-        "id": 41,
+        "id": "597a0b2986f77426d66c0633",
         "require": {
             "level": 10,
             "quests": [
@@ -1605,7 +1605,7 @@
         "wiki": "https://escapefromtarkov.gamepedia.com/Chemical_-_Part_2",
         "exp": 4900,
         "unlocks": [
-            "SAI-02 10-round 12x76 magazine for SOK-12 and compatible weapons"
+            "5a966f51a2750c00156aacf6"
         ],
         "reputation": [
             {
@@ -1616,7 +1616,7 @@
         "objectives": [
             {
                 "type": "key",
-                "target": "Dorm room 220 Key",
+                "target": "5780cfa52459777dfb276eb1",
                 "number": 1,
                 "location": "Customs",
                 "id": 73
@@ -1638,7 +1638,7 @@
         ]
     },
     {
-        "id": 42,
+        "id": "597a0e5786f77426d66c0636",
         "require": {
             "level": 11,
             "quests": [
@@ -1672,7 +1672,7 @@
         ]
     },
     {
-        "id": 43,
+        "id": "597a0f5686f774273b74f676",
         "require": {
             "level": 11,
             "quests": [
@@ -1685,7 +1685,7 @@
         "wiki": "https://escapefromtarkov.gamepedia.com/Chemical_-_Part_4",
         "exp": 6600,
         "unlocks": [
-            "ZSh-1-2M helmet (black)"
+            "5aa7e4a4e5b5b000137b76f2"
         ],
         "reputation": [
             {
@@ -1721,7 +1721,7 @@
         ]
     },
     {
-        "id": 44,
+        "id": "5b478eca86f7744642012254",
         "require": {
             "level": 22,
             "quests": [
@@ -1747,14 +1747,14 @@
         "objectives": [
             {
                 "type": "key",
-                "target": "Office 112 West wing key",
+                "target": "5a0dc95c86f77452440fc675",
                 "number": 1,
                 "location": "Shoreline",
                 "id": 78
             },
             {
                 "type": "key",
-                "target": "Key to EMERCOM medical unit",
+                "target": "5ad5db3786f7743568421cce",
                 "number": 1,
                 "location": "Interchange",
                 "id": 79
@@ -1785,7 +1785,7 @@
         ]
     },
     {
-        "id": 45,
+        "id": "5b478ff486f7744d184ecbbf",
         "require": {
             "level": 22,
             "quests": [
@@ -1807,14 +1807,14 @@
         "objectives": [
             {
                 "type": "find",
-                "target": "Respirator",
+                "target": "59e7715586f7742ee5789605",
                 "number": 4,
                 "location": "Any",
                 "id": 83
             },
             {
                 "type": "find",
-                "target": "Medical bloodset",
+                "target": "5b4335ba86f7744d2837a264",
                 "number": 3,
                 "location": "Any",
                 "id": 84
@@ -1822,7 +1822,7 @@
         ]
     },
     {
-        "id": 46,
+        "id": "5a27c99a86f7747d2c6bdd8e",
         "require": {
             "level": 9,
             "quests": [
@@ -1854,7 +1854,7 @@
             },
             {
                 "type": "find",
-                "target": "Dogtag USEC",
+                "target": "59f32c3b86f77472a31742f0",
                 "number": 7,
                 "location": "Any",
                 "id": 85
@@ -1862,7 +1862,7 @@
         ]
     },
     {
-        "id": 47,
+        "id": "5a27d2af86f7744e1115b323",
         "require": {
             "level": 9,
             "quests": [
@@ -1884,7 +1884,7 @@
         "objectives": [
             {
                 "type": "collect",
-                "target": "Dollars",
+                "target": "5696686a4bdc2da3298b456a",
                 "number": 6000,
                 "location": "Any",
                 "id": 87
@@ -1892,7 +1892,7 @@
         ]
     },
     {
-        "id": 48,
+        "id": "5b4794cb86f774598100d5d4",
         "require": {
             "level": 25,
             "quests": [
@@ -1914,7 +1914,7 @@
         "objectives": [
             {
                 "type": "key",
-                "target": "West wing room 216",
+                "target": "5a0ee30786f774023b6ee08f",
                 "number": 1,
                 "location": "Shoreline",
                 "id": 88
@@ -1969,7 +1969,7 @@
         ]
     },
     {
-        "id": 49,
+        "id": "5c0d0f1886f77457b8210226",
         "require": {
             "level": 30,
             "quests": [
@@ -1991,14 +1991,14 @@
         "objectives": [
             {
                 "type": "find",
-                "target": "Virtex programmable processor",
+                "target": "5c05308086f7746b2101e90b",
                 "number": 2,
                 "location": "Any",
                 "id": 95
             },
             {
                 "type": "find",
-                "target": "Military COFDM wireless Signal Transmitter",
+                "target": "5c052f6886f7746b1e3db148",
                 "number": 1,
                 "location": "Any",
                 "id": 96
@@ -2006,7 +2006,7 @@
         ]
     },
     {
-        "id": 50,
+        "id": "5c0d4c12d09282029f539173",
         "require": {
             "level": 30,
             "quests": [
@@ -2078,7 +2078,7 @@
         ]
     },
     {
-        "id": 51,
+        "id": "5b47926a86f7747ccc057c15",
         "require": {
             "level": 24,
             "quests": [
@@ -2125,7 +2125,7 @@
         ]
     },
     {
-        "id": 52,
+        "id": "5b4795fb86f7745876267770",
         "require": {
             "level": 27,
             "quests": [
@@ -2147,21 +2147,21 @@
         "objectives": [
             {
                 "type": "place",
-                "target": "Golden neck chain",
+                "target": "5734758f24597738025ee253",
                 "number": 3,
                 "location": "Interchange",
                 "id": 104
             },
             {
                 "type": "place",
-                "target": "Golden neck chain",
+                "target": "5734758f24597738025ee253",
                 "number": 3,
                 "location": "Woods",
                 "id": 105
             },
             {
                 "type": "place",
-                "target": "Golden neck chain",
+                "target": "5734758f24597738025ee253",
                 "number": 3,
                 "location": "Customs",
                 "id": 106
@@ -2179,7 +2179,7 @@
         ]
     },
     {
-        "id": 53,
+        "id": "5c0bc91486f7746ab41857a2",
         "require": {
             "level": 27,
             "quests": [
@@ -2222,7 +2222,7 @@
         ]
     },
     {
-        "id": 54,
+        "id": "5c0bdb5286f774166e38eed4",
         "require": {
             "level": 27,
             "quests": [
@@ -2235,7 +2235,7 @@
         "wiki": "https://escapefromtarkov.gamepedia.com/Flint",
         "exp": 20000,
         "unlocks": [
-            "M-2 Tactical Sword"
+            "5bffdd7e0db834001b734a1a"
         ],
         "reputation": [
             {
@@ -2254,7 +2254,7 @@
         ]
     },
     {
-        "id": 55,
+        "id": "5c0bbaa886f7746941031d82",
         "require": {
             "level": 27,
             "quests": [
@@ -2267,7 +2267,7 @@
         "wiki": "https://escapefromtarkov.gamepedia.com/Bullshit",
         "exp": 29700,
         "unlocks": [
-            "5 pcs. 12x70 DIPP ammo box"
+            "5c1127d0d174af29be75cf68"
         ],
         "reputation": [
             {
@@ -2292,21 +2292,21 @@
             },
             {
                 "type": "place",
-                "target": "False flash drive",
+                "target": "5c12301c86f77419522ba7e4",
                 "number": 1,
                 "location": "Customs",
                 "id": 112
             },
             {
                 "type": "place",
-                "target": "Roler submariner gold wrist watch",
+                "target": "59faf7ca86f7740dbe19f6c2",
                 "number": 1,
                 "location": "Customs",
                 "id": 113
             },
             {
                 "type": "place",
-                "target": "SV-98 bolt-action sniper rifle",
+                "target": "55801eed4bdc2d89578b4588",
                 "number": 1,
                 "location": "Customs",
                 "id": 114
@@ -2314,7 +2314,7 @@
         ]
     },
     {
-        "id": 56,
+        "id": "5c1234c286f77406fa13baeb",
         "require": {
             "level": 27,
             "quests": [
@@ -2327,7 +2327,7 @@
         "wiki": "https://escapefromtarkov.gamepedia.com/Setup",
         "exp": 29300,
         "unlocks": [
-            "20 pcs. 9x19 mm DIPP ammo box"
+            "5c1127bdd174af44217ab8b9"
         ],
         "reputation": [
             {
@@ -2351,7 +2351,7 @@
         ]
     },
     {
-        "id": 57,
+        "id": "5a27b75b86f7742e97191958",
         "require": {
             "level": 10,
             "quests": [
@@ -2364,7 +2364,7 @@
         "wiki": "https://escapefromtarkov.gamepedia.com/Fishing_Gear",
         "exp": 5400,
         "unlocks": [
-            "Aimpoint Micro T-1 reflex sight"
+            "58d399e486f77442e0016fe7"
         ],
         "reputation": [
             {
@@ -2375,14 +2375,14 @@
         "objectives": [
             {
                 "type": "place",
-                "target": "SV-98 bolt-action sniper rifle",
+                "target": "55801eed4bdc2d89578b4588",
                 "number": 1,
                 "location": "Shoreline",
                 "id": 116
             },
             {
                 "type": "place",
-                "target": "Leatherman Multitool",
+                "target": "544fb5454bdc2df8738b456a",
                 "number": 1,
                 "location": "Shoreline",
                 "id": 117
@@ -2390,7 +2390,7 @@
         ]
     },
     {
-        "id": 58,
+        "id": "5a27b7a786f774579c3eb376",
         "require": {
             "level": 10,
             "quests": [
@@ -2444,7 +2444,7 @@
         ]
     },
     {
-        "id": 59,
+        "id": "5a27b7d686f77460d847e6a6",
         "require": {
             "level": 10,
             "quests": [
@@ -2500,7 +2500,7 @@
         ]
     },
     {
-        "id": 60,
+        "id": "5a27b80086f774429a5d7e20",
         "require": {
             "level": 11,
             "quests": [
@@ -2539,7 +2539,7 @@
         ]
     },
     {
-        "id": 61,
+        "id": "5a27b87686f77460de0252a8",
         "require": {
             "level": 11,
             "quests": [
@@ -2552,7 +2552,7 @@
         "wiki": "https://escapefromtarkov.gamepedia.com/Humanitarian_Supplies",
         "exp": 7400,
         "unlocks": [
-            "Hexagon AK-74 5.45x39 sound suppressor"
+            "593d493f86f7745e6b2ceb22"
         ],
         "reputation": [
             {
@@ -2579,7 +2579,7 @@
             },
             {
                 "type": "collect",
-                "target": "MRE lunch box",
+                "target": "590c5f0d86f77413997acfab",
                 "number": 5,
                 "location": "Any",
                 "id": 128
@@ -2598,7 +2598,7 @@
         ]
     },
     {
-        "id": 62,
+        "id": "5a27b9de86f77464e5044585",
         "require": {
             "level": 12,
             "quests": [
@@ -2611,7 +2611,7 @@
         "wiki": "https://escapefromtarkov.gamepedia.com/The_Cult_-_Part_1",
         "exp": 6700,
         "unlocks": [
-            "5.56x45 mm M856A1"
+            "59e6906286f7746c9f75e847"
         ],
         "reputation": [
             {
@@ -2630,7 +2630,7 @@
         ]
     },
     {
-        "id": 63,
+        "id": "5a27ba1c86f77461ea5a3c56",
         "require": {
             "level": 12,
             "quests": [
@@ -2652,7 +2652,7 @@
         "objectives": [
             {
                 "type": "key",
-                "target": "Marked key",
+                "target": "5780cf7f2459777de4559322",
                 "number": 1,
                 "location": "Customs",
                 "id": 131
@@ -2694,7 +2694,7 @@
         ]
     },
     {
-        "id": 64,
+        "id": "5a03153686f77442d90e2171",
         "require": {
             "level": 12,
             "quests": [
@@ -2727,7 +2727,7 @@
         ]
     },
     {
-        "id": 65,
+        "id": "5a03173786f77451cb427172",
         "require": {
             "level": 12,
             "quests": [
@@ -2766,7 +2766,7 @@
         ]
     },
     {
-        "id": 66,
+        "id": "5a0327ba86f77456b9154236",
         "require": {
             "level": 12,
             "quests": [
@@ -2788,28 +2788,28 @@
         "objectives": [
             {
                 "type": "find",
-                "target": "WD-40 100ml.",
+                "target": "590c5bbd86f774785762df04",
                 "number": 1,
                 "location": "Any",
                 "id": 138
             },
             {
                 "type": "find",
-                "target": "Clin wiper",
+                "target": "59e358a886f7741776641ac3",
                 "number": 2,
                 "location": "Any",
                 "id": 139
             },
             {
                 "type": "find",
-                "target": "Corrugated hose",
+                "target": "59e35cbb86f7741778269d83",
                 "number": 2,
                 "location": "Any",
                 "id": 140
             },
             {
                 "type": "find",
-                "target": "Ox bleach",
+                "target": "59e3556c86f7741776641ac2",
                 "number": 2,
                 "location": "Any",
                 "id": 141
@@ -2817,7 +2817,7 @@
         ]
     },
     {
-        "id": 67,
+        "id": "5a03296886f774569778596a",
         "require": {
             "level": 12,
             "quests": [
@@ -2861,7 +2861,7 @@
         ]
     },
     {
-        "id": 68,
+        "id": "5a0449d586f77474e66227b7",
         "require": {
             "level": 12,
             "quests": [
@@ -2891,7 +2891,7 @@
         ]
     },
     {
-        "id": 69,
+        "id": "5a27ba9586f7741b543d8e85",
         "require": {
             "level": 12,
             "quests": [
@@ -2913,7 +2913,7 @@
         "objectives": [
             {
                 "type": "collect",
-                "target": "Dollars",
+                "target": "5696686a4bdc2da3298b456a",
                 "number": 8000,
                 "location": "Any",
                 "id": 146
@@ -2921,7 +2921,7 @@
         ]
     },
     {
-        "id": 70,
+        "id": "5a27bafb86f7741c73584017",
         "require": {
             "level": 12,
             "quests": [
@@ -2947,28 +2947,28 @@
         "objectives": [
             {
                 "type": "find",
-                "target": "Morphine injector",
+                "target": "544fb3f34bdc2d03748b456a",
                 "number": 4,
                 "location": "Any",
                 "id": 147
             },
             {
                 "type": "find",
-                "target": "Heat-exchange alkali surface washer",
+                "target": "59faf98186f774067b6be103",
                 "number": 2,
                 "location": "Any",
                 "id": 148
             },
             {
                 "type": "find",
-                "target": "Corrugated hose",
+                "target": "59e35cbb86f7741778269d83",
                 "number": 2,
                 "location": "Any",
                 "id": 149
             },
             {
                 "type": "find",
-                "target": "5L propane tank",
+                "target": "59fafb5d86f774067a6f2084",
                 "number": 2,
                 "location": "Any",
                 "id": 150
@@ -2976,7 +2976,7 @@
         ]
     },
     {
-        "id": 71,
+        "id": "5a27bb1e86f7741f27621b7e",
         "require": {
             "level": 12,
             "quests": [
@@ -3013,7 +3013,7 @@
         ]
     },
     {
-        "id": 72,
+        "id": "5a27bb3d86f77411ea361a21",
         "require": {
             "level": 12,
             "quests": [
@@ -3026,7 +3026,7 @@
         "wiki": "https://escapefromtarkov.gamepedia.com/Cargo_X_-_Part_2",
         "exp": 8600,
         "unlocks": [
-            "KAC QDSS NT-4 5.56x45 silencer (Black)"
+            "57da93632459771cb65bf83f"
         ],
         "reputation": [
             {
@@ -3045,7 +3045,7 @@
         ]
     },
     {
-        "id": 73,
+        "id": "5a27bb5986f7741dfb660900",
         "require": {
             "level": 12,
             "quests": [
@@ -3075,7 +3075,7 @@
         ]
     },
     {
-        "id": 74,
+        "id": "5a27bb8386f7741c770d2d0a",
         "require": {
             "level": 14,
             "quests": [
@@ -3112,7 +3112,7 @@
         ]
     },
     {
-        "id": 75,
+        "id": "5a27bbf886f774333a418eeb",
         "require": {
             "level": 14,
             "quests": [
@@ -3125,7 +3125,7 @@
         "wiki": "https://escapefromtarkov.gamepedia.com/Wet_Job_-_Part_2",
         "exp": 11700,
         "unlocks": [
-            "Magpul PMAG D-60 5.56x45 60-round magazine"
+            "59c1383d86f774290a37e0ca"
         ],
         "reputation": [
             {
@@ -3145,7 +3145,7 @@
         ]
     },
     {
-        "id": 76,
+        "id": "5a27bc1586f7741f6d40fa2f",
         "require": {
             "level": 14,
             "quests": [
@@ -3175,7 +3175,7 @@
         ]
     },
     {
-        "id": 77,
+        "id": "5a27bc3686f7741c73584026",
         "require": {
             "level": 14,
             "quests": [
@@ -3205,7 +3205,7 @@
         ]
     },
     {
-        "id": 78,
+        "id": "5a27bc6986f7741c7358402b",
         "require": {
             "level": 14,
             "quests": [
@@ -3242,7 +3242,7 @@
         ]
     },
     {
-        "id": 79,
+        "id": "5a27bc8586f7741b543d8ea4",
         "require": {
             "level": 14,
             "quests": [
@@ -3255,7 +3255,7 @@
         "wiki": "https://escapefromtarkov.gamepedia.com/Wet_Job_-_Part_6",
         "exp": 10400,
         "unlocks": [
-            "7.62x51 mm M61"
+            "5a6086ea4f39f99cd479502f"
         ],
         "reputation": [
             {
@@ -3278,7 +3278,7 @@
         ]
     },
     {
-        "id": 80,
+        "id": "5c0be13186f7746f016734aa",
         "require": {
             "level": 40,
             "quests": [
@@ -3303,7 +3303,7 @@
         ]
     },
     {
-        "id": 81,
+        "id": "5c0d4e61d09282029f53920e",
         "require": {
             "level": 14,
             "quests": [
@@ -3316,9 +3316,9 @@
         "wiki": "https://escapefromtarkov.gamepedia.com/The_guide",
         "exp": 35100,
         "unlocks": [
-            "Eotech HHS-1 sight Tan",
-            "SLAAP armor Plate (Tan)",
-            "Arsenal CWP 30-round 5.56x45 magazine for SLR-106 and compatible weapons"
+            "5c0a2cec0db834001b7ce47d",
+            "5c0e66e2d174af02a96252f4",
+            "5c0548ae0db834001966a3c2"
         ],
         "reputation": [
             {
@@ -3329,7 +3329,7 @@
         "objectives": []
     },
     {
-        "id": 82,
+        "id": "5ac23c6186f7741247042bad",
         "require": {
             "level": 10,
             "quests": []
@@ -3349,7 +3349,7 @@
         "objectives": []
     },
     {
-        "id": 83,
+        "id": "5ac2426c86f774138762edfe",
         "require": {
             "level": 11,
             "quests": [
@@ -3371,7 +3371,7 @@
         "objectives": []
     },
     {
-        "id": 84,
+        "id": "5ac2428686f77412450b42bf",
         "require": {
             "level": 12,
             "quests": [
@@ -3393,7 +3393,7 @@
         "objectives": []
     },
     {
-        "id": 85,
+        "id": "5ac244eb86f7741356335af1",
         "require": {
             "level": 15,
             "quests": [
@@ -3415,7 +3415,7 @@
         "objectives": []
     },
     {
-        "id": 86,
+        "id": "5ac242ab86f77412464f68b4",
         "require": {
             "level": 17,
             "quests": [
@@ -3437,7 +3437,7 @@
         "objectives": []
     },
     {
-        "id": 87,
+        "id": "5ac244c486f77413e12cf945",
         "require": {
             "level": 18,
             "quests": [
@@ -3459,7 +3459,7 @@
         "objectives": []
     },
     {
-        "id": 88,
+        "id": "5ae3267986f7742a413592fe",
         "require": {
             "level": 19,
             "quests": [
@@ -3481,7 +3481,7 @@
         "objectives": []
     },
     {
-        "id": 89,
+        "id": "5ae3270f86f77445ba41d4dd",
         "require": {
             "level": 19,
             "quests": [
@@ -3503,7 +3503,7 @@
         "objectives": []
     },
     {
-        "id": 90,
+        "id": "5ae3277186f7745973054106",
         "require": {
             "level": 20,
             "quests": [
@@ -3525,7 +3525,7 @@
         "objectives": []
     },
     {
-        "id": 91,
+        "id": "5ae327c886f7745c7b3f2f3f",
         "require": {
             "level": 20,
             "quests": [
@@ -3547,7 +3547,7 @@
         "objectives": []
     },
     {
-        "id": 92,
+        "id": "5ae3280386f7742a41359364",
         "require": {
             "level": 20,
             "quests": [
@@ -3569,7 +3569,7 @@
         "objectives": []
     },
     {
-        "id": 93,
+        "id": "5b47749f86f7746c5d6a5fd4",
         "require": {
             "level": 23,
             "quests": [
@@ -3591,7 +3591,7 @@
         "objectives": []
     },
     {
-        "id": 94,
+        "id": "5b47799d86f7746c5d6a5fd8",
         "require": {
             "level": 25,
             "quests": [
@@ -3613,7 +3613,7 @@
         "objectives": []
     },
     {
-        "id": 95,
+        "id": "5b477b6f86f7747290681823",
         "require": {
             "level": 27,
             "quests": [
@@ -3635,7 +3635,7 @@
         "objectives": []
     },
     {
-        "id": 96,
+        "id": "5b477f7686f7744d1b23c4d2",
         "require": {
             "level": 29,
             "quests": [
@@ -3657,7 +3657,7 @@
         "objectives": []
     },
     {
-        "id": 97,
+        "id": "5b47825886f77468074618d3",
         "require": {
             "level": 35,
             "quests": [
@@ -3679,7 +3679,7 @@
         "objectives": []
     },
     {
-        "id": 98,
+        "id": "5ac3467986f7741d6224abc2",
         "require": {
             "level": 12,
             "quests": [
@@ -3716,7 +3716,7 @@
         ]
     },
     {
-        "id": 99,
+        "id": "5ac346a886f7744e1b083d67",
         "require": {
             "level": 12,
             "quests": [
@@ -3738,28 +3738,28 @@
         "objectives": [
             {
                 "type": "find",
-                "target": "PC CPU",
+                "target": "573477e124597737dd42e191",
                 "number": 3,
                 "location": "Any",
                 "id": 165
             },
             {
                 "type": "find",
-                "target": "Rechargeable battery",
+                "target": "590a358486f77429692b2790",
                 "number": 3,
                 "location": "Any",
                 "id": 166
             },
             {
                 "type": "find",
-                "target": "Printed circuit board",
+                "target": "590a3b0486f7743954552bdb",
                 "number": 3,
                 "location": "Any",
                 "id": 167
             },
             {
                 "type": "find",
-                "target": "Broken GPhone",
+                "target": "56742c324bdc2d150f8b456d",
                 "number": 3,
                 "location": "Any",
                 "id": 168
@@ -3767,7 +3767,7 @@
         ]
     },
     {
-        "id": 100,
+        "id": "5ac346cf86f7741d63233a02",
         "require": {
             "level": 15,
             "quests": [
@@ -3817,7 +3817,7 @@
         ]
     },
     {
-        "id": 101,
+        "id": "5ac346e886f7741d6118b99b",
         "require": {
             "level": 15,
             "quests": [
@@ -3847,7 +3847,7 @@
         ]
     },
     {
-        "id": 102,
+        "id": "5ac3477486f7741d651d6885",
         "require": {
             "level": 15,
             "quests": [
@@ -3894,7 +3894,7 @@
         ]
     },
     {
-        "id": 103,
+        "id": "5ac3479086f7742880308199",
         "require": {
             "level": 12,
             "quests": [
@@ -3925,7 +3925,7 @@
         ]
     },
     {
-        "id": 104,
+        "id": "5ac345dc86f774288030817f",
         "require": {
             "level": 12,
             "quests": [
@@ -3947,7 +3947,7 @@
         "objectives": [
             {
                 "type": "place",
-                "target": "A set of tools",
+                "target": "590c2e1186f77425357b6124",
                 "hint": "Forklifts",
                 "number": 1,
                 "location": "Factory",
@@ -3955,7 +3955,7 @@
             },
             {
                 "type": "place",
-                "target": "A set of tools",
+                "target": "590c2e1186f77425357b6124",
                 "hint": "Glass hallway",
                 "number": 1,
                 "location": "Factory",
@@ -3964,7 +3964,7 @@
         ]
     },
     {
-        "id": 105,
+        "id": "5ac3460c86f7742880308185",
         "require": {
             "level": 12,
             "quests": [
@@ -3986,21 +3986,21 @@
         "objectives": [
             {
                 "type": "find",
-                "target": "Powercord",
+                "target": "59e36c6f86f774176c10a2a7",
                 "number": 2,
                 "location": "Any",
                 "id": 179
             },
             {
                 "type": "find",
-                "target": "T-Shaped Plug",
+                "target": "57347cd0245977445a2d6ff1",
                 "number": 4,
                 "location": "Any",
                 "id": 180
             },
             {
                 "type": "find",
-                "target": "Printed circuit board",
+                "target": "590a3b0486f7743954552bdb",
                 "number": 2,
                 "location": "Any",
                 "id": 181
@@ -4008,7 +4008,7 @@
         ]
     },
     {
-        "id": 106,
+        "id": "5ac3462b86f7741d6118b983",
         "require": {
             "level": 14,
             "quests": [
@@ -4030,7 +4030,7 @@
         "objectives": [
             {
                 "type": "key",
-                "target": "Customs office key",
+                "target": "5780d0532459777a5108b9a2",
                 "number": 1,
                 "location": "Customs",
                 "id": 182
@@ -4045,7 +4045,7 @@
         ]
     },
     {
-        "id": 107,
+        "id": "5ac3464c86f7741d651d6877",
         "require": {
             "level": 14,
             "quests": [
@@ -4067,14 +4067,14 @@
         "objectives": [
             {
                 "type": "find",
-                "target": "Graphics card",
+                "target": "57347ca924597744596b4e71",
                 "number": 3,
                 "location": "Any",
                 "id": 184
             },
             {
                 "type": "find",
-                "target": "CPU Fan",
+                "target": "5734779624597737e04bf329",
                 "number": 8,
                 "location": "Any",
                 "id": 185
@@ -4082,7 +4082,7 @@
         ]
     },
     {
-        "id": 108,
+        "id": "5c139eb686f7747878361a6f",
         "require": {
             "level": 35,
             "quests": [
@@ -4105,14 +4105,14 @@
         "objectives": [
             {
                 "type": "find",
-                "target": "UHF RFID Reader",
+                "target": "5c052fb986f7746b2101e909",
                 "number": 1,
                 "location": "Any",
                 "id": 186
             },
             {
                 "type": "find",
-                "target": "VPX Flash Storage Module",
+                "target": "5c05300686f7746dce784e5d",
                 "number": 1,
                 "location": "Any",
                 "id": 187
@@ -4120,7 +4120,7 @@
         ]
     },
     {
-        "id": 109,
+        "id": "5c1128e386f7746565181106",
         "require": {
             "level": 30,
             "quests": [
@@ -4142,14 +4142,14 @@
         "objectives": [
             {
                 "type": "find",
-                "target": "Wires",
+                "target": "5c06779c86f77426e00dd782",
                 "number": 5,
                 "location": "Any",
                 "id": 188
             },
             {
                 "type": "find",
-                "target": "Capacitors",
+                "target": "5c06782b86f77426df5407d2",
                 "number": 5,
                 "location": "Any",
                 "id": 189
@@ -4157,7 +4157,7 @@
         ]
     },
     {
-        "id": 110,
+        "id": "5c0bde0986f77479cf22c2f8",
         "require": {
             "level": 14,
             "quests": [
@@ -4220,7 +4220,7 @@
         ]
     },
     {
-        "id": 111,
+        "id": "5ae448a386f7744d3730fff0",
         "require": {
             "level": 15,
             "quests": []
@@ -4248,7 +4248,7 @@
         ]
     },
     {
-        "id": 112,
+        "id": "5ae448e586f7744dcf0c2a67",
         "require": {
             "level": 15,
             "quests": [
@@ -4306,7 +4306,7 @@
         ]
     },
     {
-        "id": 113,
+        "id": "5ae448f286f77448d73c0131",
         "require": {
             "level": 15,
             "quests": [
@@ -4356,7 +4356,7 @@
         ]
     },
     {
-        "id": 114,
+        "id": "5ae4490786f7744ca822adcc",
         "require": {
             "level": 15,
             "quests": [
@@ -4378,14 +4378,14 @@
         "objectives": [
             {
                 "type": "find",
-                "target": "Ushanka ear-flap cap",
+                "target": "59e7708286f7742cbd762753",
                 "number": 2,
                 "location": "Any",
                 "id": 203
             },
             {
                 "type": "find",
-                "target": "Kinda cowboy hat",
+                "target": "5aa2b9ede5b5b000137b758b",
                 "number": 2,
                 "location": "Any",
                 "id": 204
@@ -4393,7 +4393,7 @@
         ]
     },
     {
-        "id": 115,
+        "id": "5ae4493486f7744efa289417",
         "require": {
             "level": 15,
             "quests": [
@@ -4437,7 +4437,7 @@
         ]
     },
     {
-        "id": 116,
+        "id": "5ae4493d86f7744b8e15aa8f",
         "require": {
             "level": 15,
             "quests": [
@@ -4459,7 +4459,7 @@
         "objectives": [
             {
                 "type": "key",
-                "target": "Key to OLI logistics department office",
+                "target": "5ad5cfbd86f7742c825d6104",
                 "number": 1,
                 "location": "Interchange",
                 "id": 208
@@ -4474,7 +4474,7 @@
         ]
     },
     {
-        "id": 117,
+        "id": "5ae449b386f77446d8741719",
         "require": {
             "level": 25,
             "quests": [
@@ -4497,28 +4497,28 @@
         "objectives": [
             {
                 "type": "place",
-                "target": "Ghost balaclava",
+                "target": "5ab8f4ff86f77431c60d91ba",
                 "number": 1,
                 "location": "Woods",
                 "id": 210
             },
             {
                 "type": "place",
-                "target": "Shemagh",
+                "target": "5ab8f85d86f7745cd93a1cf5",
                 "number": 1,
                 "location": "Woods",
                 "id": 211
             },
             {
                 "type": "place",
-                "target": "RayBench sunglasses",
+                "target": "5aa2b9aee5b5b00015693121",
                 "number": 1,
                 "location": "Woods",
                 "id": 212
             },
             {
                 "type": "place",
-                "target": "Round frame sunglasses",
+                "target": "5aa2b923e5b5b000137b7589",
                 "number": 1,
                 "location": "Woods",
                 "id": 213
@@ -4526,7 +4526,7 @@
         ]
     },
     {
-        "id": 118,
+        "id": "5ae449c386f7744bde357697",
         "require": {
             "level": 30,
             "quests": [
@@ -4556,7 +4556,7 @@
         ]
     },
     {
-        "id": 119,
+        "id": "5ae449d986f774453a54a7e1",
         "require": {
             "level": 40,
             "quests": [
@@ -4578,7 +4578,7 @@
         "objectives": [
             {
                 "type": "collect",
-                "target": "Key to Goshan cash register",
+                "target": "5ad7247386f7747487619dc3",
                 "number": 1,
                 "location": "Any",
                 "id": 214
@@ -4586,7 +4586,7 @@
         ]
     },
     {
-        "id": 120,
+        "id": "5b478b1886f7744d1b23c57d",
         "require": {
             "level": 29,
             "quests": [
@@ -4608,7 +4608,7 @@
         "objectives": [
             {
                 "type": "place",
-                "target": "Peltor ComTac 2 headset",
+                "target": "5645bcc04bdc2d363b8b4572",
                 "hint": "AVOKADO",
                 "number": 2,
                 "location": "Interchange",
@@ -4616,7 +4616,7 @@
             },
             {
                 "type": "place",
-                "target": "6B47 Ratnik-BSh Helmet",
+                "target": "5a7c4850e899ef00150be885",
                 "hint": "AVOKADO",
                 "number": 2,
                 "location": "Interchange",
@@ -4624,7 +4624,7 @@
             },
             {
                 "type": "place",
-                "target": "BNTI Gzhel-K armor",
+                "target": "5ab8e79e86f7742d8b372e78",
                 "hint": "Front Stage",
                 "number": 2,
                 "location": "Interchange",
@@ -4633,7 +4633,7 @@
         ]
     },
     {
-        "id": 121,
+        "id": "5c112d7e86f7740d6f647486",
         "require": {
             "level": 29,
             "quests": [
@@ -4663,7 +4663,7 @@
         ]
     },
     {
-        "id": 122,
+        "id": "5ae448bf86f7744d733e55ee",
         "require": {
             "level": 15,
             "quests": [
@@ -4693,7 +4693,7 @@
         ]
     },
     {
-        "id": 123,
+        "id": "5b478d0f86f7744d190d91b5",
         "require": {
             "level": 24,
             "quests": [
@@ -4743,7 +4743,7 @@
         ]
     },
     {
-        "id": 124,
+        "id": "5ae4495086f77443c122bc40",
         "require": {
             "level": 25,
             "quests": [
@@ -4765,14 +4765,14 @@
         "objectives": [
             {
                 "type": "find",
-                "target": "Ski hat with holes for eyes",
+                "target": "5ab8f20c86f7745cdb629fb2",
                 "number": 1,
                 "location": "Any",
                 "id": 223
             },
             {
                 "type": "find",
-                "target": "Pilgrim tourist backpack",
+                "target": "59e763f286f7742ee57895da",
                 "number": 1,
                 "location": "Any",
                 "id": 224
@@ -4780,7 +4780,7 @@
         ]
     },
     {
-        "id": 125,
+        "id": "5ae4495c86f7744e87761355",
         "require": {
             "level": 25,
             "quests": [
@@ -4802,7 +4802,7 @@
         "objectives": [
             {
                 "type": "collect",
-                "target": "BNTI Gzhel-K armor",
+                "target": "5ab8e79e86f7742d8b372e78",
                 "hint": "0-50% condition",
                 "number": 1,
                 "location": "Any",
@@ -4810,7 +4810,7 @@
             },
             {
                 "type": "collect",
-                "target": "BNTI Gzhel-K armor",
+                "target": "5ab8e79e86f7742d8b372e78",
                 "hint": "50-100% condition",
                 "number": 1,
                 "location": "Any",
@@ -4819,7 +4819,7 @@
         ]
     },
     {
-        "id": 126,
+        "id": "5ae4496986f774459e77beb6",
         "require": {
             "level": 25,
             "quests": [
@@ -4841,7 +4841,7 @@
         "objectives": [
             {
                 "type": "collect",
-                "target": "6B43 Zabralo-Sh 6A Armor",
+                "target": "545cdb794bdc2d3a198b456a",
                 "hint": "0-50% condition",
                 "number": 1,
                 "location": "Any",
@@ -4849,7 +4849,7 @@
             },
             {
                 "type": "collect",
-                "target": "6B43 Zabralo-Sh 6A Armor",
+                "target": "545cdb794bdc2d3a198b456a",
                 "hint": "50-100% condition",
                 "number": 1,
                 "location": "Any",
@@ -4858,7 +4858,7 @@
         ]
     },
     {
-        "id": 127,
+        "id": "5ae4497b86f7744cf402ed00",
         "require": {
             "level": 25,
             "quests": [
@@ -4880,14 +4880,14 @@
         "objectives": [
             {
                 "type": "find",
-                "target": "Wartech gear rig (TV-109, TV-106)",
+                "target": "59e7643b86f7742cbf2c109a",
                 "number": 2,
                 "location": "Any",
                 "id": 229
             },
             {
                 "type": "find",
-                "target": "BlackRock chest rig",
+                "target": "5648a69d4bdc2ded0b8b457b",
                 "number": 2,
                 "location": "Any",
                 "id": 230
@@ -4895,7 +4895,7 @@
         ]
     },
     {
-        "id": 128,
+        "id": "5ae4499a86f77449783815db",
         "require": {
             "level": 25,
             "quests": [
@@ -4926,7 +4926,7 @@
         ]
     },
     {
-        "id": 129,
+        "id": "5ae449a586f7744bde357696",
         "require": {
             "level": 25,
             "quests": [
@@ -4956,7 +4956,7 @@
         ]
     },
     {
-        "id": 130,
+        "id": "5b47876e86f7744d1c353205",
         "require": {
             "level": 23,
             "quests": [
@@ -4978,7 +4978,7 @@
         "objectives": [
             {
                 "type": "find",
-                "target": "Fuel conditioner",
+                "target": "5b43575a86f77424f443fe62",
                 "number": 4,
                 "location": "Any",
                 "id": 233
@@ -4986,7 +4986,7 @@
         ]
     },
     {
-        "id": 131,
+        "id": "5c10f94386f774227172c572",
         "require": {
             "level": 30,
             "quests": [
@@ -5036,7 +5036,7 @@
         ]
     },
     {
-        "id": 132,
+        "id": "5b47891f86f7744d1b23c571",
         "require": {
             "level": 27,
             "quests": [
@@ -5059,28 +5059,28 @@
         "objectives": [
             {
                 "type": "find",
-                "target": "Bronze lion",
+                "target": "59e3639286f7741777737013",
                 "number": 2,
                 "location": "Any",
                 "id": 237
             },
             {
                 "type": "find",
-                "target": "Horse figurine",
+                "target": "573478bc24597738002c6175",
                 "number": 2,
                 "location": "Any",
                 "id": 238
             },
             {
                 "type": "find",
-                "target": "Cat figurine",
+                "target": "59e3658a86f7741776641ac4",
                 "number": 1,
                 "location": "Any",
                 "id": 239
             },
             {
                 "type": "find",
-                "target": "Roler submariner gold wrist watch",
+                "target": "59faf7ca86f7740dbe19f6c2",
                 "number": 1,
                 "location": "Any",
                 "id": 240
@@ -5088,7 +5088,7 @@
         ]
     },
     {
-        "id": 133,
+        "id": "5c1141f386f77430ff393792",
         "require": {
             "level": 27,
             "quests": [
@@ -5110,14 +5110,14 @@
         "objectives": [
             {
                 "type": "find",
-                "target": "Antique teapot",
+                "target": "590de71386f774347051a052",
                 "number": 3,
                 "location": "Any",
                 "id": 241
             },
             {
                 "type": "find",
-                "target": "Antique vase",
+                "target": "590de7e986f7741b096e5f32",
                 "number": 2,
                 "location": "Any",
                 "id": 242
@@ -5125,7 +5125,7 @@
         ]
     },
     {
-        "id": 134,
+        "id": "5d2495a886f77425cd51e403",
         "require": {
             "level": 2,
             "quests": []
@@ -5153,7 +5153,7 @@
         ]
     },
     {
-        "id": 135,
+        "id": "5d24b81486f77439c92d6ba8",
         "require": {
             "level": 2,
             "quests": [
@@ -5175,21 +5175,21 @@
         "objectives": [
             {
                 "type": "find",
-                "target": "Iskra lunch box",
+                "target": "590c5d4b86f774784e1b9c45",
                 "number": 3,
                 "location": "Any",
                 "id": 244
             },
             {
                 "type": "find",
-                "target": "Emelya rye croutons",
+                "target": "5751487e245977207e26a315",
                 "number": 2,
                 "location": "Any",
                 "id": 245
             },
             {
                 "type": "find",
-                "target": "Can of delicious beef stew",
+                "target": "57347da92459774491567cf5",
                 "number": 2,
                 "location": "Any",
                 "id": 246
@@ -5197,7 +5197,7 @@
         ]
     },
     {
-        "id": 136,
+        "id": "5d25aed386f77442734d25d2",
         "require": {
             "level": 10,
             "quests": [
@@ -5230,7 +5230,7 @@
         ]
     },
     {
-        "id": 137,
+        "id": "5d25b6be86f77444001e1b89",
         "require": {
             "level": 10,
             "quests": [
@@ -5252,7 +5252,7 @@
         "objectives": [
             {
                 "type": "place",
-                "target": "Iskra lunch box",
+                "target": "590c5d4b86f774784e1b9c45",
                 "hint": "ZB-014",
                 "number": 1,
                 "location": "Woods",
@@ -5260,7 +5260,7 @@
             },
             {
                 "type": "place",
-                "target": "Bottle of water",
+                "target": "5448fee04bdc2dbc018b4567",
                 "hint": "ZB-014",
                 "number": 1,
                 "location": "Woods",
@@ -5268,7 +5268,7 @@
             },
             {
                 "type": "place",
-                "target": "Iskra lunch box",
+                "target": "590c5d4b86f774784e1b9c45",
                 "hint": "ZB-016",
                 "number": 1,
                 "location": "Woods",
@@ -5276,7 +5276,7 @@
             },
             {
                 "type": "place",
-                "target": "Bottle of water",
+                "target": "5448fee04bdc2dbc018b4567",
                 "hint": "ZB-016",
                 "number": 1,
                 "location": "Woods",
@@ -5285,7 +5285,7 @@
         ]
     },
     {
-        "id": 138,
+        "id": "5d25bfd086f77442734d3007",
         "require": {
             "level": 10,
             "quests": [
@@ -5315,7 +5315,7 @@
         ]
     },
     {
-        "id": 139,
+        "id": "5d25c81b86f77443e625dd71",
         "require": {
             "level": 10,
             "quests": [
@@ -5343,7 +5343,7 @@
         ]
     },
     {
-        "id": 140,
+        "id": "5d25cf2686f77443e75488d4",
         "require": {
             "level": 10,
             "quests": [
@@ -5372,7 +5372,7 @@
         ]
     },
     {
-        "id": 141,
+        "id": "5d25e48186f77443e625e386",
         "require": {
             "level": 20,
             "quests": [
@@ -5416,7 +5416,7 @@
         ]
     },
     {
-        "id": 142,
+        "id": "5d25e4ad86f77443e625e387",
         "require": {
             "level": 28,
             "quests": [
@@ -5446,7 +5446,7 @@
         ]
     },
     {
-        "id": 143,
+        "id": "5bc4776586f774512d07cf05",
         "require": {
             "level": 17,
             "quests": [
@@ -5480,7 +5480,7 @@
         ]
     },
     {
-        "id": 144,
+        "id": "5bc479e586f7747f376c7da3",
         "require": {
             "level": 17,
             "quests": [
@@ -5527,7 +5527,7 @@
         ]
     },
     {
-        "id": 145,
+        "id": "5bc47dbf86f7741ee74e93b9",
         "require": {
             "level": 17,
             "quests": [
@@ -5561,7 +5561,7 @@
         ]
     },
     {
-        "id": 146,
+        "id": "5bc480a686f7741af0342e29",
         "require": {
             "level": 17,
             "quests": [
@@ -5591,7 +5591,7 @@
         ]
     },
     {
-        "id": 147,
+        "id": "5bc4826c86f774106d22d88b",
         "require": {
             "level": 17,
             "quests": [
@@ -5625,7 +5625,7 @@
         ]
     },
     {
-        "id": 148,
+        "id": "5bc4836986f7740c0152911c",
         "require": {
             "level": 17,
             "quests": [
@@ -5659,7 +5659,7 @@
         ]
     },
     {
-        "id": 149,
+        "id": "5bc4856986f77454c317bea7",
         "require": {
             "level": 17,
             "quests": [
@@ -5693,7 +5693,7 @@
         ]
     },
     {
-        "id": 150,
+        "id": "5bc4893c86f774626f5ebf3e",
         "require": {
             "level": 17,
             "quests": [
@@ -5727,7 +5727,7 @@
         ]
     },
     {
-        "id": 151,
+        "id": "5d25d2c186f77443e35162e5",
         "require": {
             "level": 17,
             "quests": [
@@ -5761,7 +5761,7 @@
         ]
     },
     {
-        "id": 152,
+        "id": "5edaba7c0c502106f869bc02",
         "require": {
             "level": 21,
             "quests": [
@@ -5784,7 +5784,7 @@
         "objectives": [
             {
                 "type": "key",
-                "target": "Cottage back entrance key",
+                "target": "5a0eb6ac86f7743124037a28",
                 "number": 1,
                 "location": "Shoreline",
                 "id": 321
@@ -5806,7 +5806,7 @@
         ]
     },
     {
-        "id": 153,
+        "id": "5edac34d0bb72a50635c2bfa",
         "require": {
             "level": 21,
             "quests": [
@@ -5838,28 +5838,28 @@
             },
             {
                 "type": "find",
-                "target": "AHF1-M",
+                "target": "5ed515f6915ec335206e4152",
                 "number": 1,
                 "location": "Any",
                 "id": 322
             },
             {
                 "type": "find",
-                "target": "3-(b-TG)",
+                "target": "5ed515c8d380ab312177c0fa",
                 "number": 1,
                 "location": "Any",
                 "id": 323
             },
             {
                 "type": "collect",
-                "target": "Lab. Blue keycard",
+                "target": "5c1d0c5f86f7744bb2683cf0",
                 "number": 1,
                 "location": "Any",
                 "id": 324
             },
             {
                 "type": "collect",
-                "target": "Lab. Green keycard",
+                "target": "5c1d0dc586f7744baf2e7b79",
                 "number": 1,
                 "location": "Any",
                 "id": 325
@@ -5870,7 +5870,7 @@
         ]
     },
     {
-        "id": 154,
+        "id": "5d25e2a986f77409dd5cdf2a",
         "require": {
             "level": 17,
             "quests": [
@@ -5900,7 +5900,7 @@
         ]
     },
     {
-        "id": 155,
+        "id": "5d25e46e86f77409453bce7c",
         "require": {
             "level": 25,
             "quests": [
@@ -5922,14 +5922,14 @@
         "objectives": [
             {
                 "type": "find",
-                "target": "CMS kit",
+                "target": "5d02778e86f774203e7dedbe",
                 "number": 2,
                 "location": "Any",
                 "id": 271
             },
             {
                 "type": "find",
-                "target": "Portable defibrillator",
+                "target": "5c052e6986f7746b207bc3c9",
                 "number": 1,
                 "location": "Any",
                 "id": 272
@@ -5937,7 +5937,7 @@
         ]
     },
     {
-        "id": 156,
+        "id": "5d25e2b486f77409de05bba0",
         "require": {
             "level": 17,
             "quests": [
@@ -5970,7 +5970,7 @@
         ]
     },
     {
-        "id": 157,
+        "id": "5d25e4d586f77443e625e388",
         "require": {
             "level": 17,
             "quests": [
@@ -6000,7 +6000,7 @@
         ]
     },
     {
-        "id": 158,
+        "id": "5d25e2cc86f77443e47ae019",
         "require": {
             "level": 17,
             "quests": [
@@ -6030,7 +6030,7 @@
         ]
     },
     {
-        "id": 159,
+        "id": "5d25e2d886f77442734d335e",
         "require": {
             "level": 17,
             "quests": [
@@ -6064,7 +6064,7 @@
         ]
     },
     {
-        "id": 160,
+        "id": "5d25e44386f77409453bce7b",
         "require": {
             "level": 17,
             "quests": [
@@ -6098,7 +6098,7 @@
         ]
     },
     {
-        "id": 161,
+        "id": "5d25e4b786f77408251c4bfc",
         "require": {
             "level": 17,
             "quests": [
@@ -6120,7 +6120,7 @@
         "objectives": [
             {
                 "type": "find",
-                "target": "TerraGroup Labs access keycard",
+                "target": "5c94bbff86f7747ee735c08f",
                 "number": 2,
                 "location": "Any",
                 "id": 278
@@ -6128,7 +6128,7 @@
         ]
     },
     {
-        "id": 162,
+        "id": "5d25e2c386f77443e7549029",
         "require": {
             "level": 17,
             "quests": [
@@ -6157,7 +6157,7 @@
             },
             {
                 "type": "find",
-                "target": "TT pistol 7.62x25 TT Gold",
+                "target": "5b3b713c5acfc4330140bd8d",
                 "number": 1,
                 "location": "Customs",
                 "id": 280
@@ -6165,7 +6165,7 @@
         ]
     },
     {
-        "id": 163,
+        "id": "5d25e43786f7740a212217fa",
         "require": {
             "level": 17,
             "quests": [
@@ -6199,7 +6199,7 @@
         ]
     },
     {
-        "id": 164,
+        "id": "5d25e2e286f77444001e2e48",
         "require": {
             "level": 17,
             "quests": [
@@ -6228,7 +6228,7 @@
             },
             {
                 "type": "find",
-                "target": "Maska 1Sch helmet (Killa)",
+                "target": "5c0e874186f7745dc7616606",
                 "number": 1,
                 "location": "Interchange",
                 "id": 283
@@ -6236,7 +6236,7 @@
         ]
     },
     {
-        "id": 165,
+        "id": "5d25e2ee86f77443e35162ea",
         "require": {
             "level": 17,
             "quests": [
@@ -6265,7 +6265,7 @@
             },
             {
                 "type": "find",
-                "target": "Shturman key",
+                "target": "5d08d21286f774736e7c94c3",
                 "number": 1,
                 "location": "Woods",
                 "id": 285
@@ -6273,7 +6273,7 @@
         ]
     },
     {
-        "id": 166,
+        "id": "5d25e44f86f77443e625e385",
         "require": {
             "level": 17,
             "quests": [
@@ -6303,7 +6303,7 @@
         ]
     },
     {
-        "id": 167,
+        "id": "5d25e45e86f77408251c4bfa",
         "require": {
             "level": 17,
             "quests": [
@@ -6336,7 +6336,7 @@
         ]
     },
     {
-        "id": 168,
+        "id": "5d25e4ca86f77409dd5cdf2c",
         "require": {
             "level": 17,
             "quests": [
@@ -6371,7 +6371,7 @@
         ]
     },
     {
-        "id": 169,
+        "id": "59689fbd86f7740d137ebfc4",
         "require": {
             "level": 6,
             "quests": [
@@ -6397,7 +6397,7 @@
         "objectives": [
             {
                 "type": "key",
-                "target": "Dorm room 206 Key",
+                "target": "5938603e86f77435642354f4",
                 "number": 1,
                 "location": "Customs",
                 "id": 289
@@ -6412,7 +6412,7 @@
         ]
     },
     {
-        "id": 170,
+        "id": "5968eb3186f7741dde183a4d",
         "require": {
             "level": 6,
             "quests": [
@@ -6446,7 +6446,7 @@
         ]
     },
     {
-        "id": 171,
+        "id": "5979f8bb86f7743ec214c7a6",
         "require": {
             "level": 10,
             "quests": [
@@ -6476,7 +6476,7 @@
         ]
     },
     {
-        "id": 172,
+        "id": "5d4bec3486f7743cac246665",
         "require": {
             "level": 25,
             "quests": [
@@ -6499,14 +6499,14 @@
         "objectives": [
             {
                 "type": "find",
-                "target": "6-STEN-140-M military battery",
+                "target": "5d03794386f77420415576f5",
                 "number": 1,
                 "location": "Any",
                 "id": 293
             },
             {
                 "type": "find",
-                "target": "OFZ 30x160mm shell",
+                "target": "5d0379a886f77420407aa271",
                 "number": 5,
                 "location": "Any",
                 "id": 294
@@ -6514,7 +6514,7 @@
         ]
     },
     {
-        "id": 173,
+        "id": "596b455186f77457cb50eccb",
         "require": {
             "level": 8,
             "quests": [
@@ -6555,7 +6555,7 @@
         ]
     },
     {
-        "id": 174,
+        "id": "5d6fbc2886f77449d825f9d3",
         "require": {
             "level": 14,
             "quests": [
@@ -6573,7 +6573,7 @@
         "objectives": [
             {
                 "type": "collect",
-                "target": "Euros",
+                "target": "569668774bdc2da2298b4568",
                 "number": 50000,
                 "location": "Any",
                 "id": 296
@@ -6581,7 +6581,7 @@
         ]
     },
     {
-        "id": 175,
+        "id": "5ac3475486f7741d6224abd3",
         "require": {
             "level": 12,
             "quests": [
@@ -6603,21 +6603,21 @@
         "objectives": [
             {
                 "type": "find",
-                "target": "Malboro cigarettes",
+                "target": "573476d324597737da2adc13",
                 "number": 5,
                 "location": "Any",
                 "id": 297
             },
             {
                 "type": "find",
-                "target": "Strike cigarettes",
+                "target": "5734770f24597738025ee254",
                 "number": 5,
                 "location": "Any",
                 "id": 298
             },
             {
                 "type": "find",
-                "target": "Wilston cigarettes",
+                "target": "573476f124597737e04bf328",
                 "number": 5,
                 "location": "Any",
                 "id": 299
@@ -6625,7 +6625,7 @@
         ]
     },
     {
-        "id": 176,
+        "id": "5ae4498786f7744bde357695",
         "require": {
             "level": 26,
             "quests": [
@@ -6664,7 +6664,7 @@
         ]
     },
     {
-        "id": 177,
+        "id": "5d25e48d86f77408251c4bfb",
         "require": {
             "level": 20,
             "quests": [
@@ -6686,7 +6686,7 @@
         "objectives": [
             {
                 "type": "find",
-                "target": "Secure Flash drive",
+                "target": "590c621186f774138d11ea29",
                 "number": 3,
                 "location": "Any",
                 "id": 302
@@ -6694,7 +6694,7 @@
         ]
     },
     {
-        "id": 178,
+        "id": "596760e186f7741e11214d58",
         "require": {
             "level": 10,
             "quests": [
@@ -6724,7 +6724,7 @@
         ]
     },
     {
-        "id": 179,
+        "id": "597a160786f77477531d39d2",
         "require": {
             "level": 11,
             "quests": [
@@ -6767,7 +6767,7 @@
         ]
     },
     {
-        "id": 180,
+        "id": "597a171586f77405ba6887d3",
         "require": {
             "level": 11,
             "quests": [
@@ -6814,7 +6814,7 @@
         ]
     },
     {
-        "id": 181,
+        "id": "5eaaaa7c93afa0558f3b5a1c",
         "require": {
             "quests": [
                 151
@@ -6846,7 +6846,7 @@
         ]
     },
     {
-        "id": 182,
+        "id": "5e381b0286f77420e3417a74",
         "require": {
             "level": 40,
             "quests": [
@@ -6864,21 +6864,21 @@
         "objectives": [
             {
                 "type": "find",
-                "target": "Aramid fiber cloth",
+                "target": "5e2af4d286f7746d4159f07a",
                 "number": 5,
                 "location": "Any",
                 "id": 306
             },
             {
                 "type": "find",
-                "target": "Ripstop cloth",
+                "target": "5e2af4a786f7746d3f3c3400",
                 "number": 10,
                 "location": "Any",
                 "id": 307
             },
             {
                 "type": "find",
-                "target": "Paracord",
+                "target": "5c12688486f77426843c7d32",
                 "number": 3,
                 "location": "Any",
                 "id": 308
@@ -6886,7 +6886,7 @@
         ]
     },
     {
-        "id": 183,
+        "id": "5e4d4ac186f774264f758336",
         "require": {
             "level": 40,
             "quests": [
@@ -6904,21 +6904,21 @@
         "objectives": [
             {
                 "type": "find",
-                "target": "Fleece cloth",
+                "target": "5e2af47786f7746d404f3aaa",
                 "number": 10,
                 "location": "Any",
                 "id": 309
             },
             {
                 "type": "find",
-                "target": "Polyamide fabric Cordura",
+                "target": "5e2af41e86f774755a234b67",
                 "number": 10,
                 "location": "Any",
                 "id": 310
             },
             {
                 "type": "find",
-                "target": "KEKTAPE duct tape",
+                "target": "5e2af29386f7746d4159f077",
                 "number": 5,
                 "location": "Any",
                 "id": 311
@@ -6926,7 +6926,7 @@
         ]
     },
     {
-        "id": 184,
+        "id": "5eda19f0edce541157209cee",
         "require": {
             "level": 21,
             "quests": [
@@ -6977,7 +6977,7 @@
         ]
     },
     {
-        "id": 185,
+        "id": "5edab736cc183c769d778bc2",
         "require": {
             "level": 21,
             "quests": [
@@ -7022,7 +7022,7 @@
         ]
     },
     {
-        "id": 186,
+        "id": "5edabd13218d181e29451442",
         "require": {
             "level": 21,
             "quests": [
@@ -7070,7 +7070,7 @@
         ]
     },
     {
-        "id": 187,
+        "id": "5f04886a3937dc337a6b8238",
         "require": {
             "level": 21,
             "quests": [
@@ -7094,7 +7094,7 @@
         "objectives": [
             {
                 "type": "key",
-                "target": "Key with tape",
+                "target": "5eff09cd30a7dc22fd1ddfed",
                 "number": 1,
                 "location": "Shoreline",
                 "id": 329
@@ -7109,7 +7109,7 @@
         ]
     },
     {
-        "id": 188,
+        "id": "5edac020218d181e29451446",
         "require": {
             "level": 21,
             "quests": [
@@ -7132,49 +7132,49 @@
         "objectives": [
             {
                 "type": "find",
-                "target": "M.U.L.E. stimulator",
+                "target": "5ed51652f6c34d2cc26336a1",
                 "number": 1,
                 "location": "Any",
                 "id": 331
             },
             {
                 "type": "find",
-                "target": "Cocktail \"Obdolbos\"",
+                "target": "5ed5166ad380ab312177c100",
                 "number": 1,
                 "location": "Any",
                 "id": 332
             },
             {
                 "type": "find",
-                "target": "Meldonin",
+                "target": "5ed5160a87bb8443d10680b5",
                 "number": 1,
                 "location": "Any",
                 "id": 333
             },
             {
                 "type": "find",
-                "target": "AHF1-M",
+                "target": "5ed515f6915ec335206e4152",
                 "number": 1,
                 "location": "Any",
                 "id": 334
             },
             {
                 "type": "find",
-                "target": "P22",
+                "target": "5ed515ece452db0eb56fc028",
                 "number": 1,
                 "location": "Any",
                 "id": 335
             },
             {
                 "type": "find",
-                "target": "L1 (Norepinephrine)",
+                "target": "5ed515e03a40a50460332579",
                 "number": 1,
                 "location": "Any",
                 "id": 336
             },
             {
                 "type": "find",
-                "target": "3-(b-TG)",
+                "target": "5ed515c8d380ab312177c0fa",
                 "number": 1,
                 "location": "Any",
                 "id": 337
@@ -7182,7 +7182,7 @@
         ]
     },
     {
-        "id": 189,
+        "id": "5edac63b930f5454f51e128b",
         "require": {
             "level": 21,
             "quests": [
@@ -7206,7 +7206,7 @@
         "objectives": [
             {
                 "type": "key",
-                "target": "Key card with a blue marking",
+                "target": "5efde6b4f5448336730dbd61",
                 "number": 1,
                 "location": "Labs",
                 "id": 338
@@ -7228,7 +7228,7 @@
         ]
     },
     {
-        "id": 190,
+        "id": "5edab4b1218d181e29451435",
         "require": {
             "level": 21,
             "quests": [
@@ -7268,7 +7268,7 @@
         ]
     },
     {
-        "id": 191,
+        "id": "5ede55112c95834b583f052a",
         "require": {
             "level": 10,
             "quests": [
@@ -7306,7 +7306,7 @@
         ]
     },
     {
-        "id": 192,
+        "id": "5ede567cfa6dc072ce15d6e3",
         "require": {
             "level": 10,
             "quests": [
@@ -7365,7 +7365,7 @@
         ]
     },
     {
-        "id": 193,
+        "id": "5fd9fad9c1ce6b1a3b486d00",
         "require": {
             "level": 5,
             "quests": [
@@ -7402,7 +7402,7 @@
         ]
     },
     {
-        "id": 194,
+        "id": "5dc53acb86f77469c740c893",
         "require": {
             "level": 26,
             "quests": [
@@ -7428,7 +7428,7 @@
         ]
     },
     {
-        "id": 196,
+        "id": "5d25e29d86f7740a22516326",
         "require": {
             "quests": [
                 151
@@ -7461,7 +7461,7 @@
         ]
     },
     {
-        "id": 195,
+        "id": "5c51aac186f77432ea65c552",
         "require": {
             "level": 40,
             "quests": [
@@ -7531,126 +7531,126 @@
         "objectives": [
             {
                 "type": "find",
-                "target": "Old firesteel",
+                "target": "5bc9c377d4351e3bac12251b",
                 "number": 1,
                 "location": "Any",
                 "id": 353
             },
             {
                 "type": "find",
-                "target": "Antique axe",
+                "target": "5bc9c1e2d4351e00367fbcf0",
                 "number": 1,
                 "location": "Any",
                 "id": 354
             },
             {
                 "type": "find",
-                "target": "Battered antique Book",
+                "target": "5bc9c049d4351e44f824d360",
                 "number": 1,
                 "location": "Any",
                 "id": 355
             },
             {
                 "type": "find",
-                "target": "#FireKlean gun lube",
+                "target": "5bc9b355d4351e6d1509862a",
                 "number": 1,
                 "location": "Any",
                 "id": 356
             },
             {
                 "type": "find",
-                "target": "Golden rooster",
+                "target": "5bc9bc53d4351e00367fbcee",
                 "number": 1,
                 "location": "Any",
                 "id": 357
             },
             {
                 "type": "find",
-                "target": "Silver Badge",
+                "target": "5bc9bdb8d4351e003562b8a1",
                 "number": 1,
                 "location": "Any",
                 "id": 358
             },
             {
                 "type": "find",
-                "target": "Deadlyslob's beard oil",
+                "target": "5bc9b9ecd4351e3bac122519",
                 "number": 1,
                 "location": "Any",
                 "id": 359
             },
             {
                 "type": "find",
-                "target": "Golden 1GPhone",
+                "target": "5bc9b720d4351e450201234b",
                 "number": 1,
                 "location": "Any",
                 "id": 360
             },
             {
                 "type": "find",
-                "target": "Jar of DevilDog mayo",
+                "target": "5bc9b156d4351e00367fbce9",
                 "number": 1,
                 "location": "Any",
                 "id": 361
             },
             {
                 "type": "find",
-                "target": "Can of sprats",
+                "target": "5bc9c29cd4351e003562b8a3",
                 "number": 1,
                 "location": "Any",
                 "id": 362
             },
             {
                 "type": "find",
-                "target": "Fake mustache",
+                "target": "5bd073a586f7747e6f135799",
                 "number": 1,
                 "location": "Any",
                 "id": 363
             },
             {
                 "type": "find",
-                "target": "Kotton beanie",
+                "target": "5bd073c986f7747f627e796c",
                 "number": 1,
                 "location": "Any",
                 "id": 364
             },
             {
                 "type": "find",
-                "target": "Can of Dr. Lupo's coffee beans",
+                "target": "5e54f6af86f7742199090bf3",
                 "number": 1,
                 "location": "Any",
                 "id": 365
             },
             {
                 "type": "find",
-                "target": "Pestily plague mask",
+                "target": "5e54f79686f7744022011103",
                 "number": 1,
                 "location": "Any",
                 "id": 366
             },
             {
                 "type": "find",
-                "target": "Raven figurine",
+                "target": "5e54f62086f774219b0f1937",
                 "number": 1,
                 "location": "Any",
                 "id": 367
             },
             {
                 "type": "find",
-                "target": "Shroud half-mask",
+                "target": "5e54f76986f7740366043752",
                 "number": 1,
                 "location": "Any",
                 "id": 368
             },
             {
                 "type": "find",
-                "target": "Veritas guitar pick",
+                "target": "5f745ee30acaeb0d490d8c5b",
                 "number": 1,
                 "location": "Any",
                 "id": 369
             },
             {
                 "type": "find",
-                "target": "42nd Signature Blend English Tea",
+                "target": "5bc9be8fd4351e00334cae6e",
                 "number": 1,
                 "location": "Any",
                 "id": 370
@@ -7658,7 +7658,7 @@
         ]
     },
     {
-        "id": 197,
+        "id": "5d6fb2c086f77449da599c24",
         "require": {
             "quests": [
                 30
@@ -7674,7 +7674,7 @@
         "objectives": [
             {
                 "type": "collect",
-                "target": "Roubles",
+                "target": "5449016a4bdc2d6f028b456f",
                 "number": 400000,
                 "location": "Any",
                 "id": 372
@@ -7682,10 +7682,12 @@
         ]
     },
     {
-        "id": 198,
+        "id": "600302d73b897b11364cd161",
         "require": {
             "level": 33,
-            "quests": [135],
+            "quests": [
+                135
+            ],
             "loyalty": [
                 {
                     "trader": "Jaeger",
@@ -7712,10 +7714,15 @@
         ]
     },
     {
-        "id": 199,
+        "id": "59ca1a6286f774509a270942",
         "require": {
             "level": 11,
-            "quests": [[43, 179]]
+            "quests": [
+                [
+                    43,
+                    179
+                ]
+            ]
         },
         "giver": "Prapor",
         "turnin": "Prapor",
@@ -7733,7 +7740,7 @@
         "objectives": [
             {
                 "type": "collect",
-                "target": "M67 Hand grenade",
+                "target": "58d3db5386f77426186285a0",
                 "number": 10,
                 "location": "Any",
                 "id": 375
@@ -7741,10 +7748,15 @@
         ]
     },
     {
-        "id": 200,
+        "id": "59c9392986f7742f6923add2",
         "require": {
             "level": 11,
-            "quests": [[43, 180]]
+            "quests": [
+                [
+                    43,
+                    180
+                ]
+            ]
         },
         "giver": "Therapist",
         "turnin": "Therapist",
@@ -7762,28 +7774,28 @@
         "objectives": [
             {
                 "type": "collect",
-                "target": "Dorm room 303 Key",
+                "target": "593aa4be86f77457f56379f8",
                 "number": 1,
                 "location": "Any",
                 "id": 376
             },
             {
                 "type": "collect",
-                "target": "Key ZB-014",
+                "target": "591afe0186f77431bd616a11",
                 "number": 1,
                 "location": "Any",
                 "id": 377
             },
             {
                 "type": "collect",
-                "target": "Military base checkpoint key",
+                "target": "5913915886f774123603c392",
                 "number": 1,
                 "location": "Any",
                 "id": 378
             },
             {
                 "type": "collect",
-                "target": "The key to the gas station storage room",
+                "target": "5913877a86f774432f15d444",
                 "number": 1,
                 "location": "Any",
                 "id": 379
@@ -7791,10 +7803,15 @@
         ]
     },
     {
-        "id": 201,
+        "id": "59c93e8e86f7742a406989c4",
         "require": {
             "level": 11,
-            "quests": [[179, 180]]
+            "quests": [
+                [
+                    179,
+                    180
+                ]
+            ]
         },
         "giver": "Skier",
         "turnin": "Skier",
@@ -7812,7 +7829,7 @@
         "objectives": [
             {
                 "type": "collect",
-                "target": "Roubles",
+                "target": "5449016a4bdc2d6f028b456f",
                 "number": 1000000,
                 "location": "Any",
                 "id": 380
@@ -7820,10 +7837,13 @@
         ]
     },
     {
-        "id": 202,
+        "id": "5a5642ce86f77445c63c3419",
         "require": {
             "level": 10,
-            "quests": [173, 27]
+            "quests": [
+                173,
+                27
+            ]
         },
         "giver": "Therapist",
         "turnin": "Therapist",
@@ -7848,7 +7868,7 @@
             },
             {
                 "type": "collect",
-                "target": "Dollars",
+                "target": "5696686a4bdc2da3298b456a",
                 "number": 500,
                 "location": "Any",
                 "id": 382
