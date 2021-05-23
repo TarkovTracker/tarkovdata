@@ -1921,7 +1921,10 @@
             },
             {
                 "type": "key",
-                "target": "East wing room 306 OR 308 key",
+                "target": [
+                    "5a145d4786f7744cbb6f4a12",
+                    "5a145d7b86f7744cbb6f4a13"
+                ],
                 "number": 1,
                 "location": "Shoreline",
                 "id": 89
@@ -2839,7 +2842,10 @@
         "objectives": [
             {
                 "type": "key",
-                "target": "West wing room 219 OR 220 key",
+                "target": [
+                    "5a13ef0686f7746e5a411744",
+                    "5a0ee34586f774023b6ee092"
+                ],
                 "number": 1,
                 "location": "Shoreline",
                 "id": 142
@@ -2998,7 +3004,10 @@
         "objectives": [
             {
                 "type": "key",
-                "target": "East wing room 306 OR 308 key",
+                "target": [
+                    "5a145d4786f7744cbb6f4a12",
+                    "5a145d7b86f7744cbb6f4a13"
+                ],
                 "number": 1,
                 "location": "Shoreline",
                 "id": 151
@@ -3227,7 +3236,10 @@
         "objectives": [
             {
                 "type": "key",
-                "target": "East wing room 328 OR Health resort utility room key",
+                "target": [
+                    "5a0eee1486f77402aa773226",
+                    "5a0ea79b86f7741d4a35298e"
+                ],
                 "number": 1,
                 "location": "Shoreline",
                 "id": 159
@@ -3603,7 +3615,9 @@
         "title": "Gunsmith - Part 13",
         "wiki": "https://escapefromtarkov.gamepedia.com/Gunsmith_-_Part_13",
         "exp": 19000,
-        "unlocks": [],
+        "unlocks": [
+            "5b07db875acfc40dc528a5f6"
+        ],
         "reputation": [
             {
                 "trader": "Mechanic",
@@ -4169,7 +4183,9 @@
         "title": "A Shooter Born in Heaven",
         "wiki": "https://escapefromtarkov.gamepedia.com/A_Shooter_Born_in_Heaven",
         "exp": 39500,
-        "unlocks": [],
+        "unlocks": [
+            "5c127c4486f7745625356c13"
+        ],
         "reputation": [
             {
                 "trader": "Mechanic",
