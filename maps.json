@@ -1,0 +1,72 @@
+{
+    "factory": {
+        "id": 0,
+        "locale": {
+            "en": "Factory"
+        },
+        "wiki": "https://escapefromtarkov.gamepedia.com/Factory",
+        "description": "",
+        "enemies": ["Scavs"],
+        "raidDuration": { "day": 20, "night": 25 }
+    },
+    "customs": {
+        "id": 1,
+        "locale": {
+            "en": "Customs"
+        },
+        "wiki": "https://escapefromtarkov.gamepedia.com/Customs",
+        "description": "Taking place in an industrial part of Tarkov, Customs features a self-storage lot, a river with a bridge, a two and three story dormitory, gas stations, warehouses, construction zones, and some military checkpoints.",
+        "enemies": ["Scavs", "Cultists", "Reshala"],
+        "raidDuration": { "day": 45, "night": 45 }
+    },
+    "woods": {
+        "id": 2,
+        "locale": {
+            "en": "Woods"
+        },
+        "wiki": "https://escapefromtarkov.gamepedia.com/Woods",
+        "description": "",
+        "enemies": ["Scavs", "Cultists", "Shturman"],
+        "raidDuration": { "day": 50, "night": 50 }
+    },
+    "shoreline": {
+        "id": 3,
+        "locale": {
+            "en": "Shoreline"
+        },
+        "wiki": "https://escapefromtarkov.gamepedia.com/Shoreline",
+        "description": "A large map that runs along a shoreline. A small town, a sunken village, a gas station, a pier, a guarded pill-box, a radio station, and, most notably, a large 3-story health resort are included. The health resort also has a basement in-ground pool, a gym, tennis courts, and a theatre.",
+        "enemies": ["Scavs", "Cultists", "Sanitar"],
+        "raidDuration": { "day": 50, "night": 50 }
+    },
+    "interchange": {
+        "id": 4,
+        "locale": {
+            "en": "Interchange"
+        },
+        "wiki": "https://escapefromtarkov.gamepedia.com/Interchange",
+        "description": "A three-story shopping complex comprising of a variety of different types of stores typical to malls, as well as 3 major anchor stores IDEA, OLI, and Goshan. It also has underground parking, roads circling the building, and a go-kart track.",
+        "enemies": ["Scavs", "Killa"],
+        "raidDuration": { "day": 45, "night": 45 }
+    },
+    "lab": {
+        "id": 5,
+        "locale": {
+            "en": "The Lab"
+        },
+        "wiki": "https://escapefromtarkov.gamepedia.com/The_Lab",
+        "description": "Underground laboratory complex TerraGroup Labs is a secret object right under the center of Tarkov. Officially, this research center does not exist and, based on data scraps, is engaged in R&D, testing and simulation projects in chemistry, physics, biology, and high-tech areas.",
+        "enemies": ["Raiders"],
+        "raidDuration": { "day": 40, "night": 40 }
+    },
+    "reserve": {
+        "id": 6,
+        "locale": {
+            "en": "Reserve"
+        },
+        "wiki": "https://escapefromtarkov.gamepedia.com/Reserve",
+        "description": "The secret Federal State Reserve Agency base that, according to urban legends, contains enough supplies to last for years: food, medications and other resources, enough to survive an all-out nuclear war.",
+        "enemies": ["Scavs", "Raiders", "Glukhar"],
+        "raidDuration": { "day": 50, "night": 50 }
+    }
+}
