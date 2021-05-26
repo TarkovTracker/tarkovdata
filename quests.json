@@ -2460,7 +2460,7 @@
         "wiki": "https://escapefromtarkov.gamepedia.com/Scrap_Metal",
         "exp": 7200,
         "unlocks": [
-            "HK MP5 9x19 submachinegun (Navy 3 Round Burst) \"SD\""
+            "59411abb86f77478f702b5d2"
         ],
         "reputation": [
             {
@@ -6365,7 +6365,12 @@
         "wiki": "https://escapefromtarkov.gamepedia.com/Hunting_trip",
         "exp": 16000,
         "nokappa": true,
-        "unlocks": [],
+        "unlocks": [
+            "5d383ee786f7742a15793860",
+            "5d383e1a86f7742a1468ce63",
+            "5d383f5d86f7742a15793872",
+            "5d38517786f7742a1468cf6a"
+        ],
         "reputation": [
             {
                 "trader": "Jaeger",
