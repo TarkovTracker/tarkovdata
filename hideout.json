@@ -1591,7 +1591,7 @@
             {
                "type": "currency",
                "name": "Euros",
-               "quantity": 50000,
+               "quantity": 75000,
                "id": 207
             }
          ],
@@ -1736,19 +1736,19 @@
             {
                "type": "currency",
                "name": "Euros",
-               "quantity": 150000,
+               "quantity": 200000,
                "id": 210
             },
             {
                "type": "item",
                "name": "Screw nut",
-               "quantity": 5,
+               "quantity": 10,
                "id": 225
             },
             {
                "type": "item",
                "name": "Bolts",
-               "quantity": 5,
+               "quantity": 10,
                "id": 226
             },
             {
@@ -1756,6 +1756,12 @@
                "name": "Shustrilo sealing foam",
                "quantity": 5,
                "id": 227
+            },
+            {
+               "type": "item",
+               "name": "Ratchet Wrench",
+               "quantity": 2,
+               "id": 1337
             }
          ],
          "id": 40,
