@@ -2093,7 +2093,9 @@
         "title": "Informed means armed",
         "wiki": "https://escapefromtarkov.gamepedia.com/Informed_means_armed",
         "exp": 15900,
-        "unlocks": [],
+        "unlocks": [
+            "5b4391a586f7745321235ab2"
+        ],
         "reputation": [
             {
                 "trader": "Skier",
@@ -3799,7 +3801,9 @@
         "title": "Signal - Part 3",
         "wiki": "https://escapefromtarkov.gamepedia.com/Signal_-_Part_3",
         "exp": 11000,
-        "unlocks": [],
+        "unlocks": [
+            "5ac78a9b86f7741cca0bbd8d"
+        ],
         "reputation": [
             {
                 "trader": "Mechanic",
@@ -5514,7 +5518,9 @@
         "title": "The Tarkov shooter - Part 2",
         "wiki": "https://escapefromtarkov.gamepedia.com/%22The_Tarkov_shooter%22_-_Part_2",
         "exp": 19200,
-        "unlocks": [],
+        "unlocks": [
+            "5bc5a372d4351e44f824d17f"
+        ],
         "reputation": [
             {
                 "trader": "Jaeger",
@@ -5561,7 +5567,10 @@
         "title": "The Tarkov shooter - Part 3",
         "wiki": "https://escapefromtarkov.gamepedia.com/%22The_Tarkov_shooter%22_-_Part_3",
         "exp": 16200,
-        "unlocks": [],
+        "unlocks": [
+            "5bbdb83fd4351e44f824c44b",
+            "5bbde409d4351e003562b036"
+        ],
         "reputation": [
             {
                 "trader": "Jaeger",
@@ -5628,7 +5637,9 @@
         "title": "The Tarkov shooter - Part 5",
         "wiki": "https://escapefromtarkov.gamepedia.com/%22The_Tarkov_shooter%22_-_Part_5",
         "exp": 20000,
-        "unlocks": [],
+        "unlocks": [
+            "5bc5a351d4351e003477a414"
+        ],
         "reputation": [
             {
                 "trader": "Jaeger",
@@ -5662,7 +5673,9 @@
         "title": "The Tarkov shooter - Part 6",
         "wiki": "https://escapefromtarkov.gamepedia.com/%22The_Tarkov_shooter%22_-_Part_6",
         "exp": 20300,
-        "unlocks": [],
+        "unlocks": [
+            "5bbdb870d4351e00367fb67d"
+        ],
         "reputation": [
             {
                 "trader": "Jaeger",
@@ -5696,7 +5709,9 @@
         "title": "The Tarkov shooter - Part 7",
         "wiki": "https://escapefromtarkov.gamepedia.com/%22The_Tarkov_shooter%22_-_Part_7",
         "exp": 20700,
-        "unlocks": [],
+        "unlocks": [
+            "5bc5a35cd4351e450201232f"
+        ],
         "reputation": [
             {
                 "trader": "Jaeger",
@@ -5730,7 +5745,10 @@
         "title": "The Tarkov shooter - Part 8",
         "wiki": "https://escapefromtarkov.gamepedia.com/%22The_Tarkov_shooter%22_-_Part_8",
         "exp": 25200,
-        "unlocks": [],
+        "unlocks": [
+            "5bae13bad4351e00320204af",
+            "5bae13ded4351e44f824bf38"
+        ],
         "reputation": [
             {
                 "trader": "Jaeger",
