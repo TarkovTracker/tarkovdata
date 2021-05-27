@@ -3639,7 +3639,9 @@
         "title": "Gunsmith - Part 14",
         "wiki": "https://escapefromtarkov.gamepedia.com/Gunsmith_-_Part_14",
         "exp": 20800,
-        "unlocks": [],
+        "unlocks": [
+            "5b07dd285acfc4001754240d"
+        ],
         "reputation": [
             {
                 "trader": "Mechanic",
@@ -5589,7 +5591,10 @@
         "title": "The Tarkov shooter - Part 4",
         "wiki": "https://escapefromtarkov.gamepedia.com/%22The_Tarkov_shooter%22_-_Part_4",
         "exp": 16400,
-        "unlocks": [],
+        "unlocks": [
+            "5bbdb811d4351e45020113c7",
+            "5bbde41ed4351e003562b038"
+        ],
         "reputation": [
             {
                 "trader": "Jaeger",
