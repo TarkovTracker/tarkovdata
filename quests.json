@@ -2742,7 +2742,9 @@
         "title": "Spa Tour - Part 2",
         "wiki": "https://escapefromtarkov.gamepedia.com/Spa_Tour_-_Part_2",
         "exp": 7500,
-        "unlocks": [],
+        "unlocks": [
+            "58d3db5386f77426186285a0"
+        ],
         "reputation": [
             {
                 "trader": "Peacekeeper",
@@ -3593,7 +3595,9 @@
         "title": "Gunsmith - Part 12",
         "wiki": "https://escapefromtarkov.gamepedia.com/Gunsmith_-_Part_12",
         "exp": 14400,
-        "unlocks": [],
+        "unlocks": [
+            "588226ef24597767af46e39c"
+        ],
         "reputation": [
             {
                 "trader": "Mechanic",
@@ -3639,9 +3643,7 @@
         "title": "Gunsmith - Part 14",
         "wiki": "https://escapefromtarkov.gamepedia.com/Gunsmith_-_Part_14",
         "exp": 20800,
-        "unlocks": [
-            "5b07dd285acfc4001754240d"
-        ],
+        "unlocks": [],
         "reputation": [
             {
                 "trader": "Mechanic",
@@ -5591,10 +5593,7 @@
         "title": "The Tarkov shooter - Part 4",
         "wiki": "https://escapefromtarkov.gamepedia.com/%22The_Tarkov_shooter%22_-_Part_4",
         "exp": 16400,
-        "unlocks": [
-            "5bbdb811d4351e45020113c7",
-            "5bbde41ed4351e003562b038"
-        ],
+        "unlocks": [],
         "reputation": [
             {
                 "trader": "Jaeger",
