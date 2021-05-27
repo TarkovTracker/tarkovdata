@@ -6472,7 +6472,9 @@
         "title": "Operation Aquarius - Part 2",
         "wiki": "https://escapefromtarkov.gamepedia.com/Operation_Aquarius_-_Part_2",
         "exp": 3400,
-        "unlocks": [],
+        "unlocks": [
+            "5751a25924597722c463c472"
+        ],
         "reputation": [
             {
                 "trader": "Therapist",
