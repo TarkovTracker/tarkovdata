@@ -3553,7 +3553,9 @@
         "title": "Gunsmith - Part 10",
         "wiki": "https://escapefromtarkov.gamepedia.com/Gunsmith_-_Part_10",
         "exp": 17500,
-        "unlocks": [],
+        "unlocks": [
+            "5af08cc686f77424a61595f2"
+        ],
         "reputation": [
             {
                 "trader": "Mechanic",
