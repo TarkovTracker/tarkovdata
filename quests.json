@@ -5955,7 +5955,9 @@
         "title": "Ambulance",
         "wiki": "https://escapefromtarkov.gamepedia.com/Ambulance",
         "exp": 12000,
-        "unlocks": [],
+        "unlocks": [
+            "5d02797c86f774203f38e30a"
+        ],
         "reputation": [
             {
                 "trader": "Jaeger",
