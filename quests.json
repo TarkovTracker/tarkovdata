@@ -2913,7 +2913,9 @@
         "title": "Spa Tour - Part 6",
         "wiki": "",
         "exp": 11400,
-        "unlocks": [],
+        "unlocks": [
+            "5a608bf24f39f98ffc77720e"
+        ],
         "reputation": [
             {
                 "trader": "Peacekeeper",
@@ -4596,7 +4598,9 @@
         "title": "Supervisor",
         "wiki": "https://escapefromtarkov.gamepedia.com/Supervisor",
         "exp": 24100,
-        "unlocks": [],
+        "unlocks": [
+            "5ab8e79e86f7742d8b372e78"
+        ],
         "reputation": [
             {
                 "trader": "Ragman",
@@ -6580,7 +6584,9 @@
         "title": "Stirrup",
         "wiki": "https://escapefromtarkov.gamepedia.com/Stirrup",
         "exp": 4700,
-        "unlocks": [],
+        "unlocks": [
+            "59e6687d86f77411d949b251"
+        ],
         "reputation": [
             {
                 "trader": "Skier",
