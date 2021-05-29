@@ -2913,7 +2913,9 @@
         "title": "Spa Tour - Part 6",
         "wiki": "",
         "exp": 11400,
-        "unlocks": [],
+        "unlocks": [
+            "5a608bf24f39f98ffc77720e"
+        ],
         "reputation": [
             {
                 "trader": "Peacekeeper",
@@ -3553,7 +3555,9 @@
         "title": "Gunsmith - Part 10",
         "wiki": "https://escapefromtarkov.gamepedia.com/Gunsmith_-_Part_10",
         "exp": 17500,
-        "unlocks": [],
+        "unlocks": [
+            "5af08cc686f77424a61595f2"
+        ],
         "reputation": [
             {
                 "trader": "Mechanic",
@@ -4594,7 +4598,9 @@
         "title": "Supervisor",
         "wiki": "https://escapefromtarkov.gamepedia.com/Supervisor",
         "exp": 24100,
-        "unlocks": [],
+        "unlocks": [
+            "5ab8e79e86f7742d8b372e78"
+        ],
         "reputation": [
             {
                 "trader": "Ragman",
@@ -5955,7 +5961,9 @@
         "title": "Ambulance",
         "wiki": "https://escapefromtarkov.gamepedia.com/Ambulance",
         "exp": 12000,
-        "unlocks": [],
+        "unlocks": [
+            "5d02797c86f774203f38e30a"
+        ],
         "reputation": [
             {
                 "trader": "Jaeger",
@@ -6576,7 +6584,9 @@
         "title": "Stirrup",
         "wiki": "https://escapefromtarkov.gamepedia.com/Stirrup",
         "exp": 4700,
-        "unlocks": [],
+        "unlocks": [
+            "59e6687d86f77411d949b251"
+        ],
         "reputation": [
             {
                 "trader": "Skier",
