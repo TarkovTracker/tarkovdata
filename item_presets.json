@@ -79,7 +79,7 @@
     },
     "59e8d2b386f77445830dd299": {
         "id": "59e8d2b386f77445830dd299",
-        "name": "DVL-10 Saboteur",
+        "name": "DVL-10 Urbana",
         "baseId": "588892092459774ac91d4b11",
         "parts": [
             {
@@ -885,7 +885,7 @@
     },
     "58dffc5d86f77407c744a847": {
         "id": "58dffc5d86f77407c744a847",
-        "name": "DVL-10 Urbana",
+        "name": "DVL-10",
         "baseId": "588892092459774ac91d4b11",
         "parts": [
             {
