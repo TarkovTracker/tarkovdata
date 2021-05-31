@@ -3232,7 +3232,9 @@
         "title": "Wet Job - Part 5",
         "wiki": "https://escapefromtarkov.gamepedia.com/Wet_Job_-_Part_5",
         "exp": 10200,
-        "unlocks": [],
+        "unlocks": [
+            "5a367e5dc4a282000e49738f"
+        ],
         "reputation": [
             {
                 "trader": "Peacekeeper",
