@@ -2492,6 +2492,61 @@
             }
         ]
     },
+    "5f004c071b27f811e5317c5b": {
+        "id": "5f004c071b27f811e5317c5b",
+        "name": "SA-58",
+        "baseId": "5b0bbe4e5acfc40dc528a72d",
+        "parts": [
+            {
+                "id": "5b0bbe4e5acfc40dc528a72d",
+                "quantity": 1
+            },
+            {
+                "id": "5b099b965acfc400186331e6",
+                "quantity": 1
+            },
+            {
+                "id": "5b099ac65acfc400186331e1",
+                "quantity": 1
+            },
+            {
+                "id": "5b099a9d5acfc47a8607efe7",
+                "quantity": 1
+            },
+            {
+                "id": "5b099a765acfc47a8607efe3",
+                "quantity": 1
+            },
+            {
+                "id": "5b099b7d5acfc400186331e4",
+                "quantity": 1
+            },
+            {
+                "id": "5b0bc22d5acfc47a8607f085",
+                "quantity": 1
+            },
+            {
+                "id": "5b099bb25acfc400186331e8",
+                "quantity": 1
+            },
+            {
+                "id": "5b099bf25acfc4001637e683",
+                "quantity": 1
+            },
+            {
+                "id": "5649be884bdc2d79388b4577",
+                "quantity": 1
+            },
+            {
+                "id": "56eabf3bd2720b75698b4569",
+                "quantity": 1
+            },
+            {
+                "id": "58d2912286f7744e27117493",
+                "quantity": 1
+            }
+        ]
+    },
     "59e8d2ab86f77407f03fc9c2": {
         "id": "59e8d2ab86f77407f03fc9c2",
         "name": "AKM",
