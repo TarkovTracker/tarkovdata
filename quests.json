@@ -7762,7 +7762,9 @@
         "title": "Hunter",
         "wiki": "https://escapefromtarkov.fandom.com/wiki/Hunter",
         "exp": 0,
-        "unlocks": [],
+        "unlocks": [
+            "5fc22d7c187fea44d52eda44"
+        ],
         "reputation": [],
         "nokappa": true,
         "objectives": [

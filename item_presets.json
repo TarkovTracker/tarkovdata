@@ -2439,7 +2439,7 @@
     },
     "5b439b5686f77428bd137424": {
         "id": "5b439b5686f77428bd137424",
-        "name": "SA-58 OSW",
+        "name": "SA-58",
         "baseId": "5b0bbe4e5acfc40dc528a72d",
         "parts": [
             {
@@ -6250,6 +6250,57 @@
             {
                 "id": "5fce0f9b55375d18a253eff2",
                 "quantity": 2
+            }
+        ]
+    },
+    "73ea8d89bec493b1b7e0b2a6": {
+        "id": "73ea8d89bec493b1b7e0b2a6",
+        "name": "STM-9",
+        "baseId": "60339954d62c9b14ed777c06",
+        "parts": [
+            {
+                "id": "60339954d62c9b14ed777c06",
+                "quantity": 1
+            },
+            {
+                "id": "602e71bd53a60014f9705bfa",
+                "quantity": 1
+            },
+            {
+                "id": "5a7ad2e851dfba0016153692",
+                "quantity": 1
+            },
+            {
+                "id": "602e63fb6335467b0c5ac94d",
+                "quantity": 1
+            },
+            {
+                "id": "602e3f1254072b51b239f713",
+                "quantity": 1
+            },
+            {
+                "id": "6033749e88382f4fab3fd2c5",
+                "quantity": 1
+            },
+            {
+                "id": "602f85fd9b513876d4338d9c",
+                "quantity": 1
+            },
+            {
+                "id": "603372b4da11d6478d5a07ff",
+                "quantity": 1
+            },
+            {
+                "id": "6034e3cb0ddce744014cb870",
+                "quantity": 1
+            },
+            {
+                "id": "60337f5dce399e10262255d1",
+                "quantity": 1
+            },
+            {
+                "id": "602e620f9b513876d4338d9a",
+                "quantity": 1
             }
         ]
     }
