@@ -6,6 +6,8 @@
     "weight": 0.011,
     "caliber": "Caliber9x18PM",
     "stackMaxSize": 50,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -27,6 +29,8 @@
     "weight": 0.01,
     "caliber": "Caliber9x18PM",
     "stackMaxSize": 50,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -48,6 +52,8 @@
     "weight": 0.024,
     "caliber": "Caliber762x51",
     "stackMaxSize": 40,
+    "tracer": true,
+    "tracerColor": "green",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -69,6 +75,8 @@
     "weight": 0.01,
     "caliber": "Caliber9x18PM",
     "stackMaxSize": 50,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -90,6 +98,8 @@
     "weight": 0.009,
     "caliber": "Caliber9x18PM",
     "stackMaxSize": 50,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -111,6 +121,8 @@
     "weight": 0.009,
     "caliber": "Caliber9x18PM",
     "stackMaxSize": 50,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -132,6 +144,8 @@
     "weight": 0.011,
     "caliber": "Caliber9x18PM",
     "stackMaxSize": 50,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -153,6 +167,8 @@
     "weight": 0.012,
     "caliber": "Caliber9x18PM",
     "stackMaxSize": 50,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -174,6 +190,8 @@
     "weight": 0.01,
     "caliber": "Caliber9x18PM",
     "stackMaxSize": 50,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -195,6 +213,8 @@
     "weight": 0.01,
     "caliber": "Caliber762x25TT",
     "stackMaxSize": 50,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -216,6 +236,8 @@
     "weight": 0.008,
     "caliber": "Caliber9x18PM",
     "stackMaxSize": 50,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -237,6 +259,8 @@
     "weight": 0.005,
     "caliber": "Caliber9x19PARA",
     "stackMaxSize": 50,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -258,6 +282,8 @@
     "weight": 0.012,
     "caliber": "Caliber556x45NATO",
     "stackMaxSize": 60,
+    "tracer": true,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -279,6 +305,8 @@
     "weight": 0.011,
     "caliber": "Caliber9x18PM",
     "stackMaxSize": 50,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -300,6 +328,8 @@
     "weight": 0.012,
     "caliber": "Caliber556x45NATO",
     "stackMaxSize": 60,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -321,6 +351,8 @@
     "weight": 0.012,
     "caliber": "Caliber556x45NATO",
     "stackMaxSize": 60,
+    "tracer": true,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -342,6 +374,8 @@
     "weight": 0.012,
     "caliber": "Caliber556x45NATO",
     "stackMaxSize": 60,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -363,6 +397,8 @@
     "weight": 0.007,
     "caliber": "Caliber9x18PM",
     "stackMaxSize": 50,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -384,6 +420,8 @@
     "weight": 0.01,
     "caliber": "Caliber545x39",
     "stackMaxSize": 60,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -405,6 +443,8 @@
     "weight": 0.024,
     "caliber": "Caliber762x54R",
     "stackMaxSize": 40,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -426,6 +466,8 @@
     "weight": 0.011,
     "caliber": "Caliber9x18PM",
     "stackMaxSize": 50,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -447,6 +489,8 @@
     "weight": 0.01,
     "caliber": "Caliber9x19PARA",
     "stackMaxSize": 50,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -468,6 +512,8 @@
     "weight": 0.024,
     "caliber": "Caliber762x51",
     "stackMaxSize": 40,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -489,6 +535,8 @@
     "weight": 0.012,
     "caliber": "Caliber556x45NATO",
     "stackMaxSize": 60,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -510,6 +558,8 @@
     "weight": 0.024,
     "caliber": "Caliber762x54R",
     "stackMaxSize": 40,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -531,6 +581,8 @@
     "weight": 0.01,
     "caliber": "Caliber545x39",
     "stackMaxSize": 60,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -552,6 +604,8 @@
     "weight": 0.01,
     "caliber": "Caliber545x39",
     "stackMaxSize": 60,
+    "tracer": true,
+    "tracerColor": "tracerRed",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -573,6 +627,8 @@
     "weight": 0.007,
     "caliber": "Caliber46x30",
     "stackMaxSize": 70,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -594,6 +650,8 @@
     "weight": 0.01,
     "caliber": "Caliber762x25TT",
     "stackMaxSize": 50,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -615,6 +673,8 @@
     "weight": 0.01,
     "caliber": "Caliber545x39",
     "stackMaxSize": 60,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -636,6 +696,8 @@
     "weight": 0.012,
     "caliber": "Caliber556x45NATO",
     "stackMaxSize": 60,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -657,6 +719,8 @@
     "weight": 0.01,
     "caliber": "Caliber9x18PM",
     "stackMaxSize": 50,
+    "tracer": true,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -678,6 +742,8 @@
     "weight": 0.01,
     "caliber": "Caliber545x39",
     "stackMaxSize": 60,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -699,6 +765,8 @@
     "weight": 0.012,
     "caliber": "Caliber556x45NATO",
     "stackMaxSize": 60,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -720,6 +788,8 @@
     "weight": 0.011,
     "caliber": "Caliber545x39",
     "stackMaxSize": 60,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -741,6 +811,8 @@
     "weight": 0.016,
     "caliber": "Caliber366TKM",
     "stackMaxSize": 50,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -762,6 +834,8 @@
     "weight": 0.016,
     "caliber": "Caliber366TKM",
     "stackMaxSize": 50,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -783,6 +857,8 @@
     "weight": 0.006,
     "caliber": "Caliber9x19PARA",
     "stackMaxSize": 50,
+    "tracer": true,
+    "tracerColor": "tracerGreen",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -804,6 +880,8 @@
     "weight": 0.007,
     "caliber": "Caliber46x30",
     "stackMaxSize": 70,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -825,6 +903,8 @@
     "weight": 0.01,
     "caliber": "Caliber762x25TT",
     "stackMaxSize": 50,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -846,6 +926,8 @@
     "weight": 0.01,
     "caliber": "Caliber762x25TT",
     "stackMaxSize": 50,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -867,6 +949,8 @@
     "weight": 0.04,
     "caliber": "Caliber20g",
     "stackMaxSize": 20,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "buckshot",
     "projectileCount": 8,
     "ballistics": {
@@ -888,6 +972,8 @@
     "weight": 0.01,
     "caliber": "Caliber366TKM",
     "stackMaxSize": 50,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -909,6 +995,8 @@
     "weight": 0.01,
     "caliber": "Caliber762x25TT",
     "stackMaxSize": 50,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -930,6 +1018,8 @@
     "weight": 0.016,
     "caliber": "Caliber762x39",
     "stackMaxSize": 60,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -951,6 +1041,8 @@
     "weight": 0.01,
     "caliber": "Caliber545x39",
     "stackMaxSize": 60,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -972,6 +1064,8 @@
     "weight": 0.01,
     "caliber": "Caliber762x25TT",
     "stackMaxSize": 50,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -993,6 +1087,8 @@
     "weight": 0.016,
     "caliber": "Caliber762x39",
     "stackMaxSize": 60,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -1014,6 +1110,8 @@
     "weight": 0.012,
     "caliber": "Caliber556x45NATO",
     "stackMaxSize": 60,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -1035,6 +1133,8 @@
     "weight": 0.007,
     "caliber": "Caliber46x30",
     "stackMaxSize": 70,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -1056,6 +1156,8 @@
     "weight": 0.01,
     "caliber": "Caliber545x39",
     "stackMaxSize": 60,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -1077,6 +1179,8 @@
     "weight": 0.01,
     "caliber": "Caliber545x39",
     "stackMaxSize": 60,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -1098,6 +1202,8 @@
     "weight": 0.01,
     "caliber": "Caliber762x39",
     "stackMaxSize": 60,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -1119,6 +1225,8 @@
     "weight": 0.01,
     "caliber": "Caliber762x39",
     "stackMaxSize": 60,
+    "tracer": true,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -1140,6 +1248,8 @@
     "weight": 0.034,
     "caliber": "Caliber20g",
     "stackMaxSize": 20,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -1161,6 +1271,8 @@
     "weight": 0.01,
     "caliber": "Caliber545x39",
     "stackMaxSize": 60,
+    "tracer": true,
+    "tracerColor": "tracerRed",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -1182,6 +1294,8 @@
     "weight": 0.01,
     "caliber": "Caliber762x39",
     "stackMaxSize": 60,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -1203,6 +1317,8 @@
     "weight": 0.01,
     "caliber": "Caliber762x25TT",
     "stackMaxSize": 50,
+    "tracer": true,
+    "tracerColor": "tracerRed",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -1224,6 +1340,8 @@
     "weight": 0.024,
     "caliber": "Caliber762x51",
     "stackMaxSize": 40,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -1245,6 +1363,8 @@
     "weight": 0.009,
     "caliber": "Caliber9x18PM",
     "stackMaxSize": 50,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -1266,6 +1386,8 @@
     "weight": 0.024,
     "caliber": "Caliber762x54R",
     "stackMaxSize": 40,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -1287,6 +1409,8 @@
     "weight": 0.01,
     "caliber": "Caliber46x30",
     "stackMaxSize": 70,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -1308,6 +1432,8 @@
     "weight": 0.01,
     "caliber": "Caliber545x39",
     "stackMaxSize": 60,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -1329,6 +1455,8 @@
     "weight": 0.011,
     "caliber": "Caliber556x45NATO",
     "stackMaxSize": 60,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -1350,6 +1478,8 @@
     "weight": 0.01,
     "caliber": "Caliber545x39",
     "stackMaxSize": 60,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -1371,6 +1501,8 @@
     "weight": 0.133,
     "caliber": "Caliber127x108",
     "stackMaxSize": 20,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -1392,6 +1524,8 @@
     "weight": 0.35,
     "caliber": "Caliber30x29",
     "stackMaxSize": 1,
+    "tracer": false,
+    "tracerColor": "green",
     "ammoType": "grenade",
     "projectileCount": 1,
     "ballistics": {
@@ -1413,6 +1547,8 @@
     "weight": 0.023,
     "caliber": "Caliber9x21",
     "stackMaxSize": 50,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -1434,6 +1570,8 @@
     "weight": 0.023,
     "caliber": "Caliber9x21",
     "stackMaxSize": 50,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -1455,6 +1593,8 @@
     "weight": 0.013,
     "caliber": "Caliber9x19PARA",
     "stackMaxSize": 50,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -1476,6 +1616,8 @@
     "weight": 0.009,
     "caliber": "Caliber9x19PARA",
     "stackMaxSize": 50,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -1497,6 +1639,8 @@
     "weight": 0.015,
     "caliber": "Caliber9x19PARA",
     "stackMaxSize": 50,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -1518,6 +1662,8 @@
     "weight": 0.25,
     "caliber": "Caliber40mmRU",
     "stackMaxSize": 1,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "grenade",
     "projectileCount": 1,
     "ballistics": {
@@ -1539,6 +1685,8 @@
     "weight": 0.023,
     "caliber": "Caliber9x39",
     "stackMaxSize": 50,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -1560,6 +1708,8 @@
     "weight": 0.023,
     "caliber": "Caliber9x21",
     "stackMaxSize": 50,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -1581,6 +1731,8 @@
     "weight": 0.01,
     "caliber": "Caliber9x18PM",
     "stackMaxSize": 1,
+    "tracer": true,
+    "tracerColor": "tracerYellow",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -1602,6 +1754,8 @@
     "weight": 0.023,
     "caliber": "Caliber9x39",
     "stackMaxSize": 50,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -1623,6 +1777,8 @@
     "weight": 0.023,
     "caliber": "Caliber9x39",
     "stackMaxSize": 50,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -1644,6 +1800,8 @@
     "weight": 0.01,
     "caliber": "Caliber9x18PM",
     "stackMaxSize": 1,
+    "tracer": true,
+    "tracerColor": "tracerYellow",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -1665,6 +1823,8 @@
     "weight": 0.023,
     "caliber": "Caliber9x39",
     "stackMaxSize": 50,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -1686,6 +1846,8 @@
     "weight": 0.023,
     "caliber": "Caliber9x21",
     "stackMaxSize": 50,
+    "tracer": true,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -1707,6 +1869,8 @@
     "weight": 0.01,
     "caliber": "Caliber9x18PM",
     "stackMaxSize": 1,
+    "tracer": true,
+    "tracerColor": "tracerYellow",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -1728,6 +1892,8 @@
     "weight": 0.01,
     "caliber": "Caliber9x18PM",
     "stackMaxSize": 1,
+    "tracer": true,
+    "tracerColor": "tracerYellow",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -1749,6 +1915,8 @@
     "weight": 0.07,
     "caliber": "Caliber127x55",
     "stackMaxSize": 30,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -1770,6 +1938,8 @@
     "weight": 0.128,
     "caliber": "Caliber127x108",
     "stackMaxSize": 20,
+    "tracer": true,
+    "tracerColor": "green",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -1791,6 +1961,8 @@
     "weight": 0.044,
     "caliber": "Caliber127x55",
     "stackMaxSize": 30,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -1812,6 +1984,8 @@
     "weight": 0.059,
     "caliber": "Caliber12g",
     "stackMaxSize": 20,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "buckshot",
     "projectileCount": 8,
     "ballistics": {
@@ -1833,6 +2007,8 @@
     "weight": 0.05,
     "caliber": "Caliber12g",
     "stackMaxSize": 20,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "buckshot",
     "projectileCount": 8,
     "ballistics": {
@@ -1854,6 +2030,8 @@
     "weight": 0.044,
     "caliber": "Caliber12g",
     "stackMaxSize": 20,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "buckshot",
     "projectileCount": 8,
     "ballistics": {
@@ -1875,6 +2053,8 @@
     "weight": 0.055,
     "caliber": "Caliber127x55",
     "stackMaxSize": 30,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -1896,6 +2076,8 @@
     "weight": 0.048,
     "caliber": "Caliber12g",
     "stackMaxSize": 20,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "buckshot",
     "projectileCount": 9,
     "ballistics": {
@@ -1917,6 +2099,8 @@
     "weight": 0.04,
     "caliber": "Caliber12g",
     "stackMaxSize": 20,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "buckshot",
     "projectileCount": 8,
     "ballistics": {
@@ -1938,6 +2122,8 @@
     "weight": 0.026,
     "caliber": "Caliber12g",
     "stackMaxSize": 20,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -1959,6 +2145,8 @@
     "weight": 0.05,
     "caliber": "Caliber12g",
     "stackMaxSize": 20,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -1980,6 +2168,8 @@
     "weight": 0.04,
     "caliber": "Caliber12g",
     "stackMaxSize": 20,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -2001,6 +2191,8 @@
     "weight": 0.032,
     "caliber": "Caliber20g",
     "stackMaxSize": 20,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "buckshot",
     "projectileCount": 9,
     "ballistics": {
@@ -2022,6 +2214,8 @@
     "weight": 0.05,
     "caliber": "Caliber12g",
     "stackMaxSize": 20,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 2,
     "ballistics": {
@@ -2043,6 +2237,8 @@
     "weight": 0.029,
     "caliber": "Caliber20g",
     "stackMaxSize": 20,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -2064,6 +2260,8 @@
     "weight": 0.055,
     "caliber": "Caliber12g",
     "stackMaxSize": 20,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -2085,6 +2283,8 @@
     "weight": 0.006,
     "caliber": "Caliber57x28",
     "stackMaxSize": 60,
+    "tracer": true,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -2106,6 +2306,8 @@
     "weight": 0.006,
     "caliber": "Caliber57x28",
     "stackMaxSize": 60,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -2127,6 +2329,8 @@
     "weight": 0.055,
     "caliber": "Caliber12g",
     "stackMaxSize": 20,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -2148,6 +2352,8 @@
     "weight": 0.007,
     "caliber": "Caliber57x28",
     "stackMaxSize": 60,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -2169,6 +2375,8 @@
     "weight": 0.048,
     "caliber": "Caliber12g",
     "stackMaxSize": 20,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -2190,6 +2398,8 @@
     "weight": 0.044,
     "caliber": "Caliber12g",
     "stackMaxSize": 20,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -2211,6 +2421,8 @@
     "weight": 0.032,
     "caliber": "Caliber20g",
     "stackMaxSize": 20,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "buckshot",
     "projectileCount": 8,
     "ballistics": {
@@ -2232,6 +2444,8 @@
     "weight": 0.028,
     "caliber": "Caliber20g",
     "stackMaxSize": 20,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "buckshot",
     "projectileCount": 8,
     "ballistics": {
@@ -2253,6 +2467,8 @@
     "weight": 0.029,
     "caliber": "Caliber20g",
     "stackMaxSize": 20,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -2274,6 +2490,8 @@
     "weight": 0.032,
     "caliber": "Caliber20g",
     "stackMaxSize": 20,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -2295,6 +2513,8 @@
     "weight": 0.006,
     "caliber": "Caliber57x28",
     "stackMaxSize": 60,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -2316,6 +2536,8 @@
     "weight": 0.015,
     "caliber": "Caliber1143x23ACP",
     "stackMaxSize": 50,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -2337,6 +2559,8 @@
     "weight": 0.007,
     "caliber": "Caliber57x28",
     "stackMaxSize": 60,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -2358,6 +2582,8 @@
     "weight": 0.022,
     "caliber": "Caliber762x51",
     "stackMaxSize": 40,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -2379,6 +2605,8 @@
     "weight": 0.023,
     "caliber": "Caliber762x51",
     "stackMaxSize": 40,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -2400,6 +2628,8 @@
     "weight": 0.024,
     "caliber": "Caliber762x54R",
     "stackMaxSize": 40,
+    "tracer": true,
+    "tracerColor": "green",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -2421,6 +2651,8 @@
     "weight": 0.025,
     "caliber": "Caliber762x54R",
     "stackMaxSize": 40,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -2442,6 +2674,8 @@
     "weight": 0.025,
     "caliber": "Caliber762x54R",
     "stackMaxSize": 40,
+    "tracer": true,
+    "tracerColor": "green",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -2463,6 +2697,8 @@
     "weight": 0.015,
     "caliber": "Caliber1143x23ACP",
     "stackMaxSize": 50,
+    "tracer": true,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -2484,6 +2720,8 @@
     "weight": 0.019,
     "caliber": "Caliber366TKM",
     "stackMaxSize": 50,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -2505,6 +2743,8 @@
     "weight": 0.024,
     "caliber": "Caliber762x51",
     "stackMaxSize": 40,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -2526,6 +2766,8 @@
     "weight": 0.009,
     "caliber": "Caliber9x19PARA",
     "stackMaxSize": 50,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -2547,6 +2789,8 @@
     "weight": 0.08,
     "caliber": "Caliber23x75",
     "stackMaxSize": 15,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -2568,6 +2812,8 @@
     "weight": 0.08,
     "caliber": "Caliber23x75",
     "stackMaxSize": 15,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "buckshot",
     "projectileCount": 8,
     "ballistics": {
@@ -2589,6 +2835,8 @@
     "weight": 0.08,
     "caliber": "Caliber23x75",
     "stackMaxSize": 15,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "buckshot",
     "projectileCount": 8,
     "ballistics": {
@@ -2610,6 +2858,8 @@
     "weight": 0.23,
     "caliber": "Caliber40x46",
     "stackMaxSize": 1,
+    "tracer": false,
+    "tracerColor": "green",
     "ammoType": "grenade",
     "projectileCount": 1,
     "ballistics": {
@@ -2631,6 +2881,8 @@
     "weight": 0.23,
     "caliber": "Caliber40x46",
     "stackMaxSize": 1,
+    "tracer": false,
+    "tracerColor": "green",
     "ammoType": "grenade",
     "projectileCount": 1,
     "ballistics": {
@@ -2652,6 +2904,8 @@
     "weight": 0.23,
     "caliber": "Caliber40x46",
     "stackMaxSize": 1,
+    "tracer": false,
+    "tracerColor": "green",
     "ammoType": "grenade",
     "projectileCount": 1,
     "ballistics": {
@@ -2673,6 +2927,8 @@
     "weight": 0.23,
     "caliber": "Caliber40x46",
     "stackMaxSize": 1,
+    "tracer": false,
+    "tracerColor": "green",
     "ammoType": "grenade",
     "projectileCount": 1,
     "ballistics": {
@@ -2694,6 +2950,8 @@
     "weight": 0.23,
     "caliber": "Caliber40x46",
     "stackMaxSize": 1,
+    "tracer": false,
+    "tracerColor": "green",
     "ammoType": "grenade",
     "projectileCount": 1,
     "ballistics": {
@@ -2715,6 +2973,8 @@
     "weight": 0.12,
     "caliber": "Caliber40x46",
     "stackMaxSize": 1,
+    "tracer": false,
+    "tracerColor": "green",
     "ammoType": "buckshot",
     "projectileCount": 15,
     "ballistics": {
@@ -2736,6 +2996,8 @@
     "weight": 0.015,
     "caliber": "Caliber1143x23ACP",
     "stackMaxSize": 50,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -2757,6 +3019,8 @@
     "weight": 0.017,
     "caliber": "Caliber1143x23ACP",
     "stackMaxSize": 50,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -2778,6 +3042,8 @@
     "weight": 0.019,
     "caliber": "Caliber1143x23ACP",
     "stackMaxSize": 50,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -2799,6 +3065,8 @@
     "weight": 0.05,
     "caliber": "Caliber12g",
     "stackMaxSize": 20,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -2820,6 +3088,8 @@
     "weight": 0.043,
     "caliber": "Caliber12g",
     "stackMaxSize": 20,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -2841,6 +3111,8 @@
     "weight": 0.034,
     "caliber": "Caliber12g",
     "stackMaxSize": 20,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -2862,6 +3134,8 @@
     "weight": 0.07,
     "caliber": "Caliber23x75",
     "stackMaxSize": 15,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -2883,6 +3157,8 @@
     "weight": 0.006,
     "caliber": "Caliber57x28",
     "stackMaxSize": 60,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -2904,6 +3180,8 @@
     "weight": 0.006,
     "caliber": "Caliber57x28",
     "stackMaxSize": 60,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -2925,6 +3203,8 @@
     "weight": 0.015,
     "caliber": "Caliber762x35",
     "stackMaxSize": 60,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -2946,6 +3226,8 @@
     "weight": 0.014,
     "caliber": "Caliber762x35",
     "stackMaxSize": 60,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -2967,6 +3249,8 @@
     "weight": 0.021,
     "caliber": "Caliber762x51",
     "stackMaxSize": 40,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -2988,6 +3272,8 @@
     "weight": 0.049,
     "caliber": "Caliber86x70",
     "stackMaxSize": 30,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -3009,6 +3295,8 @@
     "weight": 0.047,
     "caliber": "Caliber86x70",
     "stackMaxSize": 30,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -3030,6 +3318,8 @@
     "weight": 0.045,
     "caliber": "Caliber86x70",
     "stackMaxSize": 30,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -3051,6 +3341,8 @@
     "weight": 0.044,
     "caliber": "Caliber86x70",
     "stackMaxSize": 30,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -3072,6 +3364,8 @@
     "weight": 0.013,
     "caliber": "Caliber9x19PARA",
     "stackMaxSize": 50,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -3093,6 +3387,8 @@
     "weight": 0.012,
     "caliber": "Caliber556x45NATO",
     "stackMaxSize": 60,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -3114,6 +3410,8 @@
     "weight": 0.013,
     "caliber": "Caliber556x45NATO",
     "stackMaxSize": 60,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -3135,6 +3433,8 @@
     "weight": 0.012,
     "caliber": "Caliber762x39",
     "stackMaxSize": 60,
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
@@ -3154,6 +3454,8 @@
     "name": "Ammo",
     "shortName": "Ammo",
     "caliber": "Caliber9x18PM",
+    "tracer": false,
+    "tracerColor": "red",
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
