@@ -63,8 +63,36 @@ vorpal
 		callback();
 	});
 
+vorpal
+	.command('migrate-game-data', 'Custom migration to deal with game IDs plus custom IDs')
+	.action(function(args, callback) {
+		migrateQuests(args)
+		callback();
+	});
+
+function migrateQuests(args) {
+	var newQuests = require('./quests.json')
+	var oldQuests = require('./oldquests.json')
+	var fs = require('fs')
+	
+	newQuests.forEach((quest, id) => {
+		// Set the gameId to the current quest id
+		newQuests[id].gameId = quest.id
+		newQuests[id].id = oldQuests[id].id
+		if (quest.require && quest.require.quests) {
+			newQuests[id].require.quests = oldQuests[id].require.quests
+		}
+	})
+
+	var questString = JSON.stringify(newQuests, null, 4)
+
+	console.log(questString)
+
+	fs.writeFileSync('quests.json', questString);
+}
+
 function findQuests(args) {
-	var debugQuests = require('./quests.json')
+	var newQuests = require('./quests.json')
 	var testNames = require('./testdata.json')
 	
 	var questDictionaryTitle = debugQuests.reduce((a, x) => ({ ...a,

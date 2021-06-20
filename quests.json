@@ -1,6 +1,6 @@
 [
     {
-        "id": "5936d90786f7742b1420ba5b",
+        "id": 0,
         "require": {
             "level": 1,
             "quests": []
@@ -34,14 +34,15 @@
                 "location": "Any",
                 "id": 1
             }
-        ]
+        ],
+        "gameId": "5936d90786f7742b1420ba5b"
     },
     {
-        "id": "5936da9e86f7742d65037edf",
+        "id": 1,
         "require": {
             "level": 2,
             "quests": [
-                "5936d90786f7742b1420ba5b"
+                0
             ]
         },
         "giver": "Prapor",
@@ -71,14 +72,15 @@
                 "location": "Customs",
                 "id": 2
             }
-        ]
+        ],
+        "gameId": "5936da9e86f7742d65037edf"
     },
     {
-        "id": "59674cd986f7744ab26e32f2",
+        "id": 2,
         "require": {
             "level": 3,
             "quests": [
-                "5936da9e86f7742d65037edf"
+                1
             ]
         },
         "giver": "Prapor",
@@ -101,14 +103,15 @@
                 "location": "Woods",
                 "id": 3
             }
-        ]
+        ],
+        "gameId": "59674cd986f7744ab26e32f2"
     },
     {
-        "id": "59674eb386f774539f14813a",
+        "id": 3,
         "require": {
             "level": 5,
             "quests": [
-                "5936da9e86f7742d65037edf"
+                1
             ]
         },
         "giver": "Prapor",
@@ -147,14 +150,15 @@
                 "location": "Factory",
                 "id": 5
             }
-        ]
+        ],
+        "gameId": "59674eb386f774539f14813a"
     },
     {
-        "id": "59c124d686f774189b3c843f",
+        "id": 4,
         "require": {
             "level": 5,
             "quests": [
-                "59674eb386f774539f14813a"
+                3
             ]
         },
         "giver": "Prapor",
@@ -210,14 +214,15 @@
                 "location": "Customs",
                 "id": 9
             }
-        ]
+        ],
+        "gameId": "59c124d686f774189b3c843f"
     },
     {
-        "id": "5967530a86f77462ba22226b",
+        "id": 5,
         "require": {
             "level": 6,
             "quests": [
-                "59c124d686f774189b3c843f"
+                4
             ]
         },
         "giver": "Prapor",
@@ -249,14 +254,15 @@
                 "location": "Customs",
                 "id": 11
             }
-        ]
+        ],
+        "gameId": "5967530a86f77462ba22226b"
     },
     {
-        "id": "59675d6c86f7740a842fc482",
+        "id": 6,
         "require": {
             "level": 9,
             "quests": [
-                "5967530a86f77462ba22226b"
+                5
             ]
         },
         "giver": "Prapor",
@@ -282,14 +288,15 @@
                 "have": 0,
                 "id": 12
             }
-        ]
+        ],
+        "gameId": "59675d6c86f7740a842fc482"
     },
     {
-        "id": "59675ea386f77414b32bded2",
+        "id": 7,
         "require": {
             "level": 10,
             "quests": [
-                "59675d6c86f7740a842fc482"
+                6
             ]
         },
         "giver": "Prapor",
@@ -314,14 +321,15 @@
                 "location": "Factory",
                 "id": 13
             }
-        ]
+        ],
+        "gameId": "59675ea386f77414b32bded2"
     },
     {
-        "id": "5967725e86f774601a446662",
+        "id": 8,
         "require": {
             "level": 10,
             "quests": [
-                "59675ea386f77414b32bded2"
+                7
             ],
             "loyalty": [
                 {
@@ -364,14 +372,15 @@
                 "location": "Customs",
                 "id": 15
             }
-        ]
+        ],
+        "gameId": "5967725e86f774601a446662"
     },
     {
-        "id": "5c12452c86f7744b83469073",
+        "id": 9,
         "require": {
             "level": 35,
             "quests": [
-                "5967725e86f774601a446662"
+                8
             ]
         },
         "giver": "Prapor",
@@ -429,14 +438,15 @@
                 "location": "Any",
                 "id": 21
             }
-        ]
+        ],
+        "gameId": "5c12452c86f7744b83469073"
     },
     {
-        "id": "5c0d190cd09282029f5390d8",
+        "id": 10,
         "require": {
             "level": 30,
             "quests": [
-                "5967725e86f774601a446662"
+                8
             ]
         },
         "giver": "Prapor",
@@ -459,14 +469,15 @@
                 ],
                 "id": 22
             }
-        ]
+        ],
+        "gameId": "5c0d190cd09282029f5390d8"
     },
     {
-        "id": "5c0bd01e86f7747cdd799e56",
+        "id": 11,
         "require": {
             "level": 30,
             "quests": [
-                "5c0d190cd09282029f5390d8"
+                10
             ]
         },
         "giver": "Prapor",
@@ -487,14 +498,15 @@
                 ],
                 "id": 23
             }
-        ]
+        ],
+        "gameId": "5c0bd01e86f7747cdd799e56"
     },
     {
-        "id": "5c0bd94186f7747a727f09b2",
+        "id": 12,
         "require": {
             "level": 30,
             "quests": [
-                "5c0d190cd09282029f5390d8"
+                10
             ]
         },
         "giver": "Prapor",
@@ -522,14 +534,15 @@
                 ],
                 "id": 24
             }
-        ]
+        ],
+        "gameId": "5c0bd94186f7747a727f09b2"
     },
     {
-        "id": "59c50a9e86f7745fef66f4ff",
+        "id": 13,
         "require": {
             "level": 17,
             "quests": [
-                "5967725e86f774601a446662"
+                8
             ]
         },
         "giver": "Prapor",
@@ -557,14 +570,15 @@
                 ],
                 "id": 25
             }
-        ]
+        ],
+        "gameId": "59c50a9e86f7745fef66f4ff"
     },
     {
-        "id": "59c50c8886f7745fed3193bf",
+        "id": 14,
         "require": {
             "level": 18,
             "quests": [
-                "59c50a9e86f7745fef66f4ff"
+                13
             ]
         },
         "giver": "Prapor",
@@ -597,14 +611,15 @@
                 "location": "Any",
                 "id": 27
             }
-        ]
+        ],
+        "gameId": "59c50c8886f7745fed3193bf"
     },
     {
-        "id": "59c512ad86f7741f0d09de9b",
+        "id": 15,
         "require": {
             "level": 19,
             "quests": [
-                "59c50c8886f7745fed3193bf"
+                14
             ]
         },
         "giver": "Prapor",
@@ -634,14 +649,15 @@
                 ],
                 "id": 28
             }
-        ]
+        ],
+        "gameId": "59c512ad86f7741f0d09de9b"
     },
     {
-        "id": "59ca264786f77445a80ed044",
+        "id": 16,
         "require": {
             "level": 20,
             "quests": [
-                "59c512ad86f7741f0d09de9b"
+                15
             ]
         },
         "giver": "Prapor",
@@ -691,14 +707,15 @@
                 "location": "Any",
                 "id": 31
             }
-        ]
+        ],
+        "gameId": "59ca264786f77445a80ed044"
     },
     {
-        "id": "59ca29fb86f77445ab465c87",
+        "id": 17,
         "require": {
             "level": 20,
             "quests": [
-                "59ca264786f77445a80ed044"
+                16
             ]
         },
         "giver": "Prapor",
@@ -748,14 +765,15 @@
                 "location": "Any",
                 "id": 35
             }
-        ]
+        ],
+        "gameId": "59ca29fb86f77445ab465c87"
     },
     {
-        "id": "59ca2eb686f77445a80ed049",
+        "id": 18,
         "require": {
             "level": 21,
             "quests": [
-                "59ca29fb86f77445ab465c87"
+                17
             ]
         },
         "giver": "Prapor",
@@ -803,10 +821,11 @@
                 "location": "Any",
                 "id": 38
             }
-        ]
+        ],
+        "gameId": "59ca2eb686f77445a80ed049"
     },
     {
-        "id": "5967733e86f774602332fc84",
+        "id": 19,
         "require": {
             "level": 1,
             "quests": []
@@ -831,14 +850,15 @@
                 "location": "Any",
                 "id": 39
             }
-        ]
+        ],
+        "gameId": "5967733e86f774602332fc84"
     },
     {
-        "id": "59689ee586f7740d1570bbd5",
+        "id": 20,
         "require": {
             "level": 4,
             "quests": [
-                "5967733e86f774602332fc84"
+                19
             ]
         },
         "giver": "Therapist",
@@ -863,14 +883,15 @@
                 "location": "Any",
                 "id": 40
             }
-        ]
+        ],
+        "gameId": "59689ee586f7740d1570bbd5"
     },
     {
-        "id": "596a204686f774576d4c95de",
+        "id": 21,
         "require": {
             "level": 8,
             "quests": [
-                "59689ee586f7740d1570bbd5"
+                20
             ]
         },
         "giver": "Therapist",
@@ -893,14 +914,15 @@
                 "location": "Any",
                 "id": 41
             }
-        ]
+        ],
+        "gameId": "596a204686f774576d4c95de"
     },
     {
-        "id": "5969f90786f77420d2328015",
+        "id": 22,
         "require": {
             "level": 8,
             "quests": [
-                "596a204686f774576d4c95de"
+                21
             ]
         },
         "giver": "Therapist",
@@ -924,14 +946,15 @@
                 "have": 0,
                 "id": 42
             }
-        ]
+        ],
+        "gameId": "5969f90786f77420d2328015"
     },
     {
-        "id": "5969f9e986f7741dde183a50",
+        "id": 23,
         "require": {
             "level": 10,
             "quests": [
-                "5969f90786f77420d2328015"
+                22
             ]
         },
         "giver": "Therapist",
@@ -963,14 +986,15 @@
                 "location": "Customs",
                 "id": 44
             }
-        ]
+        ],
+        "gameId": "5969f9e986f7741dde183a50"
     },
     {
-        "id": "596a0e1686f7741ddf17dbee",
+        "id": 24,
         "require": {
             "level": 13,
             "quests": [
-                "5969f9e986f7741dde183a50"
+                23
             ]
         },
         "giver": "Therapist",
@@ -1000,14 +1024,15 @@
         ],
         "alternatives": [
             25
-        ]
+        ],
+        "gameId": "596a0e1686f7741ddf17dbee"
     },
     {
-        "id": "596a101f86f7741ddb481582",
+        "id": 25,
         "require": {
             "level": 13,
             "quests": [
-                "5969f9e986f7741dde183a50"
+                23
             ]
         },
         "giver": "Skier",
@@ -1037,14 +1062,15 @@
         ],
         "alternatives": [
             24
-        ]
+        ],
+        "gameId": "596a101f86f7741ddb481582"
     },
     {
-        "id": "596a1e6c86f7741ddc2d3206",
+        "id": 26,
         "require": {
             "level": 10,
             "quests": [
-                "5969f9e986f7741dde183a50"
+                23
             ]
         },
         "giver": "Therapist",
@@ -1067,14 +1093,15 @@
                 "location": "Any",
                 "id": 47
             }
-        ]
+        ],
+        "gameId": "596a1e6c86f7741ddc2d3206"
     },
     {
-        "id": "596a218586f77420d232807c",
+        "id": 27,
         "require": {
             "level": 10,
             "quests": [
-                "5969f9e986f7741dde183a50"
+                23
             ]
         },
         "giver": "Therapist",
@@ -1106,14 +1133,15 @@
                 "have": 0,
                 "id": 49
             }
-        ]
+        ],
+        "gameId": "596a218586f77420d232807c"
     },
     {
-        "id": "5a68661a86f774500f48afb0",
+        "id": 28,
         "require": {
             "level": 10,
             "quests": [
-                "5969f9e986f7741dde183a50"
+                23
             ]
         },
         "giver": "Therapist",
@@ -1158,14 +1186,15 @@
                 "location": "Shoreline",
                 "id": 52
             }
-        ]
+        ],
+        "gameId": "5a68661a86f774500f48afb0"
     },
     {
-        "id": "5a68663e86f774501078f78a",
+        "id": 29,
         "require": {
             "level": 10,
             "quests": [
-                "5a68661a86f774500f48afb0"
+                28
             ]
         },
         "giver": "Therapist",
@@ -1195,14 +1224,15 @@
                 "location": "Shoreline",
                 "id": 54
             }
-        ]
+        ],
+        "gameId": "5a68663e86f774501078f78a"
     },
     {
-        "id": "5a68665c86f774255929b4c7",
+        "id": 30,
         "require": {
             "level": 10,
             "quests": [
-                "5a68663e86f774501078f78a"
+                29
             ]
         },
         "giver": "Therapist",
@@ -1227,14 +1257,15 @@
                 "location": "Woods",
                 "id": 55
             }
-        ]
+        ],
+        "gameId": "5a68665c86f774255929b4c7"
     },
     {
-        "id": "5a68667486f7742607157d28",
+        "id": 31,
         "require": {
             "level": 10,
             "quests": [
-                "5a68665c86f774255929b4c7"
+                30
             ]
         },
         "giver": "Therapist",
@@ -1257,14 +1288,15 @@
                 "location": "Any",
                 "id": 56
             }
-        ]
+        ],
+        "gameId": "5a68667486f7742607157d28"
     },
     {
-        "id": "5a68669a86f774255929b4d4",
+        "id": 32,
         "require": {
             "level": 10,
             "quests": [
-                "5a68667486f7742607157d28"
+                31
             ]
         },
         "giver": "Therapist",
@@ -1287,15 +1319,16 @@
                 "location": "Factory",
                 "id": 57
             }
-        ]
+        ],
+        "gameId": "5a68669a86f774255929b4d4"
     },
     {
-        "id": "5c0d1c4cd0928202a02a6f5c",
+        "id": 33,
         "require": {
             "level": 30,
             "quests": [
-                "5a68669a86f774255929b4d4",
-                "5c0be5fc86f774467a116593"
+                32,
+                34
             ]
         },
         "giver": "Therapist",
@@ -1322,14 +1355,15 @@
                 ],
                 "id": 58
             }
-        ]
+        ],
+        "gameId": "5c0d1c4cd0928202a02a6f5c"
     },
     {
-        "id": "5c0be5fc86f774467a116593",
+        "id": 34,
         "require": {
             "level": 35,
             "quests": [
-                "5a68667486f7742607157d28"
+                31
             ]
         },
         "giver": "Therapist",
@@ -1359,14 +1393,15 @@
                 "location": "Any",
                 "id": 60
             }
-        ]
+        ],
+        "gameId": "5c0be5fc86f774467a116593"
     },
     {
-        "id": "5c0d0d5086f774363760aef2",
+        "id": 35,
         "require": {
             "level": 30,
             "quests": [
-                "5a68667486f7742607157d28"
+                31
             ]
         },
         "giver": "Therapist",
@@ -1391,10 +1426,11 @@
                 "location": "Any",
                 "id": 61
             }
-        ]
+        ],
+        "gameId": "5c0d0d5086f774363760aef2"
     },
     {
-        "id": "596b36c586f77450d6045ad2",
+        "id": 36,
         "require": {
             "level": 5,
             "quests": []
@@ -1428,14 +1464,15 @@
                 "location": "Any",
                 "id": 63
             }
-        ]
+        ],
+        "gameId": "596b36c586f77450d6045ad2"
     },
     {
-        "id": "596b43fb86f77457ca186186",
+        "id": 37,
         "require": {
             "level": 7,
             "quests": [
-                "596b36c586f77450d6045ad2"
+                36
             ]
         },
         "giver": "Skier",
@@ -1465,14 +1502,15 @@
                 "location": "Customs",
                 "id": 65
             }
-        ]
+        ],
+        "gameId": "596b43fb86f77457ca186186"
     },
     {
-        "id": "5979ed3886f77431307dc512",
+        "id": 38,
         "require": {
             "level": 8,
             "quests": [
-                "596b43fb86f77457ca186186"
+                37
             ]
         },
         "giver": "Skier",
@@ -1499,14 +1537,15 @@
                 "location": "Any",
                 "id": 66
             }
-        ]
+        ],
+        "gameId": "5979ed3886f77431307dc512"
     },
     {
-        "id": "5979eee086f774311955e614",
+        "id": 39,
         "require": {
             "level": 8,
             "quests": [
-                "5979ed3886f77431307dc512"
+                38
             ]
         },
         "giver": "Skier",
@@ -1552,14 +1591,15 @@
                 "location": "Customs",
                 "id": 70
             }
-        ]
+        ],
+        "gameId": "5979eee086f774311955e614"
     },
     {
-        "id": "5979f9ba86f7740f6c3fe9f2",
+        "id": 40,
         "require": {
             "level": 10,
             "quests": [
-                "5979eee086f774311955e614"
+                39
             ]
         },
         "giver": "Skier",
@@ -1589,14 +1629,15 @@
                 "location": "Customs",
                 "id": 72
             }
-        ]
+        ],
+        "gameId": "5979f9ba86f7740f6c3fe9f2"
     },
     {
-        "id": "597a0b2986f77426d66c0633",
+        "id": 41,
         "require": {
             "level": 10,
             "quests": [
-                "5979f9ba86f7740f6c3fe9f2"
+                40
             ]
         },
         "giver": "Skier",
@@ -1635,14 +1676,15 @@
                 "location": "Customs",
                 "id": 75
             }
-        ]
+        ],
+        "gameId": "597a0b2986f77426d66c0633"
     },
     {
-        "id": "597a0e5786f77426d66c0636",
+        "id": 42,
         "require": {
             "level": 11,
             "quests": [
-                "597a0b2986f77426d66c0633"
+                41
             ]
         },
         "giver": "Skier",
@@ -1669,14 +1711,15 @@
                 "location": "Factory",
                 "id": 76
             }
-        ]
+        ],
+        "gameId": "597a0e5786f77426d66c0636"
     },
     {
-        "id": "597a0f5686f774273b74f676",
+        "id": 43,
         "require": {
             "level": 11,
             "quests": [
-                "597a0e5786f77426d66c0636"
+                42
             ]
         },
         "giver": "Skier",
@@ -1718,14 +1761,15 @@
         "alternatives": [
             179,
             180
-        ]
+        ],
+        "gameId": "597a0f5686f774273b74f676"
     },
     {
-        "id": "5b478eca86f7744642012254",
+        "id": 44,
         "require": {
             "level": 22,
             "quests": [
-                "597a0e5786f77426d66c0636"
+                42
             ]
         },
         "giver": "Skier",
@@ -1782,14 +1826,15 @@
                 "location": "Interchange",
                 "id": 82
             }
-        ]
+        ],
+        "gameId": "5b478eca86f7744642012254"
     },
     {
-        "id": "5b478ff486f7744d184ecbbf",
+        "id": 45,
         "require": {
             "level": 22,
             "quests": [
-                "5b478eca86f7744642012254"
+                44
             ]
         },
         "giver": "Skier",
@@ -1819,14 +1864,15 @@
                 "location": "Any",
                 "id": 84
             }
-        ]
+        ],
+        "gameId": "5b478ff486f7744d184ecbbf"
     },
     {
-        "id": "5a27c99a86f7747d2c6bdd8e",
+        "id": 46,
         "require": {
             "level": 9,
             "quests": [
-                "5979eee086f774311955e614"
+                39
             ]
         },
         "giver": "Skier",
@@ -1859,14 +1905,15 @@
                 "location": "Any",
                 "id": 85
             }
-        ]
+        ],
+        "gameId": "5a27c99a86f7747d2c6bdd8e"
     },
     {
-        "id": "5a27d2af86f7744e1115b323",
+        "id": 47,
         "require": {
             "level": 9,
             "quests": [
-                "5a27c99a86f7747d2c6bdd8e"
+                46
             ]
         },
         "giver": "Skier",
@@ -1889,14 +1936,15 @@
                 "location": "Any",
                 "id": 87
             }
-        ]
+        ],
+        "gameId": "5a27d2af86f7744e1115b323"
     },
     {
-        "id": "5b4794cb86f774598100d5d4",
+        "id": 48,
         "require": {
             "level": 25,
             "quests": [
-                "5a27d2af86f7744e1115b323"
+                47
             ]
         },
         "giver": "Skier",
@@ -1969,14 +2017,15 @@
                 "location": "Woods",
                 "id": 94
             }
-        ]
+        ],
+        "gameId": "5b4794cb86f774598100d5d4"
     },
     {
-        "id": "5c0d0f1886f77457b8210226",
+        "id": 49,
         "require": {
             "level": 30,
             "quests": [
-                "5b4794cb86f774598100d5d4"
+                48
             ]
         },
         "giver": "Peacekeeper",
@@ -2006,14 +2055,15 @@
                 "location": "Any",
                 "id": 96
             }
-        ]
+        ],
+        "gameId": "5c0d0f1886f77457b8210226"
     },
     {
-        "id": "5c0d4c12d09282029f539173",
+        "id": 50,
         "require": {
             "level": 30,
             "quests": [
-                "5c0d0f1886f77457b8210226"
+                49
             ]
         },
         "giver": "Peacekeeper",
@@ -2078,14 +2128,15 @@
                 ],
                 "id": 100
             }
-        ]
+        ],
+        "gameId": "5c0d4c12d09282029f539173"
     },
     {
-        "id": "5b47926a86f7747ccc057c15",
+        "id": 51,
         "require": {
             "level": 24,
             "quests": [
-                "5a27d2af86f7744e1115b323"
+                47
             ]
         },
         "giver": "Skier",
@@ -2127,14 +2178,15 @@
                 "location": "Customs",
                 "id": 103
             }
-        ]
+        ],
+        "gameId": "5b47926a86f7747ccc057c15"
     },
     {
-        "id": "5b4795fb86f7745876267770",
+        "id": 52,
         "require": {
             "level": 27,
             "quests": [
-                "5b47926a86f7747ccc057c15"
+                51
             ]
         },
         "giver": "Skier",
@@ -2181,14 +2233,15 @@
                 "location": "Interchange",
                 "id": 304
             }
-        ]
+        ],
+        "gameId": "5b4795fb86f7745876267770"
     },
     {
-        "id": "5c0bc91486f7746ab41857a2",
+        "id": 53,
         "require": {
             "level": 27,
             "quests": [
-                "5b4795fb86f7745876267770"
+                52
             ]
         },
         "giver": "Skier",
@@ -2224,14 +2277,15 @@
                 ],
                 "id": 108
             }
-        ]
+        ],
+        "gameId": "5c0bc91486f7746ab41857a2"
     },
     {
-        "id": "5c0bdb5286f774166e38eed4",
+        "id": 54,
         "require": {
             "level": 27,
             "quests": [
-                "5b4795fb86f7745876267770"
+                52
             ]
         },
         "giver": "Skier",
@@ -2256,14 +2310,15 @@
                 "location": "Any",
                 "id": 109
             }
-        ]
+        ],
+        "gameId": "5c0bdb5286f774166e38eed4"
     },
     {
-        "id": "5c0bbaa886f7746941031d82",
+        "id": 55,
         "require": {
             "level": 27,
             "quests": [
-                "5b4795fb86f7745876267770"
+                52
             ]
         },
         "giver": "Skier",
@@ -2316,14 +2371,15 @@
                 "location": "Customs",
                 "id": 114
             }
-        ]
+        ],
+        "gameId": "5c0bbaa886f7746941031d82"
     },
     {
-        "id": "5c1234c286f77406fa13baeb",
+        "id": 56,
         "require": {
             "level": 27,
             "quests": [
-                "5c0bbaa886f7746941031d82"
+                55
             ]
         },
         "giver": "Skier",
@@ -2353,14 +2409,15 @@
                 ],
                 "id": 115
             }
-        ]
+        ],
+        "gameId": "5c1234c286f77406fa13baeb"
     },
     {
-        "id": "5a27b75b86f7742e97191958",
+        "id": 57,
         "require": {
             "level": 10,
             "quests": [
-                "5a27d2af86f7744e1115b323"
+                47
             ]
         },
         "giver": "Peacekeeper",
@@ -2392,14 +2449,15 @@
                 "location": "Shoreline",
                 "id": 117
             }
-        ]
+        ],
+        "gameId": "5a27b75b86f7742e97191958"
     },
     {
-        "id": "5a27b7a786f774579c3eb376",
+        "id": 58,
         "require": {
             "level": 10,
             "quests": [
-                "5a27b75b86f7742e97191958"
+                57
             ]
         },
         "giver": "Peacekeeper",
@@ -2446,14 +2504,15 @@
                 "location": "Customs",
                 "id": 120
             }
-        ]
+        ],
+        "gameId": "5a27b7a786f774579c3eb376"
     },
     {
-        "id": "5a27b7d686f77460d847e6a6",
+        "id": 59,
         "require": {
             "level": 10,
             "quests": [
-                "5a27b7a786f774579c3eb376"
+                58
             ]
         },
         "giver": "Peacekeeper",
@@ -2502,14 +2561,15 @@
                 "location": "Shoreline",
                 "id": 123
             }
-        ]
+        ],
+        "gameId": "5a27b7d686f77460d847e6a6"
     },
     {
-        "id": "5a27b80086f774429a5d7e20",
+        "id": 60,
         "require": {
             "level": 11,
             "quests": [
-                "5a27b7d686f77460d847e6a6"
+                59
             ]
         },
         "giver": "Peacekeeper",
@@ -2541,14 +2601,15 @@
                 "location": "Shoreline",
                 "id": 125
             }
-        ]
+        ],
+        "gameId": "5a27b80086f774429a5d7e20"
     },
     {
-        "id": "5a27b87686f77460de0252a8",
+        "id": 61,
         "require": {
             "level": 11,
             "quests": [
-                "5a27b80086f774429a5d7e20"
+                60
             ]
         },
         "giver": "Peacekeeper",
@@ -2600,14 +2661,15 @@
                 ],
                 "id": 129
             }
-        ]
+        ],
+        "gameId": "5a27b87686f77460de0252a8"
     },
     {
-        "id": "5a27b9de86f77464e5044585",
+        "id": 62,
         "require": {
             "level": 12,
             "quests": [
-                "5a27b87686f77460de0252a8"
+                61
             ]
         },
         "giver": "Peacekeeper",
@@ -2632,14 +2694,15 @@
                 "location": "Shoreline",
                 "id": 130
             }
-        ]
+        ],
+        "gameId": "5a27b9de86f77464e5044585"
     },
     {
-        "id": "5a27ba1c86f77461ea5a3c56",
+        "id": 63,
         "require": {
             "level": 12,
             "quests": [
-                "5a27b9de86f77464e5044585"
+                62
             ]
         },
         "giver": "Peacekeeper",
@@ -2696,14 +2759,15 @@
                 "location": "Customs",
                 "id": 134
             }
-        ]
+        ],
+        "gameId": "5a27ba1c86f77461ea5a3c56"
     },
     {
-        "id": "5a03153686f77442d90e2171",
+        "id": 64,
         "require": {
             "level": 12,
             "quests": [
-                "5a27b87686f77460de0252a8"
+                61
             ]
         },
         "giver": "Peacekeeper",
@@ -2729,14 +2793,15 @@
                 ],
                 "id": 135
             }
-        ]
+        ],
+        "gameId": "5a03153686f77442d90e2171"
     },
     {
-        "id": "5a03173786f77451cb427172",
+        "id": 65,
         "require": {
             "level": 12,
             "quests": [
-                "5a03153686f77442d90e2171"
+                64
             ]
         },
         "giver": "Peacekeeper",
@@ -2770,14 +2835,15 @@
                 "location": "Shoreline",
                 "id": 137
             }
-        ]
+        ],
+        "gameId": "5a03173786f77451cb427172"
     },
     {
-        "id": "5a0327ba86f77456b9154236",
+        "id": 66,
         "require": {
             "level": 12,
             "quests": [
-                "5a03173786f77451cb427172"
+                65
             ]
         },
         "giver": "Peacekeeper",
@@ -2821,14 +2887,15 @@
                 "location": "Any",
                 "id": 141
             }
-        ]
+        ],
+        "gameId": "5a0327ba86f77456b9154236"
     },
     {
-        "id": "5a03296886f774569778596a",
+        "id": 67,
         "require": {
             "level": 12,
             "quests": [
-                "5a0327ba86f77456b9154236"
+                66
             ]
         },
         "giver": "Peacekeeper",
@@ -2868,14 +2935,15 @@
                 "location": "Shoreline",
                 "id": 144
             }
-        ]
+        ],
+        "gameId": "5a03296886f774569778596a"
     },
     {
-        "id": "5a0449d586f77474e66227b7",
+        "id": 68,
         "require": {
             "level": 12,
             "quests": [
-                "5a03296886f774569778596a"
+                67
             ]
         },
         "giver": "Peacekeeper",
@@ -2898,14 +2966,15 @@
                 "location": "Shoreline",
                 "id": 145
             }
-        ]
+        ],
+        "gameId": "5a0449d586f77474e66227b7"
     },
     {
-        "id": "5a27ba9586f7741b543d8e85",
+        "id": 69,
         "require": {
             "level": 12,
             "quests": [
-                "5a0449d586f77474e66227b7"
+                68
             ]
         },
         "giver": "Peacekeeper",
@@ -2930,14 +2999,15 @@
                 "location": "Any",
                 "id": 146
             }
-        ]
+        ],
+        "gameId": "5a27ba9586f7741b543d8e85"
     },
     {
-        "id": "5a27bafb86f7741c73584017",
+        "id": 70,
         "require": {
             "level": 12,
             "quests": [
-                "5a27ba9586f7741b543d8e85"
+                69
             ]
         },
         "giver": "Peacekeeper",
@@ -2985,14 +3055,15 @@
                 "location": "Any",
                 "id": 150
             }
-        ]
+        ],
+        "gameId": "5a27bafb86f7741c73584017"
     },
     {
-        "id": "5a27bb1e86f7741f27621b7e",
+        "id": 71,
         "require": {
             "level": 12,
             "quests": [
-                "5a27bafb86f7741c73584017"
+                70
             ]
         },
         "giver": "Peacekeeper",
@@ -3025,14 +3096,15 @@
                 "location": "Shoreline",
                 "id": 152
             }
-        ]
+        ],
+        "gameId": "5a27bb1e86f7741f27621b7e"
     },
     {
-        "id": "5a27bb3d86f77411ea361a21",
+        "id": 72,
         "require": {
             "level": 12,
             "quests": [
-                "5a27bb1e86f7741f27621b7e"
+                71
             ]
         },
         "giver": "Peacekeeper",
@@ -3057,14 +3129,15 @@
                 "location": "Shoreline",
                 "id": 153
             }
-        ]
+        ],
+        "gameId": "5a27bb3d86f77411ea361a21"
     },
     {
-        "id": "5a27bb5986f7741dfb660900",
+        "id": 73,
         "require": {
             "level": 12,
             "quests": [
-                "5a27bb3d86f77411ea361a21"
+                72
             ]
         },
         "giver": "Peacekeeper",
@@ -3087,14 +3160,15 @@
                 "location": "Shoreline",
                 "id": 154
             }
-        ]
+        ],
+        "gameId": "5a27bb5986f7741dfb660900"
     },
     {
-        "id": "5a27bb8386f7741c770d2d0a",
+        "id": 74,
         "require": {
             "level": 14,
             "quests": [
-                "5a27bafb86f7741c73584017"
+                70
             ]
         },
         "giver": "Peacekeeper",
@@ -3124,14 +3198,15 @@
                 ],
                 "id": 155
             }
-        ]
+        ],
+        "gameId": "5a27bb8386f7741c770d2d0a"
     },
     {
-        "id": "5a27bbf886f774333a418eeb",
+        "id": 75,
         "require": {
             "level": 14,
             "quests": [
-                "5a27bb8386f7741c770d2d0a"
+                74
             ]
         },
         "giver": "Peacekeeper",
@@ -3157,14 +3232,15 @@
                 "location": "Shoreline",
                 "id": 156
             }
-        ]
+        ],
+        "gameId": "5a27bbf886f774333a418eeb"
     },
     {
-        "id": "5a27bc1586f7741f6d40fa2f",
+        "id": 76,
         "require": {
             "level": 14,
             "quests": [
-                "5a27bbf886f774333a418eeb"
+                75
             ]
         },
         "giver": "Peacekeeper",
@@ -3187,14 +3263,15 @@
                 "location": "Shoreline",
                 "id": 157
             }
-        ]
+        ],
+        "gameId": "5a27bc1586f7741f6d40fa2f"
     },
     {
-        "id": "5a27bc3686f7741c73584026",
+        "id": 77,
         "require": {
             "level": 14,
             "quests": [
-                "5a27bc1586f7741f6d40fa2f"
+                76
             ]
         },
         "giver": "Peacekeeper",
@@ -3217,14 +3294,15 @@
                 "location": "Shoreline",
                 "id": 158
             }
-        ]
+        ],
+        "gameId": "5a27bc3686f7741c73584026"
     },
     {
-        "id": "5a27bc6986f7741c7358402b",
+        "id": 78,
         "require": {
             "level": 14,
             "quests": [
-                "5a27bc3686f7741c73584026"
+                77
             ]
         },
         "giver": "Peacekeeper",
@@ -3259,14 +3337,15 @@
                 "location": "Shoreline",
                 "id": 160
             }
-        ]
+        ],
+        "gameId": "5a27bc6986f7741c7358402b"
     },
     {
-        "id": "5a27bc8586f7741b543d8ea4",
+        "id": 79,
         "require": {
             "level": 14,
             "quests": [
-                "5a27bc6986f7741c7358402b"
+                78
             ]
         },
         "giver": "Peacekeeper",
@@ -3295,14 +3374,15 @@
                 "location": "Any",
                 "id": 161
             }
-        ]
+        ],
+        "gameId": "5a27bc8586f7741b543d8ea4"
     },
     {
-        "id": "5c0be13186f7746f016734aa",
+        "id": 80,
         "require": {
             "level": 40,
             "quests": [
-                "5a27bc8586f7741b543d8ea4"
+                79
             ]
         },
         "giver": "Mechanic",
@@ -3320,14 +3400,15 @@
                 "location": "Any",
                 "id": 162
             }
-        ]
+        ],
+        "gameId": "5c0be13186f7746f016734aa"
     },
     {
-        "id": "5c0d4e61d09282029f53920e",
+        "id": 81,
         "require": {
             "level": 14,
             "quests": [
-                "5a27bc8586f7741b543d8ea4"
+                79
             ]
         },
         "giver": "Peacekeeper",
@@ -3346,10 +3427,11 @@
                 "rep": 0.12
             }
         ],
-        "objectives": []
+        "objectives": [],
+        "gameId": "5c0d4e61d09282029f53920e"
     },
     {
-        "id": "5ac23c6186f7741247042bad",
+        "id": 82,
         "require": {
             "level": 10,
             "quests": []
@@ -3366,14 +3448,15 @@
                 "rep": 0.04
             }
         ],
-        "objectives": []
+        "objectives": [],
+        "gameId": "5ac23c6186f7741247042bad"
     },
     {
-        "id": "5ac2426c86f774138762edfe",
+        "id": 83,
         "require": {
             "level": 11,
             "quests": [
-                "5ac23c6186f7741247042bad"
+                82
             ]
         },
         "giver": "Mechanic",
@@ -3388,14 +3471,15 @@
                 "rep": 0.04
             }
         ],
-        "objectives": []
+        "objectives": [],
+        "gameId": "5ac2426c86f774138762edfe"
     },
     {
-        "id": "5ac2428686f77412450b42bf",
+        "id": 84,
         "require": {
             "level": 12,
             "quests": [
-                "5ac2426c86f774138762edfe"
+                83
             ]
         },
         "giver": "Mechanic",
@@ -3410,14 +3494,15 @@
                 "rep": 0.05
             }
         ],
-        "objectives": []
+        "objectives": [],
+        "gameId": "5ac2428686f77412450b42bf"
     },
     {
-        "id": "5ac244eb86f7741356335af1",
+        "id": 85,
         "require": {
             "level": 15,
             "quests": [
-                "5ac2428686f77412450b42bf"
+                84
             ]
         },
         "giver": "Mechanic",
@@ -3432,14 +3517,15 @@
                 "rep": 0.05
             }
         ],
-        "objectives": []
+        "objectives": [],
+        "gameId": "5ac244eb86f7741356335af1"
     },
     {
-        "id": "5ac242ab86f77412464f68b4",
+        "id": 86,
         "require": {
             "level": 17,
             "quests": [
-                "5ac244eb86f7741356335af1"
+                85
             ]
         },
         "giver": "Mechanic",
@@ -3454,14 +3540,15 @@
                 "rep": 0.06
             }
         ],
-        "objectives": []
+        "objectives": [],
+        "gameId": "5ac242ab86f77412464f68b4"
     },
     {
-        "id": "5ac244c486f77413e12cf945",
+        "id": 87,
         "require": {
             "level": 18,
             "quests": [
-                "5ac242ab86f77412464f68b4"
+                86
             ]
         },
         "giver": "Mechanic",
@@ -3476,14 +3563,15 @@
                 "rep": 0.06
             }
         ],
-        "objectives": []
+        "objectives": [],
+        "gameId": "5ac244c486f77413e12cf945"
     },
     {
-        "id": "5ae3267986f7742a413592fe",
+        "id": 88,
         "require": {
             "level": 19,
             "quests": [
-                "5ac244c486f77413e12cf945"
+                87
             ]
         },
         "giver": "Mechanic",
@@ -3498,14 +3586,15 @@
                 "rep": 0.06
             }
         ],
-        "objectives": []
+        "objectives": [],
+        "gameId": "5ae3267986f7742a413592fe"
     },
     {
-        "id": "5ae3270f86f77445ba41d4dd",
+        "id": 89,
         "require": {
             "level": 19,
             "quests": [
-                "5ae3267986f7742a413592fe"
+                88
             ]
         },
         "giver": "Mechanic",
@@ -3520,14 +3609,15 @@
                 "rep": 0.06
             }
         ],
-        "objectives": []
+        "objectives": [],
+        "gameId": "5ae3270f86f77445ba41d4dd"
     },
     {
-        "id": "5ae3277186f7745973054106",
+        "id": 90,
         "require": {
             "level": 20,
             "quests": [
-                "5ae3270f86f77445ba41d4dd"
+                89
             ]
         },
         "giver": "Mechanic",
@@ -3542,14 +3632,15 @@
                 "rep": 0.06
             }
         ],
-        "objectives": []
+        "objectives": [],
+        "gameId": "5ae3277186f7745973054106"
     },
     {
-        "id": "5ae327c886f7745c7b3f2f3f",
+        "id": 91,
         "require": {
             "level": 20,
             "quests": [
-                "5ae3277186f7745973054106"
+                90
             ]
         },
         "giver": "Mechanic",
@@ -3566,14 +3657,15 @@
                 "rep": 0.06
             }
         ],
-        "objectives": []
+        "objectives": [],
+        "gameId": "5ae327c886f7745c7b3f2f3f"
     },
     {
-        "id": "5ae3280386f7742a41359364",
+        "id": 92,
         "require": {
             "level": 20,
             "quests": [
-                "5ae327c886f7745c7b3f2f3f"
+                91
             ]
         },
         "giver": "Mechanic",
@@ -3588,14 +3680,15 @@
                 "rep": 0.06
             }
         ],
-        "objectives": []
+        "objectives": [],
+        "gameId": "5ae3280386f7742a41359364"
     },
     {
-        "id": "5b47749f86f7746c5d6a5fd4",
+        "id": 93,
         "require": {
             "level": 23,
             "quests": [
-                "5ae3280386f7742a41359364"
+                92
             ]
         },
         "giver": "Mechanic",
@@ -3612,14 +3705,15 @@
                 "rep": 0.04
             }
         ],
-        "objectives": []
+        "objectives": [],
+        "gameId": "5b47749f86f7746c5d6a5fd4"
     },
     {
-        "id": "5b47799d86f7746c5d6a5fd8",
+        "id": 94,
         "require": {
             "level": 25,
             "quests": [
-                "5b47749f86f7746c5d6a5fd4"
+                93
             ]
         },
         "giver": "Mechanic",
@@ -3636,14 +3730,15 @@
                 "rep": 0.05
             }
         ],
-        "objectives": []
+        "objectives": [],
+        "gameId": "5b47799d86f7746c5d6a5fd8"
     },
     {
-        "id": "5b477b6f86f7747290681823",
+        "id": 95,
         "require": {
             "level": 27,
             "quests": [
-                "5b47799d86f7746c5d6a5fd8"
+                94
             ]
         },
         "giver": "Mechanic",
@@ -3660,14 +3755,15 @@
                 "rep": 0.05
             }
         ],
-        "objectives": []
+        "objectives": [],
+        "gameId": "5b477b6f86f7747290681823"
     },
     {
-        "id": "5b477f7686f7744d1b23c4d2",
+        "id": 96,
         "require": {
             "level": 29,
             "quests": [
-                "5b477b6f86f7747290681823"
+                95
             ]
         },
         "giver": "Mechanic",
@@ -3682,14 +3778,15 @@
                 "rep": 0.05
             }
         ],
-        "objectives": []
+        "objectives": [],
+        "gameId": "5b477f7686f7744d1b23c4d2"
     },
     {
-        "id": "5b47825886f77468074618d3",
+        "id": 97,
         "require": {
             "level": 35,
             "quests": [
-                "5b477f7686f7744d1b23c4d2"
+                96
             ]
         },
         "giver": "Mechanic",
@@ -3704,14 +3801,15 @@
                 "rep": 0.06
             }
         ],
-        "objectives": []
+        "objectives": [],
+        "gameId": "5b47825886f77468074618d3"
     },
     {
-        "id": "5ac3467986f7741d6224abc2",
+        "id": 98,
         "require": {
             "level": 12,
             "quests": [
-                "5ac2426c86f774138762edfe"
+                83
             ]
         },
         "giver": "Mechanic",
@@ -3741,14 +3839,15 @@
                 "location": "Shoreline",
                 "id": 164
             }
-        ]
+        ],
+        "gameId": "5ac3467986f7741d6224abc2"
     },
     {
-        "id": "5ac346a886f7744e1b083d67",
+        "id": 99,
         "require": {
             "level": 12,
             "quests": [
-                "5ac3467986f7741d6224abc2"
+                98
             ]
         },
         "giver": "Mechanic",
@@ -3792,14 +3891,15 @@
                 "location": "Any",
                 "id": 168
             }
-        ]
+        ],
+        "gameId": "5ac346a886f7744e1b083d67"
     },
     {
-        "id": "5ac346cf86f7741d63233a02",
+        "id": 100,
         "require": {
             "level": 15,
             "quests": [
-                "5ac346a886f7744e1b083d67"
+                99
             ]
         },
         "giver": "Mechanic",
@@ -3844,14 +3944,15 @@
                 "location": "Shoreline",
                 "id": 171
             }
-        ]
+        ],
+        "gameId": "5ac346cf86f7741d63233a02"
     },
     {
-        "id": "5ac346e886f7741d6118b99b",
+        "id": 101,
         "require": {
             "level": 15,
             "quests": [
-                "5ac346cf86f7741d63233a02"
+                100
             ]
         },
         "giver": "Mechanic",
@@ -3874,14 +3975,15 @@
                 "location": "Any",
                 "id": 172
             }
-        ]
+        ],
+        "gameId": "5ac346e886f7741d6118b99b"
     },
     {
-        "id": "5ac3477486f7741d651d6885",
+        "id": 102,
         "require": {
             "level": 15,
             "quests": [
-                "5ac346a886f7744e1b083d67"
+                99
             ]
         },
         "giver": "Mechanic",
@@ -3921,15 +4023,16 @@
                 "location": "Factory",
                 "id": 175
             }
-        ]
+        ],
+        "gameId": "5ac3477486f7741d651d6885"
     },
     {
-        "id": "5ac3479086f7742880308199",
+        "id": 103,
         "require": {
             "level": 12,
             "quests": [
-                "5ac3467986f7741d6224abc2",
-                "5ac2428686f77412450b42bf"
+                98,
+                84
             ]
         },
         "giver": "Mechanic",
@@ -3952,14 +4055,15 @@
                 "location": "Any",
                 "id": 176
             }
-        ]
+        ],
+        "gameId": "5ac3479086f7742880308199"
     },
     {
-        "id": "5ac345dc86f774288030817f",
+        "id": 104,
         "require": {
             "level": 12,
             "quests": [
-                "5ac23c6186f7741247042bad"
+                82
             ]
         },
         "giver": "Mechanic",
@@ -3991,14 +4095,15 @@
                 "location": "Factory",
                 "id": 178
             }
-        ]
+        ],
+        "gameId": "5ac345dc86f774288030817f"
     },
     {
-        "id": "5ac3460c86f7742880308185",
+        "id": 105,
         "require": {
             "level": 12,
             "quests": [
-                "5ac345dc86f774288030817f"
+                104
             ]
         },
         "giver": "Mechanic",
@@ -4035,14 +4140,15 @@
                 "location": "Any",
                 "id": 181
             }
-        ]
+        ],
+        "gameId": "5ac3460c86f7742880308185"
     },
     {
-        "id": "5ac3462b86f7741d6118b983",
+        "id": 106,
         "require": {
             "level": 14,
             "quests": [
-                "5ac3460c86f7742880308185"
+                105
             ]
         },
         "giver": "Mechanic",
@@ -4072,14 +4178,15 @@
                 "location": "Customs",
                 "id": 183
             }
-        ]
+        ],
+        "gameId": "5ac3462b86f7741d6118b983"
     },
     {
-        "id": "5ac3464c86f7741d651d6877",
+        "id": 107,
         "require": {
             "level": 14,
             "quests": [
-                "5ac3462b86f7741d6118b983"
+                106
             ]
         },
         "giver": "Mechanic",
@@ -4109,14 +4216,15 @@
                 "location": "Any",
                 "id": 185
             }
-        ]
+        ],
+        "gameId": "5ac3464c86f7741d651d6877"
     },
     {
-        "id": "5c139eb686f7747878361a6f",
+        "id": 108,
         "require": {
             "level": 35,
             "quests": [
-                "5ac3464c86f7741d651d6877"
+                107
             ]
         },
         "giver": "Mechanic",
@@ -4147,14 +4255,15 @@
                 "location": "Any",
                 "id": 187
             }
-        ]
+        ],
+        "gameId": "5c139eb686f7747878361a6f"
     },
     {
-        "id": "5c1128e386f7746565181106",
+        "id": 109,
         "require": {
             "level": 30,
             "quests": [
-                "5ac3464c86f7741d651d6877"
+                107
             ]
         },
         "giver": "Mechanic",
@@ -4184,14 +4293,15 @@
                 "location": "Any",
                 "id": 189
             }
-        ]
+        ],
+        "gameId": "5c1128e386f7746565181106"
     },
     {
-        "id": "5c0bde0986f77479cf22c2f8",
+        "id": 110,
         "require": {
             "level": 14,
             "quests": [
-                "5ac3462b86f7741d6118b983"
+                106
             ]
         },
         "giver": "Mechanic",
@@ -4249,10 +4359,11 @@
                 ],
                 "id": 193
             }
-        ]
+        ],
+        "gameId": "5c0bde0986f77479cf22c2f8"
     },
     {
-        "id": "5ae448a386f7744d3730fff0",
+        "id": 111,
         "require": {
             "level": 15,
             "quests": []
@@ -4277,14 +4388,15 @@
                 "location": "Any",
                 "id": 194
             }
-        ]
+        ],
+        "gameId": "5ae448a386f7744d3730fff0"
     },
     {
-        "id": "5ae448e586f7744dcf0c2a67",
+        "id": 112,
         "require": {
             "level": 15,
             "quests": [
-                "5ae448a386f7744d3730fff0"
+                111
             ]
         },
         "giver": "Ragman",
@@ -4335,14 +4447,15 @@
                 "location": "Interchange",
                 "id": 199
             }
-        ]
+        ],
+        "gameId": "5ae448e586f7744dcf0c2a67"
     },
     {
-        "id": "5ae448f286f77448d73c0131",
+        "id": 113,
         "require": {
             "level": 15,
             "quests": [
-                "5ae448e586f7744dcf0c2a67"
+                112
             ]
         },
         "giver": "Ragman",
@@ -4385,14 +4498,15 @@
                 "location": "Interchange",
                 "id": 202
             }
-        ]
+        ],
+        "gameId": "5ae448f286f77448d73c0131"
     },
     {
-        "id": "5ae4490786f7744ca822adcc",
+        "id": 114,
         "require": {
             "level": 15,
             "quests": [
-                "5ae448f286f77448d73c0131"
+                113
             ]
         },
         "giver": "Ragman",
@@ -4422,14 +4536,15 @@
                 "location": "Any",
                 "id": 204
             }
-        ]
+        ],
+        "gameId": "5ae4490786f7744ca822adcc"
     },
     {
-        "id": "5ae4493486f7744efa289417",
+        "id": 115,
         "require": {
             "level": 15,
             "quests": [
-                "5ae448e586f7744dcf0c2a67"
+                112
             ]
         },
         "giver": "Ragman",
@@ -4466,14 +4581,15 @@
                 "location": "Interchange",
                 "id": 207
             }
-        ]
+        ],
+        "gameId": "5ae4493486f7744efa289417"
     },
     {
-        "id": "5ae4493d86f7744b8e15aa8f",
+        "id": 116,
         "require": {
             "level": 15,
             "quests": [
-                "5ae4493486f7744efa289417"
+                115
             ]
         },
         "giver": "Ragman",
@@ -4503,15 +4619,16 @@
                 "location": "Interchange",
                 "id": 209
             }
-        ]
+        ],
+        "gameId": "5ae4493d86f7744b8e15aa8f"
     },
     {
-        "id": "5ae449b386f77446d8741719",
+        "id": 117,
         "require": {
             "level": 25,
             "quests": [
-                "5ae4493d86f7744b8e15aa8f",
-                "5ae4490786f7744ca822adcc"
+                116,
+                114
             ]
         },
         "giver": "Ragman",
@@ -4555,14 +4672,15 @@
                 "location": "Woods",
                 "id": 213
             }
-        ]
+        ],
+        "gameId": "5ae449b386f77446d8741719"
     },
     {
-        "id": "5ae449c386f7744bde357697",
+        "id": 118,
         "require": {
             "level": 30,
             "quests": [
-                "5ae449b386f77446d8741719"
+                117
             ]
         },
         "giver": "Ragman",
@@ -4585,14 +4703,15 @@
                 "location": "Interchange",
                 "id": 373
             }
-        ]
+        ],
+        "gameId": "5ae449c386f7744bde357697"
     },
     {
-        "id": "5ae449d986f774453a54a7e1",
+        "id": 119,
         "require": {
             "level": 40,
             "quests": [
-                "5ae449c386f7744bde357697"
+                118
             ]
         },
         "giver": "Ragman",
@@ -4617,14 +4736,15 @@
                 "location": "Any",
                 "id": 214
             }
-        ]
+        ],
+        "gameId": "5ae449d986f774453a54a7e1"
     },
     {
-        "id": "5b478b1886f7744d1b23c57d",
+        "id": 120,
         "require": {
             "level": 29,
             "quests": [
-                "5ae449b386f77446d8741719"
+                117
             ]
         },
         "giver": "Ragman",
@@ -4664,14 +4784,15 @@
                 "location": "Interchange",
                 "id": 217
             }
-        ]
+        ],
+        "gameId": "5b478b1886f7744d1b23c57d"
     },
     {
-        "id": "5c112d7e86f7740d6f647486",
+        "id": 121,
         "require": {
             "level": 29,
             "quests": [
-                "5b478b1886f7744d1b23c57d"
+                120
             ]
         },
         "giver": "Ragman",
@@ -4694,14 +4815,15 @@
                 "location": "Any",
                 "id": 218
             }
-        ]
+        ],
+        "gameId": "5c112d7e86f7740d6f647486"
     },
     {
-        "id": "5ae448bf86f7744d733e55ee",
+        "id": 122,
         "require": {
             "level": 15,
             "quests": [
-                "5ae448a386f7744d3730fff0"
+                111
             ]
         },
         "giver": "Ragman",
@@ -4724,14 +4846,15 @@
                 "location": "Interchange",
                 "id": 219
             }
-        ]
+        ],
+        "gameId": "5ae448bf86f7744d733e55ee"
     },
     {
-        "id": "5b478d0f86f7744d190d91b5",
+        "id": 123,
         "require": {
             "level": 24,
             "quests": [
-                "5ae4493d86f7744b8e15aa8f"
+                116
             ]
         },
         "giver": "Ragman",
@@ -4774,14 +4897,15 @@
                 "location": "Interchange",
                 "id": 222
             }
-        ]
+        ],
+        "gameId": "5b478d0f86f7744d190d91b5"
     },
     {
-        "id": "5ae4495086f77443c122bc40",
+        "id": 124,
         "require": {
             "level": 25,
             "quests": [
-                "5ae4493d86f7744b8e15aa8f"
+                116
             ]
         },
         "giver": "Ragman",
@@ -4811,14 +4935,15 @@
                 "location": "Any",
                 "id": 224
             }
-        ]
+        ],
+        "gameId": "5ae4495086f77443c122bc40"
     },
     {
-        "id": "5ae4495c86f7744e87761355",
+        "id": 125,
         "require": {
             "level": 25,
             "quests": [
-                "5ae4495086f77443c122bc40"
+                124
             ]
         },
         "giver": "Ragman",
@@ -4850,14 +4975,15 @@
                 "location": "Any",
                 "id": 226
             }
-        ]
+        ],
+        "gameId": "5ae4495c86f7744e87761355"
     },
     {
-        "id": "5ae4496986f774459e77beb6",
+        "id": 126,
         "require": {
             "level": 25,
             "quests": [
-                "5ae4495c86f7744e87761355"
+                125
             ]
         },
         "giver": "Ragman",
@@ -4889,14 +5015,15 @@
                 "location": "Any",
                 "id": 228
             }
-        ]
+        ],
+        "gameId": "5ae4496986f774459e77beb6"
     },
     {
-        "id": "5ae4497b86f7744cf402ed00",
+        "id": 127,
         "require": {
             "level": 25,
             "quests": [
-                "5ae4496986f774459e77beb6"
+                126
             ]
         },
         "giver": "Ragman",
@@ -4926,14 +5053,15 @@
                 "location": "Any",
                 "id": 230
             }
-        ]
+        ],
+        "gameId": "5ae4497b86f7744cf402ed00"
     },
     {
-        "id": "5ae4499a86f77449783815db",
+        "id": 128,
         "require": {
             "level": 25,
             "quests": [
-                "5ae4497b86f7744cf402ed00"
+                127
             ]
         },
         "giver": "Ragman",
@@ -4957,14 +5085,15 @@
                 "location": "Any",
                 "id": 231
             }
-        ]
+        ],
+        "gameId": "5ae4499a86f77449783815db"
     },
     {
-        "id": "5ae449a586f7744bde357696",
+        "id": 129,
         "require": {
             "level": 25,
             "quests": [
-                "5ae4498786f7744bde357695"
+                176
             ]
         },
         "giver": "Ragman",
@@ -4987,14 +5116,15 @@
                 "location": "Any",
                 "id": 232
             }
-        ]
+        ],
+        "gameId": "5ae449a586f7744bde357696"
     },
     {
-        "id": "5b47876e86f7744d1c353205",
+        "id": 130,
         "require": {
             "level": 23,
             "quests": [
-                "5ae4495086f77443c122bc40"
+                124
             ]
         },
         "giver": "Ragman",
@@ -5017,14 +5147,15 @@
                 "location": "Any",
                 "id": 233
             }
-        ]
+        ],
+        "gameId": "5b47876e86f7744d1c353205"
     },
     {
-        "id": "5c10f94386f774227172c572",
+        "id": 131,
         "require": {
             "level": 30,
             "quests": [
-                "5b47876e86f7744d1c353205"
+                130
             ]
         },
         "giver": "Ragman",
@@ -5067,14 +5198,15 @@
                 "location": "Woods",
                 "id": 236
             }
-        ]
+        ],
+        "gameId": "5c10f94386f774227172c572"
     },
     {
-        "id": "5b47891f86f7744d1b23c571",
+        "id": 132,
         "require": {
             "level": 27,
             "quests": [
-                "5ae4496986f774459e77beb6"
+                126
             ]
         },
         "giver": "Ragman",
@@ -5119,14 +5251,15 @@
                 "location": "Any",
                 "id": 240
             }
-        ]
+        ],
+        "gameId": "5b47891f86f7744d1b23c571"
     },
     {
-        "id": "5c1141f386f77430ff393792",
+        "id": 133,
         "require": {
             "level": 27,
             "quests": [
-                "5c10f94386f774227172c572"
+                131
             ]
         },
         "giver": "Ragman",
@@ -5156,10 +5289,11 @@
                 "location": "Any",
                 "id": 242
             }
-        ]
+        ],
+        "gameId": "5c1141f386f77430ff393792"
     },
     {
-        "id": "5d2495a886f77425cd51e403",
+        "id": 134,
         "require": {
             "level": 2,
             "quests": []
@@ -5184,14 +5318,15 @@
                 "location": "Woods",
                 "id": 243
             }
-        ]
+        ],
+        "gameId": "5d2495a886f77425cd51e403"
     },
     {
-        "id": "5d24b81486f77439c92d6ba8",
+        "id": 135,
         "require": {
             "level": 2,
             "quests": [
-                "5d2495a886f77425cd51e403"
+                134
             ]
         },
         "giver": "Jaeger",
@@ -5228,14 +5363,15 @@
                 "location": "Any",
                 "id": 246
             }
-        ]
+        ],
+        "gameId": "5d24b81486f77439c92d6ba8"
     },
     {
-        "id": "5d25aed386f77442734d25d2",
+        "id": 136,
         "require": {
             "level": 10,
             "quests": [
-                "5d24b81486f77439c92d6ba8"
+                135
             ]
         },
         "giver": "Jaeger",
@@ -5261,14 +5397,15 @@
                 ],
                 "id": 247
             }
-        ]
+        ],
+        "gameId": "5d25aed386f77442734d25d2"
     },
     {
-        "id": "5d25b6be86f77444001e1b89",
+        "id": 137,
         "require": {
             "level": 10,
             "quests": [
-                "5d24b81486f77439c92d6ba8"
+                135
             ]
         },
         "giver": "Jaeger",
@@ -5316,14 +5453,15 @@
                 "location": "Woods",
                 "id": 251
             }
-        ]
+        ],
+        "gameId": "5d25b6be86f77444001e1b89"
     },
     {
-        "id": "5d25bfd086f77442734d3007",
+        "id": 138,
         "require": {
             "level": 10,
             "quests": [
-                "5d25b6be86f77444001e1b89"
+                137
             ]
         },
         "giver": "Jaeger",
@@ -5346,14 +5484,15 @@
                 "location": "Any",
                 "id": 352
             }
-        ]
+        ],
+        "gameId": "5d25bfd086f77442734d3007"
     },
     {
-        "id": "5d25c81b86f77443e625dd71",
+        "id": 139,
         "require": {
             "level": 10,
             "quests": [
-                "5d25bfd086f77442734d3007"
+                138
             ]
         },
         "giver": "Jaeger",
@@ -5374,14 +5513,15 @@
                 ],
                 "id": 252
             }
-        ]
+        ],
+        "gameId": "5d25c81b86f77443e625dd71"
     },
     {
-        "id": "5d25cf2686f77443e75488d4",
+        "id": 140,
         "require": {
             "level": 10,
             "quests": [
-                "5d25c81b86f77443e625dd71"
+                139
             ]
         },
         "giver": "Jaeger",
@@ -5403,14 +5543,15 @@
                 ],
                 "id": 253
             }
-        ]
+        ],
+        "gameId": "5d25cf2686f77443e75488d4"
     },
     {
-        "id": "5d25e48186f77443e625e386",
+        "id": 141,
         "require": {
             "level": 20,
             "quests": [
-                "5d25cf2686f77443e75488d4"
+                140
             ]
         },
         "giver": "Jaeger",
@@ -5447,14 +5588,15 @@
                 "location": "Shoreline",
                 "id": 256
             }
-        ]
+        ],
+        "gameId": "5d25e48186f77443e625e386"
     },
     {
-        "id": "5d25e4ad86f77443e625e387",
+        "id": 142,
         "require": {
             "level": 28,
             "quests": [
-                "5d25e48186f77443e625e386"
+                141
             ]
         },
         "giver": "Jaeger",
@@ -5477,14 +5619,15 @@
                 "location": "Shoreline",
                 "id": 257
             }
-        ]
+        ],
+        "gameId": "5d25e4ad86f77443e625e387"
     },
     {
-        "id": "5bc4776586f774512d07cf05",
+        "id": 143,
         "require": {
             "level": 17,
             "quests": [
-                "5ac242ab86f77412464f68b4"
+                86
             ]
         },
         "giver": "Jaeger",
@@ -5511,14 +5654,15 @@
                 ],
                 "id": 258
             }
-        ]
+        ],
+        "gameId": "5bc4776586f774512d07cf05"
     },
     {
-        "id": "5bc479e586f7747f376c7da3",
+        "id": 144,
         "require": {
             "level": 17,
             "quests": [
-                "5bc4776586f774512d07cf05"
+                143
             ]
         },
         "giver": "Jaeger",
@@ -5560,14 +5704,15 @@
                 ],
                 "id": 260
             }
-        ]
+        ],
+        "gameId": "5bc479e586f7747f376c7da3"
     },
     {
-        "id": "5bc47dbf86f7741ee74e93b9",
+        "id": 145,
         "require": {
             "level": 17,
             "quests": [
-                "5bc479e586f7747f376c7da3"
+                144
             ]
         },
         "giver": "Jaeger",
@@ -5597,14 +5742,15 @@
                 ],
                 "id": 261
             }
-        ]
+        ],
+        "gameId": "5bc47dbf86f7741ee74e93b9"
     },
     {
-        "id": "5bc480a686f7741af0342e29",
+        "id": 146,
         "require": {
             "level": 17,
             "quests": [
-                "5bc47dbf86f7741ee74e93b9"
+                145
             ]
         },
         "giver": "Jaeger",
@@ -5630,14 +5776,15 @@
                 "location": "Any",
                 "id": 262
             }
-        ]
+        ],
+        "gameId": "5bc480a686f7741af0342e29"
     },
     {
-        "id": "5bc4826c86f774106d22d88b",
+        "id": 147,
         "require": {
             "level": 17,
             "quests": [
-                "5bc480a686f7741af0342e29"
+                146
             ]
         },
         "giver": "Jaeger",
@@ -5666,14 +5813,15 @@
                 ],
                 "id": 263
             }
-        ]
+        ],
+        "gameId": "5bc4826c86f774106d22d88b"
     },
     {
-        "id": "5bc4836986f7740c0152911c",
+        "id": 148,
         "require": {
             "level": 17,
             "quests": [
-                "5bc4826c86f774106d22d88b"
+                147
             ]
         },
         "giver": "Jaeger",
@@ -5702,14 +5850,15 @@
                 ],
                 "id": 264
             }
-        ]
+        ],
+        "gameId": "5bc4836986f7740c0152911c"
     },
     {
-        "id": "5bc4856986f77454c317bea7",
+        "id": 149,
         "require": {
             "level": 17,
             "quests": [
-                "5bc4836986f7740c0152911c"
+                148
             ]
         },
         "giver": "Jaeger",
@@ -5738,14 +5887,15 @@
                 ],
                 "id": 265
             }
-        ]
+        ],
+        "gameId": "5bc4856986f77454c317bea7"
     },
     {
-        "id": "5bc4893c86f774626f5ebf3e",
+        "id": 150,
         "require": {
             "level": 17,
             "quests": [
-                "5bc4856986f77454c317bea7"
+                149
             ]
         },
         "giver": "Jaeger",
@@ -5775,14 +5925,15 @@
                 ],
                 "id": 266
             }
-        ]
+        ],
+        "gameId": "5bc4893c86f774626f5ebf3e"
     },
     {
-        "id": "5d25d2c186f77443e35162e5",
+        "id": 151,
         "require": {
             "level": 17,
             "quests": [
-                "5d25c81b86f77443e625dd71"
+                139
             ]
         },
         "giver": "Jaeger",
@@ -5809,14 +5960,15 @@
                 ],
                 "id": 267
             }
-        ]
+        ],
+        "gameId": "5d25d2c186f77443e35162e5"
     },
     {
-        "id": "5edaba7c0c502106f869bc02",
+        "id": 152,
         "require": {
             "level": 21,
             "quests": [
-                "5edab736cc183c769d778bc2"
+                185
             ]
         },
         "giver": "Therapist",
@@ -5854,16 +6006,17 @@
                 "location": "Shoreline",
                 "id": 319
             }
-        ]
+        ],
+        "gameId": "5edaba7c0c502106f869bc02"
     },
     {
-        "id": "5edac34d0bb72a50635c2bfa",
+        "id": 153,
         "require": {
             "level": 21,
             "quests": [
-                "5edaba7c0c502106f869bc02",
-                "5edabd13218d181e29451442",
-                "5f04886a3937dc337a6b8238"
+                152,
+                186,
+                187
             ]
         },
         "giver": "Therapist",
@@ -5918,14 +6071,15 @@
         ],
         "alternatives": [
             190
-        ]
+        ],
+        "gameId": "5edac34d0bb72a50635c2bfa"
     },
     {
-        "id": "5d25e2a986f77409dd5cdf2a",
+        "id": 154,
         "require": {
             "level": 17,
             "quests": [
-                "5d25d2c186f77443e35162e5"
+                151
             ]
         },
         "giver": "Jaeger",
@@ -5948,14 +6102,15 @@
                 "location": "Any",
                 "id": 270
             }
-        ]
+        ],
+        "gameId": "5d25e2a986f77409dd5cdf2a"
     },
     {
-        "id": "5d25e46e86f77409453bce7c",
+        "id": 155,
         "require": {
             "level": 25,
             "quests": [
-                "5d25d2c186f77443e35162e5"
+                151
             ]
         },
         "giver": "Jaeger",
@@ -5987,14 +6142,15 @@
                 "location": "Any",
                 "id": 272
             }
-        ]
+        ],
+        "gameId": "5d25e46e86f77409453bce7c"
     },
     {
-        "id": "5d25e2b486f77409de05bba0",
+        "id": 156,
         "require": {
             "level": 17,
             "quests": [
-                "5d25c81b86f77443e625dd71"
+                139
             ]
         },
         "giver": "Jaeger",
@@ -6020,14 +6176,15 @@
                 ],
                 "id": 273
             }
-        ]
+        ],
+        "gameId": "5d25e2b486f77409de05bba0"
     },
     {
-        "id": "5d25e4d586f77443e625e388",
+        "id": 157,
         "require": {
             "level": 17,
             "quests": [
-                "5d25e2b486f77409de05bba0"
+                156
             ]
         },
         "giver": "Jaeger",
@@ -6050,14 +6207,15 @@
                 "location": "Reserve",
                 "id": 274
             }
-        ]
+        ],
+        "gameId": "5d25e4d586f77443e625e388"
     },
     {
-        "id": "5d25e2cc86f77443e47ae019",
+        "id": 158,
         "require": {
             "level": 17,
             "quests": [
-                "5d25e2b486f77409de05bba0"
+                156
             ]
         },
         "giver": "Jaeger",
@@ -6080,14 +6238,15 @@
                 "location": "Any",
                 "id": 275
             }
-        ]
+        ],
+        "gameId": "5d25e2cc86f77443e47ae019"
     },
     {
-        "id": "5d25e2d886f77442734d335e",
+        "id": 159,
         "require": {
             "level": 17,
             "quests": [
-                "5d25e2cc86f77443e47ae019"
+                158
             ]
         },
         "giver": "Jaeger",
@@ -6114,14 +6273,15 @@
                 ],
                 "id": 276
             }
-        ]
+        ],
+        "gameId": "5d25e2d886f77442734d335e"
     },
     {
-        "id": "5d25e44386f77409453bce7b",
+        "id": 160,
         "require": {
             "level": 17,
             "quests": [
-                "5d25e2cc86f77443e47ae019"
+                158
             ]
         },
         "giver": "Jaeger",
@@ -6148,14 +6308,15 @@
                 ],
                 "id": 277
             }
-        ]
+        ],
+        "gameId": "5d25e44386f77409453bce7b"
     },
     {
-        "id": "5d25e4b786f77408251c4bfc",
+        "id": 161,
         "require": {
             "level": 17,
             "quests": [
-                "5d25e2cc86f77443e47ae019"
+                158
             ]
         },
         "giver": "Jaeger",
@@ -6178,14 +6339,15 @@
                 "location": "Any",
                 "id": 278
             }
-        ]
+        ],
+        "gameId": "5d25e4b786f77408251c4bfc"
     },
     {
-        "id": "5d25e2c386f77443e7549029",
+        "id": 162,
         "require": {
             "level": 17,
             "quests": [
-                "5d25e2b486f77409de05bba0"
+                156
             ]
         },
         "giver": "Jaeger",
@@ -6215,14 +6377,15 @@
                 "location": "Customs",
                 "id": 280
             }
-        ]
+        ],
+        "gameId": "5d25e2c386f77443e7549029"
     },
     {
-        "id": "5d25e43786f7740a212217fa",
+        "id": 163,
         "require": {
             "level": 17,
             "quests": [
-                "5d25e2c386f77443e7549029"
+                162
             ]
         },
         "giver": "Jaeger",
@@ -6249,14 +6412,15 @@
                 ],
                 "id": 281
             }
-        ]
+        ],
+        "gameId": "5d25e43786f7740a212217fa"
     },
     {
-        "id": "5d25e2e286f77444001e2e48",
+        "id": 164,
         "require": {
             "level": 17,
             "quests": [
-                "5d25e2c386f77443e7549029"
+                162
             ]
         },
         "giver": "Jaeger",
@@ -6286,14 +6450,15 @@
                 "location": "Interchange",
                 "id": 283
             }
-        ]
+        ],
+        "gameId": "5d25e2e286f77444001e2e48"
     },
     {
-        "id": "5d25e2ee86f77443e35162ea",
+        "id": 165,
         "require": {
             "level": 17,
             "quests": [
-                "5d25e2e286f77444001e2e48"
+                164
             ]
         },
         "giver": "Jaeger",
@@ -6323,14 +6488,15 @@
                 "location": "Woods",
                 "id": 285
             }
-        ]
+        ],
+        "gameId": "5d25e2ee86f77443e35162ea"
     },
     {
-        "id": "5d25e44f86f77443e625e385",
+        "id": 166,
         "require": {
             "level": 17,
             "quests": [
-                "5d25e2ee86f77443e35162ea"
+                165
             ]
         },
         "giver": "Jaeger",
@@ -6353,14 +6519,15 @@
                 "location": "Reserve",
                 "id": 286
             }
-        ]
+        ],
+        "gameId": "5d25e44f86f77443e625e385"
     },
     {
-        "id": "5d25e45e86f77408251c4bfa",
+        "id": 167,
         "require": {
             "level": 17,
             "quests": [
-                "5d25e44f86f77443e625e385"
+                166
             ]
         },
         "giver": "Jaeger",
@@ -6386,14 +6553,15 @@
                 ],
                 "id": 287
             }
-        ]
+        ],
+        "gameId": "5d25e45e86f77408251c4bfa"
     },
     {
-        "id": "5d25e4ca86f77409dd5cdf2c",
+        "id": 168,
         "require": {
             "level": 17,
             "quests": [
-                "5d25e2ee86f77443e35162ea"
+                165
             ]
         },
         "giver": "Jaeger",
@@ -6426,14 +6594,15 @@
                 ],
                 "id": 269
             }
-        ]
+        ],
+        "gameId": "5d25e4ca86f77409dd5cdf2c"
     },
     {
-        "id": "59689fbd86f7740d137ebfc4",
+        "id": 169,
         "require": {
             "level": 6,
             "quests": [
-                "5967733e86f774602332fc84"
+                19
             ]
         },
         "giver": "Therapist",
@@ -6467,14 +6636,15 @@
                 "location": "Customs",
                 "id": 290
             }
-        ]
+        ],
+        "gameId": "59689fbd86f7740d137ebfc4"
     },
     {
-        "id": "5968eb3186f7741dde183a4d",
+        "id": 170,
         "require": {
             "level": 6,
             "quests": [
-                "59689fbd86f7740d137ebfc4"
+                169
             ]
         },
         "giver": "Therapist",
@@ -6503,14 +6673,15 @@
                 "location": "Customs",
                 "id": 291
             }
-        ]
+        ],
+        "gameId": "5968eb3186f7741dde183a4d"
     },
     {
-        "id": "5979f8bb86f7743ec214c7a6",
+        "id": 171,
         "require": {
             "level": 10,
             "quests": [
-                "5979eee086f774311955e614"
+                39
             ]
         },
         "giver": "Prapor",
@@ -6533,14 +6704,15 @@
                 "location": "Customs",
                 "id": 292
             }
-        ]
+        ],
+        "gameId": "5979f8bb86f7743ec214c7a6"
     },
     {
-        "id": "5d4bec3486f7743cac246665",
+        "id": 172,
         "require": {
             "level": 25,
             "quests": [
-                "5979f8bb86f7743ec214c7a6"
+                171
             ]
         },
         "giver": "Prapor",
@@ -6571,14 +6743,15 @@
                 "location": "Any",
                 "id": 294
             }
-        ]
+        ],
+        "gameId": "5d4bec3486f7743cac246665"
     },
     {
-        "id": "596b455186f77457cb50eccb",
+        "id": 173,
         "require": {
             "level": 8,
             "quests": [
-                "596b43fb86f77457ca186186"
+                37
             ]
         },
         "giver": "Skier",
@@ -6614,14 +6787,15 @@
                 ],
                 "id": 295
             }
-        ]
+        ],
+        "gameId": "596b455186f77457cb50eccb"
     },
     {
-        "id": "5d6fbc2886f77449d825f9d3",
+        "id": 174,
         "require": {
             "level": 14,
             "quests": [
-                "5a27bc3686f7741c73584026"
+                77
             ]
         },
         "giver": "Peacekeeper",
@@ -6640,14 +6814,15 @@
                 "location": "Any",
                 "id": 296
             }
-        ]
+        ],
+        "gameId": "5d6fbc2886f77449d825f9d3"
     },
     {
-        "id": "5ac3475486f7741d6224abd3",
+        "id": 175,
         "require": {
             "level": 12,
             "quests": [
-                "5ac3460c86f7742880308185"
+                105
             ]
         },
         "giver": "Mechanic",
@@ -6684,14 +6859,15 @@
                 "location": "Any",
                 "id": 299
             }
-        ]
+        ],
+        "gameId": "5ac3475486f7741d6224abd3"
     },
     {
-        "id": "5ae4498786f7744bde357695",
+        "id": 176,
         "require": {
             "level": 26,
             "quests": [
-                "5ae4495c86f7744e87761355"
+                125
             ]
         },
         "giver": "Ragman",
@@ -6723,14 +6899,15 @@
                 "location": "Interchange",
                 "id": 301
             }
-        ]
+        ],
+        "gameId": "5ae4498786f7744bde357695"
     },
     {
-        "id": "5d25e48d86f77408251c4bfb",
+        "id": 177,
         "require": {
             "level": 20,
             "quests": [
-                "5979ed3886f77431307dc512"
+                38
             ]
         },
         "giver": "Jaeger",
@@ -6753,14 +6930,15 @@
                 "location": "Any",
                 "id": 302
             }
-        ]
+        ],
+        "gameId": "5d25e48d86f77408251c4bfb"
     },
     {
-        "id": "596760e186f7741e11214d58",
+        "id": 178,
         "require": {
             "level": 10,
             "quests": [
-                "59675d6c86f7740a842fc482"
+                6
             ]
         },
         "giver": "Therapist",
@@ -6783,14 +6961,15 @@
                 "location": "Factory",
                 "id": 13
             }
-        ]
+        ],
+        "gameId": "596760e186f7741e11214d58"
     },
     {
-        "id": "597a160786f77477531d39d2",
+        "id": 179,
         "require": {
             "level": 11,
             "quests": [
-                "597a0e5786f77426d66c0636"
+                42
             ]
         },
         "giver": "Therapist",
@@ -6826,14 +7005,15 @@
         "alternatives": [
             43,
             180
-        ]
+        ],
+        "gameId": "597a160786f77477531d39d2"
     },
     {
-        "id": "597a171586f77405ba6887d3",
+        "id": 180,
         "require": {
             "level": 11,
             "quests": [
-                "597a0e5786f77426d66c0636"
+                42
             ]
         },
         "giver": "Prapor",
@@ -6873,13 +7053,14 @@
         "alternatives": [
             43,
             179
-        ]
+        ],
+        "gameId": "597a171586f77405ba6887d3"
     },
     {
-        "id": "5eaaaa7c93afa0558f3b5a1c",
+        "id": 181,
         "require": {
             "quests": [
-                "5d25d2c186f77443e35162e5"
+                151
             ]
         },
         "giver": "Jaeger",
@@ -6905,14 +7086,15 @@
                 ],
                 "id": 305
             }
-        ]
+        ],
+        "gameId": "5eaaaa7c93afa0558f3b5a1c"
     },
     {
-        "id": "5e381b0286f77420e3417a74",
+        "id": 182,
         "require": {
             "level": 40,
             "quests": [
-                "5ae4497b86f7744cf402ed00"
+                127
             ]
         },
         "giver": "Ragman",
@@ -6945,14 +7127,15 @@
                 "location": "Any",
                 "id": 308
             }
-        ]
+        ],
+        "gameId": "5e381b0286f77420e3417a74"
     },
     {
-        "id": "5e4d4ac186f774264f758336",
+        "id": 183,
         "require": {
             "level": 40,
             "quests": [
-                "5e381b0286f77420e3417a74"
+                182
             ]
         },
         "giver": "Ragman",
@@ -6985,14 +7168,15 @@
                 "location": "Any",
                 "id": 311
             }
-        ]
+        ],
+        "gameId": "5e4d4ac186f774264f758336"
     },
     {
-        "id": "5eda19f0edce541157209cee",
+        "id": 184,
         "require": {
             "level": 21,
             "quests": [
-                "5967725e86f774601a446662"
+                8
             ]
         },
         "giver": "Prapor",
@@ -7036,14 +7220,15 @@
                 "location": "Shoreline",
                 "id": 314
             }
-        ]
+        ],
+        "gameId": "5eda19f0edce541157209cee"
     },
     {
-        "id": "5edab736cc183c769d778bc2",
+        "id": 185,
         "require": {
             "level": 21,
             "quests": [
-                "596a1e6c86f7741ddc2d3206"
+                26
             ]
         },
         "giver": "Therapist",
@@ -7081,14 +7266,15 @@
                 "location": "Shoreline",
                 "id": 317
             }
-        ]
+        ],
+        "gameId": "5edab736cc183c769d778bc2"
     },
     {
-        "id": "5edabd13218d181e29451442",
+        "id": 186,
         "require": {
             "level": 21,
             "quests": [
-                "5eda19f0edce541157209cee"
+                184
             ]
         },
         "giver": "Skier",
@@ -7129,15 +7315,16 @@
                 "location": "Shoreline",
                 "id": 328
             }
-        ]
+        ],
+        "gameId": "5edabd13218d181e29451442"
     },
     {
-        "id": "5f04886a3937dc337a6b8238",
+        "id": 187,
         "require": {
             "level": 21,
             "quests": [
-                "5eda19f0edce541157209cee",
-                "5edab736cc183c769d778bc2"
+                184,
+                185
             ]
         },
         "giver": "Mechanic",
@@ -7168,14 +7355,15 @@
                 "location": "Shoreline",
                 "id": 330
             }
-        ]
+        ],
+        "gameId": "5f04886a3937dc337a6b8238"
     },
     {
-        "id": "5edac020218d181e29451446",
+        "id": 188,
         "require": {
             "level": 21,
             "quests": [
-                "5eda19f0edce541157209cee"
+                184
             ]
         },
         "giver": "Peacekeeper",
@@ -7241,15 +7429,16 @@
                 "location": "Any",
                 "id": 337
             }
-        ]
+        ],
+        "gameId": "5edac020218d181e29451446"
     },
     {
-        "id": "5edac63b930f5454f51e128b",
+        "id": 189,
         "require": {
             "level": 21,
             "quests": [
-                "5edac020218d181e29451446",
-                "5edab4b1218d181e29451435"
+                188,
+                190
             ]
         },
         "giver": "Peacekeeper",
@@ -7287,16 +7476,17 @@
                 "location": "Labs",
                 "id": 340
             }
-        ]
+        ],
+        "gameId": "5edac63b930f5454f51e128b"
     },
     {
-        "id": "5edab4b1218d181e29451435",
+        "id": 190,
         "require": {
             "level": 21,
             "quests": [
-                "5edaba7c0c502106f869bc02",
-                "5edabd13218d181e29451442",
-                "5f04886a3937dc337a6b8238"
+                152,
+                186,
+                187
             ]
         },
         "giver": "Jaeger",
@@ -7327,14 +7517,15 @@
         ],
         "alternatives": [
             153
-        ]
+        ],
+        "gameId": "5edab4b1218d181e29451435"
     },
     {
-        "id": "5ede55112c95834b583f052a",
+        "id": 191,
         "require": {
             "level": 10,
             "quests": [
-                "59c124d686f774189b3c843f"
+                4
             ]
         },
         "giver": "Prapor",
@@ -7365,14 +7556,15 @@
                 "location": "Reserve",
                 "id": 343
             }
-        ]
+        ],
+        "gameId": "5ede55112c95834b583f052a"
     },
     {
-        "id": "5ede567cfa6dc072ce15d6e3",
+        "id": 192,
         "require": {
             "level": 10,
             "quests": [
-                "5ede55112c95834b583f052a"
+                191
             ]
         },
         "giver": "Prapor",
@@ -7424,14 +7616,15 @@
                 "location": "Reserve",
                 "id": 348
             }
-        ]
+        ],
+        "gameId": "5ede567cfa6dc072ce15d6e3"
     },
     {
-        "id": "5fd9fad9c1ce6b1a3b486d00",
+        "id": 193,
         "require": {
             "level": 5,
             "quests": [
-                "5936d90786f7742b1420ba5b"
+                0
             ]
         },
         "giver": "Prapor",
@@ -7461,14 +7654,15 @@
                 "location": "Woods",
                 "id": 350
             }
-        ]
+        ],
+        "gameId": "5fd9fad9c1ce6b1a3b486d00"
     },
     {
-        "id": "5dc53acb86f77469c740c893",
+        "id": 194,
         "require": {
             "level": 26,
             "quests": [
-                "5ae4498786f7744bde357695"
+                176
             ]
         },
         "giver": "Ragman",
@@ -7487,13 +7681,14 @@
                 "location": "Interchange",
                 "id": 351
             }
-        ]
+        ],
+        "gameId": "5dc53acb86f77469c740c893"
     },
     {
-        "id": "5d25e29d86f7740a22516326",
+        "id": 196,
         "require": {
             "quests": [
-                "5d25d2c186f77443e35162e5"
+                151
             ]
         },
         "giver": "Jaeger",
@@ -7520,67 +7715,68 @@
                 ],
                 "id": 288
             }
-        ]
+        ],
+        "gameId": "5d25e29d86f7740a22516326"
     },
     {
-        "id": "5c51aac186f77432ea65c552",
+        "id": 195,
         "require": {
             "level": 40,
             "quests": [
-                "59674cd986f7744ab26e32f2",
-                "5c12452c86f7744b83469073",
-                "5c0bd01e86f7747cdd799e56",
-                "5c0bd94186f7747a727f09b2",
-                "59ca2eb686f77445a80ed049",
-                "596a0e1686f7741ddf17dbee",
-                "596a101f86f7741ddb481582",
-                "596a1e6c86f7741ddc2d3206",
-                "596a218586f77420d232807c",
-                "5c0d1c4cd0928202a02a6f5c",
-                "5c0d0d5086f774363760aef2",
-                "597a0f5686f774273b74f676",
-                "5b478ff486f7744d184ecbbf",
-                "5c0d0f1886f77457b8210226",
-                "5c0bc91486f7746ab41857a2",
-                "5c0bdb5286f774166e38eed4",
-                "5c1234c286f77406fa13baeb",
-                "5a27ba1c86f77461ea5a3c56",
-                "5a27bb5986f7741dfb660900",
-                "5c0be13186f7746f016734aa",
-                "5c0d4e61d09282029f53920e",
-                "5b47825886f77468074618d3",
-                "5ac346e886f7741d6118b99b",
-                "5ac3477486f7741d651d6885",
-                "5ac3479086f7742880308199",
-                "5c1128e386f7746565181106",
-                "5c0bde0986f77479cf22c2f8",
-                "5ae449d986f774453a54a7e1",
-                "5c112d7e86f7740d6f647486",
-                "5ae448bf86f7744d733e55ee",
-                "5b478d0f86f7744d190d91b5",
-                "5ae4497b86f7744cf402ed00",
-                "5ae449a586f7744bde357696",
-                "5c1141f386f77430ff393792",
-                "5d25aed386f77442734d25d2",
-                "5d25e4ad86f77443e625e387",
-                "5bc4893c86f774626f5ebf3e",
-                "5d25e2a986f77409dd5cdf2a",
-                "5d25e46e86f77409453bce7c",
-                "5d25e4d586f77443e625e388",
-                "5d25e4b786f77408251c4bfc",
-                "5d25e45e86f77408251c4bfa",
-                "5968eb3186f7741dde183a4d",
-                "5979f8bb86f7743ec214c7a6",
-                "596b455186f77457cb50eccb",
-                "5ac3475486f7741d6224abd3",
-                "5d25e48d86f77408251c4bfb",
-                "596760e186f7741e11214d58",
-                "597a160786f77477531d39d2",
-                "597a171586f77405ba6887d3",
-                "5eaaaa7c93afa0558f3b5a1c",
-                "5fd9fad9c1ce6b1a3b486d00",
-                "5d25e29d86f7740a22516326",
-                "5d6fb2c086f77449da599c24"
+                2,
+                9,
+                11,
+                12,
+                18,
+                24,
+                25,
+                26,
+                27,
+                33,
+                35,
+                43,
+                45,
+                49,
+                53,
+                54,
+                56,
+                63,
+                73,
+                80,
+                81,
+                97,
+                101,
+                102,
+                103,
+                109,
+                110,
+                119,
+                121,
+                122,
+                123,
+                127,
+                129,
+                133,
+                136,
+                142,
+                150,
+                154,
+                155,
+                157,
+                161,
+                167,
+                170,
+                171,
+                173,
+                175,
+                177,
+                178,
+                179,
+                180,
+                181,
+                193,
+                196,
+                197
             ]
         },
         "giver": "Fence",
@@ -7717,13 +7913,14 @@
                 "location": "Any",
                 "id": 370
             }
-        ]
+        ],
+        "gameId": "5c51aac186f77432ea65c552"
     },
     {
-        "id": "5d6fb2c086f77449da599c24",
+        "id": 197,
         "require": {
             "quests": [
-                "5a68665c86f774255929b4c7"
+                30
             ]
         },
         "giver": "Therapist",
@@ -7741,14 +7938,15 @@
                 "location": "Any",
                 "id": 372
             }
-        ]
+        ],
+        "gameId": "5d6fb2c086f77449da599c24"
     },
     {
-        "id": "600302d73b897b11364cd161",
+        "id": 198,
         "require": {
             "level": 33,
             "quests": [
-                "5d24b81486f77439c92d6ba8"
+                135
             ],
             "loyalty": [
                 {
@@ -7775,14 +7973,18 @@
                 "location": "Woods",
                 "id": 374
             }
-        ]
+        ],
+        "gameId": "600302d73b897b11364cd161"
     },
     {
-        "id": "59ca1a6286f774509a270942",
+        "id": 199,
         "require": {
             "level": 11,
             "quests": [
-                null
+                [
+                    43,
+                    179
+                ]
             ]
         },
         "giver": "Prapor",
@@ -7806,14 +8008,18 @@
                 "location": "Any",
                 "id": 375
             }
-        ]
+        ],
+        "gameId": "59ca1a6286f774509a270942"
     },
     {
-        "id": "59c9392986f7742f6923add2",
+        "id": 200,
         "require": {
             "level": 11,
             "quests": [
-                null
+                [
+                    43,
+                    180
+                ]
             ]
         },
         "giver": "Therapist",
@@ -7858,14 +8064,18 @@
                 "location": "Any",
                 "id": 379
             }
-        ]
+        ],
+        "gameId": "59c9392986f7742f6923add2"
     },
     {
-        "id": "59c93e8e86f7742a406989c4",
+        "id": 201,
         "require": {
             "level": 11,
             "quests": [
-                null
+                [
+                    179,
+                    180
+                ]
             ]
         },
         "giver": "Skier",
@@ -7889,15 +8099,16 @@
                 "location": "Any",
                 "id": 380
             }
-        ]
+        ],
+        "gameId": "59c93e8e86f7742a406989c4"
     },
     {
-        "id": "5a5642ce86f77445c63c3419",
+        "id": 202,
         "require": {
             "level": 10,
             "quests": [
-                "596b455186f77457cb50eccb",
-                "596a218586f77420d232807c"
+                173,
+                27
             ]
         },
         "giver": "Therapist",
@@ -7928,6 +8139,7 @@
                 "location": "Any",
                 "id": 382
             }
-        ]
+        ],
+        "gameId": "5a5642ce86f77445c63c3419"
     }
 ]
