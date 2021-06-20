@@ -70,6 +70,38 @@ vorpal
 		callback();
 	});
 
+vorpal
+	.command('migrate-hideout-items', 'Attempt to move hideout items to UUIDs')
+	.action(function(args, callback) {
+		migrateHideoutItems(args)
+		callback();
+	});
+
+function migrateHideoutItems(args) {
+	var fs = require('fs')
+	var hideoutData = require('./hideout.json')
+	var itemData = require('./items.en.json')
+
+	var itemDictionary = Object.values(itemData).reduce((a, x) => ({ ...a, [x.name]: x }), {})
+
+	hideoutData.modules.forEach((hideoutModule) => {
+		hideoutModule.require.forEach((requirement) => {
+			if (requirement.type == 'item') {
+				if (itemDictionary[requirement.name]) {
+					//console.log(`Replacing ${requirement.name} with ${itemDictionary[requirement.name].id}`)
+					requirement.name = itemDictionary[requirement.name].id
+				}else {
+					console.log(`Couldn't find an item ID for ${requirement.name}`)
+				}
+			}
+		})
+	})
+
+	var hideoutString = JSON.stringify(hideoutData, null, 4)
+
+	fs.writeFileSync('hideout.json', hideoutString);
+}
+
 function migrateQuests(args) {
 	var newQuests = require('./quests.json')
 	var oldQuests = require('./oldquests.json')
