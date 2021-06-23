@@ -180,7 +180,7 @@
         "objectives": [
             {
                 "type": "mark",
-                "tool": "MS2000 marker",
+                "tool": "5991b51486f77447b112d44f",
                 "target": "Tanker 1",
                 "hint": "Gas station",
                 "number": 1,
@@ -189,7 +189,7 @@
             },
             {
                 "type": "mark",
-                "tool": "MS2000 marker",
+                "tool": "5991b51486f77447b112d44f",
                 "target": "Tanker 2",
                 "hint": "Old Gas Station",
                 "number": 1,
@@ -198,7 +198,7 @@
             },
             {
                 "type": "mark",
-                "tool": "MS2000 marker",
+                "tool": "5991b51486f77447b112d44f",
                 "target": "Tanker 3",
                 "hint": "Construction",
                 "number": 1,
@@ -207,7 +207,7 @@
             },
             {
                 "type": "mark",
-                "tool": "MS2000 marker",
+                "tool": "5991b51486f77447b112d44f",
                 "target": "Tanker 4",
                 "hint": "Garages",
                 "number": 1,
@@ -1161,7 +1161,7 @@
         "objectives": [
             {
                 "type": "mark",
-                "tool": "MS2000 marker",
+                "tool": "5991b51486f77447b112d44f",
                 "target": "Ambulance 1",
                 "hint": "Resort",
                 "number": 1,
@@ -1170,7 +1170,7 @@
             },
             {
                 "type": "mark",
-                "tool": "MS2000 marker",
+                "tool": "5991b51486f77447b112d44f",
                 "target": "Ambulance 2",
                 "hint": "Tunnel close",
                 "number": 1,
@@ -1179,7 +1179,7 @@
             },
             {
                 "type": "mark",
-                "tool": "MS2000 marker",
+                "tool": "5991b51486f77447b112d44f",
                 "target": "Ambulance 3",
                 "hint": "Tunnel far",
                 "number": 1,
@@ -1751,7 +1751,7 @@
         "objectives": [
             {
                 "type": "mark",
-                "tool": "MS2000 marker",
+                "tool": "5991b51486f77447b112d44f",
                 "target": "Transport van",
                 "number": 1,
                 "location": "Customs",
@@ -2156,7 +2156,7 @@
         "objectives": [
             {
                 "type": "mark",
-                "tool": "WIFI Camera",
+                "tool": "5b4391a586f7745321235ab2",
                 "target": "Brutal",
                 "number": 1,
                 "location": "Interchange",
@@ -2164,7 +2164,7 @@
             },
             {
                 "type": "mark",
-                "tool": "WIFI Camera",
+                "tool": "5b4391a586f7745321235ab2",
                 "target": "Pier",
                 "number": 1,
                 "location": "Woods",
@@ -2172,7 +2172,7 @@
             },
             {
                 "type": "mark",
-                "tool": "WIFI Camera",
+                "tool": "5b4391a586f7745321235ab2",
                 "target": "Roadblock",
                 "number": 1,
                 "location": "Customs",
@@ -2479,7 +2479,7 @@
         "objectives": [
             {
                 "type": "mark",
-                "tool": "MS2000 marker",
+                "tool": "5991b51486f77447b112d44f",
                 "target": "Tigr vehicle 1",
                 "hint": "Checkpoint",
                 "number": 1,
@@ -2488,7 +2488,7 @@
             },
             {
                 "type": "mark",
-                "tool": "MS2000 marker",
+                "tool": "5991b51486f77447b112d44f",
                 "target": "Tigr vehicle 2",
                 "hint": "Gas station",
                 "number": 1,
@@ -2497,7 +2497,7 @@
             },
             {
                 "type": "mark",
-                "tool": "MS2000 marker",
+                "tool": "5991b51486f77447b112d44f",
                 "target": "Tigr vehicle 3",
                 "hint": "Bridge",
                 "number": 1,
@@ -2536,7 +2536,7 @@
         "objectives": [
             {
                 "type": "mark",
-                "tool": "MS2000 marker",
+                "tool": "5991b51486f77447b112d44f",
                 "target": "T-90 tank 1",
                 "hint": "Bunker",
                 "number": 1,
@@ -2545,7 +2545,7 @@
             },
             {
                 "type": "mark",
-                "tool": "MS2000 marker",
+                "tool": "5991b51486f77447b112d44f",
                 "target": "T-90 tank 2",
                 "hint": "Town",
                 "number": 1,
@@ -2554,7 +2554,7 @@
             },
             {
                 "type": "mark",
-                "tool": "MS2000 marker",
+                "tool": "5991b51486f77447b112d44f",
                 "target": "T-90 tank 3",
                 "hint": "Weather station",
                 "number": 1,
@@ -2629,7 +2629,7 @@
         "objectives": [
             {
                 "type": "mark",
-                "tool": "MS2000 marker",
+                "tool": "5991b51486f77447b112d44f",
                 "target": "Un cargo truck 1",
                 "number": 1,
                 "location": "Shoreline",
@@ -2637,7 +2637,7 @@
             },
             {
                 "type": "mark",
-                "tool": "MS2000 marker",
+                "tool": "5991b51486f77447b112d44f",
                 "target": "Un cargo truck 2",
                 "number": 1,
                 "location": "Shoreline",
@@ -2727,7 +2727,7 @@
             },
             {
                 "type": "mark",
-                "tool": "MS2000 marker",
+                "tool": "5991b51486f77447b112d44f",
                 "target": "Ritual spot",
                 "number": 1,
                 "location": "Shoreline",
@@ -2735,7 +2735,7 @@
             },
             {
                 "type": "mark",
-                "tool": "MS2000 marker",
+                "tool": "5991b51486f77447b112d44f",
                 "target": "Ritual spot 1",
                 "hint": "Cabins",
                 "number": 1,
@@ -2744,7 +2744,7 @@
             },
             {
                 "type": "mark",
-                "tool": "MS2000 marker",
+                "tool": "5991b51486f77447b112d44f",
                 "target": "Ritual spot 2",
                 "hint": "Checkpoint",
                 "number": 1,
@@ -2753,7 +2753,7 @@
             },
             {
                 "type": "mark",
-                "tool": "MS2000 marker",
+                "tool": "5991b51486f77447b112d44f",
                 "target": "Ritual spot",
                 "number": 1,
                 "location": "Customs",
@@ -2821,7 +2821,7 @@
         "objectives": [
             {
                 "type": "mark",
-                "tool": "MS2000 marker",
+                "tool": "5991b51486f77447b112d44f",
                 "target": "Helicopter",
                 "number": 1,
                 "location": "Shoreline",
@@ -2829,7 +2829,7 @@
             },
             {
                 "type": "mark",
-                "tool": "MS2000 marker",
+                "tool": "5991b51486f77447b112d44f",
                 "target": "Safe road",
                 "number": 1,
                 "location": "Shoreline",
@@ -3226,7 +3226,7 @@
         "objectives": [
             {
                 "type": "mark",
-                "tool": "MS2000 marker",
+                "tool": "5991b51486f77447b112d44f",
                 "target": "Fisher's dwelling",
                 "number": 1,
                 "location": "Shoreline",
@@ -3919,7 +3919,7 @@
         "objectives": [
             {
                 "type": "mark",
-                "tool": "Signal Jammer",
+                "tool": "5ac78a9b86f7741cca0bbd8d",
                 "target": "Antenna 1",
                 "hint": "Weather Station",
                 "number": 1,
@@ -3928,7 +3928,7 @@
             },
             {
                 "type": "mark",
-                "tool": "Signal Jammer",
+                "tool": "5ac78a9b86f7741cca0bbd8d",
                 "target": "Antenna 2",
                 "hint": "Radio tower",
                 "number": 1,
@@ -3937,7 +3937,7 @@
             },
             {
                 "type": "mark",
-                "tool": "Signal Jammer",
+                "tool": "5ac78a9b86f7741cca0bbd8d",
                 "target": "Antenna 3",
                 "hint": "West Resort Roof",
                 "number": 1,
@@ -4473,7 +4473,7 @@
         "objectives": [
             {
                 "type": "mark",
-                "tool": "MS2000 marker",
+                "tool": "5991b51486f77447b112d44f",
                 "target": "Tanker 1",
                 "hint": "Behind Goshan",
                 "number": 1,
@@ -4482,7 +4482,7 @@
             },
             {
                 "type": "mark",
-                "tool": "MS2000 marker",
+                "tool": "5991b51486f77447b112d44f",
                 "target": "Tanker 2",
                 "hint": "Highway Checkpoint",
                 "number": 1,
@@ -4491,7 +4491,7 @@
             },
             {
                 "type": "mark",
-                "tool": "MS2000 marker",
+                "tool": "5991b51486f77447b112d44f",
                 "target": "Tanker 3",
                 "hint": "Power Station",
                 "number": 1,
@@ -4872,7 +4872,7 @@
         "objectives": [
             {
                 "type": "mark",
-                "tool": "MS2000 marker",
+                "tool": "5991b51486f77447b112d44f",
                 "target": "Minibus 1",
                 "hint": "Safe Room",
                 "number": 1,
@@ -4881,7 +4881,7 @@
             },
             {
                 "type": "mark",
-                "tool": "MS2000 marker",
+                "tool": "5991b51486f77447b112d44f",
                 "target": "Minibus 2",
                 "hint": "Beside Ramp",
                 "number": 1,
@@ -4890,7 +4890,7 @@
             },
             {
                 "type": "mark",
-                "tool": "MS2000 marker",
+                "tool": "5991b51486f77447b112d44f",
                 "target": "Minibus 3",
                 "hint": "Oli Containers",
                 "number": 1,
@@ -5173,7 +5173,7 @@
         "objectives": [
             {
                 "type": "mark",
-                "tool": "MS2000 marker",
+                "tool": "5991b51486f77447b112d44f",
                 "target": "Fuel stash 1",
                 "hint": "Outskirts side",
                 "number": 1,
@@ -5182,7 +5182,7 @@
             },
             {
                 "type": "mark",
-                "tool": "MS2000 marker",
+                "tool": "5991b51486f77447b112d44f",
                 "target": "Fuel stash 2",
                 "hint": "Sniper rock",
                 "number": 1,
@@ -5191,7 +5191,7 @@
             },
             {
                 "type": "mark",
-                "tool": "MS2000 marker",
+                "tool": "5991b51486f77447b112d44f",
                 "target": "Fuel stash 3",
                 "hint": "Jaeger camp",
                 "number": 1,
@@ -6995,7 +6995,7 @@
         "objectives": [
             {
                 "type": "mark",
-                "tool": "MS2000 marker",
+                "tool": "5991b51486f77447b112d44f",
                 "target": "Transport van",
                 "number": 1,
                 "location": "Customs",
@@ -7043,7 +7043,7 @@
         "objectives": [
             {
                 "type": "mark",
-                "tool": "MS2000 marker",
+                "tool": "5991b51486f77447b112d44f",
                 "target": "Transport van",
                 "number": 1,
                 "location": "Customs",
@@ -7195,7 +7195,7 @@
         "objectives": [
             {
                 "type": "mark",
-                "tool": "MS2000 marker",
+                "tool": "5991b51486f77447b112d44f",
                 "target": "Trading post 1",
                 "hint": "Cottages",
                 "number": 1,
@@ -7204,7 +7204,7 @@
             },
             {
                 "type": "mark",
-                "tool": "MS2000 marker",
+                "tool": "5991b51486f77447b112d44f",
                 "target": "Trading post 2",
                 "hint": "Pier",
                 "number": 1,
@@ -7213,7 +7213,7 @@
             },
             {
                 "type": "mark",
-                "tool": "MS2000 marker",
+                "tool": "5991b51486f77447b112d44f",
                 "target": "Trading post 3",
                 "hint": "Resort",
                 "number": 1,
@@ -7293,7 +7293,7 @@
         "objectives": [
             {
                 "type": "mark",
-                "tool": "MS2000 marker",
+                "tool": "5991b51486f77447b112d44f",
                 "target": "Health resort Medical container",
                 "number": 1,
                 "location": "Shoreline",
@@ -7301,7 +7301,7 @@
             },
             {
                 "type": "mark",
-                "tool": "MS2000 marker",
+                "tool": "5991b51486f77447b112d44f",
                 "target": "Cottages Medical container",
                 "number": 1,
                 "location": "Shoreline",
@@ -7309,7 +7309,7 @@
             },
             {
                 "type": "mark",
-                "tool": "MS2000 marker",
+                "tool": "5991b51486f77447b112d44f",
                 "target": "Pier Medical container",
                 "number": 1,
                 "location": "Shoreline",
