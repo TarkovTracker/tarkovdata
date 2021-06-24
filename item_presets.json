@@ -6303,5 +6303,36 @@
                 "quantity": 1
             }
         ]
+    },
+    "72df9cc65cf082729fc1176d": {
+        "id": "72df9cc65cf082729fc1176d",
+        "name": "PL-15",
+        "baseId": "602a9740da11d6478d5a06dc",
+        "parts": [
+            {
+                "id": "602a9740da11d6478d5a06dc",
+                "quantity": 1
+            },
+            {
+                "id": "602a95edda11d6478d5a06da",
+                "quantity": 1
+            },
+            {
+                "id": "60228924961b8d75ee233c32",
+                "quantity": 1
+            },
+            {
+                "id": "60229948cacb6b0506369e27",
+                "quantity": 1
+            },
+            {
+                "id": "60228a76d62c9b14ed777a66",
+                "quantity": 1
+            },
+            {
+                "id": "602286df23506e50807090c6",
+                "quantity": 1
+            }
+        ]
     }
 }
