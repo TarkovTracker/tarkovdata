@@ -187,8 +187,8 @@
                     "id": 1
                 },
                 {
-                    "type": "currency",
-                    "name": "Dollars",
+                    "type": "item",
+                    "name": "5696686a4bdc2da3298b456a",
                     "quantity": 10000,
                     "id": 189
                 },
@@ -389,8 +389,8 @@
             "level": 1,
             "require": [
                 {
-                    "type": "currency",
-                    "name": "Rubles",
+                    "type": "item",
+                    "name": "5449016a4bdc2d6f028b456f",
                     "quantity": 100000,
                     "id": 190
                 },
@@ -503,8 +503,8 @@
             "level": 1,
             "require": [
                 {
-                    "type": "currency",
-                    "name": "Rubles",
+                    "type": "item",
+                    "name": "5449016a4bdc2d6f028b456f",
                     "quantity": 25000,
                     "id": 191
                 },
@@ -535,8 +535,8 @@
                     "id": 26
                 },
                 {
-                    "type": "currency",
-                    "name": "Rubles",
+                    "type": "item",
+                    "name": "5449016a4bdc2d6f028b456f",
                     "quantity": 50000,
                     "id": 192
                 },
@@ -599,8 +599,8 @@
             "level": 1,
             "require": [
                 {
-                    "type": "currency",
-                    "name": "Rubles",
+                    "type": "item",
+                    "name": "5449016a4bdc2d6f028b456f",
                     "quantity": 10000,
                     "id": 193
                 }
@@ -675,8 +675,8 @@
                     "id": 216
                 },
                 {
-                    "type": "currency",
-                    "name": "Rubles",
+                    "type": "item",
+                    "name": "5449016a4bdc2d6f028b456f",
                     "quantity": 50000,
                     "id": 194
                 }
@@ -827,8 +827,8 @@
             "level": 1,
             "require": [
                 {
-                    "type": "currency",
-                    "name": "Rubles",
+                    "type": "item",
+                    "name": "5449016a4bdc2d6f028b456f",
                     "quantity": 2000,
                     "id": 195
                 },
@@ -971,8 +971,8 @@
                     "id": 28
                 },
                 {
-                    "type": "currency",
-                    "name": "Rubles",
+                    "type": "item",
+                    "name": "5449016a4bdc2d6f028b456f",
                     "quantity": 400000,
                     "id": 196
                 },
@@ -983,8 +983,8 @@
                     "id": 240
                 },
                 {
-                    "type": "currency",
-                    "name": "Horse figurine",
+                    "type": "item",
+                    "name": "573478bc24597738002c6175",
                     "quantity": 1,
                     "id": 241
                 }
@@ -997,8 +997,8 @@
             "level": 1,
             "require": [
                 {
-                    "type": "currency",
-                    "name": "Rubles",
+                    "type": "item",
+                    "name": "5449016a4bdc2d6f028b456f",
                     "quantity": 20000,
                     "id": 197
                 },
@@ -1053,8 +1053,8 @@
                     "id": 90
                 },
                 {
-                    "type": "currency",
-                    "name": "Rubles",
+                    "type": "item",
+                    "name": "5449016a4bdc2d6f028b456f",
                     "quantity": 50000,
                     "id": 198
                 }
@@ -1109,8 +1109,8 @@
                     "id": 94
                 },
                 {
-                    "type": "currency",
-                    "name": "Rubles",
+                    "type": "item",
+                    "name": "5449016a4bdc2d6f028b456f",
                     "quantity": 150000,
                     "id": 199
                 }
@@ -1135,8 +1135,8 @@
                     "id": 96
                 },
                 {
-                    "type": "currency",
-                    "name": "Rubles",
+                    "type": "item",
+                    "name": "5449016a4bdc2d6f028b456f",
                     "quantity": 25000,
                     "id": 200
                 }
@@ -1241,8 +1241,8 @@
                     "id": 108
                 },
                 {
-                    "type": "currency",
-                    "name": "Rubles",
+                    "type": "item",
+                    "name": "5449016a4bdc2d6f028b456f",
                     "quantity": 125000,
                     "id": 201
                 }
@@ -1261,8 +1261,8 @@
                     "id": 245
                 },
                 {
-                    "type": "currency",
-                    "name": "Rubles",
+                    "type": "item",
+                    "name": "5449016a4bdc2d6f028b456f",
                     "quantity": 10000,
                     "id": 202
                 }
@@ -1311,8 +1311,8 @@
                     "id": 248
                 },
                 {
-                    "type": "currency",
-                    "name": "Rubles",
+                    "type": "item",
+                    "name": "5449016a4bdc2d6f028b456f",
                     "quantity": 35000,
                     "id": 203
                 }
@@ -1361,8 +1361,8 @@
                     "id": 117
                 },
                 {
-                    "type": "currency",
-                    "name": "Dollars",
+                    "type": "item",
+                    "name": "5696686a4bdc2da3298b456a",
                     "quantity": 3000,
                     "id": 204
                 }
@@ -1413,8 +1413,8 @@
             "level": 1,
             "require": [
                 {
-                    "type": "currency",
-                    "name": "Rubles",
+                    "type": "item",
+                    "name": "5449016a4bdc2d6f028b456f",
                     "quantity": 20000,
                     "id": 205
                 },
@@ -1451,8 +1451,8 @@
                     "id": 57
                 },
                 {
-                    "type": "currency",
-                    "name": "Rubles",
+                    "type": "item",
+                    "name": "5449016a4bdc2d6f028b456f",
                     "quantity": 45000,
                     "id": 206
                 },
@@ -1589,8 +1589,8 @@
                     "id": 139
                 },
                 {
-                    "type": "currency",
-                    "name": "Euros",
+                    "type": "item",
+                    "name": "569668774bdc2da2298b4568",
                     "quantity": 75000,
                     "id": 207
                 }
@@ -1646,8 +1646,8 @@
                     "id": 228
                 },
                 {
-                    "type": "currency",
-                    "name": "Rubles",
+                    "type": "item",
+                    "name": "5449016a4bdc2d6f028b456f",
                     "quantity": 3500000,
                     "id": 208
                 }
@@ -1690,8 +1690,8 @@
                     "id": 148
                 },
                 {
-                    "type": "currency",
-                    "name": "Rubles",
+                    "type": "item",
+                    "name": "5449016a4bdc2d6f028b456f",
                     "quantity": 8500000,
                     "id": 209
                 }
@@ -1734,8 +1734,8 @@
                     "id": 153
                 },
                 {
-                    "type": "currency",
-                    "name": "Euros",
+                    "type": "item",
+                    "name": "569668774bdc2da2298b4568",
                     "quantity": 200000,
                     "id": 210
                 },
@@ -1772,8 +1772,8 @@
             "level": 1,
             "require": [
                 {
-                    "type": "currency",
-                    "name": "Rubles",
+                    "type": "item",
+                    "name": "5449016a4bdc2d6f028b456f",
                     "quantity": 25000,
                     "id": 211
                 }
@@ -1986,8 +1986,8 @@
                     "id": 176
                 },
                 {
-                    "type": "currency",
-                    "name": "Rubles",
+                    "type": "item",
+                    "name": "5449016a4bdc2d6f028b456f",
                     "quantity": 125000,
                     "id": 212
                 }
@@ -2094,8 +2094,8 @@
                     "id": 188
                 },
                 {
-                    "type": "currency",
-                    "name": "Rubles",
+                    "type": "item",
+                    "name": "5449016a4bdc2d6f028b456f",
                     "quantity": 195000,
                     "id": 213
                 }
@@ -2132,8 +2132,8 @@
                     "id": 223
                 },
                 {
-                    "type": "currency",
-                    "name": "Rubles",
+                    "type": "item",
+                    "name": "5449016a4bdc2d6f028b456f",
                     "quantity": 10000,
                     "id": 224
                 }
