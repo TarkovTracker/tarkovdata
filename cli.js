@@ -231,7 +231,7 @@ function newHideoutId(args) {
 function newHideoutObjectiveId(args) {
 	var debugHideout = require('./hideout.json')
 
-	var objectiveArray = debugHideout
+	var objectiveArray = debugHideout.modules
 		.reduce((acc, x) => acc.concat(x.require), [])
 
 	var highestObjectiveID = 0
@@ -273,7 +273,7 @@ function newObjectiveId(args) {
 function verifyHideoutData(args) {
 	// Find hideout IDs we may have duplicated (shouldn't happen)
 	var debugHideout = require('./hideout.json')
-	var result = Object.values(debugHideout.reduce((c, v) => {
+	var result = Object.values(debugHideout.modules.reduce((c, v) => {
 		let k = v.id;
 		c[k] = c[k] || [];
 		c[k].push(v);
@@ -289,14 +289,14 @@ function verifyHideoutData(args) {
 	// Get highest ID
 	var missingModuleIDs = []
 	var highestHideoutID = 0
-	for (var i = debugHideout.length - 1; i >= 0; i--) {
-		if (debugHideout[i].id > highestHideoutID) {
-			highestHideoutID = debugHideout[i].id
+	for (var i = debugHideout.modules.length - 1; i >= 0; i--) {
+		if (debugHideout.modules[i].id > highestHideoutID) {
+			highestHideoutID = debugHideout.modules[i].id
 		}
 	}
 	var filledIDs = new Array(highestHideoutID).fill(false)
-	for (var i = debugHideout.length - 1; i >= 0; i--) {
-		filledIDs[debugHideout[i].id] = true
+	for (var i = debugHideout.modules.length - 1; i >= 0; i--) {
+		filledIDs[debugHideout.modules[i].id] = true
 	}
 	for (var i = filledIDs.length - 1; i >= 0; i--) {
 		if (filledIDs[i] == false) {
@@ -311,9 +311,9 @@ function verifyHideoutData(args) {
 
 	// Find duplicated objective IDs (some may be intentional)
 	var hideoutObjectives = []
-	for (var i = debugHideout.length - 1; i >= 0; i--) {
-		for (var x = debugHideout[i].require.length - 1; x >= 0; x--) {
-			hideoutObjectives.push(debugHideout[i].require[x])
+	for (var i = debugHideout.modules.length - 1; i >= 0; i--) {
+		for (var x = debugHideout.modules[i].require.length - 1; x >= 0; x--) {
+			hideoutObjectives.push(debugHideout.modules[i].require[x])
 		}
 	}
 	var result = Object.values(hideoutObjectives.reduce((c, v) => {

@@ -189,13 +189,13 @@
                 {
                     "type": "item",
                     "name": "5696686a4bdc2da3298b456a",
-                    "quantity": 10000,
+                    "quantity": 25000,
                     "id": 189
                 },
                 {
                     "type": "item",
                     "name": "5d0378d486f77420421a5ff4",
-                    "quantity": 1,
+                    "quantity": 4,
                     "id": 229
                 },
                 {
@@ -389,6 +389,12 @@
             "level": 1,
             "require": [
                 {
+                    "type": "module",
+                    "name": "Security",
+                    "quantity": 1,
+                    "id": 263
+                },
+                {
                     "type": "item",
                     "name": "5449016a4bdc2d6f028b456f",
                     "quantity": 100000,
@@ -479,13 +485,13 @@
                 {
                     "type": "item",
                     "name": "5d1b2fa286f77425227d1674",
-                    "quantity": 2,
+                    "quantity": 3,
                     "id": 42
                 },
                 {
                     "type": "item",
                     "name": "590a3c0a86f774385a33c450",
-                    "quantity": 5,
+                    "quantity": 10,
                     "id": 43
                 },
                 {
@@ -589,6 +595,12 @@
                     "name": "5c06779c86f77426e00dd782",
                     "quantity": 8,
                     "id": 50
+                },
+                {
+                    "type": "item",
+                    "name": "5d1b313086f77425227d1678",
+                    "quantity": 4,
+                    "id": 267
                 }
             ],
             "id": 11,
@@ -1029,6 +1041,12 @@
                     "id": 88
                 },
                 {
+                    "type": "module",
+                    "name": "Generator",
+                    "quantity": 1,
+                    "id": 264
+                },
+                {
                     "type": "skill",
                     "name": "Health",
                     "quantity": 2,
@@ -1055,7 +1073,7 @@
                 {
                     "type": "item",
                     "name": "5449016a4bdc2d6f028b456f",
-                    "quantity": 50000,
+                    "quantity": 150000,
                     "id": 198
                 }
             ],
@@ -1111,7 +1129,7 @@
                 {
                     "type": "item",
                     "name": "5449016a4bdc2d6f028b456f",
-                    "quantity": 150000,
+                    "quantity": 500000,
                     "id": 199
                 }
             ],
@@ -1265,6 +1283,12 @@
                     "name": "5449016a4bdc2d6f028b456f",
                     "quantity": 10000,
                     "id": 202
+                },
+                {
+                    "type": "item",
+                    "name": "57347c1124597737fb1379e3",
+                    "quantity": 1,
+                    "id": 262
                 }
             ],
             "id": 28,
@@ -1362,8 +1386,8 @@
                 },
                 {
                     "type": "item",
-                    "name": "5696686a4bdc2da3298b456a",
-                    "quantity": 3000,
+                    "name": "5e2aedd986f7746d404f3aa4",
+                    "quantity": 5,
                     "id": 204
                 }
             ],
@@ -1397,6 +1421,12 @@
                     "name": "59faf7ca86f7740dbe19f6c2",
                     "quantity": 4,
                     "id": 121
+                },
+                {
+                    "type": "item",
+                    "name": "5d1b376e86f774252519444e",
+                    "quantity": 3,
+                    "id": 266
                 },
                 {
                     "type": "module",
@@ -1668,31 +1698,55 @@
                 {
                     "type": "module",
                     "name": "Heating",
-                    "quantity": 2,
+                    "quantity": 3,
                     "id": 145
                 },
                 {
                     "type": "module",
-                    "name": "Vents",
-                    "quantity": 2,
+                    "name": "Generator",
+                    "quantity": 3,
                     "id": 146
                 },
                 {
+                    "type": "module",
+                    "name": "Workbench",
+                    "quantity": 3,
+                    "id": 269
+                },
+                {
+                    "type": "module",
+                    "name": "Intelligence Center",
+                    "quantity": 2,
+                    "id": 270
+                },
+                {
                     "type": "item",
-                    "name": "59e35de086f7741778269d84",
+                    "name": "60391afc25aff57af81f7085",
                     "quantity": 2,
                     "id": 147
                 },
                 {
                     "type": "item",
-                    "name": "59e35ef086f7741777737012",
-                    "quantity": 15,
+                    "name": "57347c77245977448d35f6e2",
+                    "quantity": 10,
                     "id": 148
                 },
                 {
                     "type": "item",
-                    "name": "5449016a4bdc2d6f028b456f",
-                    "quantity": 8500000,
+                    "name": "57347c5b245977448d35f6e1",
+                    "quantity": 10,
+                    "id": 271
+                },
+                {
+                    "type": "item",
+                    "name": "590c35a486f774273531c822",
+                    "quantity": 5,
+                    "id": 272
+                },
+                {
+                    "type": "item",
+                    "name": "569668774bdc2da2298b4568",
+                    "quantity": 200000,
                     "id": 209
                 }
             ],
@@ -1761,7 +1815,7 @@
                     "type": "item",
                     "name": "60391afc25aff57af81f7085",
                     "quantity": 2,
-                    "id": 1337
+                    "id": 257
                 }
             ],
             "id": 40,
@@ -1987,8 +2041,14 @@
                 },
                 {
                     "type": "item",
+                    "name": "60391afc25aff57af81f7085",
+                    "quantity": 1,
+                    "id": 268
+                },
+                {
+                    "type": "item",
                     "name": "5449016a4bdc2d6f028b456f",
-                    "quantity": 125000,
+                    "quantity": 20000,
                     "id": 212
                 }
             ],
@@ -2054,6 +2114,12 @@
                     "name": "57347c5b245977448d35f6e1",
                     "quantity": 6,
                     "id": 184
+                },
+                {
+                    "type": "item",
+                    "name": "5d1c819a86f774771b0acd6c",
+                    "quantity": 3,
+                    "id": 265
                 }
             ],
             "id": 48,
@@ -2096,8 +2162,14 @@
                 {
                     "type": "item",
                     "name": "5449016a4bdc2d6f028b456f",
-                    "quantity": 195000,
+                    "quantity": 395000,
                     "id": 213
+                },
+                {
+                    "type": "item",
+                    "name": "60391a8b3364dc22b04d0ce5",
+                    "quantity": 2,
+                    "id": 273
                 }
             ],
             "id": 49,
