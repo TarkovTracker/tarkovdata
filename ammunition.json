@@ -1724,29 +1724,6 @@
       "initialSpeed": 415
     }
   },
-  "5996f6d686f77467977ba6cc": {
-    "id": "5996f6d686f77467977ba6cc",
-    "name": "F1 Shrapnel",
-    "shortName": "F1 Shrapnel",
-    "weight": 0.01,
-    "caliber": "Caliber9x18PM",
-    "stackMaxSize": 1,
-    "tracer": true,
-    "tracerColor": "tracerYellow",
-    "ammoType": "bullet",
-    "projectileCount": 1,
-    "ballistics": {
-      "damage": 40,
-      "armorDamage": 38,
-      "fragmentationChance": 0.1,
-      "ricochetChance": 0.3,
-      "penetrationChance": 0.25,
-      "penetrationPower": 15,
-      "accuracy": 0,
-      "recoil": 0,
-      "initialSpeed": 90
-    }
-  },
   "5c0d668f86f7747ccb7f13b2": {
     "id": "5c0d668f86f7747ccb7f13b2",
     "name": "9x39 mm 7N9 SPP",
@@ -1793,29 +1770,6 @@
       "initialSpeed": 290
     }
   },
-  "5996f6fc86f7745e585b4de3": {
-    "id": "5996f6fc86f7745e585b4de3",
-    "name": "M67 Shrapnel",
-    "shortName": "M67 Shrapnel",
-    "weight": 0.01,
-    "caliber": "Caliber9x18PM",
-    "stackMaxSize": 1,
-    "tracer": true,
-    "tracerColor": "tracerYellow",
-    "ammoType": "bullet",
-    "projectileCount": 1,
-    "ballistics": {
-      "damage": 45,
-      "armorDamage": 32,
-      "fragmentationChance": 0.5,
-      "ricochetChance": 0.2,
-      "penetrationChance": 0.1,
-      "penetrationPower": 12,
-      "accuracy": 0,
-      "recoil": 0,
-      "initialSpeed": 100
-    }
-  },
   "57a0e5022459774d1673f889": {
     "id": "57a0e5022459774d1673f889",
     "name": "9x39 mm SP-6",
@@ -1860,52 +1814,6 @@
       "accuracy": -4,
       "recoil": -4,
       "initialSpeed": 397
-    }
-  },
-  "5943d9c186f7745a13413ac9": {
-    "id": "5943d9c186f7745a13413ac9",
-    "name": "Shrapnel",
-    "shortName": "Shrapnel",
-    "weight": 0.01,
-    "caliber": "Caliber9x18PM",
-    "stackMaxSize": 1,
-    "tracer": true,
-    "tracerColor": "tracerYellow",
-    "ammoType": "bullet",
-    "projectileCount": 1,
-    "ballistics": {
-      "damage": 20,
-      "armorDamage": 32,
-      "fragmentationChance": 0.5,
-      "ricochetChance": 0.2,
-      "penetrationChance": 0.25,
-      "penetrationPower": 16,
-      "accuracy": 0,
-      "recoil": 0,
-      "initialSpeed": 150
-    }
-  },
-  "5996f6cb86f774678763a6ca": {
-    "id": "5996f6cb86f774678763a6ca",
-    "name": "RGD-5 Shrapnel",
-    "shortName": "RGD-5 Shrapnel",
-    "weight": 0.01,
-    "caliber": "Caliber9x18PM",
-    "stackMaxSize": 1,
-    "tracer": true,
-    "tracerColor": "tracerYellow",
-    "ammoType": "bullet",
-    "projectileCount": 1,
-    "ballistics": {
-      "damage": 55,
-      "armorDamage": 32,
-      "fragmentationChance": 0.5,
-      "ricochetChance": 0.2,
-      "penetrationChance": 0.2,
-      "penetrationPower": 10,
-      "accuracy": 0,
-      "recoil": 0,
-      "initialSpeed": 90
     }
   },
   "5cadf6ddae9215051e1c23b2": {
