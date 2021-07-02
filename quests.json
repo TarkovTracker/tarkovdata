@@ -5369,7 +5369,7 @@
     {
         "id": 136,
         "require": {
-            "level": 10,
+            "level": 2,
             "quests": [
                 135
             ]
@@ -5403,7 +5403,7 @@
     {
         "id": 137,
         "require": {
-            "level": 10,
+            "level": 2,
             "quests": [
                 135
             ]
