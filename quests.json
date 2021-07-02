@@ -8141,5 +8141,45 @@
             }
         ],
         "gameId": "5a5642ce86f77445c63c3419"
+    },
+    {
+        "id": 203,
+        "require": {
+            "level": 10,
+            "quests": [
+                23
+            ]
+        },
+        "giver": "Therapist",
+        "turnin": "Therapist",
+        "title": "Disease history",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Disease_history",
+        "exp": 7200,
+        "unlocks": [],
+        "reputation": [
+            {
+                "trader": "Therapist",
+                "rep": 0.03
+            }
+        ],
+        "nokappa": true,
+        "objectives": [
+            {
+                "type": "pickup",
+                "target": "Medical Journal No.1",
+                "number": 1,
+                "location": "Reserve",
+                "id": 383
+            },
+            {
+                "type": "pickup",
+                "target": "Medical Journal No.2",
+                "number": 1,
+                "location": "Reserve",
+                "id": 384
+            }
+
+        ],
+        "gameId": "Unknown"
     }
 ]
