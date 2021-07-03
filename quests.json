@@ -8181,5 +8181,46 @@
 
         ],
         "gameId": "Unknown"
+    },
+    {
+        "id": 204,
+        "require": {
+            "level": 15,
+            "quests": [
+                111
+            ]
+        },
+        "giver": "Ragman",
+        "turnin": "Ragman",
+        "title": "Fuel matter",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Fuel_matter",
+        "exp": 8200,
+        "unlocks": [],
+        "reputation": [
+            {
+                "trader": "Ragman",
+                "rep": 0.03
+            }
+        ],
+        "nokappa": false,
+        "objectives": [
+            {
+                "type": "mark",
+                "tool": "5991b51486f77447b112d44f",
+                "target": "Fuel Tanks 1",
+                "number": 1,
+                "location": "Reserve",
+                "id": 385
+            },
+            {
+                "type": "mark",
+                "tool": "5991b51486f77447b112d44f",
+                "target": "Fuel Tanks 2",
+                "number": 1,
+                "location": "Reserve",
+                "id": 386
+            }
+        ],
+        "gameId": "Unknown"
     }
 ]
