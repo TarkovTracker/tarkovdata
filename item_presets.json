@@ -6334,5 +6334,32 @@
                 "quantity": 1
             }
         ]
+    },
+    "83859217-b778-4968-a2e4-c05e29cf10f4": {
+        "id": "83859217-b778-4968-a2e4-c05e29cf10f4",
+        "name": "MP-155",
+        "baseId": "606dae0ab0e443224b421bb7",
+        "parts": [
+            {
+                "id": "606dae0ab0e443224b421bb7",
+                "quantity": 1
+            },
+            {
+                "id": "6076c1b9f2cb2e02a42acedc",
+                "quantity": 1
+            },
+            {
+                "id": "607d5aa50494a626335e12ed",
+                "quantity": 1
+            },
+            {
+                "id": "6076c87f232e5a31c233d50e",
+                "quantity": 1
+            },
+            {
+                "id": "607d5a891246154cad35d6aa",
+                "quantity": 1
+            }
+        ]
     }
 }
