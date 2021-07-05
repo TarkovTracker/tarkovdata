@@ -7912,6 +7912,41 @@
                 "number": 1,
                 "location": "Any",
                 "id": 370
+            },
+            {
+                "type": "find",
+                "target": "60b0f988c4449e4cb624c1da",
+                "number": 1,
+                "location": "Any",
+                "id": 399
+            },
+            {
+                "type": "find",
+                "target": "60b0f93284c20f0feb453da7",
+                "number": 1,
+                "location": "Any",
+                "id": 400
+            },
+            {
+                "type": "find",
+                "target": "60b0f7057897d47c5b04ab94",
+                "number": 1,
+                "location": "Any",
+                "id": 401
+            },
+            {
+                "type": "find",
+                "target": "60b0f6c058e0b0481a09ad11",
+                "number": 1,
+                "location": "Any",
+                "id": 402
+            },
+            {
+                "type": "find",
+                "target": "60b0f561c4449e4cb624c1d7",
+                "number": 1,
+                "location": "Any",
+                "id": 403
             }
         ],
         "gameId": "5c51aac186f77432ea65c552"
@@ -8219,6 +8254,193 @@
                 "number": 1,
                 "location": "Reserve",
                 "id": 386
+            }
+        ],
+        "gameId": "Unknown"
+    },
+    {
+        "id": 205,
+        "require": {
+            "level": 12,
+            "quests": [
+                102
+            ]
+        },
+        "giver": "Mechanic",
+        "turnin": "Mechanic",
+        "title": "Surplus Goods",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Surplus_goods",
+        "exp": 9200,
+        "unlocks": [],
+        "reputation": [
+            {
+                "trader": "Mechanic",
+                "rep": 0.02
+            }
+        ],
+        "objectives": [
+            {
+                "type": "key",
+                "target": "5d9f1fa686f774726974a992",
+                "number": 1,
+                "location": "Reserve",
+                "id": 387
+            },
+            {
+                "type": "pickup",
+                "target": "MBT navigation complex",
+                "number": 1,
+                "location": "Reserve",
+                "id": 388
+            }
+
+        ],
+        "gameId": "Unknown"
+    },
+    {
+        "id": 206,
+        "require": {
+            "level": 12,
+            "quests": [
+                204
+            ]
+        },
+        "giver": "Mechanic",
+        "turnin": "Mechanic",
+        "title": "Back door",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Back_door",
+        "exp": 8200,
+        "unlocks": [],
+        "reputation": [
+            {
+                "trader": "Mechanic",
+                "rep": 0.02
+            }
+        ],
+        "objectives": [
+            {
+                "type": "locate",
+                "target": "Unpowered secret exit",
+                "number": 1,
+                "location": "Reserve",
+                "id": 389
+            }
+
+        ],
+        "gameId": "Unknown"
+    },
+    {
+        "id": 207,
+        "require": {
+            "level": 11,
+            "quests": [
+                60
+            ]
+        },
+        "giver": "Peacekeeper",
+        "turnin": "Peacekeeper",
+        "title": "Back door",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Revision",
+        "exp": 7300,
+        "unlocks": [],
+        "reputation": [
+            {
+                "trader": "Peacekeeper",
+                "rep": 0.03
+            }
+        ],
+        "objectives": [
+            {
+                "type": "key",
+                "target": "5d9f1fa686f774726974a992",
+                "number": 1,
+                "location": "Reserve",
+                "id": 390
+            },
+            {
+                "type": "mark",
+                "tool": "5991b51486f77447b112d44f",
+                "target": "BMP-2 1",
+                "number": 1,
+                "location": "Reserve",
+                "id": 391
+            },
+            {
+                "type": "mark",
+                "tool": "5991b51486f77447b112d44f",
+                "target": "BMP-2 2",
+                "number": 1,
+                "location": "Reserve",
+                "id": 392
+            },
+            {
+                "type": "mark",
+                "tool": "5991b51486f77447b112d44f",
+                "target": "BMP-2 3",
+                "number": 1,
+                "location": "Reserve",
+                "id": 393
+            },
+            {
+                "type": "mark",
+                "tool": "5991b51486f77447b112d44f",
+                "target": "BMP-2 4",
+                "number": 1,
+                "location": "Reserve",
+                "id": 394
+            },
+            {
+                "type": "mark",
+                "tool": "5991b51486f77447b112d44f",
+                "target": "IFV LAV III 1",
+                "number": 1,
+                "location": "Reserve",
+                "id": 395
+            },
+            {
+                "type": "locate",
+                "target": "IFV LAV III 2",
+                "number": 1,
+                "location": "Reserve",
+                "id": 396
+            },
+            {
+                "type": "locate",
+                "target": "T-90",
+                "number": 1,
+                "location": "Reserve",
+                "id": 397
+            }
+        ],
+        "gameId": "Unknown"
+    },
+    {
+        "id": 208,
+        "require": {
+            "level": 11,
+            "quests": [
+                206
+            ]
+        },
+        "giver": "Peacekeeper",
+        "turnin": "Peacekeeper",
+        "title": "Experience exchange",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Experience_exchange",
+        "exp": 7200,
+        "unlocks": [],
+        "reputation": [
+            {
+                "trader": "Peacekeeper",
+                "rep": 0.02
+            }
+        ],
+        "objectives": [
+            {
+                "type": "pickup",
+                "target": "T-90M Commander control panel",
+                "number": 1,
+                "location": "Reserve",
+                "id": 398
             }
         ],
         "gameId": "Unknown"
