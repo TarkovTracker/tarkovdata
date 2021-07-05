@@ -8302,7 +8302,7 @@
         "require": {
             "level": 12,
             "quests": [
-                204
+                205
             ]
         },
         "giver": "Mechanic",
@@ -8419,7 +8419,7 @@
         "require": {
             "level": 11,
             "quests": [
-                206
+                207
             ]
         },
         "giver": "Peacekeeper",
