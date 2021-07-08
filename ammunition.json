@@ -24,7 +24,7 @@
   },
   "57371f2b24597761224311f1": {
     "id": "57371f2b24597761224311f1",
-    "name": "9x18 mm PM PS gs PPO",
+    "name": "9x18mm PM PS gs PPO",
     "shortName": "PS gs PPO",
     "weight": 0.01,
     "caliber": "Caliber9x18PM",
@@ -47,7 +47,7 @@
   },
   "5a608bf24f39f98ffc77720e": {
     "id": "5a608bf24f39f98ffc77720e",
-    "name": "7.62x51 mm M62",
+    "name": "7.62x51mm M62",
     "shortName": "M62",
     "weight": 0.024,
     "caliber": "Caliber762x51",
@@ -70,8 +70,8 @@
   },
   "573718ba2459775a75491131": {
     "id": "573718ba2459775a75491131",
-    "name": "9x18 mm PM 9 BZT gzh",
-    "shortName": "9 BZT gzh",
+    "name": "9x18mm PM BZhT gzh",
+    "shortName": "BZhT gzh",
     "weight": 0.01,
     "caliber": "Caliber9x18PM",
     "stackMaxSize": 50,
@@ -93,8 +93,8 @@
   },
   "57371aab2459775a77142f22": {
     "id": "57371aab2459775a77142f22",
-    "name": "9x18 mm PM PMM",
-    "shortName": "PMM",
+    "name": "9x18mm PMM PstM gzh",
+    "shortName": "PstM gzh",
     "weight": 0.009,
     "caliber": "Caliber9x18PM",
     "stackMaxSize": 50,
@@ -116,7 +116,7 @@
   },
   "5737218f245977612125ba51": {
     "id": "5737218f245977612125ba51",
-    "name": "9x18 mm PM SP8 gzh",
+    "name": "9x18mm PM SP8 gzh",
     "shortName": "SP8 gzh",
     "weight": 0.009,
     "caliber": "Caliber9x18PM",
@@ -139,8 +139,8 @@
   },
   "573719762459775a626ccbc1": {
     "id": "573719762459775a626ccbc1",
-    "name": "9x18 mm PM 9 P gzh",
-    "shortName": "9 P gzh",
+    "name": "9x18mm PM P gzh",
+    "shortName": "P gzh",
     "weight": 0.011,
     "caliber": "Caliber9x18PM",
     "stackMaxSize": 50,
@@ -162,7 +162,7 @@
   },
   "5737207f24597760ff7b25f2": {
     "id": "5737207f24597760ff7b25f2",
-    "name": "9x18 mm PM PSV",
+    "name": "9x18mm PM PSV",
     "shortName": "PSV",
     "weight": 0.012,
     "caliber": "Caliber9x18PM",
@@ -185,7 +185,7 @@
   },
   "5737201124597760fc4431f1": {
     "id": "5737201124597760fc4431f1",
-    "name": "9x18 mm PM Pst gzh",
+    "name": "9x18mm PM Pst gzh",
     "shortName": "Pst gzh",
     "weight": 0.01,
     "caliber": "Caliber9x18PM",
@@ -231,7 +231,7 @@
   },
   "57371f8d24597761006c6a81": {
     "id": "57371f8d24597761006c6a81",
-    "name": "9x18 mm PM PSO gzh",
+    "name": "9x18mm PM PSO gzh",
     "shortName": "PSO gzh",
     "weight": 0.008,
     "caliber": "Caliber9x18PM",
@@ -254,7 +254,7 @@
   },
   "56d59d3ad2720bdb418b4577": {
     "id": "56d59d3ad2720bdb418b4577",
-    "name": "9x19 mm Pst gzh",
+    "name": "9x19mm Pst gzh",
     "shortName": "Pst gzh",
     "weight": 0.005,
     "caliber": "Caliber9x19PARA",
@@ -277,7 +277,7 @@
   },
   "59e68f6f86f7746c9f75e846": {
     "id": "59e68f6f86f7746c9f75e846",
-    "name": "5.56x45 mm M856",
+    "name": "5.56x45mm M856",
     "shortName": "M856",
     "weight": 0.012,
     "caliber": "Caliber556x45NATO",
@@ -300,7 +300,7 @@
   },
   "57372140245977611f70ee91": {
     "id": "57372140245977611f70ee91",
-    "name": "9x18 mm PM SP7 gzh",
+    "name": "9x18mm PM SP7 gzh",
     "shortName": "SP7 gzh",
     "weight": 0.011,
     "caliber": "Caliber9x18PM",
@@ -323,7 +323,7 @@
   },
   "59e690b686f7746c9f75e848": {
     "id": "59e690b686f7746c9f75e848",
-    "name": "5.56x45 mm M995",
+    "name": "5.56x45mm M995",
     "shortName": "M995",
     "weight": 0.012,
     "caliber": "Caliber556x45NATO",
@@ -346,7 +346,7 @@
   },
   "59e6906286f7746c9f75e847": {
     "id": "59e6906286f7746c9f75e847",
-    "name": "5.56x45 mm M856A1",
+    "name": "5.56x45mm M856A1",
     "shortName": "M856A1",
     "weight": 0.012,
     "caliber": "Caliber556x45NATO",
@@ -369,7 +369,7 @@
   },
   "54527ac44bdc2d36668b4567": {
     "id": "54527ac44bdc2d36668b4567",
-    "name": "5.56x45 mm M855A1",
+    "name": "5.56x45mm M855A1",
     "shortName": "M855A1",
     "weight": 0.012,
     "caliber": "Caliber556x45NATO",
@@ -379,21 +379,21 @@
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
-      "damage": 45,
+      "damage": 46,
       "armorDamage": 52,
       "fragmentationChance": 0.34,
       "ricochetChance": 0.38,
       "penetrationChance": 0.55,
-      "penetrationPower": 43,
+      "penetrationPower": 45,
       "accuracy": -10,
-      "recoil": 0,
+      "recoil": 5,
       "initialSpeed": 945
     }
   },
   "573719df2459775a626ccbc2": {
     "id": "573719df2459775a626ccbc2",
-    "name": "9x18 mm PM PBM",
-    "shortName": "PBM",
+    "name": "9x18mm PM PBM gzh",
+    "shortName": "PBM gzh",
     "weight": 0.007,
     "caliber": "Caliber9x18PM",
     "stackMaxSize": 50,
@@ -415,8 +415,8 @@
   },
   "56dff3afd2720bba668b4567": {
     "id": "56dff3afd2720bba668b4567",
-    "name": "5.45x39 mm PS",
-    "shortName": "PS",
+    "name": "5.45x39mm PS gs",
+    "shortName": "PS gs",
     "weight": 0.01,
     "caliber": "Caliber545x39",
     "stackMaxSize": 60,
@@ -461,7 +461,7 @@
   },
   "57371eb62459776125652ac1": {
     "id": "57371eb62459776125652ac1",
-    "name": "9x18 mm PM PRS gs",
+    "name": "9x18mm PM PRS gs",
     "shortName": "PRS gs",
     "weight": 0.011,
     "caliber": "Caliber9x18PM",
@@ -484,7 +484,7 @@
   },
   "58864a4f2459770fcc257101": {
     "id": "58864a4f2459770fcc257101",
-    "name": "9x19 mm PSO gzh",
+    "name": "9x19mm PSO gzh",
     "shortName": "PSO gzh",
     "weight": 0.01,
     "caliber": "Caliber9x19PARA",
@@ -507,7 +507,7 @@
   },
   "58dd3ad986f77403051cba8f": {
     "id": "58dd3ad986f77403051cba8f",
-    "name": "7.62x51 mm M80",
+    "name": "7.62x51mm M80",
     "shortName": "M80",
     "weight": 0.024,
     "caliber": "Caliber762x51",
@@ -530,8 +530,8 @@
   },
   "59e6918f86f7746c9f75e849": {
     "id": "59e6918f86f7746c9f75e849",
-    "name": "5.56x45 mm Mk 255 Mod 0",
-    "shortName": "Mk255 Mod0",
+    "name": "5.56x45mm MK 255 Mod 0 (RRLP)",
+    "shortName": "RRLP",
     "weight": 0.012,
     "caliber": "Caliber556x45NATO",
     "stackMaxSize": 60,
@@ -553,8 +553,8 @@
   },
   "5887431f2459777e1612938f": {
     "id": "5887431f2459777e1612938f",
-    "name": "7.62x54R LPS Gzh",
-    "shortName": "LPS Gzh",
+    "name": "7.62x54R LPS gzh",
+    "shortName": "LPS",
     "weight": 0.024,
     "caliber": "Caliber762x54R",
     "stackMaxSize": 40,
@@ -576,8 +576,8 @@
   },
   "56dff338d2720bbd668b4569": {
     "id": "56dff338d2720bbd668b4569",
-    "name": "5.45x39 mm PRS",
-    "shortName": "PRS",
+    "name": "5.45x39mm PRS gs",
+    "shortName": "PRS gs",
     "weight": 0.01,
     "caliber": "Caliber545x39",
     "stackMaxSize": 60,
@@ -599,8 +599,8 @@
   },
   "56dff061d2720bb5668b4567": {
     "id": "56dff061d2720bb5668b4567",
-    "name": "5.45x39 mm BT",
-    "shortName": "BT",
+    "name": "5.45x39mm BT gs",
+    "shortName": "BT gs",
     "weight": 0.01,
     "caliber": "Caliber545x39",
     "stackMaxSize": 60,
@@ -668,7 +668,7 @@
   },
   "56dff421d2720b5f5a8b4567": {
     "id": "56dff421d2720b5f5a8b4567",
-    "name": "5.45x39 mm SP",
+    "name": "5.45x39mm SP",
     "shortName": "SP",
     "weight": 0.01,
     "caliber": "Caliber545x39",
@@ -691,8 +691,8 @@
   },
   "59e6927d86f77411da468256": {
     "id": "59e6927d86f77411da468256",
-    "name": "5.56x45 mm 55 HP",
-    "shortName": "55 HP",
+    "name": "5.56x45mm HP",
+    "shortName": "HP",
     "weight": 0.012,
     "caliber": "Caliber556x45NATO",
     "stackMaxSize": 60,
@@ -714,7 +714,7 @@
   },
   "57371e4124597760ff7b25f1": {
     "id": "57371e4124597760ff7b25f1",
-    "name": "9x18 mm PM PPT gzh",
+    "name": "9x18mm PM PPT gzh",
     "shortName": "PPT gzh",
     "weight": 0.01,
     "caliber": "Caliber9x18PM",
@@ -737,7 +737,7 @@
   },
   "56dff216d2720bbd668b4568": {
     "id": "56dff216d2720bbd668b4568",
-    "name": "5.45x39 mm HP",
+    "name": "5.45x39mm HP",
     "shortName": "HP",
     "weight": 0.01,
     "caliber": "Caliber545x39",
@@ -760,7 +760,7 @@
   },
   "54527a984bdc2d4e668b4567": {
     "id": "54527a984bdc2d4e668b4567",
-    "name": "5.56x45 mm M855",
+    "name": "5.56x45mm M855",
     "shortName": "M855",
     "weight": 0.012,
     "caliber": "Caliber556x45NATO",
@@ -783,8 +783,8 @@
   },
   "5c0d5e4486f77478390952fe": {
     "id": "5c0d5e4486f77478390952fe",
-    "name": "5.45x39 mm 7N39 \"Igolnik\"",
-    "shortName": "7N39",
+    "name": "5.45x39mm PPBS gs \"Igolnik\"",
+    "shortName": "PPBS gs",
     "weight": 0.011,
     "caliber": "Caliber545x39",
     "stackMaxSize": 60,
@@ -806,7 +806,7 @@
   },
   "59e6658b86f77411d949b250": {
     "id": "59e6658b86f77411d949b250",
-    "name": ".366 ТКМ Geksa",
+    "name": ".366 TKM Geksa",
     "shortName": "Geksa",
     "weight": 0.016,
     "caliber": "Caliber366TKM",
@@ -829,7 +829,7 @@
   },
   "59e6542b86f77411dc52a77a": {
     "id": "59e6542b86f77411dc52a77a",
-    "name": ".366 ТКМ FMJ",
+    "name": ".366 TKM FMJ",
     "shortName": "FMJ",
     "weight": 0.016,
     "caliber": "Caliber366TKM",
@@ -852,8 +852,8 @@
   },
   "5c3df7d588a4501f290594e5": {
     "id": "5c3df7d588a4501f290594e5",
-    "name": "9x19 mm Green Tracer",
-    "shortName": "GT",
+    "name": "9x19mm T gzh",
+    "shortName": "T gzh",
     "weight": 0.006,
     "caliber": "Caliber9x19PARA",
     "stackMaxSize": 50,
@@ -944,8 +944,8 @@
   },
   "5a38ebd9c4a282000d722a5b": {
     "id": "5a38ebd9c4a282000d722a5b",
-    "name": "20x70 7.5mm Buckshot",
-    "shortName": "7.5 20c",
+    "name": "20/70 7.5mm Buckshot",
+    "shortName": "7.5mm",
     "weight": 0.04,
     "caliber": "Caliber20g",
     "stackMaxSize": 20,
@@ -967,8 +967,8 @@
   },
   "59e655cb86f77411dc52a77b": {
     "id": "59e655cb86f77411dc52a77b",
-    "name": ".366 ТКМ EKO",
-    "shortName": "EKO",
+    "name": ".366 TKM Eko",
+    "shortName": "Eko",
     "weight": 0.01,
     "caliber": "Caliber366TKM",
     "stackMaxSize": 50,
@@ -1013,8 +1013,8 @@
   },
   "5656d7c34bdc2d9d198b4587": {
     "id": "5656d7c34bdc2d9d198b4587",
-    "name": "7.62x39 mm PS",
-    "shortName": "PS",
+    "name": "7.62x39mm PS gzh",
+    "shortName": "PS gzh",
     "weight": 0.016,
     "caliber": "Caliber762x39",
     "stackMaxSize": 60,
@@ -1036,8 +1036,8 @@
   },
   "56dff4ecd2720b5f5a8b4568": {
     "id": "56dff4ecd2720b5f5a8b4568",
-    "name": "5.45x39 mm US",
-    "shortName": "US",
+    "name": "5.45x39mm US gs",
+    "shortName": "US gs",
     "weight": 0.01,
     "caliber": "Caliber545x39",
     "stackMaxSize": 60,
@@ -1082,7 +1082,7 @@
   },
   "59e4d3d286f774176a36250a": {
     "id": "59e4d3d286f774176a36250a",
-    "name": "7.62x39 mm HP",
+    "name": "7.62x39mm HP",
     "shortName": "HP",
     "weight": 0.016,
     "caliber": "Caliber762x39",
@@ -1105,8 +1105,8 @@
   },
   "59e6920f86f77411d82aa167": {
     "id": "59e6920f86f77411d82aa167",
-    "name": "5.56x45 mm 55 FMJ",
-    "shortName": "55 FMJ",
+    "name": "5.56x45mm FMJ",
+    "shortName": "FMJ",
     "weight": 0.012,
     "caliber": "Caliber556x45NATO",
     "stackMaxSize": 60,
@@ -1151,8 +1151,8 @@
   },
   "56dfef82d2720bbd668b4567": {
     "id": "56dfef82d2720bbd668b4567",
-    "name": "5.45x39 mm BP",
-    "shortName": "BP",
+    "name": "5.45x39mm BP gs",
+    "shortName": "BP gs",
     "weight": 0.01,
     "caliber": "Caliber545x39",
     "stackMaxSize": 60,
@@ -1166,7 +1166,7 @@
       "fragmentationChance": 0.16,
       "ricochetChance": 0.36,
       "penetrationChance": 0.72,
-      "penetrationPower": 32,
+      "penetrationPower": 34,
       "accuracy": 0,
       "recoil": 0,
       "initialSpeed": 890
@@ -1174,8 +1174,8 @@
   },
   "56dff026d2720bb8668b4567": {
     "id": "56dff026d2720bb8668b4567",
-    "name": "5.45x39 mm BS",
-    "shortName": "BS",
+    "name": "5.45x39mm BS gs",
+    "shortName": "BS gs",
     "weight": 0.01,
     "caliber": "Caliber545x39",
     "stackMaxSize": 60,
@@ -1197,8 +1197,8 @@
   },
   "59e4d24686f7741776641ac7": {
     "id": "59e4d24686f7741776641ac7",
-    "name": "7.62x39 mm US",
-    "shortName": "US",
+    "name": "7.62x39mm US gzh",
+    "shortName": "US gzh",
     "weight": 0.01,
     "caliber": "Caliber762x39",
     "stackMaxSize": 60,
@@ -1220,8 +1220,8 @@
   },
   "59e4cf5286f7741778269d8a": {
     "id": "59e4cf5286f7741778269d8a",
-    "name": "7.62x39 mm T45M",
-    "shortName": "T45M",
+    "name": "7.62x39mm T-45M1 gzh",
+    "shortName": "T-45M1",
     "weight": 0.01,
     "caliber": "Caliber762x39",
     "stackMaxSize": 60,
@@ -1244,7 +1244,7 @@
   "5d6e6a05a4b93618084f58d0": {
     "id": "5d6e6a05a4b93618084f58d0",
     "name": "20/70 Star Slug",
-    "shortName": "20/70 Slug",
+    "shortName": "Slug",
     "weight": 0.034,
     "caliber": "Caliber20g",
     "stackMaxSize": 20,
@@ -1266,8 +1266,8 @@
   },
   "56dff4a2d2720bbd668b456a": {
     "id": "56dff4a2d2720bbd668b456a",
-    "name": "5.45x39 mm T",
-    "shortName": "T",
+    "name": "5.45x39mm T gs",
+    "shortName": "T gs",
     "weight": 0.01,
     "caliber": "Caliber545x39",
     "stackMaxSize": 60,
@@ -1289,8 +1289,8 @@
   },
   "59e0d99486f7744a32234762": {
     "id": "59e0d99486f7744a32234762",
-    "name": "7.62x39 mm BP",
-    "shortName": "BP",
+    "name": "7.62x39mm BP gzh",
+    "shortName": "BP gzh",
     "weight": 0.01,
     "caliber": "Caliber762x39",
     "stackMaxSize": 60,
@@ -1335,7 +1335,7 @@
   },
   "5a6086ea4f39f99cd479502f": {
     "id": "5a6086ea4f39f99cd479502f",
-    "name": "7.62x51 mm M61",
+    "name": "7.62x51mm M61",
     "shortName": "M61",
     "weight": 0.024,
     "caliber": "Caliber762x51",
@@ -1358,7 +1358,7 @@
   },
   "57371b192459775a9f58a5e0": {
     "id": "57371b192459775a9f58a5e0",
-    "name": "9x18 mm PM PPe gzh",
+    "name": "9x18mm PM PPe gzh",
     "shortName": "PPe gzh",
     "weight": 0.009,
     "caliber": "Caliber9x18PM",
@@ -1381,8 +1381,8 @@
   },
   "59e77a2386f7742ee578960a": {
     "id": "59e77a2386f7742ee578960a",
-    "name": "7.62x54R 7N1 Sniper cartridge",
-    "shortName": "7N1",
+    "name": "7.62x54R PS",
+    "shortName": "PS",
     "weight": 0.024,
     "caliber": "Caliber762x54R",
     "stackMaxSize": 40,
@@ -1427,7 +1427,7 @@
   },
   "56dff0bed2720bb0668b4567": {
     "id": "56dff0bed2720bb0668b4567",
-    "name": "5.45x39 mm FMJ",
+    "name": "5.45x39mm FMJ",
     "shortName": "FMJ",
     "weight": 0.01,
     "caliber": "Caliber545x39",
@@ -1450,8 +1450,8 @@
   },
   "5c0d5ae286f7741e46554302": {
     "id": "5c0d5ae286f7741e46554302",
-    "name": "5.56x45mm Warmage",
-    "shortName": "WG",
+    "name": "5.56x45mm Warmageddon",
+    "shortName": "Warmageddon",
     "weight": 0.011,
     "caliber": "Caliber556x45NATO",
     "stackMaxSize": 60,
@@ -1473,8 +1473,8 @@
   },
   "56dff2ced2720bb4668b4567": {
     "id": "56dff2ced2720bb4668b4567",
-    "name": "5.45x39 mm PP",
-    "shortName": "PP",
+    "name": "5.45x39mm PP gs",
+    "shortName": "PP gs",
     "weight": 0.01,
     "caliber": "Caliber545x39",
     "stackMaxSize": 60,
@@ -1496,7 +1496,7 @@
   },
   "5cde8864d7f00c0010373be1": {
     "id": "5cde8864d7f00c0010373be1",
-    "name": "12.7x108 mm B-32",
+    "name": "12.7x108 mm B-32 gl",
     "shortName": "B-32",
     "weight": 0.133,
     "caliber": "Caliber127x108",
@@ -1542,8 +1542,8 @@
   },
   "5a269f97c4a282000b151807": {
     "id": "5a269f97c4a282000b151807",
-    "name": "9x21 mm SP10",
-    "shortName": "SP10",
+    "name": "9x21mm PS gzh",
+    "shortName": "PS gzh",
     "weight": 0.023,
     "caliber": "Caliber9x21",
     "stackMaxSize": 50,
@@ -1565,8 +1565,8 @@
   },
   "5a26abfac4a28232980eabff": {
     "id": "5a26abfac4a28232980eabff",
-    "name": "9x21 mm SP11",
-    "shortName": "SP11",
+    "name": "9x21mm P gzh",
+    "shortName": "P gzh",
     "weight": 0.023,
     "caliber": "Caliber9x21",
     "stackMaxSize": 50,
@@ -1588,7 +1588,7 @@
   },
   "5c0d56a986f774449d5de529": {
     "id": "5c0d56a986f774449d5de529",
-    "name": "9x19 mm RIP",
+    "name": "9x19mm RIP",
     "shortName": "RIP",
     "weight": 0.013,
     "caliber": "Caliber9x19PARA",
@@ -1611,7 +1611,7 @@
   },
   "5c925fa22e221601da359b7b": {
     "id": "5c925fa22e221601da359b7b",
-    "name": "9x19 mm AP 6.3",
+    "name": "9x19mm AP 6.3",
     "shortName": "AP 6.3",
     "weight": 0.009,
     "caliber": "Caliber9x19PARA",
@@ -1634,7 +1634,7 @@
   },
   "5a3c16fe86f77452b62de32a": {
     "id": "5a3c16fe86f77452b62de32a",
-    "name": "9x19 mm Luger CCI",
+    "name": "9x19mm Luger CCI",
     "shortName": "Luger CCI",
     "weight": 0.015,
     "caliber": "Caliber9x19PARA",
@@ -1657,7 +1657,7 @@
   },
   "5656eb674bdc2d35148b457c": {
     "id": "5656eb674bdc2d35148b457c",
-    "name": "40 mm VOG-25",
+    "name": "40mm VOG-25",
     "shortName": "40mm",
     "weight": 0.25,
     "caliber": "Caliber40mmRU",
@@ -1680,8 +1680,8 @@
   },
   "5c0d688c86f77413ae3407b2": {
     "id": "5c0d688c86f77413ae3407b2",
-    "name": "9x39 mm 7N12 BP",
-    "shortName": "BP",
+    "name": "9x39mm BP gs",
+    "shortName": "BP gs",
     "weight": 0.023,
     "caliber": "Caliber9x39",
     "stackMaxSize": 50,
@@ -1703,8 +1703,8 @@
   },
   "5a26ac06c4a282000c5a90a8": {
     "id": "5a26ac06c4a282000c5a90a8",
-    "name": "9x21 mm SP12",
-    "shortName": "SP12",
+    "name": "9x21mm PE gzh",
+    "shortName": "PE gzh",
     "weight": 0.023,
     "caliber": "Caliber9x21",
     "stackMaxSize": 50,
@@ -1724,33 +1724,10 @@
       "initialSpeed": 415
     }
   },
-  "5996f6d686f77467977ba6cc": {
-    "id": "5996f6d686f77467977ba6cc",
-    "name": "F1 Shrapnel",
-    "shortName": "F1 Shrapnel",
-    "weight": 0.01,
-    "caliber": "Caliber9x18PM",
-    "stackMaxSize": 1,
-    "tracer": true,
-    "tracerColor": "tracerYellow",
-    "ammoType": "bullet",
-    "projectileCount": 1,
-    "ballistics": {
-      "damage": 40,
-      "armorDamage": 38,
-      "fragmentationChance": 0.1,
-      "ricochetChance": 0.3,
-      "penetrationChance": 0.25,
-      "penetrationPower": 15,
-      "accuracy": 0,
-      "recoil": 0,
-      "initialSpeed": 90
-    }
-  },
   "5c0d668f86f7747ccb7f13b2": {
     "id": "5c0d668f86f7747ccb7f13b2",
-    "name": "9x39 mm 7N9 SPP",
-    "shortName": "SPP",
+    "name": "9x39mm SPP gs",
+    "shortName": "SPP gs",
     "weight": 0.023,
     "caliber": "Caliber9x39",
     "stackMaxSize": 50,
@@ -1772,8 +1749,8 @@
   },
   "57a0dfb82459774d3078b56c": {
     "id": "57a0dfb82459774d3078b56c",
-    "name": "9x39 mm SP-5",
-    "shortName": "SP-5",
+    "name": "9x39 mm SP5 gs",
+    "shortName": "SP5",
     "weight": 0.023,
     "caliber": "Caliber9x39",
     "stackMaxSize": 50,
@@ -1793,33 +1770,10 @@
       "initialSpeed": 290
     }
   },
-  "5996f6fc86f7745e585b4de3": {
-    "id": "5996f6fc86f7745e585b4de3",
-    "name": "M67 Shrapnel",
-    "shortName": "M67 Shrapnel",
-    "weight": 0.01,
-    "caliber": "Caliber9x18PM",
-    "stackMaxSize": 1,
-    "tracer": true,
-    "tracerColor": "tracerYellow",
-    "ammoType": "bullet",
-    "projectileCount": 1,
-    "ballistics": {
-      "damage": 45,
-      "armorDamage": 32,
-      "fragmentationChance": 0.5,
-      "ricochetChance": 0.2,
-      "penetrationChance": 0.1,
-      "penetrationPower": 12,
-      "accuracy": 0,
-      "recoil": 0,
-      "initialSpeed": 100
-    }
-  },
   "57a0e5022459774d1673f889": {
     "id": "57a0e5022459774d1673f889",
-    "name": "9x39 mm SP-6",
-    "shortName": "SP-6",
+    "name": "9x39 mm SP6 gs",
+    "shortName": "SP6",
     "weight": 0.023,
     "caliber": "Caliber9x39",
     "stackMaxSize": 50,
@@ -1841,8 +1795,8 @@
   },
   "5a26ac0ec4a28200741e1e18": {
     "id": "5a26ac0ec4a28200741e1e18",
-    "name": "9x21 mm SP13",
-    "shortName": "SP13",
+    "name": "9x21mm BT gzh",
+    "shortName": "BT gzh",
     "weight": 0.023,
     "caliber": "Caliber9x21",
     "stackMaxSize": 50,
@@ -1860,52 +1814,6 @@
       "accuracy": -4,
       "recoil": -4,
       "initialSpeed": 397
-    }
-  },
-  "5943d9c186f7745a13413ac9": {
-    "id": "5943d9c186f7745a13413ac9",
-    "name": "Shrapnel",
-    "shortName": "Shrapnel",
-    "weight": 0.01,
-    "caliber": "Caliber9x18PM",
-    "stackMaxSize": 1,
-    "tracer": true,
-    "tracerColor": "tracerYellow",
-    "ammoType": "bullet",
-    "projectileCount": 1,
-    "ballistics": {
-      "damage": 20,
-      "armorDamage": 32,
-      "fragmentationChance": 0.5,
-      "ricochetChance": 0.2,
-      "penetrationChance": 0.25,
-      "penetrationPower": 16,
-      "accuracy": 0,
-      "recoil": 0,
-      "initialSpeed": 150
-    }
-  },
-  "5996f6cb86f774678763a6ca": {
-    "id": "5996f6cb86f774678763a6ca",
-    "name": "RGD-5 Shrapnel",
-    "shortName": "RGD-5 Shrapnel",
-    "weight": 0.01,
-    "caliber": "Caliber9x18PM",
-    "stackMaxSize": 1,
-    "tracer": true,
-    "tracerColor": "tracerYellow",
-    "ammoType": "bullet",
-    "projectileCount": 1,
-    "ballistics": {
-      "damage": 55,
-      "armorDamage": 32,
-      "fragmentationChance": 0.5,
-      "ricochetChance": 0.2,
-      "penetrationChance": 0.2,
-      "penetrationPower": 10,
-      "accuracy": 0,
-      "recoil": 0,
-      "initialSpeed": 90
     }
   },
   "5cadf6ddae9215051e1c23b2": {
@@ -1933,7 +1841,7 @@
   },
   "5d2f2ab648f03550091993ca": {
     "id": "5d2f2ab648f03550091993ca",
-    "name": "12.7x108 mm BZT-44M",
+    "name": "12.7x108 mm BZT-44M gzh",
     "shortName": "BZT-44M",
     "weight": 0.128,
     "caliber": "Caliber127x108",
@@ -1979,8 +1887,8 @@
   },
   "5d6e6806a4b936088465b17e": {
     "id": "5d6e6806a4b936088465b17e",
-    "name": "12/70 8.5 mm \"Magnum\" Buckshot",
-    "shortName": "8.5 12c",
+    "name": "12/70 8.5mm \"Magnum\" Buckshot",
+    "shortName": "Magnum",
     "weight": 0.059,
     "caliber": "Caliber12g",
     "stackMaxSize": 20,
@@ -2002,8 +1910,8 @@
   },
   "560d5e524bdc2d25448b4571": {
     "id": "560d5e524bdc2d25448b4571",
-    "name": "12x70 7mm Buckshot",
-    "shortName": "7mm 12c",
+    "name": "12/70 7mm buckshot",
+    "shortName": "7mm",
     "weight": 0.05,
     "caliber": "Caliber12g",
     "stackMaxSize": 20,
@@ -2026,7 +1934,7 @@
   "5d6e6772a4b936088465b17c": {
     "id": "5d6e6772a4b936088465b17c",
     "name": "12/70 5.25mm Buckshot",
-    "shortName": "5.25 12c",
+    "shortName": "5.25mm",
     "weight": 0.044,
     "caliber": "Caliber12g",
     "stackMaxSize": 20,
@@ -2071,8 +1979,8 @@
   },
   "5d6e67fba4b9361bc73bc779": {
     "id": "5d6e67fba4b9361bc73bc779",
-    "name": "12x70 6.5 mm \"Express\" Buckshot",
-    "shortName": "6.5 12c",
+    "name": "12/70 6.5mm Express buckshot",
+    "shortName": "Express",
     "weight": 0.048,
     "caliber": "Caliber12g",
     "stackMaxSize": 20,
@@ -2095,7 +2003,7 @@
   "5d6e6911a4b9361bd5780d52": {
     "id": "5d6e6911a4b9361bd5780d52",
     "name": "12/70 Flechette",
-    "shortName": "Flech.",
+    "shortName": "Flechette",
     "weight": 0.04,
     "caliber": "Caliber12g",
     "stackMaxSize": 20,
@@ -2117,7 +2025,7 @@
   },
   "5d6e68e6a4b9361c140bcfe0": {
     "id": "5d6e68e6a4b9361c140bcfe0",
-    "name": "12/70 FTX Custom LIte Slug",
+    "name": "12/70 FTX Custom Lite Slug",
     "shortName": "FTX",
     "weight": 0.026,
     "caliber": "Caliber12g",
@@ -2163,8 +2071,8 @@
   },
   "5c0d591486f7744c505b416f": {
     "id": "5c0d591486f7744c505b416f",
-    "name": "12x70 RIP",
-    "shortName": "12x70 RIP",
+    "name": "12/70 RIP",
+    "shortName": "RIP",
     "weight": 0.04,
     "caliber": "Caliber12g",
     "stackMaxSize": 20,
@@ -2187,7 +2095,7 @@
   "5d6e69c7a4b9360b6c0d54e4": {
     "id": "5d6e69c7a4b9360b6c0d54e4",
     "name": "20/70 7.3mm Buckshot",
-    "shortName": "7.3 20c",
+    "shortName": "7.3mm",
     "weight": 0.032,
     "caliber": "Caliber20g",
     "stackMaxSize": 20,
@@ -2210,7 +2118,7 @@
   "5d6e68dea4b9361bcc29e659": {
     "id": "5d6e68dea4b9361bcc29e659",
     "name": "12/70 Dual Sabot Slug",
-    "shortName": "2-Sabot",
+    "shortName": "DualSabot",
     "weight": 0.05,
     "caliber": "Caliber12g",
     "stackMaxSize": 20,
@@ -2233,7 +2141,7 @@
   "5d6e6a5fa4b93614ec501745": {
     "id": "5d6e6a5fa4b93614ec501745",
     "name": "20/70 Devastator Slug",
-    "shortName": "Dev.",
+    "shortName": "Devastator",
     "weight": 0.029,
     "caliber": "Caliber20g",
     "stackMaxSize": 20,
@@ -2255,7 +2163,7 @@
   },
   "5d6e6869a4b9361c140bcfde": {
     "id": "5d6e6869a4b9361c140bcfde",
-    "name": "12/70 Grizzly 40 Slug ",
+    "name": "12/70 Grizzly 40 Slug",
     "shortName": "Grizzly",
     "weight": 0.055,
     "caliber": "Caliber12g",
@@ -2278,7 +2186,7 @@
   },
   "5cc80f53e4a949000e1ea4f8": {
     "id": "5cc80f53e4a949000e1ea4f8",
-    "name": "5.7x28 mm L191",
+    "name": "5.7x28mm L191",
     "shortName": "L191",
     "weight": 0.006,
     "caliber": "Caliber57x28",
@@ -2301,7 +2209,7 @@
   },
   "5cc80f79e4a949033c7343b2": {
     "id": "5cc80f79e4a949033c7343b2",
-    "name": "5.7x28 mm SS198LF",
+    "name": "5.7x28mm SS198LF",
     "shortName": "SS198LF",
     "weight": 0.006,
     "caliber": "Caliber57x28",
@@ -2324,8 +2232,8 @@
   },
   "5d6e68c4a4b9361b93413f79": {
     "id": "5d6e68c4a4b9361b93413f79",
-    "name": "12x70 shell with .50 BMG bullet",
-    "shortName": ".50 12c",
+    "name": "12/70 shell with .50 BMG bullet",
+    "shortName": 0.5,
     "weight": 0.055,
     "caliber": "Caliber12g",
     "stackMaxSize": 20,
@@ -2347,7 +2255,7 @@
   },
   "5cc80f8fe4a949033b0224a2": {
     "id": "5cc80f8fe4a949033b0224a2",
-    "name": "5.7x28 mm SS197SR",
+    "name": "5.7x28mm SS197SR",
     "shortName": "SS197SR",
     "weight": 0.007,
     "caliber": "Caliber57x28",
@@ -2371,7 +2279,7 @@
   "5d6e689ca4b9361bc8618956": {
     "id": "5d6e689ca4b9361bc8618956",
     "name": "12/70 \"Poleva-6u\" Slug",
-    "shortName": "P-6u 12c",
+    "shortName": "Poleva-6u",
     "weight": 0.048,
     "caliber": "Caliber12g",
     "stackMaxSize": 20,
@@ -2394,7 +2302,7 @@
   "5d6e6891a4b9361bd473feea": {
     "id": "5d6e6891a4b9361bd473feea",
     "name": "12/70 \"Poleva-3\" Slug",
-    "shortName": "P-3 12c",
+    "shortName": "Poleva-3",
     "weight": 0.044,
     "caliber": "Caliber12g",
     "stackMaxSize": 20,
@@ -2417,7 +2325,7 @@
   "5d6e69b9a4b9361bc8618958": {
     "id": "5d6e69b9a4b9361bc8618958",
     "name": "20/70 6.2mm Buckshot",
-    "shortName": "6.2 20k",
+    "shortName": "6.2mm",
     "weight": 0.032,
     "caliber": "Caliber20g",
     "stackMaxSize": 20,
@@ -2440,7 +2348,7 @@
   "5d6e695fa4b936359b35d852": {
     "id": "5d6e695fa4b936359b35d852",
     "name": "20/70 5.6mm Buckshot",
-    "shortName": "5.6 20c",
+    "shortName": "5.6mm",
     "weight": 0.028,
     "caliber": "Caliber20g",
     "stackMaxSize": 20,
@@ -2462,8 +2370,8 @@
   },
   "5d6e6a53a4b9361bd473feec": {
     "id": "5d6e6a53a4b9361bd473feec",
-    "name": "20/70 Slug \"Poleva-3\"",
-    "shortName": "P-3 20c",
+    "name": "20/70 \"Poleva-3\" slug",
+    "shortName": "Poleva-3",
     "weight": 0.029,
     "caliber": "Caliber20g",
     "stackMaxSize": 20,
@@ -2485,8 +2393,8 @@
   },
   "5d6e6a42a4b9364f07165f52": {
     "id": "5d6e6a42a4b9364f07165f52",
-    "name": "20/70 Slug Poleva-6u",
-    "shortName": "P-6u 20c",
+    "name": "20/70 \"Poleva-6u\" slug",
+    "shortName": "Poleva-6u",
     "weight": 0.032,
     "caliber": "Caliber20g",
     "stackMaxSize": 20,
@@ -2508,7 +2416,7 @@
   },
   "5cc80f38e4a949001152b560": {
     "id": "5cc80f38e4a949001152b560",
-    "name": "5.7x28 mm SS190",
+    "name": "5.7x28mm SS190",
     "shortName": "SS190",
     "weight": 0.006,
     "caliber": "Caliber57x28",
@@ -2531,8 +2439,8 @@
   },
   "5e81f423763d9f754677bf2e": {
     "id": "5e81f423763d9f754677bf2e",
-    "name": ".45 ACP FMJ",
-    "shortName": ".45 FMJ",
+    "name": ".45 ACP Match FMJ",
+    "shortName": "FMJ",
     "weight": 0.015,
     "caliber": "Caliber1143x23ACP",
     "stackMaxSize": 50,
@@ -2554,7 +2462,7 @@
   },
   "5cc80f67e4a949035e43bbba": {
     "id": "5cc80f67e4a949035e43bbba",
-    "name": "5.7x28 mm SB193",
+    "name": "5.7x28mm SB193",
     "shortName": "SB193",
     "weight": 0.007,
     "caliber": "Caliber57x28",
@@ -2577,8 +2485,8 @@
   },
   "5e023e53d4353e3302577c4c": {
     "id": "5e023e53d4353e3302577c4c",
-    "name": "7.62x51 mm BPZ FMJ",
-    "shortName": "BPZ FMJ",
+    "name": "7.62x51mm FMJ",
+    "shortName": "FMJ",
     "weight": 0.022,
     "caliber": "Caliber762x51",
     "stackMaxSize": 40,
@@ -2600,8 +2508,8 @@
   },
   "5e023e6e34d52a55c3304f71": {
     "id": "5e023e6e34d52a55c3304f71",
-    "name": "7.62x51 mm TPZ SP",
-    "shortName": "TPZ SP",
+    "name": "7.62x51mm SP",
+    "shortName": "SP",
     "weight": 0.023,
     "caliber": "Caliber762x51",
     "stackMaxSize": 40,
@@ -2623,8 +2531,8 @@
   },
   "5e023d34e8a400319a28ed44": {
     "id": "5e023d34e8a400319a28ed44",
-    "name": "7.62x54R 7BT1",
-    "shortName": "7BT1",
+    "name": "7.62x54R BT gzh",
+    "shortName": "BT",
     "weight": 0.024,
     "caliber": "Caliber762x54R",
     "stackMaxSize": 40,
@@ -2646,8 +2554,8 @@
   },
   "5e023d48186a883be655e551": {
     "id": "5e023d48186a883be655e551",
-    "name": "7.62x54R 7N37",
-    "shortName": "7N37",
+    "name": "7.62x54R BS",
+    "shortName": "BS",
     "weight": 0.025,
     "caliber": "Caliber762x54R",
     "stackMaxSize": 40,
@@ -2670,7 +2578,7 @@
   "5e023cf8186a883be655e54f": {
     "id": "5e023cf8186a883be655e54f",
     "name": "7.62x54R T-46M",
-    "shortName": "T46M",
+    "shortName": "T-46M",
     "weight": 0.025,
     "caliber": "Caliber762x54R",
     "stackMaxSize": 40,
@@ -2693,7 +2601,7 @@
   "5efb0d4f4bc50b58e81710f3": {
     "id": "5efb0d4f4bc50b58e81710f3",
     "name": ".45 ACP Lasermatch FMJ",
-    "shortName": ".45 LM",
+    "shortName": "LM",
     "weight": 0.015,
     "caliber": "Caliber1143x23ACP",
     "stackMaxSize": 50,
@@ -2715,8 +2623,8 @@
   },
   "5f0596629e22f464da6bbdd9": {
     "id": "5f0596629e22f464da6bbdd9",
-    "name": ".366 AP",
-    "shortName": "366 AP",
+    "name": ".366 TKM AP-M",
+    "shortName": "AP-M",
     "weight": 0.019,
     "caliber": "Caliber366TKM",
     "stackMaxSize": 50,
@@ -2738,7 +2646,7 @@
   },
   "5efb0c1bd79ff02a1f5e68d9": {
     "id": "5efb0c1bd79ff02a1f5e68d9",
-    "name": "7.62x51 mm M993",
+    "name": "7.62x51mm M993",
     "shortName": "M993",
     "weight": 0.024,
     "caliber": "Caliber762x51",
@@ -2761,8 +2669,8 @@
   },
   "5efb0da7a29a85116f6ea05f": {
     "id": "5efb0da7a29a85116f6ea05f",
-    "name": "9x19 mm 7N31",
-    "shortName": "7N31",
+    "name": "9x19mm PBP gzh",
+    "shortName": "PBP gzh",
     "weight": 0.009,
     "caliber": "Caliber9x19PARA",
     "stackMaxSize": 50,
@@ -2784,8 +2692,8 @@
   },
   "5e85aa1a988a8701445df1f5": {
     "id": "5e85aa1a988a8701445df1f5",
-    "name": "23x75mm \"Barricade\"",
-    "shortName": "Barr.",
+    "name": "23x75mm \"Barrikada\" slug",
+    "shortName": "Barrikada",
     "weight": 0.08,
     "caliber": "Caliber23x75",
     "stackMaxSize": 15,
@@ -2807,8 +2715,8 @@
   },
   "5e85a9a6eacf8c039e4e2ac1": {
     "id": "5e85a9a6eacf8c039e4e2ac1",
-    "name": "23x75mm Shrapnel 10",
-    "shortName": "Shrap.10",
+    "name": "23x75mm \"Shrapnel-10\" buckshot",
+    "shortName": "Shrap-10",
     "weight": 0.08,
     "caliber": "Caliber23x75",
     "stackMaxSize": 15,
@@ -2830,8 +2738,8 @@
   },
   "5f647f31b6238e5dd066e196": {
     "id": "5f647f31b6238e5dd066e196",
-    "name": "23x75mm Shrapnel-25",
-    "shortName": "Shr.25",
+    "name": "23x75mm Shrapnel-25 buckshot",
+    "shortName": "Shrapnel-25",
     "weight": 0.08,
     "caliber": "Caliber23x75",
     "stackMaxSize": 15,
@@ -2853,8 +2761,8 @@
   },
   "5ede474b0c226a66f5402622": {
     "id": "5ede474b0c226a66f5402622",
-    "name": "40x46 mm M381 (HE)",
-    "shortName": " M381",
+    "name": "40x46mm M381(HE) grenade",
+    "shortName": "M381",
     "weight": 0.23,
     "caliber": "Caliber40x46",
     "stackMaxSize": 1,
@@ -2876,7 +2784,7 @@
   },
   "5ede475b549eed7c6d5c18fb": {
     "id": "5ede475b549eed7c6d5c18fb",
-    "name": "40x46 mm M386(HE)",
+    "name": "40x46mm M386 (HE) grenade",
     "shortName": "M386",
     "weight": 0.23,
     "caliber": "Caliber40x46",
@@ -2899,7 +2807,7 @@
   },
   "5ede4739e0350d05467f73e8": {
     "id": "5ede4739e0350d05467f73e8",
-    "name": "40x46 mm M406 (HE)",
+    "name": "40x46mm M406 (HE) grenade",
     "shortName": "M406",
     "weight": 0.23,
     "caliber": "Caliber40x46",
@@ -2922,7 +2830,7 @@
   },
   "5f0c892565703e5c461894e9": {
     "id": "5f0c892565703e5c461894e9",
-    "name": "40x46 mm M433 (HEDP)",
+    "name": "40x46mm M433 (HEDP) grenade",
     "shortName": "M433",
     "weight": 0.23,
     "caliber": "Caliber40x46",
@@ -2945,7 +2853,7 @@
   },
   "5ede47405b097655935d7d16": {
     "id": "5ede47405b097655935d7d16",
-    "name": "40x46 mm M441(HE)",
+    "name": "40x46mm M441(HE) grenade",
     "shortName": "M441",
     "weight": 0.23,
     "caliber": "Caliber40x46",
@@ -2968,7 +2876,7 @@
   },
   "5ede475339ee016e8c534742": {
     "id": "5ede475339ee016e8c534742",
-    "name": "40x46 mm M576(MP-APERS)",
+    "name": "40x46mm M576 (MP-APERS) grenade",
     "shortName": "M576",
     "weight": 0.12,
     "caliber": "Caliber40x46",
@@ -2992,7 +2900,7 @@
   "5efb0cabfb3e451d70735af5": {
     "id": "5efb0cabfb3e451d70735af5",
     "name": ".45 ACP AP",
-    "shortName": ".45 AP",
+    "shortName": "AP",
     "weight": 0.015,
     "caliber": "Caliber1143x23ACP",
     "stackMaxSize": 50,
@@ -3015,7 +2923,7 @@
   "5efb0fc6aeb21837e749c801": {
     "id": "5efb0fc6aeb21837e749c801",
     "name": ".45 ACP Hydra-Shok",
-    "shortName": ".45 HS",
+    "shortName": "HS",
     "weight": 0.017,
     "caliber": "Caliber1143x23ACP",
     "stackMaxSize": 50,
@@ -3037,8 +2945,8 @@
   },
   "5ea2a8e200685063ec28c05a": {
     "id": "5ea2a8e200685063ec28c05a",
-    "name": ".45 RIP",
-    "shortName": ".45 RIP",
+    "name": ".45 ACP RIP",
+    "shortName": "RIP",
     "weight": 0.019,
     "caliber": "Caliber1143x23ACP",
     "stackMaxSize": 50,
@@ -3060,8 +2968,8 @@
   },
   "58820d1224597753c90aeb13": {
     "id": "58820d1224597753c90aeb13",
-    "name": "12x70 Led slug",
-    "shortName": "12x70 Slug",
+    "name": "12/70 Lead slug",
+    "shortName": "Slug",
     "weight": 0.05,
     "caliber": "Caliber12g",
     "stackMaxSize": 20,
@@ -3083,7 +2991,7 @@
   },
   "5d6e68b3a4b9361bca7e50b5": {
     "id": "5d6e68b3a4b9361bca7e50b5",
-    "name": "12/70 HP Slug Copper Sabot Premier",
+    "name": "12/70 Copper Sabot Premier HP Slug",
     "shortName": "CSP",
     "weight": 0.043,
     "caliber": "Caliber12g",
@@ -3106,8 +3014,8 @@
   },
   "5d6e68d1a4b93622fe60e845": {
     "id": "5d6e68d1a4b93622fe60e845",
-    "name": "12/70 HP Slug \"SuperFormance\"",
-    "shortName": "SF",
+    "name": "12/70 SuperFormance HP Slug",
+    "shortName": "SFormance",
     "weight": 0.034,
     "caliber": "Caliber12g",
     "stackMaxSize": 20,
@@ -3129,8 +3037,8 @@
   },
   "5e85a9f4add9fe03027d9bf1": {
     "id": "5e85a9f4add9fe03027d9bf1",
-    "name": "23x75mm \"Star\"",
-    "shortName": "Star",
+    "name": "23x75mm \"Zvezda\" flashbang round",
+    "shortName": "Zvezda",
     "weight": 0.07,
     "caliber": "Caliber23x75",
     "stackMaxSize": 15,
@@ -3152,7 +3060,7 @@
   },
   "5cc86832d7f00c000d3a6e6c": {
     "id": "5cc86832d7f00c000d3a6e6c",
-    "name": "5.7x28 mm R37.F",
+    "name": "5.7x28mm R37.F",
     "shortName": "R37.F",
     "weight": 0.006,
     "caliber": "Caliber57x28",
@@ -3175,7 +3083,7 @@
   },
   "5cc86840d7f00c002412c56c": {
     "id": "5cc86840d7f00c002412c56c",
-    "name": "5.7x28 mm R37.X",
+    "name": "5.7x28mm R37.X",
     "shortName": "R37.X",
     "weight": 0.006,
     "caliber": "Caliber57x28",
@@ -3198,8 +3106,8 @@
   },
   "5fbe3ffdf8b6a877a729ea82": {
     "id": "5fbe3ffdf8b6a877a729ea82",
-    "name": ".300 BPZ AAC Blackout",
-    "shortName": "BPZ",
+    "name": ".300 AAC Blackout BCP FMJ",
+    "shortName": "BCP FMJ",
     "weight": 0.015,
     "caliber": "Caliber762x35",
     "stackMaxSize": 60,
@@ -3244,7 +3152,7 @@
   },
   "5e023e88277cce2b522ff2b1": {
     "id": "5e023e88277cce2b522ff2b1",
-    "name": "7.62x51 mm Ultra Nosler",
+    "name": "7.62x51mm Ultra Nosler",
     "shortName": "Ultra Nosler",
     "weight": 0.021,
     "caliber": "Caliber762x51",
@@ -3313,8 +3221,8 @@
   },
   "5fc382c1016cce60e8341b20": {
     "id": "5fc382c1016cce60e8341b20",
-    "name": ".338 UPZ Lapua Magnum",
-    "shortName": ".338 UPZ",
+    "name": ".338 Lapua Magnum UPZ",
+    "shortName": "UPZ",
     "weight": 0.045,
     "caliber": "Caliber86x70",
     "stackMaxSize": 30,
@@ -3359,7 +3267,7 @@
   },
   "5efb0e16aeb21837e749c7ff": {
     "id": "5efb0e16aeb21837e749c7ff",
-    "name": "9x19 mm QuakeMaker",
+    "name": "9x19mm QuakeMaker",
     "shortName": "QuakeMaker",
     "weight": 0.013,
     "caliber": "Caliber9x19PARA",
@@ -3382,7 +3290,7 @@
   },
   "60194943740c5d77f6705eea": {
     "id": "60194943740c5d77f6705eea",
-    "name": "5.56x45 mm Mk 318 Mod 0 (SOST)",
+    "name": "5.56x45mm MK 318 Mod 0 (SOST)",
     "shortName": "SOST",
     "weight": 0.012,
     "caliber": "Caliber556x45NATO",
@@ -3392,20 +3300,20 @@
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
-      "damage": 65,
+      "damage": 67,
       "armorDamage": 35,
       "fragmentationChance": 0.15,
       "ricochetChance": 0.1,
       "penetrationChance": 0.21,
-      "penetrationPower": 21,
-      "accuracy": 5,
+      "penetrationPower": 20,
+      "accuracy": 10,
       "recoil": 0,
       "initialSpeed": 902
     }
   },
   "601949593ae8f707c4608daa": {
     "id": "601949593ae8f707c4608daa",
-    "name": "5.56x45 mm SSA AP",
+    "name": "5.56x45mm SSA AP",
     "shortName": "SSA AP",
     "weight": 0.013,
     "caliber": "Caliber556x45NATO",
@@ -3428,8 +3336,8 @@
   },
   "601aa3d2b2bcb34913271e6d": {
     "id": "601aa3d2b2bcb34913271e6d",
-    "name": "7.62x39 mm MAI AP",
-    "shortName": "7.62 AP",
+    "name": "7.62x39mm MAI AP",
+    "shortName": "MAI AP",
     "weight": 0.012,
     "caliber": "Caliber762x39",
     "stackMaxSize": 60,

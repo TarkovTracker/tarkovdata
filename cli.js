@@ -63,8 +63,68 @@ vorpal
 		callback();
 	});
 
+vorpal
+	.command('migrate-game-data', 'Custom migration to deal with game IDs plus custom IDs')
+	.action(function(args, callback) {
+		migrateQuests(args)
+		callback();
+	});
+
+vorpal
+	.command('migrate-hideout-items', 'Attempt to move hideout items to UUIDs')
+	.action(function(args, callback) {
+		migrateHideoutItems(args)
+		callback();
+	});
+
+function migrateHideoutItems(args) {
+	var fs = require('fs')
+	var hideoutData = require('./hideout.json')
+	var itemData = require('./items.en.json')
+
+	var itemDictionary = Object.values(itemData).reduce((a, x) => ({ ...a, [x.name]: x }), {})
+
+	hideoutData.modules.forEach((hideoutModule) => {
+		hideoutModule.require.forEach((requirement) => {
+			if (requirement.type == 'item') {
+				if (itemDictionary[requirement.name]) {
+					//console.log(`Replacing ${requirement.name} with ${itemDictionary[requirement.name].id}`)
+					requirement.name = itemDictionary[requirement.name].id
+				}else {
+					console.log(`Couldn't find an item ID for ${requirement.name}`)
+				}
+			}
+		})
+	})
+
+	var hideoutString = JSON.stringify(hideoutData, null, 4)
+
+	fs.writeFileSync('hideout.json', hideoutString);
+}
+
+function migrateQuests(args) {
+	var newQuests = require('./quests.json')
+	var oldQuests = require('./oldquests.json')
+	var fs = require('fs')
+	
+	newQuests.forEach((quest, id) => {
+		// Set the gameId to the current quest id
+		newQuests[id].gameId = quest.id
+		newQuests[id].id = oldQuests[id].id
+		if (quest.require && quest.require.quests) {
+			newQuests[id].require.quests = oldQuests[id].require.quests
+		}
+	})
+
+	var questString = JSON.stringify(newQuests, null, 4)
+
+	console.log(questString)
+
+	fs.writeFileSync('quests.json', questString);
+}
+
 function findQuests(args) {
-	var debugQuests = require('./quests.json')
+	var newQuests = require('./quests.json')
 	var testNames = require('./testdata.json')
 	
 	var questDictionaryTitle = debugQuests.reduce((a, x) => ({ ...a,
@@ -171,7 +231,7 @@ function newHideoutId(args) {
 function newHideoutObjectiveId(args) {
 	var debugHideout = require('./hideout.json')
 
-	var objectiveArray = debugHideout
+	var objectiveArray = debugHideout.modules
 		.reduce((acc, x) => acc.concat(x.require), [])
 
 	var highestObjectiveID = 0
@@ -213,7 +273,7 @@ function newObjectiveId(args) {
 function verifyHideoutData(args) {
 	// Find hideout IDs we may have duplicated (shouldn't happen)
 	var debugHideout = require('./hideout.json')
-	var result = Object.values(debugHideout.reduce((c, v) => {
+	var result = Object.values(debugHideout.modules.reduce((c, v) => {
 		let k = v.id;
 		c[k] = c[k] || [];
 		c[k].push(v);
@@ -229,14 +289,14 @@ function verifyHideoutData(args) {
 	// Get highest ID
 	var missingModuleIDs = []
 	var highestHideoutID = 0
-	for (var i = debugHideout.length - 1; i >= 0; i--) {
-		if (debugHideout[i].id > highestHideoutID) {
-			highestHideoutID = debugHideout[i].id
+	for (var i = debugHideout.modules.length - 1; i >= 0; i--) {
+		if (debugHideout.modules[i].id > highestHideoutID) {
+			highestHideoutID = debugHideout.modules[i].id
 		}
 	}
 	var filledIDs = new Array(highestHideoutID).fill(false)
-	for (var i = debugHideout.length - 1; i >= 0; i--) {
-		filledIDs[debugHideout[i].id] = true
+	for (var i = debugHideout.modules.length - 1; i >= 0; i--) {
+		filledIDs[debugHideout.modules[i].id] = true
 	}
 	for (var i = filledIDs.length - 1; i >= 0; i--) {
 		if (filledIDs[i] == false) {
@@ -251,9 +311,9 @@ function verifyHideoutData(args) {
 
 	// Find duplicated objective IDs (some may be intentional)
 	var hideoutObjectives = []
-	for (var i = debugHideout.length - 1; i >= 0; i--) {
-		for (var x = debugHideout[i].require.length - 1; x >= 0; x--) {
-			hideoutObjectives.push(debugHideout[i].require[x])
+	for (var i = debugHideout.modules.length - 1; i >= 0; i--) {
+		for (var x = debugHideout.modules[i].require.length - 1; x >= 0; x--) {
+			hideoutObjectives.push(debugHideout.modules[i].require[x])
 		}
 	}
 	var result = Object.values(hideoutObjectives.reduce((c, v) => {
