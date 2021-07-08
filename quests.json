@@ -2072,7 +2072,9 @@
         "wiki": "https://escapefromtarkov.gamepedia.com/Peacekeeping_mission",
         "exp": 32400,
         "nokappa": true,
-        "unlocks": [],
+        "unlocks": [
+            "60a3c68c37ea821725773ef5"
+        ],
         "reputation": [
             {
                 "trader": "Peacekeeper",
