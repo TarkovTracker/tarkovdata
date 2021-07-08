@@ -3479,7 +3479,7 @@
         "require": {
             "level": 12,
             "quests": [
-                83
+                82
             ]
         },
         "giver": "Mechanic",
@@ -8339,7 +8339,7 @@
         },
         "giver": "Peacekeeper",
         "turnin": "Peacekeeper",
-        "title": "Back door",
+        "title": "Revision",
         "wiki": "https://escapefromtarkov.fandom.com/wiki/Revision",
         "exp": 7300,
         "unlocks": [],
@@ -8442,6 +8442,271 @@
                 "location": "Reserve",
                 "id": 398
             }
+        ],
+        "gameId": "Unknown"
+    },
+    {
+        "id": 209,
+        "require": {
+            "level": 15,
+            "quests": [
+                204
+            ]
+        },
+        "giver": "Ragman",
+        "turnin": "Ragman",
+        "title": "Inventory check",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Inventory_check",
+        "exp": 10000,
+        "unlocks": [],
+        "reputation": [
+            {
+                "trader": "Ragman",
+                "rep": 0.03
+            }
+        ],
+        "objectives": [
+            {
+                "type": "key",
+                "target": "5d80ccac86f77470841ff452",
+                "number": 1,
+                "location": "Reserve",
+                "id": 404
+            },
+            {
+                "type": "key",
+                "target": "5d80ccdd86f77474f7575e02",
+                "number": 1,
+                "location": "Reserve",
+                "id": 405
+            },
+            {
+                "type": "key",
+                "target": "5d80cd1a86f77402aa362f42",
+                "number": 1,
+                "location": "Reserve",
+                "id": 406
+            },
+            {
+                "type": "locate",
+                "target": "Western Barracks arsenal 1",
+                "number": 1,
+                "location": "Reserve",
+                "id": 407
+            },
+            {
+                "type": "locate",
+                "target": "Western Barracks arsenal 2",
+                "number": 1,
+                "location": "Reserve",
+                "id": 408
+            },
+            {
+                "type": "locate",
+                "target": "Western Barracks duty room",
+                "number": 1,
+                "location": "Reserve",
+                "id": 409
+            },
+            {
+                "type": "locate",
+                "target": "Northern Barracks arsenal 1",
+                "number": 1,
+                "location": "Reserve",
+                "id": 410
+            },
+            {
+                "type": "locate",
+                "target": "Northern Barracks arsenal 1",
+                "number": 1,
+                "location": "Reserve",
+                "id": 411
+            }
+        ],
+        "gameId": "Unknown"
+    },
+    {
+        "id": 210,
+        "require": {
+            "level": 10,
+            "quests": [
+                192
+            ]
+        },
+        "giver": "Prapor",
+        "turnin": "Prapor",
+        "title": "No place for renegades",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/No_place_for_renegades",
+        "exp": 8500,
+        "unlocks": [],
+        "reputation": [
+            {
+                "trader": "Prapor",
+                "rep": 0.03
+            }
+        ],
+        "objectives": [
+            {
+                "type": "kill",
+                "target": "Scavs",
+                "number": 5,
+                "location": "Reserve",
+                "with": [
+                    "Raider scavs"
+                ],
+                "id": 412
+            }
+        ],
+        "gameId": "Unknown"
+    },
+    {
+        "id": 211,
+        "require": {
+            "level": 10,
+            "quests": [
+                210
+            ]
+        },
+        "giver": "Prapor",
+        "turnin": "Prapor",
+        "title": "Documents",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Documents",
+        "exp": 7800,
+        "unlocks": [],
+        "reputation": [
+            {
+                "trader": "Prapor",
+                "rep": 0.04
+            }
+        ],
+        "objectives": [
+            {
+                "type": "pickup",
+                "target": "Military documents No.1",
+                "number": 1,
+                "location": "Reserve",
+                "id": 413
+            },
+            {
+                "type": "pickup",
+                "target": "Military documents No.2",
+                "number": 1,
+                "location": "Reserve",
+                "id": 414
+            },
+            {
+                "type": "pickup",
+                "target": "Military documents No.3",
+                "number": 1,
+                "location": "Reserve",
+                "id": 415
+            }
+        ],
+        "gameId": "Unknown"
+    },
+    {
+        "id": 212,
+        "require": {
+            "level": 11,
+            "quests": [
+                192
+            ]
+        },
+        "giver": "Skier",
+        "turnin": "Skier",
+        "title": "Safe corridor",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Safe_corridor",
+        "exp": 9000,
+        "unlocks": [],
+        "reputation": [
+            {
+                "trader": "Skier",
+                "rep": 0.04
+            }
+        ],
+        "objectives": [
+            {
+                "type": "kill",
+                "target": "Scavs",
+                "number": 10,
+                "location": "Reserve",
+                "with": [
+                    "in underground warehouse"
+                ],
+                "id": 416
+            }        
+        ],
+        "gameId": "Unknown"
+    },
+    {
+        "id": 213,
+        "require": {
+            "level": 17,
+            "quests": [
+                165
+            ]
+        },
+        "giver": "Jaeger",
+        "turnin": "Jaeger",
+        "title": "Tagilla",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Tagilla",
+        "exp": 8500,
+        "unlocks": [],
+        "reputation": [
+            {
+                "trader": "Jaeger",
+                "rep": 0.04
+            }
+        ],
+        "objectives": [
+            {
+                "type": "kill",
+                "target": "Tagilla",
+                "number": 1,
+                "location": "Factory",
+                "id": 417
+            },
+            {
+                "type": "find",
+                "target": "60a7acf20c5cb24b01346648",
+                "number": 1,
+                "location": "Factory",
+                "id": 418
+            }      
+        ],
+        "gameId": "Unknown"
+    },
+    {
+        "id": 214,
+        "require": {
+            "level": 17,
+            "quests": [
+                165
+            ]
+        },
+        "giver": "Jaeger",
+        "turnin": "Jaeger",
+        "title": "Pest control",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Pest_control",
+        "exp": 7400,
+        "unlocks": [],
+        "reputation": [
+            {
+                "trader": "Jaeger",
+                "rep": 0.02
+            }
+        ],
+        "objectives": [
+            {
+                "type": "kill",
+                "target": "Scavs",
+                "number": 1,
+                "location": "Reserve",
+                "with": [
+                    "in barracks area"
+                ],
+                "id": 419
+            }     
         ],
         "gameId": "Unknown"
     }
