@@ -3125,6 +3125,7 @@
             {
                 "type": "pickup",
                 "target": "Docs 0013",
+                "hint": "East 108",
                 "number": 1,
                 "location": "Shoreline",
                 "id": 153
