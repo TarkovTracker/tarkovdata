@@ -8201,6 +8201,20 @@
         "nokappa": true,
         "objectives": [
             {
+                "type": "key",
+                "target": "5d947d4e86f774447b415895",
+                "number": 1,
+                "location": "Reserve",
+                "id": 420
+            },
+            {
+                "type": "key",
+                "target": "5d947d3886f774447b415893",
+                "number": 1,
+                "location": "Reserve",
+                "id": 421
+            },
+            {
                 "type": "pickup",
                 "target": "Medical Journal No.1",
                 "number": 1,
