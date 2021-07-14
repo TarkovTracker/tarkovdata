@@ -2072,7 +2072,9 @@
         "wiki": "https://escapefromtarkov.gamepedia.com/Peacekeeping_mission",
         "exp": 32400,
         "nokappa": true,
-        "unlocks": [],
+        "unlocks": [
+            "60a3c68c37ea821725773ef5"
+        ],
         "reputation": [
             {
                 "trader": "Peacekeeper",
@@ -6546,12 +6548,9 @@
         "objectives": [
             {
                 "type": "kill",
-                "target": "Scavs",
+                "target": "Raiders",
                 "number": 6,
                 "location": "Any",
-                "with": [
-                    "Raider scavs"
-                ],
                 "id": 287
             }
         ],
@@ -8563,12 +8562,9 @@
         "objectives": [
             {
                 "type": "kill",
-                "target": "Scavs",
+                "target": "Raiders",
                 "number": 5,
                 "location": "Reserve",
-                "with": [
-                    "Raider scavs"
-                ],
                 "id": 412
             }
         ],
