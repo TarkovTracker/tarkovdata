@@ -6548,12 +6548,9 @@
         "objectives": [
             {
                 "type": "kill",
-                "target": "Scavs",
+                "target": "Raiders",
                 "number": 6,
                 "location": "Any",
-                "with": [
-                    "Raider scavs"
-                ],
                 "id": 287
             }
         ],
@@ -8565,12 +8562,9 @@
         "objectives": [
             {
                 "type": "kill",
-                "target": "Scavs",
+                "target": "Raiders",
                 "number": 5,
                 "location": "Reserve",
-                "with": [
-                    "Raider scavs"
-                ],
                 "id": 412
             }
         ],
