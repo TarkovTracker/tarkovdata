@@ -6304,8 +6304,8 @@
             }
         ]
     },
-    "72df9cc65cf082729fc1176d": {
-        "id": "72df9cc65cf082729fc1176d",
+    "60479fb29c15b12b9a480fb0": {
+        "id": "60479fb29c15b12b9a480fb0",
         "name": "PL-15",
         "baseId": "602a9740da11d6478d5a06dc",
         "parts": [
@@ -6335,8 +6335,8 @@
             }
         ]
     },
-    "83859217-b778-4968-a2e4-c05e29cf10f4": {
-        "id": "83859217-b778-4968-a2e4-c05e29cf10f4",
+    "60b7c28ee53e4c5c8945dd73": {
+        "id": "60b7c28ee53e4c5c8945dd73",
         "name": "MP-155",
         "baseId": "606dae0ab0e443224b421bb7",
         "parts": [
@@ -6358,6 +6358,108 @@
             },
             {
                 "id": "607d5a891246154cad35d6aa",
+                "quantity": 1
+            }
+        ]
+    },
+    "60b7c2bd95047637182d90a4": {
+        "id": "60b7c2bd95047637182d90a4",
+        "name": "MP-155 Ultima",
+        "baseId": "606dae0ab0e443224b421bb7",
+        "parts": [
+            {
+                "id": "606dae0ab0e443224b421bb7",
+                "quantity": 1
+            },
+            {
+                "id": "6076c1b9f2cb2e02a42acedc",
+                "quantity": 1
+            },
+            {
+                "id": "606ee5c81246154cad35d65e",
+                "quantity": 1
+            },
+            {
+                "id": "6076c87f232e5a31c233d50e",
+                "quantity": 1
+            },
+            {
+                "id": "606eef46232e5a31c233d500",
+                "quantity": 1
+            },
+            {
+                "id": "606eef756d0bd7580617baf8",
+                "quantity": 1
+            },
+            {
+                "id": "606ef0812535c57a13424d20",
+                "quantity": 1
+            },
+            {
+                "id": "606f2696f2cb2e02a42aceb1",
+                "quantity": 1
+            },
+            {
+                "id": "60785ce5132d4d12c81fd918",
+                "quantity": 1
+            }
+        ]
+    },
+    "60b7d76e2a3c79100f1979de": {
+        "id": "60b7d76e2a3c79100f1979de",
+        "name": "MK47",
+        "baseId": "606587252535c57a13424cfd",
+        "parts": [
+            {
+                "id": "606587252535c57a13424cfd",
+                "quantity": 1
+            },
+            {
+                "id": "55802f5d4bdc2dac148b458f",
+                "quantity": 1
+            },
+            {
+                "id": "59d6272486f77466146386ff",
+                "quantity": 1
+            },
+            {
+                "id": "606587a88900dc2d9a55b659",
+                "quantity": 1
+            },
+            {
+                "id": "60658776f2cb2e02a42ace2b",
+                "quantity": 1
+            },
+            {
+                "id": "6065c6e7132d4d12c81fd8e1",
+                "quantity": 1
+            },
+            {
+                "id": "6065dc8a132d4d12c81fd8e3",
+                "quantity": 1
+            },
+            {
+                "id": "6065880c132d4d12c81fd8da",
+                "quantity": 1
+            },
+            {
+                "id": "5bc09a30d4351e00367fb7c8",
+                "quantity": 1
+            },
+            {
+                "id": "5bc09a18d4351e003562b68e",
+                "quantity": 1
+            },
+            {
+                "id": "606587e18900dc2d9a55b65f",
+                "quantity": 1
+            },
+            {
+                "id": "606587d11246154cad35d635",
+                "quantity": 1
+            },
+            {
+                "id": "606587bd6d0bd7580617bacc",
                 "quantity": 1
             }
         ]
