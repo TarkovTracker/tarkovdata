@@ -40,7 +40,8 @@
                 "id": "5926c32286f774616e42de99",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": false
     },
     "5841482e2459775a050cdda9": {
         "id": "5841482e2459775a050cdda9",
@@ -75,7 +76,8 @@
                 "id": "57c450252459772d28133253",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": true
     },
     "59e8d2b386f77445830dd299": {
         "id": "59e8d2b386f77445830dd299",
@@ -110,7 +112,8 @@
                 "id": "58889d0c2459775bc215d981",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": false
     },
     "5a43a86d86f7746c9d7395e8": {
         "id": "5a43a86d86f7746c9d7395e8",
@@ -161,7 +164,8 @@
                 "id": "56d59d3ad2720bdb418b4577",
                 "quantity": 15
             }
-        ]
+        ],
+        "default": false
     },
     "5ac4ad3686f774181345c3da": {
         "id": "5ac4ad3686f774181345c3da",
@@ -200,11 +204,12 @@
                 "id": "5abcbb20d8ce87001773e258",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": true
     },
     "5b439b1f86f7744fd8059cbe": {
         "id": "5b439b1f86f7744fd8059cbe",
-        "name": "GLOCK18C",
+        "name": "Glock 18C",
         "baseId": "5b1fa9b25acfc40018633c01",
         "parts": [
             {
@@ -231,11 +236,12 @@
                 "id": "5a718b548dc32e000d46d262",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": true
     },
     "5841499024597759f825ff3e": {
         "id": "5841499024597759f825ff3e",
-        "name": "PM(t)",
+        "name": "PM (t)",
         "baseId": "579204f224597773d619e051",
         "parts": [
             {
@@ -246,7 +252,8 @@
                 "id": "5448c12b4bdc2d02308b456f",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": false
     },
     "5c0e93cb86f77432297fdfc8": {
         "id": "5c0e93cb86f77432297fdfc8",
@@ -277,7 +284,8 @@
                 "id": "5c079ed60db834001a66b372",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": false
     },
     "59b81f7386f77421ac688a0a": {
         "id": "59b81f7386f77421ac688a0a",
@@ -320,11 +328,12 @@
                 "id": "5648b1504bdc2d9d488b4584",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": true
     },
     "59ef247086f77439967a900a": {
         "id": "59ef247086f77439967a900a",
-        "name": "AKM/VPO-209",
+        "name": "VPO-209",
         "baseId": "59e6687d86f77411d949b251",
         "parts": [
             {
@@ -363,7 +372,8 @@
                 "id": "59d625f086f774661516605d",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": true
     },
     "59430b9b86f77403c27945fd": {
         "id": "59430b9b86f77403c27945fd",
@@ -426,7 +436,8 @@
                 "id": "55d482194bdc2d1d4e8b456b",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": false
     },
     "58dffd4586f77408a27629b2": {
         "id": "58dffd4586f77408a27629b2",
@@ -489,7 +500,8 @@
                 "id": "58949fac86f77409483e16aa",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": false
     },
     "5ac4ac9486f774181345c3d2": {
         "id": "5ac4ac9486f774181345c3d2",
@@ -524,7 +536,8 @@
                 "id": "5abcc328d8ce8700194394f3",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": true
     },
     "5a8ae21486f774377b73cf5d": {
         "id": "5a8ae21486f774377b73cf5d",
@@ -611,7 +624,8 @@
                 "id": "5648ac824bdc2ded0b8b457d",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": false
     },
     "5a8ae65f86f774377a23ed55": {
         "id": "5a8ae65f86f774377a23ed55",
@@ -674,7 +688,8 @@
                 "id": "560d657b4bdc2da74d8b4572",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": false
     },
     "5a88ae4a86f77457fd2c0dae": {
         "id": "5a88ae4a86f77457fd2c0dae",
@@ -713,7 +728,8 @@
                 "id": "58d268fc86f774111273f8c2",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": false
     },
     "5a8ae36686f774377d6ce226": {
         "id": "5a8ae36686f774377d6ce226",
@@ -796,7 +812,8 @@
                 "id": "56ea7165d2720b6e518b4583",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": false
     },
     "5a327f4a86f774766866140b": {
         "id": "5a327f4a86f774766866140b",
@@ -839,7 +856,8 @@
                 "id": "5a0060fc86f7745793204432",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": true
     },
     "5a3b898486f77467720a2f29": {
         "id": "5a3b898486f77467720a2f29",
@@ -862,7 +880,8 @@
                 "id": "57235b6f24597759bf5a30f1",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": false
     },
     "584149ad2459775a7726350e": {
         "id": "584149ad2459775a7726350e",
@@ -881,7 +900,8 @@
                 "id": "57d1519e24597714373db79d",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": true
     },
     "58dffc5d86f77407c744a847": {
         "id": "58dffc5d86f77407c744a847",
@@ -916,7 +936,8 @@
                 "id": "58889d0c2459775bc215d981",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": true
     },
     "5a8ae43686f774377b73cfb3": {
         "id": "5a8ae43686f774377b73cfb3",
@@ -991,11 +1012,12 @@
                 "id": "58949edd86f77409483e16a9",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": false
     },
     "59ef24b986f77439987b8762": {
         "id": "59ef24b986f77439987b8762",
-        "name": "Vepr KM/VPO-136",
+        "name": "VPO-136",
         "baseId": "59e6152586f77473dc057aa1",
         "parts": [
             {
@@ -1034,7 +1056,8 @@
                 "id": "59d625f086f774661516605d",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": true
     },
     "5af08bfd86f774223d4528e2": {
         "id": "5af08bfd86f774223d4528e2",
@@ -1077,7 +1100,8 @@
                 "id": "5abcbb20d8ce87001773e258",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": false
     },
     "5a327f6386f77479010da870": {
         "id": "5a327f6386f77479010da870",
@@ -1092,7 +1116,8 @@
                 "id": "59f99a7d86f7745b134aa97b",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": true
     },
     "5c0c1dba86f7743e667da897": {
         "id": "5c0c1dba86f7743e667da897",
@@ -1131,7 +1156,8 @@
                 "id": "5a37cb10c4a282329a73b4e7",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": false
     },
     "58414967245977598f1ad391": {
         "id": "58414967245977598f1ad391",
@@ -1146,7 +1172,8 @@
                 "id": "5448c12b4bdc2d02308b456f",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": true
     },
     "5ac4abf986f7747d117c67aa": {
         "id": "5ac4abf986f7747d117c67aa",
@@ -1189,7 +1216,8 @@
                 "id": "564ca99c4bdc2d16268b4589",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": true
     },
     "59dcdbb386f77417b03f350d": {
         "id": "59dcdbb386f77417b03f350d",
@@ -1216,7 +1244,8 @@
                 "id": "587e08ee245977446b4410cf",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": true
     },
     "5a88aed086f77476cd391963": {
         "id": "5a88aed086f77476cd391963",
@@ -1259,7 +1288,8 @@
                 "id": "5a7b483fe899ef0016170d15",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": false
     },
     "5c0c202e86f77448687e0368": {
         "id": "5c0c202e86f77448687e0368",
@@ -1286,7 +1316,8 @@
                 "id": "5bfd4c980db834001b73449d",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": false
     },
     "584149ea2459775a6c55e940": {
         "id": "584149ea2459775a6c55e940",
@@ -1313,7 +1344,8 @@
                 "id": "57d1519e24597714373db79d",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": true
     },
     "5c0c1fc586f77455912eaf08": {
         "id": "5c0c1fc586f77455912eaf08",
@@ -1336,7 +1368,8 @@
                 "id": "5bfd4cc90db834001d23e846",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": false
     },
     "5ba3a3dfd4351e0032020190": {
         "id": "5ba3a3dfd4351e0032020190",
@@ -1387,7 +1420,8 @@
                 "id": "5a0f096dfcdbcb0176308b15",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": false
     },
     "5ba3a4d1d4351e4502010622": {
         "id": "5ba3a4d1d4351e4502010622",
@@ -1438,7 +1472,8 @@
                 "id": "5ba36f85d4351e0085325c81",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": false
     },
     "584148f2245977598f1ad387": {
         "id": "584148f2245977598f1ad387",
@@ -1465,7 +1500,8 @@
                 "id": "56083cba4bdc2de22e8b456f",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": true
     },
     "58dffca786f774083a256ab1": {
         "id": "58dffca786f774083a256ab1",
@@ -1524,7 +1560,8 @@
                 "id": "58949edd86f77409483e16a9",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": true
     },
     "5c0c208886f7743e5335d279": {
         "id": "5c0c208886f7743e5335d279",
@@ -1551,7 +1588,8 @@
                 "id": "5bbdb811d4351e45020113c7",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": false
     },
     "5bdb3ac186f77405f232ad22": {
         "id": "5bdb3ac186f77405f232ad22",
@@ -1582,7 +1620,8 @@
                 "id": "5bd704e7209c4d00d7167c31",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": true
     },
     "5a8ae54786f7743b5e013ba0": {
         "id": "5a8ae54786f7743b5e013ba0",
@@ -1637,7 +1676,8 @@
                 "id": "5a32aa8bc4a2826c6e06d737",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": false
     },
     "5a8ae73886f7747b2e6e1416": {
         "id": "5a8ae73886f7747b2e6e1416",
@@ -1720,7 +1760,8 @@
                 "id": "55d44fd14bdc2d962f8b456e",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": false
     },
     "58414a052459775a2b6d9f1e": {
         "id": "58414a052459775a2b6d9f1e",
@@ -1759,7 +1800,8 @@
                 "id": "57616a9e2459773c7a400234",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": true
     },
     "5af08cf886f774223c269184": {
         "id": "5af08cf886f774223c269184",
@@ -1814,7 +1856,8 @@
                 "id": "55d44fd14bdc2d962f8b456e",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": true
     },
     "5a43a85186f7746c914b947a": {
         "id": "5a43a85186f7746c914b947a",
@@ -1885,7 +1928,8 @@
                 "id": "57fd23e32459772d0805bcf1",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": false
     },
     "58dffce486f77409f40f8162": {
         "id": "58dffce486f77409f40f8162",
@@ -1908,11 +1952,12 @@
                 "id": "587df3a12459772c28142567",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": true
     },
     "5b44abe986f774283e2e3512": {
         "id": "5b44abe986f774283e2e3512",
-        "name": "TT Golden",
+        "name": "TT Gold",
         "baseId": "5b3b713c5acfc4330140bd8d",
         "parts": [
             {
@@ -1931,7 +1976,8 @@
                 "id": "571a29dc2459771fb2755a6a",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": true
     },
     "584149242459775a7726350a": {
         "id": "584149242459775a7726350a",
@@ -1966,7 +2012,8 @@
                 "id": "56d59948d2720bb7418b4582",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": true
     },
     "5a88b0f686f77416370eca3e": {
         "id": "5a88b0f686f77416370eca3e",
@@ -2001,7 +2048,8 @@
                 "id": "56def37dd2720bec348b456a",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": false
     },
     "5a3a85af86f774745637d46c": {
         "id": "5a3a85af86f774745637d46c",
@@ -2048,7 +2096,8 @@
                 "id": "5a34fbadc4a28200741e230a",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": true
     },
     "5c0d1ec986f77439512a1a72": {
         "id": "5c0d1ec986f77439512a1a72",
@@ -2099,7 +2148,8 @@
                 "id": "5beec3420db834001b095429",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": true
     },
     "5ba3a449d4351e0034778243": {
         "id": "5ba3a449d4351e0034778243",
@@ -2150,7 +2200,8 @@
                 "id": "5a0f096dfcdbcb0176308b15",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": false
     },
     "5bd05f1186f774572f181678": {
         "id": "5bd05f1186f774572f181678",
@@ -2201,7 +2252,8 @@
                 "id": "5bcf0213d4351e0085327c17",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": false
     },
     "584149c42459775a77263510": {
         "id": "584149c42459775a77263510",
@@ -2220,7 +2272,8 @@
                 "id": "57d1519e24597714373db79d",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": true
     },
     "5c0d1e9386f77440120288b7": {
         "id": "5c0d1e9386f77440120288b7",
@@ -2275,7 +2328,8 @@
                 "id": "5bb20dbcd4351e44f824c04e",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": true
     },
     "58414a16245977599247970a": {
         "id": "58414a16245977599247970a",
@@ -2306,7 +2360,8 @@
                 "id": "56ea8222d2720b69698b4567",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": true
     },
     "584147732459775a2b6d9f12": {
         "id": "584147732459775a2b6d9f12",
@@ -2349,7 +2404,8 @@
                 "id": "57dc32dc245977596d4ef3d3",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": true
     },
     "5a8c436686f7740f394d10b5": {
         "id": "5a8c436686f7740f394d10b5",
@@ -2392,7 +2448,8 @@
                 "id": "5a7b483fe899ef0016170d15",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": false
     },
     "5acf7e4c86f774499a3f3bdd": {
         "id": "5acf7e4c86f774499a3f3bdd",
@@ -2435,7 +2492,8 @@
                 "id": "5ac66bea5acfc43b321d4aec",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": true
     },
     "5b439b5686f77428bd137424": {
         "id": "5b439b5686f77428bd137424",
@@ -2490,7 +2548,8 @@
                 "id": "58d2912286f7744e27117493",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": true
     },
     "59e8d2ab86f77407f03fc9c2": {
         "id": "59e8d2ab86f77407f03fc9c2",
@@ -2533,7 +2592,8 @@
                 "id": "59d625f086f774661516605d",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": true
     },
     "5b83f23a86f7746d3d190a73": {
         "id": "5b83f23a86f7746d3d190a73",
@@ -2576,7 +2636,8 @@
                 "id": "5b7d63cf5acfc4001876c8df",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": false
     },
     "5bbf1c5a88a45017bb03d7aa": {
         "id": "5bbf1c5a88a45017bb03d7aa",
@@ -2635,7 +2696,8 @@
                 "id": "5b2240bf5acfc40dc528af69",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": false
     },
     "5a88ad7b86f77479aa7226af": {
         "id": "5a88ad7b86f77479aa7226af",
@@ -2678,7 +2740,8 @@
                 "id": "5a7b483fe899ef0016170d15",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": false
     },
     "5acf7e7986f774401e19c3a0": {
         "id": "5acf7e7986f774401e19c3a0",
@@ -2721,11 +2784,12 @@
                 "id": "55d480c04bdc2d1d4e8b456a",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": true
     },
     "5c0c1e7486f7744dba7a289b": {
         "id": "5c0c1e7486f7744dba7a289b",
-        "name": "Mosin Inf.",
+        "name": "Mosin Infantry",
         "baseId": "5bfd297f0db834001a669119",
         "parts": [
             {
@@ -2752,7 +2816,8 @@
                 "id": "5ae099925acfc4001a5fc7b3",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": true
     },
     "584147ed2459775a77263501": {
         "id": "584147ed2459775a77263501",
@@ -2795,7 +2860,8 @@
                 "id": "57dc32dc245977596d4ef3d3",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": true
     },
     "5af08cc686f77424a61595f2": {
         "id": "5af08cc686f77424a61595f2",
@@ -2850,7 +2916,8 @@
                 "id": "55d44fd14bdc2d962f8b456e",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": false
     },
     "5c0c1f2b86f77455912eaefc": {
         "id": "5c0c1f2b86f77455912eaefc",
@@ -2893,7 +2960,8 @@
                 "id": "5b3f7c1c5acfc40dc5296b1d",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": false
     },
     "584148a524597759eb357a44": {
         "id": "584148a524597759eb357a44",
@@ -2912,7 +2980,8 @@
                 "id": "576a63cd2459771e796e0e11",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": true
     },
     "5a13df5286f774032f5454a0": {
         "id": "5a13df5286f774032f5454a0",
@@ -2955,7 +3024,8 @@
                 "id": "5648b1504bdc2d9d488b4584",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": true
     },
     "5a3a859786f7747e2305e8bf": {
         "id": "5a3a859786f7747e2305e8bf",
@@ -2978,11 +3048,12 @@
                 "id": "5a38eecdc4a282329a73b512",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": true
     },
     "5a88acfb86f77457fd2c0d8f": {
         "id": "5a88acfb86f77457fd2c0d8f",
-        "name": "GLOCK17",
+        "name": "Glock 17",
         "baseId": "5a7ae0c351dfba0017554310",
         "parts": [
             {
@@ -3009,7 +3080,8 @@
                 "id": "5a718b548dc32e000d46d262",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": true
     },
     "5a325c3686f7744273716c5b": {
         "id": "5a325c3686f7744273716c5b",
@@ -3052,7 +3124,8 @@
                 "id": "5a01c29586f77474660c694c",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": true
     },
     "584149452459775992479702": {
         "id": "584149452459775992479702",
@@ -3075,7 +3148,8 @@
                 "id": "56e05a6ed2720bd0748b4567",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": true
     },
     "5ba3a53dd4351e3bac12056e": {
         "id": "5ba3a53dd4351e3bac12056e",
@@ -3126,7 +3200,8 @@
                 "id": "5ba36f85d4351e0085325c81",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": false
     },
     "5a88afdc86f7746de12fcc20": {
         "id": "5a88afdc86f7746de12fcc20",
@@ -3153,7 +3228,8 @@
                 "id": "5a718b548dc32e000d46d262",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": false
     },
     "5b8683a486f77467f2423114": {
         "id": "5b8683a486f77467f2423114",
@@ -3184,7 +3260,8 @@
                 "id": "5ae099925acfc4001a5fc7b3",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": true
     },
     "5c0c1d6586f7743e5335d264": {
         "id": "5c0c1d6586f7743e5335d264",
@@ -3207,7 +3284,8 @@
                 "id": "5bfebc320db8340019668d79",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": true
     },
     "5ba3a078d4351e00334c96ca": {
         "id": "5ba3a078d4351e00334c96ca",
@@ -3250,7 +3328,8 @@
                 "id": "59d625f086f774661516605d",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": false
     },
     "58414a2724597759b344da4d": {
         "id": "58414a2724597759b344da4d",
@@ -3273,7 +3352,8 @@
                 "id": "571a29dc2459771fb2755a6a",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": true
     },
     "5a88af5086f77411a871682c": {
         "id": "5a88af5086f77411a871682c",
@@ -3312,7 +3392,8 @@
                 "id": "577d141e24597739c5255e01",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": false
     },
     "5c0c1ce886f77401c119d014": {
         "id": "5c0c1ce886f77401c119d014",
@@ -3355,7 +3436,8 @@
                 "id": "564ca99c4bdc2d16268b4589",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": true
     },
     "5a327f7286f7747668661419": {
         "id": "5a327f7286f7747668661419",
@@ -3382,7 +3464,8 @@
                 "id": "59f99a7d86f7745b134aa97b",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": false
     },
     "5ac4ad7586f7747d14551da3": {
         "id": "5ac4ad7586f7747d14551da3",
@@ -3409,7 +3492,8 @@
                 "id": "5a7880d0c5856700142fdd9d",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": true
     },
     "5af08d1c86f774223a7aa1b4": {
         "id": "5af08d1c86f774223a7aa1b4",
@@ -3460,7 +3544,8 @@
                 "id": "584924ec24597768f12ae244",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": false
     },
     "5b83f22086f77464e15a1d5f": {
         "id": "5b83f22086f77464e15a1d5f",
@@ -3503,7 +3588,8 @@
                 "id": "5b7d645e5acfc400170e2f90",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": false
     },
     "5c10fcb186f774533e5529ab": {
         "id": "5c10fcb186f774533e5529ab",
@@ -3550,7 +3636,8 @@
                 "id": "5c0faf68d174af02a96260b8",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": true
     },
     "5a88b1f686f774159949926e": {
         "id": "5a88b1f686f774159949926e",
@@ -3589,7 +3676,8 @@
                 "id": "5a718b548dc32e000d46d262",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": false
     },
     "59411aa786f7747aeb37f9a5": {
         "id": "59411aa786f7747aeb37f9a5",
@@ -3632,7 +3720,8 @@
                 "id": "5926c32286f774616e42de99",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": true
     },
     "5acf7db286f7743a9c7092e3": {
         "id": "5acf7db286f7743a9c7092e3",
@@ -3675,7 +3764,8 @@
                 "id": "55d480c04bdc2d1d4e8b456a",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": true
     },
     "5acf7e2b86f7740874790e20": {
         "id": "5acf7e2b86f7740874790e20",
@@ -3718,7 +3808,8 @@
                 "id": "5ac66bea5acfc43b321d4aec",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": true
     },
     "5af08c4486f774223b094223": {
         "id": "5af08c4486f774223b094223",
@@ -3757,7 +3848,8 @@
                 "id": "5addbbb25acfc40015621bd9",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": false
     },
     "5a327f7c86f77475187e509a": {
         "id": "5a327f7c86f77475187e509a",
@@ -3784,7 +3876,8 @@
                 "id": "59f99a7d86f7745b134aa97b",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": false
     },
     "5841474424597759ba49be91": {
         "id": "5841474424597759ba49be91",
@@ -3831,11 +3924,12 @@
                 "id": "56dfef82d2720bbd668b4567",
                 "quantity": 30
             }
-        ]
+        ],
+        "default": true
     },
     "58414a3f2459775a77263531": {
         "id": "58414a3f2459775a77263531",
-        "name": "VSS",
+        "name": "VSS Vintorez",
         "baseId": "57838ad32459774a17445cd2",
         "parts": [
             {
@@ -3862,7 +3956,8 @@
                 "id": "578395e82459774a0e553c7b",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": true
     },
     "5acf7dfc86f774401e19c390": {
         "id": "5acf7dfc86f774401e19c390",
@@ -3905,7 +4000,8 @@
                 "id": "5ac66c5d5acfc4001718d314",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": true
     },
     "5acf7dd986f774486e1281bf": {
         "id": "5acf7dd986f774486e1281bf",
@@ -3948,7 +4044,8 @@
                 "id": "5ac66c5d5acfc4001718d314",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": true
     },
     "584147982459775a6c55e931": {
         "id": "584147982459775a6c55e931",
@@ -3991,7 +4088,8 @@
                 "id": "57dc32dc245977596d4ef3d3",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": true
     },
     "5bd056fa86f7743aba7658cd": {
         "id": "5bd056fa86f7743aba7658cd",
@@ -4022,7 +4120,8 @@
                 "id": "5bcf0213d4351e0085327c17",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": true
     },
     "5c0c1d2b86f77401c119d01f": {
         "id": "5c0c1d2b86f77401c119d01f",
@@ -4065,7 +4164,8 @@
                 "id": "564ca99c4bdc2d16268b4589",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": true
     },
     "5ac4ab8886f7747d0f66429a": {
         "id": "5ac4ab8886f7747d0f66429a",
@@ -4108,7 +4208,8 @@
                 "id": "5a0060fc86f7745793204432",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": true
     },
     "58414907245977598f1ad38d": {
         "id": "58414907245977598f1ad38d",
@@ -4135,7 +4236,8 @@
                 "id": "56083be64bdc2d20478b456f",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": true
     },
     "5ac4accf86f774181345c3d7": {
         "id": "5ac4accf86f774181345c3d7",
@@ -4162,7 +4264,8 @@
                 "id": "5aba637ad8ce87001773e17f",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": true
     },
     "5bbf1c1c88a45017144d28c5": {
         "id": "5bbf1c1c88a45017144d28c5",
@@ -4209,7 +4312,8 @@
                 "id": "5648ac824bdc2ded0b8b457d",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": false
     },
     "5b83f29886f7746d956305a1": {
         "id": "5b83f29886f7746d956305a1",
@@ -4268,7 +4372,8 @@
                 "id": "5b7d63b75acfc400170e2f8a",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": false
     },
     "5ba3a14cd4351e003202017f": {
         "id": "5ba3a14cd4351e003202017f",
@@ -4311,7 +4416,8 @@
                 "id": "5a0060fc86f7745793204432",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": false
     },
     "5c98be1e86f7741cc96ffd79": {
         "id": "5c98be1e86f7741cc96ffd79",
@@ -4366,7 +4472,8 @@
                 "id": "5c471bd12e221602b4129c3a",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": true
     },
     "5c0c1dff86f7744dba7a2892": {
         "id": "5c0c1dff86f7744dba7a2892",
@@ -4397,11 +4504,12 @@
                 "id": "5bfd4c980db834001b73449d",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": false
     },
     "5c98bd7386f7740cfb15654e": {
         "id": "5c98bd7386f7740cfb15654e",
-        "name": "DT MDR 5.56x45",
+        "name": "MDR",
         "baseId": "5c488a752e221602b412af63",
         "parts": [
             {
@@ -4428,7 +4536,8 @@
                 "id": "5c48a2a42e221602b66d1e07",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": true
     },
     "5d3f0bc986f7743cb332abdc": {
         "id": "5d3f0bc986f7743cb332abdc",
@@ -4467,7 +4576,8 @@
                 "id": "5cadc2e0ae9215051e1c21e7",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": true
     },
     "5d23467086f77443f37fc602": {
         "id": "5d23467086f77443f37fc602",
@@ -4502,11 +4612,12 @@
                 "id": "5caf1691ae92152ac412efb9",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": true
     },
     "5c98bf9186f7740cf708c509": {
         "id": "5c98bf9186f7740cf708c509",
-        "name": "Hunter",
+        "name": "Vepr Hunter",
         "baseId": "5c501a4d2e221602b412b540",
         "parts": [
             {
@@ -4533,7 +4644,8 @@
                 "id": "5c503ac82e221602b21d6e9a",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": true
     },
     "5d2340e986f77461496241bc": {
         "id": "5d2340e986f77461496241bc",
@@ -4588,7 +4700,8 @@
                 "id": "5cc6ea78e4a949000e1ea3c1",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": false
     },
     "5d23404b86f7740d62079098": {
         "id": "5d23404b86f7740d62079098",
@@ -4631,7 +4744,8 @@
                 "id": "5cc6ea78e4a949000e1ea3c1",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": false
     },
     "5d3f06c886f7743bb5318c6a": {
         "id": "5d3f06c886f7743bb5318c6a",
@@ -4666,7 +4780,8 @@
                 "id": "5d2f2d5748f03572ec0c0139",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": true
     },
     "5d51290186f77419093e7c24": {
         "id": "5d51290186f77419093e7c24",
@@ -4697,7 +4812,8 @@
                 "id": "5d3eb5eca4b9363b1f22f8e4",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": true
     },
     "5d38517786f7742a1468cf6a": {
         "id": "5d38517786f7742a1468cf6a",
@@ -4752,7 +4868,8 @@
                 "id": "5cde7b43d7f00c000d36b93e",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": false
     },
     "5d383e1a86f7742a1468ce63": {
         "id": "5d383e1a86f7742a1468ce63",
@@ -4783,7 +4900,8 @@
                 "id": "5d270b3c8abbc3105335cfb8",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": false
     },
     "5d23424c86f7740d5e50ce65": {
         "id": "5d23424c86f7740d5e50ce65",
@@ -4818,7 +4936,8 @@
                 "id": "5cc6ea85e4a949000e1ea3c3",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": false
     },
     "5d7b845786f7743c1e531da7": {
         "id": "5d7b845786f7743c1e531da7",
@@ -4849,7 +4968,8 @@
                 "id": "5d3eb5eca4b9363b1f22f8e4",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": true
     },
     "5d4d617f86f77449c463d107": {
         "id": "5d4d617f86f77449c463d107",
@@ -4912,7 +5032,8 @@
                 "id": "5d44334ba4b9362b346d1948",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": true
     },
     "5e03511086f7744ccb1fb6cf": {
         "id": "5e03511086f7744ccb1fb6cf",
@@ -4971,11 +5092,12 @@
                 "id": "5df8e053bb49d91fb446d6a6",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": true
     },
     "5e0340ab86f7745bb7339235": {
         "id": "5e0340ab86f7745bb7339235",
-        "name": "MP9 9x19",
+        "name": "MP9",
         "baseId": "5e00903ae9dc277128008b87",
         "parts": [
             {
@@ -5006,7 +5128,8 @@
                 "id": "5de8fbf2b74cd90030650c79",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": true
     },
     "5d23376786f77459bb77d838": {
         "id": "5d23376786f77459bb77d838",
@@ -5053,7 +5176,8 @@
                 "id": "5cc6ea78e4a949000e1ea3c1",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": true
     },
     "5d383f5d86f7742a15793872": {
         "id": "5d383f5d86f7742a15793872",
@@ -5096,7 +5220,8 @@
                 "id": "5d270b3c8abbc3105335cfb8",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": false
     },
     "5d383ee786f7742a15793860": {
         "id": "5d383ee786f7742a15793860",
@@ -5123,7 +5248,8 @@
                 "id": "5d270b3c8abbc3105335cfb8",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": false
     },
     "5dd800bde492226366631317": {
         "id": "5dd800bde492226366631317",
@@ -5194,7 +5320,8 @@
                 "id": "5648ac824bdc2ded0b8b457d",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": false
     },
     "5e03410186f77469041348ea": {
         "id": "5e03410186f77469041348ea",
@@ -5233,11 +5360,12 @@
                 "id": "5de922d4b11454561e39239f",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": true
     },
     "5e0354f786f77425b53eb6c5": {
         "id": "5e0354f786f77425b53eb6c5",
-        "name": "T-5000 .308",
+        "name": "T-5000M",
         "baseId": "5df24cf80dee1b22f862e9bc",
         "parts": [
             {
@@ -5288,11 +5416,12 @@
                 "id": "5df35e970b92095fd441e4d2",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": true
     },
     "5e035eb586f774756048ec12": {
         "id": "5e035eb586f774756048ec12",
-        "name": "DT MDR .308",
+        "name": "MDR",
         "baseId": "5dcbd56fdbd3d91b3e5468d5",
         "parts": [
             {
@@ -5319,7 +5448,8 @@
                 "id": "5dcbe965e4ed22586443a79d",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": true
     },
     "5dd800eae49222636663133b": {
         "id": "5dd800eae49222636663133b",
@@ -5398,7 +5528,8 @@
                 "id": "5d44334ba4b9362b346d1948",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": false
     },
     "5e0359bd86f7746b243db876": {
         "id": "5e0359bd86f7746b243db876",
@@ -5429,7 +5560,8 @@
                 "id": "5de6558e9f98ac2bc65950fc",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": true
     },
     "5dd8013ff4c3af18c507b10a": {
         "id": "5dd8013ff4c3af18c507b10a",
@@ -5496,7 +5628,8 @@
                 "id": "5bb20dbcd4351e44f824c04e",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": false
     },
     "5ddbbeac582ed30a6134e577": {
         "id": "5ddbbeac582ed30a6134e577",
@@ -5571,7 +5704,8 @@
                 "id": "5d6e68c4a4b9361b93413f79",
                 "quantity": 10
             }
-        ]
+        ],
+        "default": false
     },
     "5dd7f8c524e5d7504a4e3077": {
         "id": "5dd7f8c524e5d7504a4e3077",
@@ -5614,7 +5748,8 @@
                 "id": "5cbdaf89ae9215000e5b9c94",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": false
     },
     "5eb2968186f7746d1f1a4fd5": {
         "id": "5eb2968186f7746d1f1a4fd5",
@@ -5661,11 +5796,12 @@
                 "id": "5e81c539cb2b95385c177553",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": true
     },
     "5eb2963686f7742d3f5ab0f8": {
         "id": "5eb2963686f7742d3f5ab0f8",
-        "name": "PPSH-41",
+        "name": "PPSh-41",
         "baseId": "5ea03f7400685063ec28bfa8",
         "parts": [
             {
@@ -5688,7 +5824,8 @@
                 "id": "5ea02bb600685063ec28bfa1",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": true
     },
     "5ebbfe23ba87a5065a00a563": {
         "id": "5ebbfe23ba87a5065a00a563",
@@ -5767,7 +5904,8 @@
                 "id": "5ea16d4d5aad6446a939753d",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": false
     },
     "5ebbff0841a637322117a5fb": {
         "id": "5ebbff0841a637322117a5fb",
@@ -5838,7 +5976,8 @@
                 "id": "5ea16d4d5aad6446a939753d",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": false
     },
     "5f676b779ab5ec19f028eaf3": {
         "id": "5f676b779ab5ec19f028eaf3",
@@ -5873,7 +6012,8 @@
                 "id": "5f2aa49f9b44de6b1b4e68d4",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": true
     },
     "5f6771214ef1ca4f4e1b8a06": {
         "id": "5f6771214ef1ca4f4e1b8a06",
@@ -5900,7 +6040,8 @@
                 "id": "5e848db4681bea2ada00daa9",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": true
     },
     "5f6770f839a13e712a1dff54": {
         "id": "5f6770f839a13e712a1dff54",
@@ -5931,11 +6072,12 @@
                 "id": "5e848dc4e4dbc5266a4ec63d",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": false
     },
     "5f06d6e1475d472556679d16": {
         "id": "5f06d6e1475d472556679d16",
-        "name": "GL40",
+        "name": "FN40GL",
         "baseId": "5e81ebcd8e146c7080625e15",
         "parts": [
             {
@@ -5946,7 +6088,8 @@
                 "id": "571659bb2459771fb2755a12",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": true
     },
     "5f06d6bb4010601e3232cd22": {
         "id": "5f06d6bb4010601e3232cd22",
@@ -5981,7 +6124,8 @@
                 "id": "5e87114fe2db31558c75a120",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": true
     },
     "5f6762e964af6a2aa319deeb": {
         "id": "5f6762e964af6a2aa319deeb",
@@ -6028,11 +6172,12 @@
                 "id": "5f3e777688ca2d00ad199d25",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": true
     },
     "5fd25119dd870108a754a163": {
         "id": "5fd25119dd870108a754a163",
-        "name": "Mk-18 .338 LM",
+        "name": "Mk-18",
         "baseId": "5fc22d7c187fea44d52eda44",
         "parts": [
             {
@@ -6075,11 +6220,12 @@
                 "id": "5fc235db2770a0045c59c683",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": true
     },
     "5fd251a31189a17bcc172662": {
         "id": "5fd251a31189a17bcc172662",
-        "name": "SIG MCX 300 blk",
+        "name": "SIG MCX .300 BLK",
         "baseId": "5fbcc1d9016cce60e8341ab3",
         "parts": [
             {
@@ -6134,11 +6280,12 @@
                 "id": "5fbcc640016cce60e8341acc",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": true
     },
     "5fd251c90d9c95034825edb5": {
         "id": "5fd251c90d9c95034825edb5",
-        "name": "Vector 9x19mm",
+        "name": "Vector 9x19",
         "baseId": "5fc3f2d5900b1d5091531e57",
         "parts": [
             {
@@ -6177,7 +6324,8 @@
                 "id": "5fce0f9b55375d18a253eff2",
                 "quantity": 2
             }
-        ]
+        ],
+        "default": true
     },
     "5fd2517dbdd50d684f73a474": {
         "id": "5fd2517dbdd50d684f73a474",
@@ -6208,11 +6356,12 @@
                 "id": "5fc5396e900b1d5091531e72",
                 "quantity": 2
             }
-        ]
+        ],
+        "default": true
     },
     "5fd251ee16cac650092f5d02": {
         "id": "5fd251ee16cac650092f5d02",
-        "name": "Vector .45",
+        "name": "Vector .45ACP",
         "baseId": "5fb64bc92b1b027b1f50bcf2",
         "parts": [
             {
@@ -6251,7 +6400,8 @@
                 "id": "5fce0f9b55375d18a253eff2",
                 "quantity": 2
             }
-        ]
+        ],
+        "default": true
     },
     "73ea8d89bec493b1b7e0b2a6": {
         "id": "73ea8d89bec493b1b7e0b2a6",
@@ -6302,7 +6452,8 @@
                 "id": "602e620f9b513876d4338d9a",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": true
     },
     "60479fb29c15b12b9a480fb0": {
         "id": "60479fb29c15b12b9a480fb0",
@@ -6333,7 +6484,8 @@
                 "id": "602286df23506e50807090c6",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": true
     },
     "60b7c28ee53e4c5c8945dd73": {
         "id": "60b7c28ee53e4c5c8945dd73",
@@ -6360,7 +6512,8 @@
                 "id": "607d5a891246154cad35d6aa",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": true
     },
     "60b7c2bd95047637182d90a4": {
         "id": "60b7c2bd95047637182d90a4",
@@ -6403,7 +6556,8 @@
                 "id": "60785ce5132d4d12c81fd918",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": false
     },
     "60b7d76e2a3c79100f1979de": {
         "id": "60b7d76e2a3c79100f1979de",
@@ -6462,6 +6616,7 @@
                 "id": "606587bd6d0bd7580617bacc",
                 "quantity": 1
             }
-        ]
+        ],
+        "default": true
     }
 }
