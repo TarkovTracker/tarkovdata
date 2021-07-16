@@ -2285,7 +2285,7 @@
     {
         "id": 54,
         "require": {
-            "level": 27,
+            "level": 35,
             "quests": [
                 52
             ]
