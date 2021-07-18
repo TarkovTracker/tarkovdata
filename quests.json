@@ -7092,7 +7092,7 @@
     {
         "id": 182,
         "require": {
-            "level": 40,
+            "level": 42,
             "quests": [
                 127
             ]
@@ -7133,7 +7133,7 @@
     {
         "id": 183,
         "require": {
-            "level": 40,
+            "level": 42,
             "quests": [
                 182
             ]
