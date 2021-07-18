@@ -3436,7 +3436,7 @@
     {
         "id": 82,
         "require": {
-            "level": 10,
+            "level": 2,
             "quests": []
         },
         "giver": "Mechanic",
