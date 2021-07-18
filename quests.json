@@ -3984,7 +3984,7 @@
     {
         "id": 102,
         "require": {
-            "level": 15,
+            "level": 12,
             "quests": [
                 99
             ]
@@ -8645,7 +8645,7 @@
                     "in underground warehouse"
                 ],
                 "id": 416
-            }        
+            }
         ],
         "gameId": "Unknown"
     },
@@ -8683,7 +8683,7 @@
                 "number": 1,
                 "location": "Factory",
                 "id": 418
-            }      
+            }
         ],
         "gameId": "Unknown"
     },
@@ -8717,7 +8717,7 @@
                     "in barracks area"
                 ],
                 "id": 419
-            }     
+            }
         ],
         "gameId": "Unknown"
     }
