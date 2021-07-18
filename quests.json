@@ -7965,6 +7965,7 @@
         "exp": 0,
         "unlocks": [],
         "reputation": [],
+        "nokappa": true,
         "objectives": [
             {
                 "type": "collect",
