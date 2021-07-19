@@ -6499,7 +6499,8 @@
         "require": {
             "level": 17,
             "quests": [
-                165
+                165,
+                213
             ]
         },
         "giver": "Jaeger",
