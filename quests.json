@@ -8,6 +8,9 @@
         "giver": "Prapor",
         "turnin": "Prapor",
         "title": "Debut",
+        "locales": {
+            "en": "Debut"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Debut",
         "exp": 600,
         "unlocks": [
@@ -48,6 +51,9 @@
         "giver": "Prapor",
         "turnin": "Prapor",
         "title": "Checking",
+        "locales": {
+            "en": "Checking"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Checking",
         "exp": 800,
         "unlocks": [],
@@ -86,6 +92,9 @@
         "giver": "Prapor",
         "turnin": "Prapor",
         "title": "Shootout picnic",
+        "locales": {
+            "en": "Shootout picnic"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Shootout_picnic",
         "exp": 2000,
         "unlocks": [],
@@ -117,6 +126,9 @@
         "giver": "Prapor",
         "turnin": "Prapor",
         "title": "Delivery from the past",
+        "locales": {
+            "en": "Delivery from the past"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Delivery_from_the_past",
         "exp": 4100,
         "unlocks": [
@@ -164,6 +176,9 @@
         "giver": "Prapor",
         "turnin": "Prapor",
         "title": "BP depot",
+        "locales": {
+            "en": "BP depot"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/BP_depot",
         "exp": 2900,
         "unlocks": [],
@@ -228,6 +243,9 @@
         "giver": "Prapor",
         "turnin": "Prapor",
         "title": "Bad rep evidence",
+        "locales": {
+            "en": "Bad rep evidence"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Bad_rep_evidence",
         "exp": 4200,
         "unlocks": [
@@ -268,6 +286,9 @@
         "giver": "Prapor",
         "turnin": "Prapor",
         "title": "Ice cream cones",
+        "locales": {
+            "en": "Ice cream cones"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Ice_cream_cones",
         "exp": 5400,
         "unlocks": [
@@ -302,6 +323,9 @@
         "giver": "Prapor",
         "turnin": "Therapist",
         "title": "Postman Pat",
+        "locales": {
+            "en": "Postman Pat"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Postman_Pat_-_Part_1",
         "exp": 6000,
         "unlocks": [
@@ -341,6 +365,9 @@
         "giver": "Prapor",
         "turnin": "Prapor",
         "title": "Shaking up teller",
+        "locales": {
+            "en": "Shaking up teller"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Shaking_up_teller",
         "exp": 6100,
         "unlocks": [
@@ -386,6 +413,9 @@
         "giver": "Prapor",
         "turnin": "Prapor",
         "title": "Perfect mediator",
+        "locales": {
+            "en": "Perfect mediator"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Perfect_mediator",
         "exp": 17200,
         "unlocks": [],
@@ -452,6 +482,9 @@
         "giver": "Prapor",
         "turnin": "Prapor",
         "title": "Grenadier",
+        "locales": {
+            "en": "Grenadier"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Grenadier",
         "exp": 21300,
         "unlocks": [
@@ -483,6 +516,9 @@
         "giver": "Prapor",
         "turnin": "Prapor",
         "title": "Insomnia",
+        "locales": {
+            "en": "Insomnia"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Insomnia",
         "exp": 18500,
         "unlocks": [],
@@ -512,6 +548,9 @@
         "giver": "Prapor",
         "turnin": "Prapor",
         "title": "Test drive. Pt. 1",
+        "locales": {
+            "en": "Test drive. Pt. 1"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Test_drive_-_Part_1",
         "exp": 31000,
         "unlocks": [],
@@ -548,6 +587,9 @@
         "giver": "Prapor",
         "turnin": "Prapor",
         "title": "The Punisher - Part 1",
+        "locales": {
+            "en": "The Punisher - Part 1"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/The_Punisher_-_Part_1",
         "exp": 10800,
         "unlocks": [
@@ -584,6 +626,9 @@
         "giver": "Prapor",
         "turnin": "Prapor",
         "title": "The Punisher - Part 2",
+        "locales": {
+            "en": "The Punisher - Part 2"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/The_Punisher_-_Part_2",
         "exp": 13900,
         "unlocks": [],
@@ -625,6 +670,9 @@
         "giver": "Prapor",
         "turnin": "Prapor",
         "title": "The Punisher - Part 3",
+        "locales": {
+            "en": "The Punisher - Part 3"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/The_Punisher_-_Part_3",
         "exp": 12400,
         "unlocks": [],
@@ -663,6 +711,9 @@
         "giver": "Prapor",
         "turnin": "Prapor",
         "title": "The Punisher - Part 4",
+        "locales": {
+            "en": "The Punisher - Part 4"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/The_Punisher_-_Part_4",
         "exp": 19000,
         "unlocks": [
@@ -721,6 +772,9 @@
         "giver": "Prapor",
         "turnin": "Prapor",
         "title": "The Punisher - Part 5",
+        "locales": {
+            "en": "The Punisher - Part 5"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/The_Punisher_-_Part_5",
         "exp": 19300,
         "unlocks": [
@@ -779,6 +833,9 @@
         "giver": "Prapor",
         "turnin": "Prapor",
         "title": "The Punisher - Part 6",
+        "locales": {
+            "en": "The Punisher - Part 6"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/The_Punisher_-_Part_6",
         "exp": 20600,
         "unlocks": [],
@@ -833,6 +890,9 @@
         "giver": "Therapist",
         "turnin": "Therapist",
         "title": "Shortage",
+        "locales": {
+            "en": "Shortage"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Shortage",
         "exp": 500,
         "unlocks": [],
@@ -864,6 +924,9 @@
         "giver": "Therapist",
         "turnin": "Therapist",
         "title": "Sanitary Standards - Part 1",
+        "locales": {
+            "en": "Sanitary Standards - Part 1"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Sanitary_Standards_-_Part_1",
         "exp": 2200,
         "unlocks": [
@@ -897,6 +960,9 @@
         "giver": "Therapist",
         "turnin": "Therapist",
         "title": "Sanitary Standards - Part 2",
+        "locales": {
+            "en": "Sanitary Standards - Part 2"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Sanitary_Standards_-_Part_2",
         "exp": 4500,
         "unlocks": [],
@@ -928,6 +994,9 @@
         "giver": "Therapist",
         "turnin": "Therapist",
         "title": "Painkiller",
+        "locales": {
+            "en": "Painkiller"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Painkiller",
         "exp": 4600,
         "unlocks": [],
@@ -960,6 +1029,9 @@
         "giver": "Therapist",
         "turnin": "Therapist",
         "title": "Pharmacist",
+        "locales": {
+            "en": "Pharmacist"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Pharmacist",
         "exp": 5900,
         "unlocks": [
@@ -1000,6 +1072,9 @@
         "giver": "Therapist",
         "turnin": "Therapist",
         "title": "Supply plans",
+        "locales": {
+            "en": "Supply plans"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Supply_plans",
         "exp": 7700,
         "unlocks": [],
@@ -1038,6 +1113,9 @@
         "giver": "Skier",
         "turnin": "Skier",
         "title": "Kind of sabotage",
+        "locales": {
+            "en": "Kind of sabotage"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Kind_of_sabotage",
         "exp": 4600,
         "unlocks": [],
@@ -1076,6 +1154,9 @@
         "giver": "Therapist",
         "turnin": "Therapist",
         "title": "General wares",
+        "locales": {
+            "en": "General wares"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/General_wares",
         "exp": 5000,
         "unlocks": [],
@@ -1107,6 +1188,9 @@
         "giver": "Therapist",
         "turnin": "Therapist",
         "title": "Car repair",
+        "locales": {
+            "en": "Car repair"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Car_repair",
         "exp": 7600,
         "unlocks": [],
@@ -1147,6 +1231,9 @@
         "giver": "Therapist",
         "turnin": "Therapist",
         "title": "Health Care Privacy - Part 1",
+        "locales": {
+            "en": "Health Care Privacy - Part 1"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Health_Care_Privacy_-_Part_1",
         "exp": 6500,
         "unlocks": [
@@ -1200,6 +1287,9 @@
         "giver": "Therapist",
         "turnin": "Therapist",
         "title": "Health Care Privacy - Part 2",
+        "locales": {
+            "en": "Health Care Privacy - Part 2"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Health_Care_Privacy_-_Part_2",
         "exp": 8600,
         "unlocks": [],
@@ -1238,6 +1328,9 @@
         "giver": "Therapist",
         "turnin": "Therapist",
         "title": "Health Care Privacy - Part 3",
+        "locales": {
+            "en": "Health Care Privacy - Part 3"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Health_Care_Privacy_-_Part_3",
         "exp": 9400,
         "unlocks": [
@@ -1271,6 +1364,9 @@
         "giver": "Therapist",
         "turnin": "Therapist",
         "title": "Health Care Privacy - Part 4",
+        "locales": {
+            "en": "Health Care Privacy - Part 4"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Health_Care_Privacy_-_Part_4",
         "exp": 10200,
         "unlocks": [],
@@ -1302,6 +1398,9 @@
         "giver": "Therapist",
         "turnin": "Therapist",
         "title": "Health Care Privacy - Part 5",
+        "locales": {
+            "en": "Health Care Privacy - Part 5"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Health_Care_Privacy_-_Part_5",
         "exp": 13300,
         "unlocks": [],
@@ -1334,6 +1433,9 @@
         "giver": "Therapist",
         "turnin": "Therapist",
         "title": "Decontamination Service",
+        "locales": {
+            "en": "Decontamination Service"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Decontamination_service",
         "exp": 21600,
         "unlocks": [],
@@ -1369,6 +1471,9 @@
         "giver": "Therapist",
         "turnin": "Therapist",
         "title": "Private clinic",
+        "locales": {
+            "en": "Private clinic"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Private_clinic",
         "exp": 20100,
         "unlocks": [],
@@ -1407,6 +1512,9 @@
         "giver": "Therapist",
         "turnin": "Therapist",
         "title": "Athlete",
+        "locales": {
+            "en": "Athlete"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Athlete",
         "exp": 19600,
         "unlocks": [
@@ -1438,6 +1546,9 @@
         "giver": "Skier",
         "turnin": "Skier",
         "title": "Supplier",
+        "locales": {
+            "en": "Supplier"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Supplier",
         "exp": 3300,
         "unlocks": [
@@ -1478,6 +1589,9 @@
         "giver": "Skier",
         "turnin": "Skier",
         "title": "The Extortionist",
+        "locales": {
+            "en": "The Extortionist"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/The_Extortionist",
         "exp": 3200,
         "unlocks": [],
@@ -1516,6 +1630,9 @@
         "giver": "Skier",
         "turnin": "Skier",
         "title": "What's on the flash drive?",
+        "locales": {
+            "en": "What's on the flash drive?"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/What%27s_on_the_flash_drive%3F",
         "exp": 4500,
         "unlocks": [],
@@ -1551,6 +1668,9 @@
         "giver": "Skier",
         "turnin": "Skier",
         "title": "Golden swag",
+        "locales": {
+            "en": "Golden swag"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Golden_swag",
         "exp": 4600,
         "unlocks": [
@@ -1605,6 +1725,9 @@
         "giver": "Skier",
         "turnin": "Skier",
         "title": "Chemical - Part 1",
+        "locales": {
+            "en": "Chemical - Part 1"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Chemical_-_Part_1",
         "exp": 4800,
         "unlocks": [],
@@ -1643,6 +1766,9 @@
         "giver": "Skier",
         "turnin": "Skier",
         "title": "Chemical - Part 2",
+        "locales": {
+            "en": "Chemical - Part 2"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Chemical_-_Part_2",
         "exp": 4900,
         "unlocks": [
@@ -1690,6 +1816,9 @@
         "giver": "Skier",
         "turnin": "Skier",
         "title": "Chemical - Part 3",
+        "locales": {
+            "en": "Chemical - Part 3"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Chemical_-_Part_3",
         "exp": 5400,
         "unlocks": [],
@@ -1725,6 +1854,9 @@
         "giver": "Skier",
         "turnin": "Skier",
         "title": "Chemical - Part 4",
+        "locales": {
+            "en": "Chemical - Part 4"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Chemical_-_Part_4",
         "exp": 6600,
         "unlocks": [
@@ -1775,6 +1907,9 @@
         "giver": "Skier",
         "turnin": "Skier",
         "title": "\"Vitamins\" - Part 1",
+        "locales": {
+            "en": "\"Vitamins\" - Part 1"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/%22Vitamins%22_-_Part_1",
         "exp": 14100,
         "unlocks": [],
@@ -1840,6 +1975,9 @@
         "giver": "Skier",
         "turnin": "Skier",
         "title": "\"Vitamins\" - Part 2",
+        "locales": {
+            "en": "\"Vitamins\" - Part 2"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/%22Vitamins%22_-_Part_2",
         "exp": 17200,
         "unlocks": [],
@@ -1878,6 +2016,9 @@
         "giver": "Skier",
         "turnin": "Skier",
         "title": "Friend from the West - Part 1",
+        "locales": {
+            "en": "Friend from the West - Part 1"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Friend_from_the_West_-_Part_1",
         "exp": 10800,
         "unlocks": [],
@@ -1919,6 +2060,9 @@
         "giver": "Skier",
         "turnin": "Skier",
         "title": "Friend from the West - Part 2",
+        "locales": {
+            "en": "Friend from the West - Part 2"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Friend_from_the_West_-_Part_2",
         "exp": 9200,
         "unlocks": [],
@@ -1950,6 +2094,9 @@
         "giver": "Skier",
         "turnin": "Skier",
         "title": "Lend lease - Part 1",
+        "locales": {
+            "en": "Lend lease - Part 1"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Lend_lease_-_Part_1",
         "exp": 20000,
         "unlocks": [],
@@ -2031,6 +2178,9 @@
         "giver": "Peacekeeper",
         "turnin": "Peacekeeper",
         "title": "Lend lease - Part 2",
+        "locales": {
+            "en": "Lend lease - Part 2"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Lend_lease_-_Part_2",
         "exp": 22200,
         "unlocks": [],
@@ -2069,6 +2219,9 @@
         "giver": "Peacekeeper",
         "turnin": "Peacekeeper",
         "title": "Peacekeeping mission",
+        "locales": {
+            "en": "Peacekeeping mission"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Peacekeeping_mission",
         "exp": 32400,
         "nokappa": true,
@@ -2144,6 +2297,9 @@
         "giver": "Skier",
         "turnin": "Skier",
         "title": "Informed means armed",
+        "locales": {
+            "en": "Informed means armed"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Informed_means_armed",
         "exp": 15900,
         "unlocks": [
@@ -2194,6 +2350,9 @@
         "giver": "Skier",
         "turnin": "Skier",
         "title": "Chumming",
+        "locales": {
+            "en": "Chumming"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Chumming",
         "exp": 22000,
         "unlocks": [],
@@ -2249,6 +2408,9 @@
         "giver": "Skier",
         "turnin": "Skier",
         "title": "Silent caliber",
+        "locales": {
+            "en": "Silent caliber"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Silent_caliber",
         "exp": 12900,
         "unlocks": [],
@@ -2293,6 +2455,9 @@
         "giver": "Skier",
         "turnin": "Skier",
         "title": "Flint",
+        "locales": {
+            "en": "Flint"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Flint",
         "exp": 20000,
         "unlocks": [
@@ -2326,6 +2491,9 @@
         "giver": "Skier",
         "turnin": "Skier",
         "title": "Bullshit",
+        "locales": {
+            "en": "Bullshit"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Bullshit",
         "exp": 29700,
         "unlocks": [
@@ -2387,6 +2555,9 @@
         "giver": "Skier",
         "turnin": "Skier",
         "title": "Setup",
+        "locales": {
+            "en": "Setup"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Setup",
         "exp": 29300,
         "unlocks": [
@@ -2425,6 +2596,9 @@
         "giver": "Peacekeeper",
         "turnin": "Peacekeeper",
         "title": "Fishing Gear",
+        "locales": {
+            "en": "Fishing Gear"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Fishing_Gear",
         "exp": 5400,
         "unlocks": [
@@ -2465,6 +2639,9 @@
         "giver": "Peacekeeper",
         "turnin": "Peacekeeper",
         "title": "Tigr Safari",
+        "locales": {
+            "en": "Tigr Safari"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Tigr_Safari",
         "exp": 6600,
         "unlocks": [],
@@ -2520,6 +2697,9 @@
         "giver": "Peacekeeper",
         "turnin": "Peacekeeper",
         "title": "Scrap Metal",
+        "locales": {
+            "en": "Scrap Metal"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Scrap_Metal",
         "exp": 7200,
         "unlocks": [
@@ -2577,6 +2757,9 @@
         "giver": "Peacekeeper",
         "turnin": "Peacekeeper",
         "title": "Eagle Eye",
+        "locales": {
+            "en": "Eagle Eye"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Eagle_Eye",
         "exp": 7300,
         "unlocks": [],
@@ -2617,6 +2800,9 @@
         "giver": "Peacekeeper",
         "turnin": "Peacekeeper",
         "title": "Humanitarian Supplies",
+        "locales": {
+            "en": "Humanitarian Supplies"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Humanitarian_Supplies",
         "exp": 7400,
         "unlocks": [
@@ -2677,6 +2863,9 @@
         "giver": "Peacekeeper",
         "turnin": "Peacekeeper",
         "title": "The Cult - Part 1",
+        "locales": {
+            "en": "The Cult - Part 1"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/The_Cult_-_Part_1",
         "exp": 6700,
         "unlocks": [
@@ -2710,6 +2899,9 @@
         "giver": "Peacekeeper",
         "turnin": "Peacekeeper",
         "title": "The Cult - Part 2",
+        "locales": {
+            "en": "The Cult - Part 2"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/The_Cult_-_Part_2",
         "exp": 8200,
         "unlocks": [],
@@ -2775,6 +2967,9 @@
         "giver": "Peacekeeper",
         "turnin": "Peacekeeper",
         "title": "Spa Tour - Part 1",
+        "locales": {
+            "en": "Spa Tour - Part 1"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Spa_Tour_-_Part_1",
         "exp": 8900,
         "unlocks": [],
@@ -2809,6 +3004,9 @@
         "giver": "Peacekeeper",
         "turnin": "Peacekeeper",
         "title": "Spa Tour - Part 2",
+        "locales": {
+            "en": "Spa Tour - Part 2"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Spa_Tour_-_Part_2",
         "exp": 7500,
         "unlocks": [
@@ -2851,6 +3049,9 @@
         "giver": "Peacekeeper",
         "turnin": "Peacekeeper",
         "title": "Spa Tour - Part 3",
+        "locales": {
+            "en": "Spa Tour - Part 3"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Spa_Tour_-_Part_3",
         "exp": 9100,
         "unlocks": [],
@@ -2903,6 +3104,9 @@
         "giver": "Peacekeeper",
         "turnin": "Peacekeeper",
         "title": "Spa Tour - Part 4",
+        "locales": {
+            "en": "Spa Tour - Part 4"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Spa_Tour_-_Part_4",
         "exp": 9300,
         "unlocks": [],
@@ -2951,6 +3155,9 @@
         "giver": "Peacekeeper",
         "turnin": "Peacekeeper",
         "title": "Spa Tour - Part 5",
+        "locales": {
+            "en": "Spa Tour - Part 5"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Spa_Tour_-_Part_5",
         "exp": 7800,
         "unlocks": [],
@@ -2982,6 +3189,9 @@
         "giver": "Peacekeeper",
         "turnin": "Peacekeeper",
         "title": "Spa Tour - Part 6",
+        "locales": {
+            "en": "Spa Tour - Part 6"
+        },
         "wiki": "",
         "exp": 11400,
         "unlocks": [
@@ -3015,6 +3225,9 @@
         "giver": "Peacekeeper",
         "turnin": "Peacekeeper",
         "title": "Spa Tour - Part 7",
+        "locales": {
+            "en": "Spa Tour - Part 7"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Spa_Tour_-_Part_7",
         "exp": 11600,
         "unlocks": [],
@@ -3071,6 +3284,9 @@
         "giver": "Peacekeeper",
         "turnin": "Peacekeeper",
         "title": "Cargo X - Part 1",
+        "locales": {
+            "en": "Cargo X - Part 1"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Cargo_X_-_Part_1",
         "exp": 10400,
         "unlocks": [],
@@ -3112,6 +3328,9 @@
         "giver": "Peacekeeper",
         "turnin": "Peacekeeper",
         "title": "Cargo X - Part 2",
+        "locales": {
+            "en": "Cargo X - Part 2"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Cargo_X_-_Part_2",
         "exp": 8600,
         "unlocks": [
@@ -3146,6 +3365,9 @@
         "giver": "Peacekeeper",
         "turnin": "Peacekeeper",
         "title": "Cargo X - Part 3",
+        "locales": {
+            "en": "Cargo X - Part 3"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Cargo_X_-_Part_3",
         "exp": 10700,
         "unlocks": [],
@@ -3177,6 +3399,9 @@
         "giver": "Peacekeeper",
         "turnin": "Peacekeeper",
         "title": "Wet Job - Part 1",
+        "locales": {
+            "en": "Wet Job - Part 1"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Wet_Job_-_Part_1",
         "exp": 13000,
         "unlocks": [],
@@ -3215,6 +3440,9 @@
         "giver": "Peacekeeper",
         "turnin": "Peacekeeper",
         "title": "Wet Job - Part 2",
+        "locales": {
+            "en": "Wet Job - Part 2"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Wet_Job_-_Part_2",
         "exp": 11700,
         "unlocks": [
@@ -3249,6 +3477,9 @@
         "giver": "Peacekeeper",
         "turnin": "Peacekeeper",
         "title": "Wet Job - Part 3",
+        "locales": {
+            "en": "Wet Job - Part 3"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Wet_Job_-_Part_3",
         "exp": 9900,
         "unlocks": [],
@@ -3280,6 +3511,9 @@
         "giver": "Peacekeeper",
         "turnin": "Peacekeeper",
         "title": "Wet Job - Part 4",
+        "locales": {
+            "en": "Wet Job - Part 4"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Wet_Job_-_Part_4",
         "exp": 10000,
         "unlocks": [],
@@ -3311,6 +3545,9 @@
         "giver": "Peacekeeper",
         "turnin": "Peacekeeper",
         "title": "Wet Job - Part 5",
+        "locales": {
+            "en": "Wet Job - Part 5"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Wet_Job_-_Part_5",
         "exp": 10200,
         "unlocks": [
@@ -3354,6 +3591,9 @@
         "giver": "Peacekeeper",
         "turnin": "Peacekeeper",
         "title": "Wet Job - Part 6",
+        "locales": {
+            "en": "Wet Job - Part 6"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Wet_Job_-_Part_6",
         "exp": 10400,
         "unlocks": [
@@ -3391,6 +3631,9 @@
         "giver": "Mechanic",
         "turnin": "Mechanic",
         "title": "Psycho Sniper",
+        "locales": {
+            "en": "Psycho Sniper"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Psycho_Sniper",
         "exp": 32400,
         "unlocks": [],
@@ -3417,6 +3660,9 @@
         "giver": "Peacekeeper",
         "turnin": "Peacekeeper",
         "title": "The guide",
+        "locales": {
+            "en": "The guide"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/The_guide",
         "exp": 35100,
         "unlocks": [
@@ -3442,6 +3688,9 @@
         "giver": "Mechanic",
         "turnin": "Mechanic",
         "title": "Gunsmith - Part 1",
+        "locales": {
+            "en": "Gunsmith - Part 1"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Gunsmith_-_Part_1",
         "exp": 6500,
         "unlocks": [],
@@ -3465,6 +3714,9 @@
         "giver": "Mechanic",
         "turnin": "Mechanic",
         "title": "Gunsmith - Part 2",
+        "locales": {
+            "en": "Gunsmith - Part 2"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Gunsmith_-_Part_2",
         "exp": 6000,
         "unlocks": [],
@@ -3488,6 +3740,9 @@
         "giver": "Mechanic",
         "turnin": "Mechanic",
         "title": "Gunsmith - Part 3",
+        "locales": {
+            "en": "Gunsmith - Part 3"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Gunsmith_-_Part_3",
         "exp": 8000,
         "unlocks": [],
@@ -3511,6 +3766,9 @@
         "giver": "Mechanic",
         "turnin": "Mechanic",
         "title": "Gunsmith - Part 4",
+        "locales": {
+            "en": "Gunsmith - Part 4"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Gunsmith_-_Part_4",
         "exp": 10100,
         "unlocks": [],
@@ -3534,6 +3792,9 @@
         "giver": "Mechanic",
         "turnin": "Mechanic",
         "title": "Gunsmith - Part 5",
+        "locales": {
+            "en": "Gunsmith - Part 5"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Gunsmith_-_Part_5",
         "exp": 13900,
         "unlocks": [],
@@ -3557,6 +3818,9 @@
         "giver": "Mechanic",
         "turnin": "Mechanic",
         "title": "Gunsmith - Part 6",
+        "locales": {
+            "en": "Gunsmith - Part 6"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Gunsmith_-_Part_6",
         "exp": 13900,
         "unlocks": [],
@@ -3580,6 +3844,9 @@
         "giver": "Mechanic",
         "turnin": "Mechanic",
         "title": "Gunsmith - Part 7",
+        "locales": {
+            "en": "Gunsmith - Part 7"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Gunsmith_-_Part_7",
         "exp": 16000,
         "unlocks": [],
@@ -3603,6 +3870,9 @@
         "giver": "Mechanic",
         "turnin": "Mechanic",
         "title": "Gunsmith - Part 8",
+        "locales": {
+            "en": "Gunsmith - Part 8"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Gunsmith_-_Part_8",
         "exp": 16200,
         "unlocks": [],
@@ -3626,6 +3896,9 @@
         "giver": "Mechanic",
         "turnin": "Mechanic",
         "title": "Gunsmith - Part 9",
+        "locales": {
+            "en": "Gunsmith - Part 9"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Gunsmith_-_Part_9",
         "exp": 17300,
         "unlocks": [],
@@ -3649,6 +3922,9 @@
         "giver": "Mechanic",
         "turnin": "Mechanic",
         "title": "Gunsmith - Part 10",
+        "locales": {
+            "en": "Gunsmith - Part 10"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Gunsmith_-_Part_10",
         "exp": 17500,
         "unlocks": [
@@ -3674,6 +3950,9 @@
         "giver": "Mechanic",
         "turnin": "Mechanic",
         "title": "Gunsmith - Part 11",
+        "locales": {
+            "en": "Gunsmith - Part 11"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Gunsmith_-_Part_11",
         "exp": 18600,
         "unlocks": [],
@@ -3697,6 +3976,9 @@
         "giver": "Mechanic",
         "turnin": "Mechanic",
         "title": "Gunsmith - Part 12",
+        "locales": {
+            "en": "Gunsmith - Part 12"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Gunsmith_-_Part_12",
         "exp": 14400,
         "unlocks": [
@@ -3722,6 +4004,9 @@
         "giver": "Mechanic",
         "turnin": "Mechanic",
         "title": "Gunsmith - Part 13",
+        "locales": {
+            "en": "Gunsmith - Part 13"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Gunsmith_-_Part_13",
         "exp": 19000,
         "unlocks": [
@@ -3747,6 +4032,9 @@
         "giver": "Mechanic",
         "turnin": "Mechanic",
         "title": "Gunsmith - Part 14",
+        "locales": {
+            "en": "Gunsmith - Part 14"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Gunsmith_-_Part_14",
         "exp": 20800,
         "unlocks": [
@@ -3772,6 +4060,9 @@
         "giver": "Mechanic",
         "turnin": "Mechanic",
         "title": "Gunsmith - Part 15",
+        "locales": {
+            "en": "Gunsmith - Part 15"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Gunsmith_-_Part_15",
         "exp": 22600,
         "unlocks": [],
@@ -3795,6 +4086,9 @@
         "giver": "Mechanic",
         "turnin": "Mechanic",
         "title": "Gunsmith - Part 16",
+        "locales": {
+            "en": "Gunsmith - Part 16"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Gunsmith_-_Part_16",
         "exp": 28500,
         "unlocks": [],
@@ -3818,6 +4112,9 @@
         "giver": "Mechanic",
         "turnin": "Mechanic",
         "title": "Signal - Part 1",
+        "locales": {
+            "en": "Signal - Part 1"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Signal_-_Part_1",
         "exp": 8500,
         "unlocks": [],
@@ -3856,6 +4153,9 @@
         "giver": "Mechanic",
         "turnin": "Mechanic",
         "title": "Signal - Part 2",
+        "locales": {
+            "en": "Signal - Part 2"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Signal_-_Part_2",
         "exp": 8700,
         "unlocks": [],
@@ -3908,6 +4208,9 @@
         "giver": "Mechanic",
         "turnin": "Mechanic",
         "title": "Signal - Part 3",
+        "locales": {
+            "en": "Signal - Part 3"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Signal_-_Part_3",
         "exp": 11000,
         "unlocks": [
@@ -3961,6 +4264,9 @@
         "giver": "Mechanic",
         "turnin": "Mechanic",
         "title": "Signal - Part 4",
+        "locales": {
+            "en": "Signal - Part 4"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Signal_-_Part_4",
         "exp": 11100,
         "unlocks": [],
@@ -3992,6 +4298,9 @@
         "giver": "Mechanic",
         "turnin": "Mechanic",
         "title": "Scout",
+        "locales": {
+            "en": "Scout"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Scout",
         "exp": 9200,
         "unlocks": [],
@@ -4041,6 +4350,9 @@
         "giver": "Mechanic",
         "turnin": "Mechanic",
         "title": "Insider",
+        "locales": {
+            "en": "Insider"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Insider",
         "exp": 9300,
         "unlocks": [],
@@ -4072,6 +4384,9 @@
         "giver": "Mechanic",
         "turnin": "Mechanic",
         "title": "Farming - Part 1",
+        "locales": {
+            "en": "Farming - Part 1"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Farming_-_Part_1",
         "exp": 8000,
         "unlocks": [],
@@ -4112,6 +4427,9 @@
         "giver": "Mechanic",
         "turnin": "Mechanic",
         "title": "Farming - Part 2",
+        "locales": {
+            "en": "Farming - Part 2"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Farming_-_Part_2",
         "exp": 6800,
         "unlocks": [],
@@ -4157,6 +4475,9 @@
         "giver": "Mechanic",
         "turnin": "Mechanic",
         "title": "Farming - Part 3",
+        "locales": {
+            "en": "Farming - Part 3"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Farming_-_Part_3",
         "exp": 8100,
         "unlocks": [],
@@ -4195,6 +4516,9 @@
         "giver": "Mechanic",
         "turnin": "Mechanic",
         "title": "Farming - Part 4",
+        "locales": {
+            "en": "Farming - Part 4"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Farming_-_Part_4",
         "exp": 9800,
         "unlocks": [],
@@ -4233,6 +4557,9 @@
         "giver": "Mechanic",
         "turnin": "Mechanic",
         "title": "Import",
+        "locales": {
+            "en": "Import"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Import",
         "exp": 42800,
         "nokappa": true,
@@ -4272,6 +4599,9 @@
         "giver": "Mechanic",
         "turnin": "Mechanic",
         "title": "Fertilizers",
+        "locales": {
+            "en": "Fertilizers"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Fertilizers",
         "exp": 19500,
         "unlocks": [],
@@ -4310,6 +4640,9 @@
         "giver": "Mechanic",
         "turnin": "Mechanic",
         "title": "A Shooter Born in Heaven",
+        "locales": {
+            "en": "A Shooter Born in Heaven"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/A_Shooter_Born_in_Heaven",
         "exp": 39500,
         "unlocks": [
@@ -4374,6 +4707,9 @@
         "giver": "Ragman",
         "turnin": "Ragman",
         "title": "Only business",
+        "locales": {
+            "en": "Only business"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Only_business",
         "exp": 6700,
         "unlocks": [],
@@ -4405,6 +4741,9 @@
         "giver": "Ragman",
         "turnin": "Ragman",
         "title": "Big sale",
+        "locales": {
+            "en": "Big sale"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Big_sale",
         "exp": 8900,
         "unlocks": [],
@@ -4464,6 +4803,9 @@
         "giver": "Ragman",
         "turnin": "Ragman",
         "title": "The Blood of War - Part 1",
+        "locales": {
+            "en": "The Blood of War - Part 1"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/The_Blood_of_War_-_Part_1",
         "exp": 7500,
         "unlocks": [],
@@ -4515,6 +4857,9 @@
         "giver": "Ragman",
         "turnin": "Ragman",
         "title": "Dressed to kill",
+        "locales": {
+            "en": "Dressed to kill"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Dressed_to_kill",
         "exp": 10200,
         "unlocks": [],
@@ -4553,6 +4898,9 @@
         "giver": "Ragman",
         "turnin": "Ragman",
         "title": "Database - Part 1",
+        "locales": {
+            "en": "Database - Part 1"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Database_-_Part_1",
         "exp": 11500,
         "unlocks": [],
@@ -4598,6 +4946,9 @@
         "giver": "Ragman",
         "turnin": "Ragman",
         "title": "Database - Part 2",
+        "locales": {
+            "en": "Database - Part 2"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Database_-_Part_2",
         "exp": 11700,
         "unlocks": [],
@@ -4636,6 +4987,9 @@
         "giver": "Ragman",
         "turnin": "Ragman",
         "title": "Gratitude",
+        "locales": {
+            "en": "Gratitude"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Gratitude",
         "exp": 16300,
         "unlocks": [],
@@ -4688,6 +5042,9 @@
         "giver": "Ragman",
         "turnin": "Ragman",
         "title": "Sales Night",
+        "locales": {
+            "en": "Sales Night"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Sales_Night",
         "exp": 19800,
         "unlocks": [],
@@ -4719,6 +5076,9 @@
         "giver": "Ragman",
         "turnin": "Ragman",
         "title": "Supervisor",
+        "locales": {
+            "en": "Supervisor"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Supervisor",
         "exp": 24100,
         "unlocks": [
@@ -4752,6 +5112,9 @@
         "giver": "Ragman",
         "turnin": "Ragman",
         "title": "Hot Delivery",
+        "locales": {
+            "en": "Hot Delivery"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Hot_delivery",
         "exp": 25000,
         "unlocks": [],
@@ -4800,6 +5163,9 @@
         "giver": "Ragman",
         "turnin": "Ragman",
         "title": "Scavenger",
+        "locales": {
+            "en": "Scavenger"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Scavenger",
         "exp": 15400,
         "unlocks": [],
@@ -4831,6 +5197,9 @@
         "giver": "Ragman",
         "turnin": "Ragman",
         "title": "Make ULTRA Great Again",
+        "locales": {
+            "en": "Make ULTRA Great Again"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Make_ULTRA_Great_Again",
         "exp": 9800,
         "unlocks": [],
@@ -4862,6 +5231,9 @@
         "giver": "Ragman",
         "turnin": "Ragman",
         "title": "Minibus",
+        "locales": {
+            "en": "Minibus"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Minibus",
         "exp": 16500,
         "unlocks": [],
@@ -4913,6 +5285,9 @@
         "giver": "Ragman",
         "turnin": "Ragman",
         "title": "Sew it good - Part 1",
+        "locales": {
+            "en": "Sew it good - Part 1"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Sew_it_good_-_Part_1",
         "exp": 12300,
         "unlocks": [],
@@ -4951,6 +5326,9 @@
         "giver": "Ragman",
         "turnin": "Ragman",
         "title": "Sew it good - Part 2",
+        "locales": {
+            "en": "Sew it good - Part 2"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Sew_it_good_-_Part_2",
         "exp": 18700,
         "unlocks": [],
@@ -4991,6 +5369,9 @@
         "giver": "Ragman",
         "turnin": "Ragman",
         "title": "Sew it good - Part 3",
+        "locales": {
+            "en": "Sew it good - Part 3"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Sew_it_good_-_Part_3",
         "exp": 19700,
         "unlocks": [],
@@ -5031,6 +5412,9 @@
         "giver": "Ragman",
         "turnin": "Ragman",
         "title": "Sew it good - Part 4",
+        "locales": {
+            "en": "Sew it good - Part 4"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Sew_it_good_-_Part_4",
         "exp": 20700,
         "unlocks": [],
@@ -5069,6 +5453,9 @@
         "giver": "Ragman",
         "turnin": "Ragman",
         "title": "Charisma brings success",
+        "locales": {
+            "en": "Charisma brings success"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Charisma_brings_success",
         "exp": 12700,
         "nokappa": true,
@@ -5101,6 +5488,9 @@
         "giver": "Ragman",
         "turnin": "Ragman",
         "title": "No fuss needed",
+        "locales": {
+            "en": "No fuss needed"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/No_fuss_needed",
         "exp": 12900,
         "unlocks": [],
@@ -5132,6 +5522,9 @@
         "giver": "Ragman",
         "turnin": "Ragman",
         "title": "The Blood of War - Part 2",
+        "locales": {
+            "en": "The Blood of War - Part 2"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/The_Blood_of_War_-_Part_2",
         "exp": 15600,
         "unlocks": [],
@@ -5163,6 +5556,9 @@
         "giver": "Ragman",
         "turnin": "Ragman",
         "title": "The Blood of War - Part 3",
+        "locales": {
+            "en": "The Blood of War - Part 3"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/The_Blood_of_War_-_Part_3",
         "exp": 21000,
         "unlocks": [],
@@ -5214,6 +5610,9 @@
         "giver": "Ragman",
         "turnin": "Ragman",
         "title": "Living high is not a crime - Part 1",
+        "locales": {
+            "en": "Living high is not a crime - Part 1"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Living_high_is_not_a_crime_-_Part_1",
         "exp": 23000,
         "nokappa": true,
@@ -5267,6 +5666,9 @@
         "giver": "Ragman",
         "turnin": "Ragman",
         "title": "Living high is not a crime - Part 2",
+        "locales": {
+            "en": "Living high is not a crime - Part 2"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Living_high_is_not_a_crime_-_Part_2",
         "exp": 29600,
         "unlocks": [],
@@ -5303,6 +5705,9 @@
         "giver": "Mechanic",
         "turnin": "Mechanic",
         "title": "Introduction",
+        "locales": {
+            "en": "Introduction"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Introduction",
         "exp": 4500,
         "unlocks": [],
@@ -5334,6 +5739,9 @@
         "giver": "Jaeger",
         "turnin": "Jaeger",
         "title": "Acquaintance",
+        "locales": {
+            "en": "Acquaintance"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Acquaintance",
         "exp": 4000,
         "unlocks": [],
@@ -5379,6 +5787,9 @@
         "giver": "Jaeger",
         "turnin": "Jaeger",
         "title": "The survivalist path - Unprotected, but dangerous",
+        "locales": {
+            "en": "The survivalist path - Unprotected, but dangerous"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/The_survivalist_path_-_Unprotected,_but_dangerous",
         "exp": 7000,
         "unlocks": [],
@@ -5413,6 +5824,9 @@
         "giver": "Jaeger",
         "turnin": "Jaeger",
         "title": "The survivalist path - Thrifty",
+        "locales": {
+            "en": "The survivalist path - Thrifty"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/The_survivalist_path_-_Thrifty",
         "exp": 6500,
         "unlocks": [],
@@ -5469,6 +5883,9 @@
         "giver": "Jaeger",
         "turnin": "Jaeger",
         "title": "The survivalist path - Zhivchik",
+        "locales": {
+            "en": "The survivalist path - Zhivchik"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/The_survivalist_path_-_Zhivchik",
         "exp": 9000,
         "unlocks": [],
@@ -5500,6 +5917,9 @@
         "giver": "Jaeger",
         "turnin": "Jaeger",
         "title": "The survivalist path - Wounded beast",
+        "locales": {
+            "en": "The survivalist path - Wounded beast"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/The_survivalist_path_-_Wounded_beast",
         "exp": 10000,
         "unlocks": [],
@@ -5529,6 +5949,9 @@
         "giver": "Jaeger",
         "turnin": "Jaeger",
         "title": "The survivalist path - Tough guy",
+        "locales": {
+            "en": "The survivalist path - Tough guy"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/The_survivalist_path_-_Tough_guy",
         "exp": 12000,
         "unlocks": [],
@@ -5559,6 +5982,9 @@
         "giver": "Jaeger",
         "turnin": "Jaeger",
         "title": "Courtesy visit",
+        "locales": {
+            "en": "Courtesy visit"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Courtesy_visit",
         "exp": 10000,
         "unlocks": [],
@@ -5604,6 +6030,9 @@
         "giver": "Jaeger",
         "turnin": "Jaeger",
         "title": "Nostalgia",
+        "locales": {
+            "en": "Nostalgia"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Nostalgia",
         "exp": 10000,
         "unlocks": [],
@@ -5635,6 +6064,9 @@
         "giver": "Jaeger",
         "turnin": "Jaeger",
         "title": "The Tarkov shooter - Part 1",
+        "locales": {
+            "en": "The Tarkov shooter - Part 1"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/%22The_Tarkov_shooter%22_-_Part_1",
         "exp": 18900,
         "unlocks": [],
@@ -5670,6 +6102,9 @@
         "giver": "Jaeger",
         "turnin": "Jaeger",
         "title": "The Tarkov shooter - Part 2",
+        "locales": {
+            "en": "The Tarkov shooter - Part 2"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/%22The_Tarkov_shooter%22_-_Part_2",
         "exp": 19200,
         "unlocks": [
@@ -5720,6 +6155,9 @@
         "giver": "Jaeger",
         "turnin": "Jaeger",
         "title": "The Tarkov shooter - Part 3",
+        "locales": {
+            "en": "The Tarkov shooter - Part 3"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/%22The_Tarkov_shooter%22_-_Part_3",
         "exp": 16200,
         "unlocks": [
@@ -5758,6 +6196,9 @@
         "giver": "Jaeger",
         "turnin": "Jaeger",
         "title": "The Tarkov shooter - Part 4",
+        "locales": {
+            "en": "The Tarkov shooter - Part 4"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/%22The_Tarkov_shooter%22_-_Part_4",
         "exp": 16400,
         "unlocks": [
@@ -5792,6 +6233,9 @@
         "giver": "Jaeger",
         "turnin": "Jaeger",
         "title": "The Tarkov shooter - Part 5",
+        "locales": {
+            "en": "The Tarkov shooter - Part 5"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/%22The_Tarkov_shooter%22_-_Part_5",
         "exp": 20000,
         "unlocks": [
@@ -5829,6 +6273,9 @@
         "giver": "Jaeger",
         "turnin": "Jaeger",
         "title": "The Tarkov shooter - Part 6",
+        "locales": {
+            "en": "The Tarkov shooter - Part 6"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/%22The_Tarkov_shooter%22_-_Part_6",
         "exp": 20300,
         "unlocks": [
@@ -5866,6 +6313,9 @@
         "giver": "Jaeger",
         "turnin": "Jaeger",
         "title": "The Tarkov shooter - Part 7",
+        "locales": {
+            "en": "The Tarkov shooter - Part 7"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/%22The_Tarkov_shooter%22_-_Part_7",
         "exp": 20700,
         "unlocks": [
@@ -5903,6 +6353,9 @@
         "giver": "Jaeger",
         "turnin": "Jaeger",
         "title": "The Tarkov shooter - Part 8",
+        "locales": {
+            "en": "The Tarkov shooter - Part 8"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/%22The_Tarkov_shooter%22_-_Part_8",
         "exp": 25200,
         "unlocks": [
@@ -5941,6 +6394,9 @@
         "giver": "Jaeger",
         "turnin": "Jaeger",
         "title": "The survivalist path - Cold blooded",
+        "locales": {
+            "en": "The survivalist path - Cold blooded"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/The_survivalist_path_-_Cold_blooded",
         "exp": 11000,
         "unlocks": [],
@@ -5976,6 +6432,9 @@
         "giver": "Therapist",
         "turnin": "Therapist",
         "title": "Colleagues - Part 2",
+        "locales": {
+            "en": "Colleagues - Part 2"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Colleagues_-_Part_2",
         "exp": 13200,
         "nokappa": true,
@@ -6024,6 +6483,9 @@
         "giver": "Therapist",
         "turnin": "Therapist",
         "title": "Colleagues - Part 3",
+        "locales": {
+            "en": "Colleagues - Part 3"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Colleagues_-_Part_3",
         "exp": 13200,
         "nokappa": true,
@@ -6087,6 +6549,9 @@
         "giver": "Jaeger",
         "turnin": "Jaeger",
         "title": "The survivalist path - Combat medic",
+        "locales": {
+            "en": "The survivalist path - Combat medic"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/The_survivalist_path_-_Combat_medic",
         "exp": 14000,
         "unlocks": [],
@@ -6118,6 +6583,9 @@
         "giver": "Jaeger",
         "turnin": "Jaeger",
         "title": "Ambulance",
+        "locales": {
+            "en": "Ambulance"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Ambulance",
         "exp": 12000,
         "unlocks": [
@@ -6158,6 +6626,9 @@
         "giver": "Jaeger",
         "turnin": "Jaeger",
         "title": "Huntsman path - Secured perimeter",
+        "locales": {
+            "en": "Huntsman path - Secured perimeter"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Huntsman_path_-_Secured_perimeter",
         "exp": 14000,
         "unlocks": [],
@@ -6192,6 +6663,9 @@
         "giver": "Jaeger",
         "turnin": "Jaeger",
         "title": "Reserv",
+        "locales": {
+            "en": "Reserv"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Reserv",
         "exp": 9000,
         "unlocks": [],
@@ -6223,6 +6697,9 @@
         "giver": "Jaeger",
         "turnin": "Jaeger",
         "title": "Huntsman path - Woods cleaning",
+        "locales": {
+            "en": "Huntsman path - Woods cleaning"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Huntsman_path_-_Woods_cleaning",
         "exp": 18000,
         "unlocks": [],
@@ -6254,6 +6731,9 @@
         "giver": "Jaeger",
         "turnin": "Jaeger",
         "title": "Huntsman path - Controller",
+        "locales": {
+            "en": "Huntsman path - Controller"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Huntsman_path_-_Controller",
         "exp": 21000,
         "nokappa": true,
@@ -6289,6 +6769,9 @@
         "giver": "Jaeger",
         "turnin": "Jaeger",
         "title": "Huntsman path - Evil watchman",
+        "locales": {
+            "en": "Huntsman path - Evil watchman"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Huntsman_path_-_Evil_watchman",
         "exp": 21000,
         "nokappa": true,
@@ -6324,6 +6807,9 @@
         "giver": "Jaeger",
         "turnin": "Jaeger",
         "title": "Fishing place",
+        "locales": {
+            "en": "Fishing place"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Fishing_place",
         "exp": 15000,
         "unlocks": [],
@@ -6355,6 +6841,9 @@
         "giver": "Jaeger",
         "turnin": "Jaeger",
         "title": "Huntsman path - The trophy",
+        "locales": {
+            "en": "Huntsman path - The trophy"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Huntsman_path_-_The_trophy",
         "exp": 20000,
         "unlocks": [],
@@ -6393,6 +6882,9 @@
         "giver": "Jaeger",
         "turnin": "Jaeger",
         "title": "Huntsman path - Justice",
+        "locales": {
+            "en": "Huntsman path - Justice"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Huntsman_path_-_Justice",
         "exp": 20000,
         "nokappa": true,
@@ -6428,6 +6920,9 @@
         "giver": "Jaeger",
         "turnin": "Jaeger",
         "title": "Huntsman path - Sell-out",
+        "locales": {
+            "en": "Huntsman path - Sell-out"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Huntsman_path_-_Sell-out",
         "exp": 23000,
         "unlocks": [],
@@ -6466,6 +6961,9 @@
         "giver": "Jaeger",
         "turnin": "Jaeger",
         "title": "Huntsman path - Woods keeper",
+        "locales": {
+            "en": "Huntsman path - Woods keeper"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Huntsman_path_-_Woods_keeper",
         "exp": 25000,
         "unlocks": [],
@@ -6504,6 +7002,9 @@
         "giver": "Jaeger",
         "turnin": "Jaeger",
         "title": "Huntsman path - Eraser - Part 1",
+        "locales": {
+            "en": "Huntsman path - Eraser - Part 1"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Huntsman_path_-_Eraser_-_Part_1",
         "exp": 30000,
         "unlocks": [],
@@ -6535,6 +7036,9 @@
         "giver": "Jaeger",
         "turnin": "Jaeger",
         "title": "Huntsman path - Eraser - Part 2",
+        "locales": {
+            "en": "Huntsman path - Eraser - Part 2"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Huntsman_path_-_Eraser_-_Part_2",
         "exp": 30000,
         "unlocks": [],
@@ -6566,6 +7070,9 @@
         "giver": "Jaeger",
         "turnin": "Jaeger",
         "title": "Hunting trip",
+        "locales": {
+            "en": "Hunting trip"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Hunting_trip",
         "exp": 16000,
         "nokappa": true,
@@ -6607,6 +7114,9 @@
         "giver": "Therapist",
         "turnin": "Therapist",
         "title": "Operation Aquarius - Part 1",
+        "locales": {
+            "en": "Operation Aquarius - Part 1"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Operation_Aquarius_-_Part_1",
         "exp": 3400,
         "unlocks": [],
@@ -6649,6 +7159,9 @@
         "giver": "Therapist",
         "turnin": "Therapist",
         "title": "Operation Aquarius - Part 2",
+        "locales": {
+            "en": "Operation Aquarius - Part 2"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Operation_Aquarius_-_Part_2",
         "exp": 3400,
         "unlocks": [
@@ -6686,6 +7199,9 @@
         "giver": "Prapor",
         "turnin": "Prapor",
         "title": "Polikhim hobo",
+        "locales": {
+            "en": "Polikhim hobo"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Polikhim_hobo",
         "exp": 7000,
         "unlocks": [],
@@ -6717,6 +7233,9 @@
         "giver": "Prapor",
         "turnin": "Prapor",
         "title": "Regulated materials",
+        "locales": {
+            "en": "Regulated materials"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Regulated_materials",
         "exp": 0,
         "nokappa": true,
@@ -6756,6 +7275,9 @@
         "giver": "Skier",
         "turnin": "Skier",
         "title": "Stirrup",
+        "locales": {
+            "en": "Stirrup"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Stirrup",
         "exp": 4700,
         "unlocks": [
@@ -6800,6 +7322,9 @@
         "giver": "Peacekeeper",
         "turnin": "Peacekeeper",
         "title": "Mentor",
+        "locales": {
+            "en": "Mentor"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Mentor",
         "exp": 4700,
         "nokappa": true,
@@ -6827,6 +7352,9 @@
         "giver": "Mechanic",
         "turnin": "Mechanic",
         "title": "Bad habit",
+        "locales": {
+            "en": "Bad habit"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Bad_habit",
         "exp": 9000,
         "unlocks": [],
@@ -6872,6 +7400,9 @@
         "giver": "Ragman",
         "turnin": "Ragman",
         "title": "The key to success",
+        "locales": {
+            "en": "The key to success"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/The_key_to_success",
         "exp": 18100,
         "unlocks": [],
@@ -6912,6 +7443,9 @@
         "giver": "Jaeger",
         "turnin": "Jaeger",
         "title": "Shady Business",
+        "locales": {
+            "en": "Shady Business"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Shady_business",
         "exp": 11000,
         "unlocks": [],
@@ -6943,6 +7477,9 @@
         "giver": "Therapist",
         "turnin": "Therapist",
         "title": "Postman Pat - Part 2",
+        "locales": {
+            "en": "Postman Pat - Part 2"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Postman_Pat_-_Part_2",
         "exp": 4200,
         "unlocks": [],
@@ -6974,6 +7511,9 @@
         "giver": "Therapist",
         "turnin": "Therapist",
         "title": "Out of curiosity",
+        "locales": {
+            "en": "Out of curiosity"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Out_of_curiosity",
         "exp": 8300,
         "unlocks": [],
@@ -7018,6 +7558,9 @@
         "giver": "Prapor",
         "turnin": "Prapor",
         "title": "Big customer",
+        "locales": {
+            "en": "Big customer"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Big_customer",
         "exp": 8200,
         "unlocks": [],
@@ -7065,6 +7608,9 @@
         "giver": "Jaeger",
         "turnin": "Jaeger",
         "title": "The survivalist path - Junkie",
+        "locales": {
+            "en": "The survivalist path - Junkie"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/The_survivalist_path_-_Junkie",
         "exp": 12000,
         "unlocks": [],
@@ -7099,6 +7645,9 @@
         "giver": "Ragman",
         "turnin": "Ragman",
         "title": "Textile - Part 1",
+        "locales": {
+            "en": "Textile - Part 1"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Textile_-_Part_1",
         "exp": 0,
         "nokappa": true,
@@ -7140,6 +7689,9 @@
         "giver": "Ragman",
         "turnin": "Ragman",
         "title": "Textile - Part 2",
+        "locales": {
+            "en": "Textile - Part 2"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Textile_-_Part_2",
         "exp": 0,
         "nokappa": true,
@@ -7181,6 +7733,9 @@
         "giver": "Prapor",
         "turnin": "Prapor",
         "title": "Anesthesia",
+        "locales": {
+            "en": "Anesthesia"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Anesthesia",
         "exp": 12600,
         "nokappa": true,
@@ -7233,6 +7788,9 @@
         "giver": "Therapist",
         "turnin": "Therapist",
         "title": "Colleagues - Part 1",
+        "locales": {
+            "en": "Colleagues - Part 1"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Colleagues_-_Part_1",
         "exp": 12600,
         "nokappa": true,
@@ -7279,6 +7837,9 @@
         "giver": "Skier",
         "turnin": "Skier",
         "title": "Rigged game",
+        "locales": {
+            "en": "Rigged game"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Rigged_game",
         "exp": 13200,
         "nokappa": true,
@@ -7329,6 +7890,9 @@
         "giver": "Mechanic",
         "turnin": "Mechanic",
         "title": "The chemistry closet",
+        "locales": {
+            "en": "The chemistry closet"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/The_chemistry_closet",
         "exp": 13800,
         "nokappa": true,
@@ -7368,6 +7932,9 @@
         "giver": "Peacekeeper",
         "turnin": "Peacekeeper",
         "title": "Samples",
+        "locales": {
+            "en": "Samples"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Samples",
         "exp": 13200,
         "nokappa": true,
@@ -7443,6 +8010,9 @@
         "giver": "Peacekeeper",
         "turnin": "Peacekeeper",
         "title": "TerraGroup employee",
+        "locales": {
+            "en": "TerraGroup employee"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/TerraGroup_employee",
         "exp": 14400,
         "nokappa": true,
@@ -7491,6 +8061,9 @@
         "giver": "Jaeger",
         "turnin": "Jaeger",
         "title": "Huntsman path - Sadist",
+        "locales": {
+            "en": "Huntsman path - Sadist"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Huntsman_path_-_Sadist",
         "exp": 13800,
         "nokappa": true,
@@ -7530,6 +8103,9 @@
         "giver": "Prapor",
         "turnin": "Prapor",
         "title": "The bunker - Part 1",
+        "locales": {
+            "en": "The bunker - Part 1"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/The_bunker_-_Part_1",
         "exp": 6000,
         "nokappa": true,
@@ -7569,6 +8145,9 @@
         "giver": "Prapor",
         "turnin": "Prapor",
         "title": "The bunker - Part 2",
+        "locales": {
+            "en": "The bunker - Part 2"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/The_bunker_-_Part_2",
         "exp": 6600,
         "nokappa": true,
@@ -7629,6 +8208,9 @@
         "giver": "Prapor",
         "turnin": "Prapor",
         "title": "Search mission",
+        "locales": {
+            "en": "Search mission"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Search_mission",
         "exp": 2000,
         "unlocks": [],
@@ -7667,6 +8249,9 @@
         "giver": "Ragman",
         "turnin": "Ragman",
         "title": "The stylish one",
+        "locales": {
+            "en": "The stylish one"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/The_stylish_one",
         "exp": 0,
         "nokappa": true,
@@ -7693,6 +8278,9 @@
         "giver": "Jaeger",
         "turnin": "Jaeger",
         "title": "The survivalist path - Eagle-owl",
+        "locales": {
+            "en": "The survivalist path - Eagle-owl"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/The_survivalist_path_-_Eagle-owl",
         "exp": 13000,
         "unlocks": [],
@@ -7781,6 +8369,9 @@
         "giver": "Fence",
         "turnin": "Fence",
         "title": "Collector",
+        "locales": {
+            "en": "Collector"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/Collector",
         "exp": 0,
         "unlocks": [],
@@ -7960,6 +8551,9 @@
         "giver": "Therapist",
         "turnin": "Therapist",
         "title": "An apple a day - keeps the doctor away",
+        "locales": {
+            "en": "An apple a day - keeps the doctor away"
+        },
         "wiki": "https://escapefromtarkov.gamepedia.com/An_apple_a_day_-_keeps_the_doctor_away",
         "exp": 0,
         "unlocks": [],
@@ -7993,6 +8587,9 @@
         "giver": "Jaeger",
         "turnin": "Jaeger",
         "title": "Hunter",
+        "locales": {
+            "en": "Hunter"
+        },
         "wiki": "https://escapefromtarkov.fandom.com/wiki/Hunter",
         "exp": 0,
         "unlocks": [
@@ -8025,6 +8622,9 @@
         "giver": "Prapor",
         "turnin": "Prapor",
         "title": "No offence",
+        "locales": {
+            "en": "No offence"
+        },
         "wiki": "https://escapefromtarkov.fandom.com/wiki/No_offence",
         "exp": 0,
         "unlocks": [],
@@ -8060,6 +8660,9 @@
         "giver": "Therapist",
         "turnin": "Therapist",
         "title": "Trust regain",
+        "locales": {
+            "en": "Trust regain"
+        },
         "wiki": "https://escapefromtarkov.fandom.com/wiki/Trust_regain",
         "exp": 0,
         "unlocks": [],
@@ -8116,6 +8719,9 @@
         "giver": "Skier",
         "turnin": "Skier",
         "title": "Loyalty buyout",
+        "locales": {
+            "en": "Loyalty buyout"
+        },
         "wiki": "https://escapefromtarkov.fandom.com/wiki/Loyalty_buyout",
         "exp": 0,
         "unlocks": [],
@@ -8149,6 +8755,9 @@
         "giver": "Therapist",
         "turnin": "Therapist",
         "title": "Hippocratic Vow",
+        "locales": {
+            "en": "Hippocratic Vow"
+        },
         "wiki": "https://escapefromtarkov.fandom.com/wiki/Hippocratic_Vow",
         "exp": 0,
         "unlocks": [],
@@ -8188,6 +8797,9 @@
         "giver": "Therapist",
         "turnin": "Therapist",
         "title": "Disease history",
+        "locales": {
+            "en": "Disease history"
+        },
         "wiki": "https://escapefromtarkov.fandom.com/wiki/Disease_history",
         "exp": 7200,
         "unlocks": [],
@@ -8242,6 +8854,9 @@
         "giver": "Ragman",
         "turnin": "Ragman",
         "title": "Fuel matter",
+        "locales": {
+            "en": "Fuel matter"
+        },
         "wiki": "https://escapefromtarkov.fandom.com/wiki/Fuel_matter",
         "exp": 8200,
         "unlocks": [],
@@ -8283,6 +8898,9 @@
         "giver": "Mechanic",
         "turnin": "Mechanic",
         "title": "Surplus Goods",
+        "locales": {
+            "en": "Surplus Goods"
+        },
         "wiki": "https://escapefromtarkov.fandom.com/wiki/Surplus_goods",
         "exp": 9200,
         "unlocks": [],
@@ -8322,6 +8940,9 @@
         "giver": "Mechanic",
         "turnin": "Mechanic",
         "title": "Back door",
+        "locales": {
+            "en": "Back door"
+        },
         "wiki": "https://escapefromtarkov.fandom.com/wiki/Back_door",
         "exp": 8200,
         "unlocks": [],
@@ -8354,6 +8975,9 @@
         "giver": "Peacekeeper",
         "turnin": "Peacekeeper",
         "title": "Revision",
+        "locales": {
+            "en": "Revision"
+        },
         "wiki": "https://escapefromtarkov.fandom.com/wiki/Revision",
         "exp": 7300,
         "unlocks": [],
@@ -8439,6 +9063,9 @@
         "giver": "Peacekeeper",
         "turnin": "Peacekeeper",
         "title": "Experience exchange",
+        "locales": {
+            "en": "Experience exchange"
+        },
         "wiki": "https://escapefromtarkov.fandom.com/wiki/Experience_exchange",
         "exp": 7200,
         "unlocks": [],
@@ -8470,6 +9097,9 @@
         "giver": "Ragman",
         "turnin": "Ragman",
         "title": "Inventory check",
+        "locales": {
+            "en": "Inventory check"
+        },
         "wiki": "https://escapefromtarkov.fandom.com/wiki/Inventory_check",
         "exp": 10000,
         "unlocks": [],
@@ -8550,6 +9180,9 @@
         "giver": "Prapor",
         "turnin": "Prapor",
         "title": "No place for renegades",
+        "locales": {
+            "en": "No place for renegades"
+        },
         "wiki": "https://escapefromtarkov.fandom.com/wiki/No_place_for_renegades",
         "exp": 8500,
         "unlocks": [],
@@ -8581,6 +9214,9 @@
         "giver": "Prapor",
         "turnin": "Prapor",
         "title": "Documents",
+        "locales": {
+            "en": "Documents"
+        },
         "wiki": "https://escapefromtarkov.fandom.com/wiki/Documents",
         "exp": 7800,
         "unlocks": [],
@@ -8626,6 +9262,9 @@
         "giver": "Skier",
         "turnin": "Skier",
         "title": "Safe corridor",
+        "locales": {
+            "en": "Safe corridor"
+        },
         "wiki": "https://escapefromtarkov.fandom.com/wiki/Safe_corridor",
         "exp": 9000,
         "unlocks": [],
@@ -8660,6 +9299,9 @@
         "giver": "Jaeger",
         "turnin": "Jaeger",
         "title": "Tagilla",
+        "locales": {
+            "en": "Tagilla"
+        },
         "wiki": "https://escapefromtarkov.fandom.com/wiki/Tagilla",
         "exp": 8500,
         "unlocks": [],
@@ -8698,6 +9340,9 @@
         "giver": "Jaeger",
         "turnin": "Jaeger",
         "title": "Pest control",
+        "locales": {
+            "en": "Pest control"
+        },
         "wiki": "https://escapefromtarkov.fandom.com/wiki/Pest_control",
         "exp": 7400,
         "unlocks": [],
