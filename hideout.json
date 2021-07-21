@@ -158,7 +158,8 @@
                 "en": "Christmas Tree"
             },
             "function": "Provides a wide variety of potential item crafts",
-            "imgSource": "/img/Christmas_tree_Portrait.png"
+            "imgSource": "/img/Christmas_tree_Portrait.png",
+            "disabled": true
         },
         {
             "id": 20,
@@ -1793,7 +1794,7 @@
                 },
                 {
                     "type": "module",
-                    "name": "Intelligence Center",
+                    "name": "Intelligence center",
                     "quantity": 2,
                     "id": 270
                 },

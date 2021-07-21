@@ -8,5 +8,6 @@ Some general guidelines for the maps:
 - They should be as close to the in-game maps as possible, when available
 - They should not include labels
 - They should not include every detail, but just major landmarks
-- They should not split floors into separate spaces (ideally splitting things like Interchange into multiple maps, one per floor)
-- Please include any source file if available
+- If the map requires multiple floors to be useful (Interchange), each floor should be a parent level layer
+- Please include any source file if available in addition to the final SVG
+- Please utilize current color scheme for any new maps, if you want to utilize the maps with a different color scheme, coordinated colors can easily be replaced as a post-processing step.
