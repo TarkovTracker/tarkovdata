@@ -1372,7 +1372,7 @@
             "ru": "Врачебная тайна. Часть 3"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Health_Care_Privacy_-_Part_3",
-        "exp": 66000,
+        "exp": 6000,
         "unlocks": [
             "544fb3f34bdc2d03748b456a"
         ],
@@ -1519,7 +1519,7 @@
             "ru": "Частная клиника"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Private_clinic",
-        "exp": 306600,
+        "exp": 30600,
         "unlocks": [],
         "reputation": [
             {
@@ -8291,7 +8291,7 @@
             "ru": "Путь охотника. Садист"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Huntsman_path_-_Sadist",
-        "exp": 166300,
+        "exp": 16300,
         "nokappa": true,
         "unlocks": [],
         "reputation": [
