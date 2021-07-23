@@ -438,42 +438,42 @@
         "objectives": [
             {
                 "type": "reputation",
-                "target": "Prapor",
+                "target": 0,
                 "number": 4,
                 "location": "Any",
                 "id": 16
             },
             {
                 "type": "reputation",
-                "target": "Therapist",
+                "target": 1,
                 "number": 4,
                 "location": "Any",
                 "id": 17
             },
             {
                 "type": "reputation",
-                "target": "Skier",
+                "target": 2,
                 "number": 4,
                 "location": "Any",
                 "id": 18
             },
             {
                 "type": "reputation",
-                "target": "Peacekeeper",
+                "target": 3,
                 "number": 4,
                 "location": "Any",
                 "id": 19
             },
             {
                 "type": "reputation",
-                "target": "Mechanic",
+                "target": 4,
                 "number": 4,
                 "location": "Any",
                 "id": 20
             },
             {
                 "type": "reputation",
-                "target": "Ragman",
+                "target": 5,
                 "number": 4,
                 "location": "Any",
                 "id": 21
@@ -4484,7 +4484,7 @@
         "objectives": [
             {
                 "type": "reputation",
-                "target": "Prapor",
+                "target": 0,
                 "number": 3,
                 "location": "Any",
                 "id": 176
@@ -4853,7 +4853,7 @@
         "objectives": [
             {
                 "type": "reputation",
-                "target": "Ragman",
+                "target": 5,
                 "number": 2,
                 "location": "Any",
                 "id": 194
@@ -5660,7 +5660,7 @@
         "objectives": [
             {
                 "type": "reputation",
-                "target": "Therapist",
+                "target": 1,
                 "number": 3,
                 "location": "Any",
                 "id": 232
