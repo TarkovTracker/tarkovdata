@@ -2672,7 +2672,7 @@
         "wiki": "https://escapefromtarkov.gamepedia.com/Fishing_Gear",
         "exp": 4800,
         "unlocks": [
-            "58d399e486f77442e0016fe7"
+            "5b3116595acfc40019476364"
         ],
         "reputation": [
             {
@@ -5646,7 +5646,9 @@
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/No_fuss_needed",
         "exp": 15800,
-        "unlocks": [],
+        "unlocks": [
+            "5b40e1525acfc4771e1c6611"
+        ],
         "reputation": [
             {
                 "trader": "Ragman",
@@ -7625,7 +7627,9 @@
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/The_key_to_success",
         "exp": 15600,
-        "unlocks": [],
+        "unlocks": [
+            "6034d2d697633951dc245ea6"
+        ],
         "reputation": [
             {
                 "trader": "Ragman",
