@@ -5,8 +5,8 @@
             "level": 1,
             "quests": []
         },
-        "giver": "Prapor",
-        "turnin": "Prapor",
+        "giver": 0,
+        "turnin": 0,
         "title": "Debut",
         "locales": {
             "en": "Debut",
@@ -20,7 +20,7 @@
         ],
         "reputation": [
             {
-                "trader": "Prapor",
+                "trader": 0,
                 "rep": 0.02
             }
         ],
@@ -50,8 +50,8 @@
                 0
             ]
         },
-        "giver": "Prapor",
-        "turnin": "Prapor",
+        "giver": 0,
+        "turnin": 0,
         "title": "Checking",
         "locales": {
             "en": "Checking",
@@ -63,7 +63,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Prapor",
+                "trader": 0,
                 "rep": 0.03
             }
         ],
@@ -93,8 +93,8 @@
                 1
             ]
         },
-        "giver": "Prapor",
-        "turnin": "Prapor",
+        "giver": 0,
+        "turnin": 0,
         "title": "Shootout picnic",
         "locales": {
             "en": "Shootout picnic",
@@ -106,7 +106,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Prapor",
+                "trader": 0,
                 "rep": 0.03
             }
         ],
@@ -129,8 +129,8 @@
                 1
             ]
         },
-        "giver": "Prapor",
-        "turnin": "Prapor",
+        "giver": 0,
+        "turnin": 0,
         "title": "Delivery from the past",
         "locales": {
             "en": "Delivery from the past",
@@ -144,7 +144,7 @@
         ],
         "reputation": [
             {
-                "trader": "Prapor",
+                "trader": 0,
                 "rep": 0.03
             }
         ],
@@ -181,8 +181,8 @@
                 3
             ]
         },
-        "giver": "Prapor",
-        "turnin": "Prapor",
+        "giver": 0,
+        "turnin": 0,
         "title": "BP depot",
         "locales": {
             "en": "BP depot",
@@ -194,11 +194,11 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Prapor",
+                "trader": 0,
                 "rep": 0.03
             },
             {
-                "trader": "Jaeger",
+                "trader": 6,
                 "rep": -0.01
             }
         ],
@@ -250,8 +250,8 @@
                 4
             ]
         },
-        "giver": "Prapor",
-        "turnin": "Prapor",
+        "giver": 0,
+        "turnin": 0,
         "title": "Bad rep evidence",
         "locales": {
             "en": "Bad rep evidence",
@@ -265,7 +265,7 @@
         ],
         "reputation": [
             {
-                "trader": "Prapor",
+                "trader": 0,
                 "rep": 0.03
             }
         ],
@@ -295,8 +295,8 @@
                 5
             ]
         },
-        "giver": "Prapor",
-        "turnin": "Prapor",
+        "giver": 0,
+        "turnin": 0,
         "title": "Ice cream cones",
         "locales": {
             "en": "Ice cream cones",
@@ -310,7 +310,7 @@
         ],
         "reputation": [
             {
-                "trader": "Prapor",
+                "trader": 0,
                 "rep": 0.02
             }
         ],
@@ -334,8 +334,8 @@
                 6
             ]
         },
-        "giver": "Prapor",
-        "turnin": "Therapist",
+        "giver": 0,
+        "turnin": 1,
         "title": "Postman Pat",
         "locales": {
             "en": "Postman Pat",
@@ -349,7 +349,7 @@
         ],
         "reputation": [
             {
-                "trader": "Prapor",
+                "trader": 0,
                 "rep": 0.02
             }
         ],
@@ -373,13 +373,13 @@
             ],
             "loyalty": [
                 {
-                    "trader": "Prapor",
+                    "trader": 0,
                     "stage": 2
                 }
             ]
         },
-        "giver": "Prapor",
-        "turnin": "Prapor",
+        "giver": 0,
+        "turnin": 0,
         "title": "Shaking up teller",
         "locales": {
             "en": "Shaking up teller",
@@ -394,11 +394,11 @@
         ],
         "reputation": [
             {
-                "trader": "Prapor",
+                "trader": 0,
                 "rep": 0.02
             },
             {
-                "trader": "Jaeger",
+                "trader": 6,
                 "rep": -0.01
             }
         ],
@@ -428,8 +428,8 @@
                 8
             ]
         },
-        "giver": "Prapor",
-        "turnin": "Prapor",
+        "giver": 0,
+        "turnin": 0,
         "title": "Perfect mediator",
         "locales": {
             "en": "Perfect mediator",
@@ -441,49 +441,49 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Prapor",
+                "trader": 0,
                 "rep": 0.02
             }
         ],
         "objectives": [
             {
                 "type": "reputation",
-                "target": "Prapor",
+                "target": 0,
                 "number": 4,
                 "location": "Any",
                 "id": 16
             },
             {
                 "type": "reputation",
-                "target": "Therapist",
+                "target": 1,
                 "number": 4,
                 "location": "Any",
                 "id": 17
             },
             {
                 "type": "reputation",
-                "target": "Skier",
+                "target": 2,
                 "number": 4,
                 "location": "Any",
                 "id": 18
             },
             {
                 "type": "reputation",
-                "target": "Peacekeeper",
+                "target": 3,
                 "number": 4,
                 "location": "Any",
                 "id": 19
             },
             {
                 "type": "reputation",
-                "target": "Mechanic",
+                "target": 4,
                 "number": 4,
                 "location": "Any",
                 "id": 20
             },
             {
                 "type": "reputation",
-                "target": "Ragman",
+                "target": 5,
                 "number": 4,
                 "location": "Any",
                 "id": 21
@@ -499,8 +499,8 @@
                 8
             ]
         },
-        "giver": "Prapor",
-        "turnin": "Prapor",
+        "giver": 0,
+        "turnin": 0,
         "title": "Grenadier",
         "locales": {
             "en": "Grenadier",
@@ -535,8 +535,8 @@
                 10
             ]
         },
-        "giver": "Prapor",
-        "turnin": "Prapor",
+        "giver": 0,
+        "turnin": 0,
         "title": "Insomnia",
         "locales": {
             "en": "Insomnia",
@@ -548,7 +548,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Prapor",
+                "trader": 0,
                 "rep": 0.02
             }
         ],
@@ -574,8 +574,8 @@
                 10
             ]
         },
-        "giver": "Prapor",
-        "turnin": "Prapor",
+        "giver": 0,
+        "turnin": 0,
         "title": "Test drive. Pt. 1",
         "locales": {
             "en": "Test drive. Pt. 1",
@@ -587,7 +587,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Prapor",
+                "trader": 0,
                 "rep": 0.02
             }
         ],
@@ -615,8 +615,8 @@
                 8
             ]
         },
-        "giver": "Prapor",
-        "turnin": "Prapor",
+        "giver": 0,
+        "turnin": 0,
         "title": "The Punisher - Part 1",
         "locales": {
             "en": "The Punisher - Part 1",
@@ -630,7 +630,7 @@
         ],
         "reputation": [
             {
-                "trader": "Prapor",
+                "trader": 0,
                 "rep": 0.02
             }
         ],
@@ -656,8 +656,8 @@
                 13
             ]
         },
-        "giver": "Prapor",
-        "turnin": "Prapor",
+        "giver": 0,
+        "turnin": 0,
         "title": "The Punisher - Part 2",
         "locales": {
             "en": "The Punisher - Part 2",
@@ -669,7 +669,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Prapor",
+                "trader": 0,
                 "rep": 0.03
             }
         ],
@@ -702,8 +702,8 @@
                 14
             ]
         },
-        "giver": "Prapor",
-        "turnin": "Prapor",
+        "giver": 0,
+        "turnin": 0,
         "title": "The Punisher - Part 3",
         "locales": {
             "en": "The Punisher - Part 3",
@@ -717,11 +717,11 @@
         ],
         "reputation": [
             {
-                "trader": "Prapor",
+                "trader": 0,
                 "rep": 0.04
             },
             {
-                "trader": "Skier",
+                "trader": 2,
                 "rep": 0.02
             }
         ],
@@ -747,8 +747,8 @@
                 15
             ]
         },
-        "giver": "Prapor",
-        "turnin": "Prapor",
+        "giver": 0,
+        "turnin": 0,
         "title": "The Punisher - Part 4",
         "locales": {
             "en": "The Punisher - Part 4",
@@ -762,11 +762,11 @@
         ],
         "reputation": [
             {
-                "trader": "Prapor",
+                "trader": 0,
                 "rep": 0.03
             },
             {
-                "trader": "Jaeger",
+                "trader": 6,
                 "rep": -0.01
             }
         ],
@@ -810,8 +810,8 @@
                 16
             ]
         },
-        "giver": "Prapor",
-        "turnin": "Prapor",
+        "giver": 0,
+        "turnin": 0,
         "title": "The Punisher - Part 5",
         "locales": {
             "en": "The Punisher - Part 5",
@@ -825,7 +825,7 @@
         ],
         "reputation": [
             {
-                "trader": "Prapor",
+                "trader": 0,
                 "rep": 0.03
             }
         ],
@@ -873,8 +873,8 @@
                 17
             ]
         },
-        "giver": "Prapor",
-        "turnin": "Prapor",
+        "giver": 0,
+        "turnin": 0,
         "title": "The Punisher - Part 6",
         "locales": {
             "en": "The Punisher - Part 6",
@@ -886,15 +886,15 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Prapor",
+                "trader": 0,
                 "rep": 0.04
             },
             {
-                "trader": "Skier",
+                "trader": 2,
                 "rep": 0.01
             },
             {
-                "trader": "Therapist",
+                "trader": 1,
                 "rep": 0.05
             }
         ],
@@ -932,8 +932,8 @@
             "level": 1,
             "quests": []
         },
-        "giver": "Therapist",
-        "turnin": "Therapist",
+        "giver": 1,
+        "turnin": 1,
         "title": "Shortage",
         "locales": {
             "en": "Shortage",
@@ -945,7 +945,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Therapist",
+                "trader": 1,
                 "rep": 0.03
             }
         ],
@@ -968,8 +968,8 @@
                 19
             ]
         },
-        "giver": "Therapist",
-        "turnin": "Therapist",
+        "giver": 1,
+        "turnin": 1,
         "title": "Sanitary Standards - Part 1",
         "locales": {
             "en": "Sanitary Standards - Part 1",
@@ -983,7 +983,7 @@
         ],
         "reputation": [
             {
-                "trader": "Therapist",
+                "trader": 1,
                 "rep": 0.03
             }
         ],
@@ -1006,8 +1006,8 @@
                 20
             ]
         },
-        "giver": "Therapist",
-        "turnin": "Therapist",
+        "giver": 1,
+        "turnin": 1,
         "title": "Sanitary Standards - Part 2",
         "locales": {
             "en": "Sanitary Standards - Part 2",
@@ -1019,7 +1019,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Therapist",
+                "trader": 1,
                 "rep": 0.03
             }
         ],
@@ -1042,8 +1042,8 @@
                 21
             ]
         },
-        "giver": "Therapist",
-        "turnin": "Therapist",
+        "giver": 1,
+        "turnin": 1,
         "title": "Painkiller",
         "locales": {
             "en": "Painkiller",
@@ -1055,7 +1055,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Therapist",
+                "trader": 1,
                 "rep": 0.03
             }
         ],
@@ -1079,8 +1079,8 @@
                 22
             ]
         },
-        "giver": "Therapist",
-        "turnin": "Therapist",
+        "giver": 1,
+        "turnin": 1,
         "title": "Pharmacist",
         "locales": {
             "en": "Pharmacist",
@@ -1094,7 +1094,7 @@
         ],
         "reputation": [
             {
-                "trader": "Therapist",
+                "trader": 1,
                 "rep": 0.04
             }
         ],
@@ -1124,8 +1124,8 @@
                 23
             ]
         },
-        "giver": "Therapist",
-        "turnin": "Therapist",
+        "giver": 1,
+        "turnin": 1,
         "title": "Supply plans",
         "locales": {
             "en": "Supply plans",
@@ -1137,13 +1137,13 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Therapist",
+                "trader": 1,
                 "rep": 0.04
             }
         ],
         "reputationFailure": [
             {
-                "trader": "Therapist",
+                "trader": 1,
                 "rep": -0.04
             }
         ],
@@ -1169,8 +1169,8 @@
                 23
             ]
         },
-        "giver": "Skier",
-        "turnin": "Skier",
+        "giver": 2,
+        "turnin": 2,
         "title": "Kind of sabotage",
         "locales": {
             "en": "Kind of sabotage",
@@ -1182,13 +1182,13 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Skier",
+                "trader": 2,
                 "rep": 0.04
             }
         ],
         "reputationFailure": [
             {
-                "trader": "Skier",
+                "trader": 2,
                 "rep": -0.04
             }
         ],
@@ -1214,8 +1214,8 @@
                 23
             ]
         },
-        "giver": "Therapist",
-        "turnin": "Therapist",
+        "giver": 1,
+        "turnin": 1,
         "title": "General wares",
         "locales": {
             "en": "General wares",
@@ -1227,7 +1227,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Therapist",
+                "trader": 1,
                 "rep": 0.03
             }
         ],
@@ -1250,8 +1250,8 @@
                 23
             ]
         },
-        "giver": "Therapist",
-        "turnin": "Therapist",
+        "giver": 1,
+        "turnin": 1,
         "title": "Car repair",
         "locales": {
             "en": "Car repair",
@@ -1263,7 +1263,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Therapist",
+                "trader": 1,
                 "rep": 0.04
             }
         ],
@@ -1295,8 +1295,8 @@
                 23
             ]
         },
-        "giver": "Therapist",
-        "turnin": "Therapist",
+        "giver": 1,
+        "turnin": 1,
         "title": "Health Care Privacy - Part 1",
         "locales": {
             "en": "Health Care Privacy - Part 1",
@@ -1310,7 +1310,7 @@
         ],
         "reputation": [
             {
-                "trader": "Therapist",
+                "trader": 1,
                 "rep": 0.03
             }
         ],
@@ -1353,8 +1353,8 @@
                 28
             ]
         },
-        "giver": "Therapist",
-        "turnin": "Therapist",
+        "giver": 1,
+        "turnin": 1,
         "title": "Health Care Privacy - Part 2",
         "locales": {
             "en": "Health Care Privacy - Part 2",
@@ -1366,7 +1366,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Therapist",
+                "trader": 1,
                 "rep": 0.04
             }
         ],
@@ -1396,8 +1396,8 @@
                 29
             ]
         },
-        "giver": "Therapist",
-        "turnin": "Therapist",
+        "giver": 1,
+        "turnin": 1,
         "title": "Health Care Privacy - Part 3",
         "locales": {
             "en": "Health Care Privacy - Part 3",
@@ -1411,7 +1411,7 @@
         ],
         "reputation": [
             {
-                "trader": "Therapist",
+                "trader": 1,
                 "rep": 0.04
             }
         ],
@@ -1434,8 +1434,8 @@
                 30
             ]
         },
-        "giver": "Therapist",
-        "turnin": "Therapist",
+        "giver": 1,
+        "turnin": 1,
         "title": "Health Care Privacy - Part 4",
         "locales": {
             "en": "Health Care Privacy - Part 4",
@@ -1447,7 +1447,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Therapist",
+                "trader": 1,
                 "rep": 0.09
             }
         ],
@@ -1470,8 +1470,8 @@
                 31
             ]
         },
-        "giver": "Therapist",
-        "turnin": "Therapist",
+        "giver": 1,
+        "turnin": 1,
         "title": "Health Care Privacy - Part 5",
         "locales": {
             "en": "Health Care Privacy - Part 5",
@@ -1483,7 +1483,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Therapist",
+                "trader": 1,
                 "rep": 0.04
             }
         ],
@@ -1507,8 +1507,8 @@
                 34
             ]
         },
-        "giver": "Therapist",
-        "turnin": "Therapist",
+        "giver": 1,
+        "turnin": 1,
         "title": "Decontamination Service",
         "locales": {
             "en": "Decontamination Service",
@@ -1520,7 +1520,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Therapist",
+                "trader": 1,
                 "rep": 0.05
             }
         ],
@@ -1547,8 +1547,8 @@
                 31
             ]
         },
-        "giver": "Therapist",
-        "turnin": "Therapist",
+        "giver": 1,
+        "turnin": 1,
         "title": "Private clinic",
         "locales": {
             "en": "Private clinic",
@@ -1560,7 +1560,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Therapist",
+                "trader": 1,
                 "rep": 0.05
             }
         ],
@@ -1590,8 +1590,8 @@
                 31
             ]
         },
-        "giver": "Therapist",
-        "turnin": "Therapist",
+        "giver": 1,
+        "turnin": 1,
         "title": "Athlete",
         "locales": {
             "en": "Athlete",
@@ -1605,7 +1605,7 @@
         ],
         "reputation": [
             {
-                "trader": "Therapist",
+                "trader": 1,
                 "rep": 0.04
             }
         ],
@@ -1626,8 +1626,8 @@
             "level": 5,
             "quests": []
         },
-        "giver": "Skier",
-        "turnin": "Skier",
+        "giver": 2,
+        "turnin": 2,
         "title": "Supplier",
         "locales": {
             "en": "Supplier",
@@ -1641,7 +1641,7 @@
         ],
         "reputation": [
             {
-                "trader": "Skier",
+                "trader": 2,
                 "rep": 0.05
             }
         ],
@@ -1671,8 +1671,8 @@
                 36
             ]
         },
-        "giver": "Skier",
-        "turnin": "Skier",
+        "giver": 2,
+        "turnin": 2,
         "title": "The Extortionist",
         "locales": {
             "en": "The Extortionist",
@@ -1684,7 +1684,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Skier",
+                "trader": 2,
                 "rep": 0.04
             }
         ],
@@ -1714,8 +1714,8 @@
                 37
             ]
         },
-        "giver": "Skier",
-        "turnin": "Skier",
+        "giver": 2,
+        "turnin": 2,
         "title": "What's on the flash drive?",
         "locales": {
             "en": "What's on the flash drive?",
@@ -1727,11 +1727,11 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Skier",
+                "trader": 2,
                 "rep": 0.04
             },
             {
-                "trader": "Jaeger",
+                "trader": 6,
                 "rep": -0.01
             }
         ],
@@ -1754,8 +1754,8 @@
                 38
             ]
         },
-        "giver": "Skier",
-        "turnin": "Skier",
+        "giver": 2,
+        "turnin": 2,
         "title": "Golden swag",
         "locales": {
             "en": "Golden swag",
@@ -1769,7 +1769,7 @@
         ],
         "reputation": [
             {
-                "trader": "Skier",
+                "trader": 2,
                 "rep": 0.04
             }
         ],
@@ -1813,8 +1813,8 @@
                 39
             ]
         },
-        "giver": "Skier",
-        "turnin": "Skier",
+        "giver": 2,
+        "turnin": 2,
         "title": "Chemical - Part 1",
         "locales": {
             "en": "Chemical - Part 1",
@@ -1826,7 +1826,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Skier",
+                "trader": 2,
                 "rep": 0.04
             }
         ],
@@ -1856,8 +1856,8 @@
                 40
             ]
         },
-        "giver": "Skier",
-        "turnin": "Skier",
+        "giver": 2,
+        "turnin": 2,
         "title": "Chemical - Part 2",
         "locales": {
             "en": "Chemical - Part 2",
@@ -1871,7 +1871,7 @@
         ],
         "reputation": [
             {
-                "trader": "Skier",
+                "trader": 2,
                 "rep": 0.04
             }
         ],
@@ -1908,8 +1908,8 @@
                 41
             ]
         },
-        "giver": "Skier",
-        "turnin": "Skier",
+        "giver": 2,
+        "turnin": 2,
         "title": "Chemical - Part 3",
         "locales": {
             "en": "Chemical - Part 3",
@@ -1921,11 +1921,11 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Skier",
+                "trader": 2,
                 "rep": 0.04
             },
             {
-                "trader": "Jaeger",
+                "trader": 6,
                 "rep": -0.01
             }
         ],
@@ -1948,8 +1948,8 @@
                 42
             ]
         },
-        "giver": "Skier",
-        "turnin": "Skier",
+        "giver": 2,
+        "turnin": 2,
         "title": "Chemical - Part 4",
         "locales": {
             "en": "Chemical - Part 4",
@@ -1963,17 +1963,17 @@
         ],
         "reputation": [
             {
-                "trader": "Skier",
+                "trader": 2,
                 "rep": 0.04
             },
             {
-                "trader": "Jaeger",
+                "trader": 6,
                 "rep": -0.01
             }
         ],
         "reputationFailure": [
             {
-                "trader": "Skier",
+                "trader": 2,
                 "rep": -0.25
             }
         ],
@@ -2001,8 +2001,8 @@
                 42
             ]
         },
-        "giver": "Skier",
-        "turnin": "Skier",
+        "giver": 2,
+        "turnin": 2,
         "title": "Vitamins - Part 1",
         "locales": {
             "en": "Vitamins - Part 1",
@@ -2014,11 +2014,11 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Skier",
+                "trader": 2,
                 "rep": 0.05
             },
             {
-                "trader": "Jaeger",
+                "trader": 6,
                 "rep": -0.01
             }
         ],
@@ -2071,8 +2071,8 @@
                 44
             ]
         },
-        "giver": "Skier",
-        "turnin": "Skier",
+        "giver": 2,
+        "turnin": 2,
         "title": "Vitamins - Part 2",
         "locales": {
             "en": "Vitamins - Part 2",
@@ -2086,7 +2086,7 @@
         ],
         "reputation": [
             {
-                "trader": "Skier",
+                "trader": 2,
                 "rep": 0.05
             }
         ],
@@ -2116,8 +2116,8 @@
                 39
             ]
         },
-        "giver": "Skier",
-        "turnin": "Skier",
+        "giver": 2,
+        "turnin": 2,
         "title": "Friend from the West - Part 1",
         "locales": {
             "en": "Friend from the West - Part 1",
@@ -2129,7 +2129,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Skier",
+                "trader": 2,
                 "rep": 0.06
             }
         ],
@@ -2162,8 +2162,8 @@
                 46
             ]
         },
-        "giver": "Skier",
-        "turnin": "Skier",
+        "giver": 2,
+        "turnin": 2,
         "title": "Friend from the West - Part 2",
         "locales": {
             "en": "Friend from the West - Part 2",
@@ -2175,7 +2175,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Skier",
+                "trader": 2,
                 "rep": 0.12
             }
         ],
@@ -2198,8 +2198,8 @@
                 47
             ]
         },
-        "giver": "Skier",
-        "turnin": "Skier",
+        "giver": 2,
+        "turnin": 2,
         "title": "Lend lease - Part 1",
         "locales": {
             "en": "Lend lease - Part 1",
@@ -2213,7 +2213,7 @@
         ],
         "reputation": [
             {
-                "trader": "Skier",
+                "trader": 2,
                 "rep": 0.05
             }
         ],
@@ -2286,8 +2286,8 @@
                 48
             ]
         },
-        "giver": "Peacekeeper",
-        "turnin": "Peacekeeper",
+        "giver": 3,
+        "turnin": 3,
         "title": "Lend lease - Part 2",
         "locales": {
             "en": "Lend lease - Part 2",
@@ -2299,7 +2299,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Peacekeeper",
+                "trader": 3,
                 "rep": 0.04
             }
         ],
@@ -2329,8 +2329,8 @@
                 49
             ]
         },
-        "giver": "Peacekeeper",
-        "turnin": "Peacekeeper",
+        "giver": 3,
+        "turnin": 3,
         "title": "Peacekeeping mission",
         "locales": {
             "en": "Peacekeeping mission",
@@ -2345,7 +2345,7 @@
         ],
         "reputation": [
             {
-                "trader": "Peacekeeper",
+                "trader": 3,
                 "rep": 0.04
             }
         ],
@@ -2409,8 +2409,8 @@
                 47
             ]
         },
-        "giver": "Skier",
-        "turnin": "Skier",
+        "giver": 2,
+        "turnin": 2,
         "title": "Informed means armed",
         "locales": {
             "en": "Informed means armed",
@@ -2424,7 +2424,7 @@
         ],
         "reputation": [
             {
-                "trader": "Skier",
+                "trader": 2,
                 "rep": 0.05
             }
         ],
@@ -2464,8 +2464,8 @@
                 51
             ]
         },
-        "giver": "Skier",
-        "turnin": "Skier",
+        "giver": 2,
+        "turnin": 2,
         "title": "Chumming",
         "locales": {
             "en": "Chumming",
@@ -2477,7 +2477,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Skier",
+                "trader": 2,
                 "rep": 0.05
             }
         ],
@@ -2524,8 +2524,8 @@
                 52
             ]
         },
-        "giver": "Skier",
-        "turnin": "Skier",
+        "giver": 2,
+        "turnin": 2,
         "title": "Silent caliber",
         "locales": {
             "en": "Silent caliber",
@@ -2537,7 +2537,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Skier",
+                "trader": 2,
                 "rep": 0.05
             }
         ],
@@ -2573,8 +2573,8 @@
                 52
             ]
         },
-        "giver": "Skier",
-        "turnin": "Skier",
+        "giver": 2,
+        "turnin": 2,
         "title": "Flint",
         "locales": {
             "en": "Flint",
@@ -2588,7 +2588,7 @@
         ],
         "reputation": [
             {
-                "trader": "Skier",
+                "trader": 2,
                 "rep": 0.05
             }
         ],
@@ -2611,8 +2611,8 @@
                 52
             ]
         },
-        "giver": "Skier",
-        "turnin": "Skier",
+        "giver": 2,
+        "turnin": 2,
         "title": "Bullshit",
         "locales": {
             "en": "Bullshit",
@@ -2626,7 +2626,7 @@
         ],
         "reputation": [
             {
-                "trader": "Skier",
+                "trader": 2,
                 "rep": 0.07
             }
         ],
@@ -2677,8 +2677,8 @@
                 55
             ]
         },
-        "giver": "Skier",
-        "turnin": "Skier",
+        "giver": 2,
+        "turnin": 2,
         "title": "Setup",
         "locales": {
             "en": "Setup",
@@ -2692,7 +2692,7 @@
         ],
         "reputation": [
             {
-                "trader": "Skier",
+                "trader": 2,
                 "rep": 0.05
             }
         ],
@@ -2720,8 +2720,8 @@
                 47
             ]
         },
-        "giver": "Peacekeeper",
-        "turnin": "Peacekeeper",
+        "giver": 3,
+        "turnin": 3,
         "title": "Fishing Gear",
         "locales": {
             "en": "Fishing Gear",
@@ -2735,7 +2735,7 @@
         ],
         "reputation": [
             {
-                "trader": "Peacekeeper",
+                "trader": 3,
                 "rep": 0.02
             }
         ],
@@ -2765,8 +2765,8 @@
                 57
             ]
         },
-        "giver": "Peacekeeper",
-        "turnin": "Peacekeeper",
+        "giver": 3,
+        "turnin": 3,
         "title": "Tigr Safari",
         "locales": {
             "en": "Tigr Safari",
@@ -2778,11 +2778,11 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Peacekeeper",
+                "trader": 3,
                 "rep": 0.03
             },
             {
-                "trader": "Jaeger",
+                "trader": 6,
                 "rep": -0.01
             }
         ],
@@ -2825,8 +2825,8 @@
                 58
             ]
         },
-        "giver": "Peacekeeper",
-        "turnin": "Peacekeeper",
+        "giver": 3,
+        "turnin": 3,
         "title": "Scrap Metal",
         "locales": {
             "en": "Scrap Metal",
@@ -2840,11 +2840,11 @@
         ],
         "reputation": [
             {
-                "trader": "Peacekeeper",
+                "trader": 3,
                 "rep": 0.03
             },
             {
-                "trader": "Jaeger",
+                "trader": 6,
                 "rep": -0.01
             }
         ],
@@ -2887,8 +2887,8 @@
                 59
             ]
         },
-        "giver": "Peacekeeper",
-        "turnin": "Peacekeeper",
+        "giver": 3,
+        "turnin": 3,
         "title": "Eagle Eye",
         "locales": {
             "en": "Eagle Eye",
@@ -2900,7 +2900,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Peacekeeper",
+                "trader": 3,
                 "rep": 0.03
             }
         ],
@@ -2932,8 +2932,8 @@
                 60
             ]
         },
-        "giver": "Peacekeeper",
-        "turnin": "Peacekeeper",
+        "giver": 3,
+        "turnin": 3,
         "title": "Humanitarian Supplies",
         "locales": {
             "en": "Humanitarian Supplies",
@@ -2947,7 +2947,7 @@
         ],
         "reputation": [
             {
-                "trader": "Peacekeeper",
+                "trader": 3,
                 "rep": 0.03
             }
         ],
@@ -2997,8 +2997,8 @@
                 61
             ]
         },
-        "giver": "Peacekeeper",
-        "turnin": "Peacekeeper",
+        "giver": 3,
+        "turnin": 3,
         "title": "The Cult - Part 1",
         "locales": {
             "en": "The Cult - Part 1",
@@ -3012,7 +3012,7 @@
         ],
         "reputation": [
             {
-                "trader": "Peacekeeper",
+                "trader": 3,
                 "rep": 0.02
             }
         ],
@@ -3035,8 +3035,8 @@
                 62
             ]
         },
-        "giver": "Peacekeeper",
-        "turnin": "Peacekeeper",
+        "giver": 3,
+        "turnin": 3,
         "title": "The Cult - Part 2",
         "locales": {
             "en": "The Cult - Part 2",
@@ -3048,7 +3048,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Peacekeeper",
+                "trader": 3,
                 "rep": 0.03
             }
         ],
@@ -3105,8 +3105,8 @@
                 61
             ]
         },
-        "giver": "Peacekeeper",
-        "turnin": "Peacekeeper",
+        "giver": 3,
+        "turnin": 3,
         "title": "Spa Tour - Part 1",
         "locales": {
             "en": "Spa Tour - Part 1",
@@ -3118,7 +3118,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Peacekeeper",
+                "trader": 3,
                 "rep": 0.03
             }
         ],
@@ -3144,8 +3144,8 @@
                 64
             ]
         },
-        "giver": "Peacekeeper",
-        "turnin": "Peacekeeper",
+        "giver": 3,
+        "turnin": 3,
         "title": "Spa Tour - Part 2",
         "locales": {
             "en": "Spa Tour - Part 2",
@@ -3159,7 +3159,7 @@
         ],
         "reputation": [
             {
-                "trader": "Peacekeeper",
+                "trader": 3,
                 "rep": 0.02
             }
         ],
@@ -3191,8 +3191,8 @@
                 65
             ]
         },
-        "giver": "Peacekeeper",
-        "turnin": "Peacekeeper",
+        "giver": 3,
+        "turnin": 3,
         "title": "Spa Tour - Part 3",
         "locales": {
             "en": "Spa Tour - Part 3",
@@ -3204,7 +3204,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Peacekeeper",
+                "trader": 3,
                 "rep": 0.03
             }
         ],
@@ -3248,8 +3248,8 @@
                 66
             ]
         },
-        "giver": "Peacekeeper",
-        "turnin": "Peacekeeper",
+        "giver": 3,
+        "turnin": 3,
         "title": "Spa Tour - Part 4",
         "locales": {
             "en": "Spa Tour - Part 4",
@@ -3261,7 +3261,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Peacekeeper",
+                "trader": 3,
                 "rep": 0.03
             }
         ],
@@ -3301,8 +3301,8 @@
                 67
             ]
         },
-        "giver": "Peacekeeper",
-        "turnin": "Peacekeeper",
+        "giver": 3,
+        "turnin": 3,
         "title": "Spa Tour - Part 5",
         "locales": {
             "en": "Spa Tour - Part 5",
@@ -3314,7 +3314,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Peacekeeper",
+                "trader": 3,
                 "rep": 0.02
             }
         ],
@@ -3337,8 +3337,8 @@
                 68
             ]
         },
-        "giver": "Peacekeeper",
-        "turnin": "Peacekeeper",
+        "giver": 3,
+        "turnin": 3,
         "title": "Spa Tour - Part 6",
         "wiki": "https://escapefromtarkov.gamepedia.com/Spa_Tour_-_Part_5",
         "locales": {
@@ -3352,7 +3352,7 @@
         ],
         "reputation": [
             {
-                "trader": "Peacekeeper",
+                "trader": 3,
                 "rep": 0.04
             }
         ],
@@ -3375,8 +3375,8 @@
                 69
             ]
         },
-        "giver": "Peacekeeper",
-        "turnin": "Peacekeeper",
+        "giver": 3,
+        "turnin": 3,
         "title": "Spa Tour - Part 7",
         "locales": {
             "en": "Spa Tour - Part 7",
@@ -3388,11 +3388,11 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Peacekeeper",
+                "trader": 3,
                 "rep": 0.04
             },
             {
-                "trader": "Jaeger",
+                "trader": 6,
                 "rep": -0.01
             }
         ],
@@ -3436,8 +3436,8 @@
                 70
             ]
         },
-        "giver": "Peacekeeper",
-        "turnin": "Peacekeeper",
+        "giver": 3,
+        "turnin": 3,
         "title": "Cargo X - Part 1",
         "locales": {
             "en": "Cargo X - Part 1",
@@ -3449,7 +3449,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Peacekeeper",
+                "trader": 3,
                 "rep": 0.03
             }
         ],
@@ -3482,8 +3482,8 @@
                 71
             ]
         },
-        "giver": "Peacekeeper",
-        "turnin": "Peacekeeper",
+        "giver": 3,
+        "turnin": 3,
         "title": "Cargo X - Part 2",
         "locales": {
             "en": "Cargo X - Part 2",
@@ -3497,7 +3497,7 @@
         ],
         "reputation": [
             {
-                "trader": "Peacekeeper",
+                "trader": 3,
                 "rep": 0.03
             }
         ],
@@ -3521,8 +3521,8 @@
                 72
             ]
         },
-        "giver": "Peacekeeper",
-        "turnin": "Peacekeeper",
+        "giver": 3,
+        "turnin": 3,
         "title": "Cargo X - Part 3",
         "locales": {
             "en": "Cargo X - Part 3",
@@ -3534,7 +3534,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Peacekeeper",
+                "trader": 3,
                 "rep": 0.03
             }
         ],
@@ -3557,8 +3557,8 @@
                 70
             ]
         },
-        "giver": "Peacekeeper",
-        "turnin": "Peacekeeper",
+        "giver": 3,
+        "turnin": 3,
         "title": "Wet Job - Part 1",
         "locales": {
             "en": "Wet Job - Part 1",
@@ -3570,11 +3570,11 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Peacekeeper",
+                "trader": 3,
                 "rep": 0.04
             },
             {
-                "trader": "Jaeger",
+                "trader": 6,
                 "rep": -0.01
             }
         ],
@@ -3600,8 +3600,8 @@
                 74
             ]
         },
-        "giver": "Peacekeeper",
-        "turnin": "Peacekeeper",
+        "giver": 3,
+        "turnin": 3,
         "title": "Wet Job - Part 2",
         "locales": {
             "en": "Wet Job - Part 2",
@@ -3615,7 +3615,7 @@
         ],
         "reputation": [
             {
-                "trader": "Peacekeeper",
+                "trader": 3,
                 "rep": 0.03
             }
         ],
@@ -3639,8 +3639,8 @@
                 75
             ]
         },
-        "giver": "Peacekeeper",
-        "turnin": "Peacekeeper",
+        "giver": 3,
+        "turnin": 3,
         "title": "Wet Job - Part 3",
         "locales": {
             "en": "Wet Job - Part 3",
@@ -3652,7 +3652,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Peacekeeper",
+                "trader": 3,
                 "rep": 0.03
             }
         ],
@@ -3675,8 +3675,8 @@
                 76
             ]
         },
-        "giver": "Peacekeeper",
-        "turnin": "Peacekeeper",
+        "giver": 3,
+        "turnin": 3,
         "title": "Wet Job - Part 4",
         "locales": {
             "en": "Wet Job - Part 4",
@@ -3688,7 +3688,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Peacekeeper",
+                "trader": 3,
                 "rep": 0.03
             }
         ],
@@ -3711,8 +3711,8 @@
                 77
             ]
         },
-        "giver": "Peacekeeper",
-        "turnin": "Peacekeeper",
+        "giver": 3,
+        "turnin": 3,
         "title": "Wet Job - Part 5",
         "locales": {
             "en": "Wet Job - Part 5",
@@ -3726,7 +3726,7 @@
         ],
         "reputation": [
             {
-                "trader": "Peacekeeper",
+                "trader": 3,
                 "rep": 0.03
             }
         ],
@@ -3759,8 +3759,8 @@
                 78
             ]
         },
-        "giver": "Peacekeeper",
-        "turnin": "Peacekeeper",
+        "giver": 3,
+        "turnin": 3,
         "title": "Wet Job - Part 6",
         "locales": {
             "en": "Wet Job - Part 6",
@@ -3774,11 +3774,11 @@
         ],
         "reputation": [
             {
-                "trader": "Peacekeeper",
+                "trader": 3,
                 "rep": 0.06
             },
             {
-                "trader": "Jaeger",
+                "trader": 6,
                 "rep": -0.01
             }
         ],
@@ -3801,8 +3801,8 @@
                 79
             ]
         },
-        "giver": "Mechanic",
-        "turnin": "Mechanic",
+        "giver": 4,
+        "turnin": 4,
         "title": "Psycho Sniper",
         "locales": {
             "en": "Psycho Sniper",
@@ -3832,8 +3832,8 @@
                 79
             ]
         },
-        "giver": "Peacekeeper",
-        "turnin": "Peacekeeper",
+        "giver": 3,
+        "turnin": 3,
         "title": "The guide",
         "locales": {
             "en": "The guide",
@@ -3849,7 +3849,7 @@
         ],
         "reputation": [
             {
-                "trader": "Peacekeeper",
+                "trader": 3,
                 "rep": 0.12
             }
         ],
@@ -3862,8 +3862,8 @@
             "level": 2,
             "quests": []
         },
-        "giver": "Mechanic",
-        "turnin": "Mechanic",
+        "giver": 4,
+        "turnin": 4,
         "title": "Gunsmith - Part 1",
         "locales": {
             "en": "Gunsmith - Part 1",
@@ -3875,7 +3875,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Mechanic",
+                "trader": 4,
                 "rep": 0.02
             }
         ],
@@ -3890,8 +3890,8 @@
                 82
             ]
         },
-        "giver": "Mechanic",
-        "turnin": "Mechanic",
+        "giver": 4,
+        "turnin": 4,
         "title": "Gunsmith - Part 2",
         "locales": {
             "en": "Gunsmith - Part 2",
@@ -3903,7 +3903,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Mechanic",
+                "trader": 4,
                 "rep": 0.02
             }
         ],
@@ -3918,8 +3918,8 @@
                 82
             ]
         },
-        "giver": "Mechanic",
-        "turnin": "Mechanic",
+        "giver": 4,
+        "turnin": 4,
         "title": "Gunsmith - Part 3",
         "locales": {
             "en": "Gunsmith - Part 3",
@@ -3931,7 +3931,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Mechanic",
+                "trader": 4,
                 "rep": 0.03
             }
         ],
@@ -3946,8 +3946,8 @@
                 84
             ]
         },
-        "giver": "Mechanic",
-        "turnin": "Mechanic",
+        "giver": 4,
+        "turnin": 4,
         "title": "Gunsmith - Part 4",
         "locales": {
             "en": "Gunsmith - Part 4",
@@ -3959,7 +3959,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Mechanic",
+                "trader": 4,
                 "rep": 0.03
             }
         ],
@@ -3974,8 +3974,8 @@
                 85
             ]
         },
-        "giver": "Mechanic",
-        "turnin": "Mechanic",
+        "giver": 4,
+        "turnin": 4,
         "title": "Gunsmith - Part 5",
         "locales": {
             "en": "Gunsmith - Part 5",
@@ -3987,7 +3987,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Mechanic",
+                "trader": 4,
                 "rep": 0.03
             }
         ],
@@ -4002,8 +4002,8 @@
                 86
             ]
         },
-        "giver": "Mechanic",
-        "turnin": "Mechanic",
+        "giver": 4,
+        "turnin": 4,
         "title": "Gunsmith - Part 6",
         "locales": {
             "en": "Gunsmith - Part 6",
@@ -4015,7 +4015,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Mechanic",
+                "trader": 4,
                 "rep": 0.03
             }
         ],
@@ -4030,8 +4030,8 @@
                 87
             ]
         },
-        "giver": "Mechanic",
-        "turnin": "Mechanic",
+        "giver": 4,
+        "turnin": 4,
         "title": "Gunsmith - Part 7",
         "locales": {
             "en": "Gunsmith - Part 7",
@@ -4043,7 +4043,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Mechanic",
+                "trader": 4,
                 "rep": 0.03
             }
         ],
@@ -4058,8 +4058,8 @@
                 88
             ]
         },
-        "giver": "Mechanic",
-        "turnin": "Mechanic",
+        "giver": 4,
+        "turnin": 4,
         "title": "Gunsmith - Part 8",
         "locales": {
             "en": "Gunsmith - Part 8",
@@ -4071,7 +4071,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Mechanic",
+                "trader": 4,
                 "rep": 0.03
             }
         ],
@@ -4086,8 +4086,8 @@
                 89
             ]
         },
-        "giver": "Mechanic",
-        "turnin": "Mechanic",
+        "giver": 4,
+        "turnin": 4,
         "title": "Gunsmith - Part 9",
         "locales": {
             "en": "Gunsmith - Part 9",
@@ -4099,7 +4099,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Mechanic",
+                "trader": 4,
                 "rep": 0.03
             }
         ],
@@ -4114,8 +4114,8 @@
                 90
             ]
         },
-        "giver": "Mechanic",
-        "turnin": "Mechanic",
+        "giver": 4,
+        "turnin": 4,
         "title": "Gunsmith - Part 10",
         "locales": {
             "en": "Gunsmith - Part 10",
@@ -4129,7 +4129,7 @@
         ],
         "reputation": [
             {
-                "trader": "Mechanic",
+                "trader": 4,
                 "rep": 0.03
             }
         ],
@@ -4144,8 +4144,8 @@
                 91
             ]
         },
-        "giver": "Mechanic",
-        "turnin": "Mechanic",
+        "giver": 4,
+        "turnin": 4,
         "title": "Gunsmith - Part 11",
         "locales": {
             "en": "Gunsmith - Part 11",
@@ -4157,7 +4157,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Mechanic",
+                "trader": 4,
                 "rep": 0.03
             }
         ],
@@ -4172,8 +4172,8 @@
                 92
             ]
         },
-        "giver": "Mechanic",
-        "turnin": "Mechanic",
+        "giver": 4,
+        "turnin": 4,
         "title": "Gunsmith - Part 12",
         "locales": {
             "en": "Gunsmith - Part 12",
@@ -4188,7 +4188,7 @@
         ],
         "reputation": [
             {
-                "trader": "Mechanic",
+                "trader": 4,
                 "rep": 0.02
             }
         ],
@@ -4203,8 +4203,8 @@
                 93
             ]
         },
-        "giver": "Mechanic",
-        "turnin": "Mechanic",
+        "giver": 4,
+        "turnin": 4,
         "title": "Gunsmith - Part 13",
         "locales": {
             "en": "Gunsmith - Part 13",
@@ -4218,7 +4218,7 @@
         ],
         "reputation": [
             {
-                "trader": "Mechanic",
+                "trader": 4,
                 "rep": 0.03
             }
         ],
@@ -4233,8 +4233,8 @@
                 94
             ]
         },
-        "giver": "Mechanic",
-        "turnin": "Mechanic",
+        "giver": 4,
+        "turnin": 4,
         "title": "Gunsmith - Part 14",
         "locales": {
             "en": "Gunsmith - Part 14",
@@ -4248,7 +4248,7 @@
         ],
         "reputation": [
             {
-                "trader": "Mechanic",
+                "trader": 4,
                 "rep": 0.03
             }
         ],
@@ -4263,8 +4263,8 @@
                 95
             ]
         },
-        "giver": "Mechanic",
-        "turnin": "Mechanic",
+        "giver": 4,
+        "turnin": 4,
         "title": "Gunsmith - Part 15",
         "locales": {
             "en": "Gunsmith - Part 15",
@@ -4276,7 +4276,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Mechanic",
+                "trader": 4,
                 "rep": 0.03
             }
         ],
@@ -4291,8 +4291,8 @@
                 96
             ]
         },
-        "giver": "Mechanic",
-        "turnin": "Mechanic",
+        "giver": 4,
+        "turnin": 4,
         "title": "Gunsmith - Part 16",
         "locales": {
             "en": "Gunsmith - Part 16",
@@ -4304,7 +4304,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Mechanic",
+                "trader": 4,
                 "rep": 0.04
             }
         ],
@@ -4319,8 +4319,8 @@
                 83
             ]
         },
-        "giver": "Mechanic",
-        "turnin": "Mechanic",
+        "giver": 4,
+        "turnin": 4,
         "title": "Signal - Part 1",
         "locales": {
             "en": "Signal - Part 1",
@@ -4332,7 +4332,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Mechanic",
+                "trader": 4,
                 "rep": 0.02
             }
         ],
@@ -4362,8 +4362,8 @@
                 98
             ]
         },
-        "giver": "Mechanic",
-        "turnin": "Mechanic",
+        "giver": 4,
+        "turnin": 4,
         "title": "Signal - Part 2",
         "locales": {
             "en": "Signal - Part 2",
@@ -4375,7 +4375,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Mechanic",
+                "trader": 4,
                 "rep": 0.02
             }
         ],
@@ -4419,8 +4419,8 @@
                 99
             ]
         },
-        "giver": "Mechanic",
-        "turnin": "Mechanic",
+        "giver": 4,
+        "turnin": 4,
         "title": "Signal - Part 3",
         "locales": {
             "en": "Signal - Part 3",
@@ -4434,7 +4434,7 @@
         ],
         "reputation": [
             {
-                "trader": "Mechanic",
+                "trader": 4,
                 "rep": 0.02
             }
         ],
@@ -4477,8 +4477,8 @@
                 100
             ]
         },
-        "giver": "Mechanic",
-        "turnin": "Mechanic",
+        "giver": 4,
+        "turnin": 4,
         "title": "Signal - Part 4",
         "locales": {
             "en": "Signal - Part 4",
@@ -4490,7 +4490,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Mechanic",
+                "trader": 4,
                 "rep": 0.02
             }
         ],
@@ -4513,8 +4513,8 @@
                 99
             ]
         },
-        "giver": "Mechanic",
-        "turnin": "Mechanic",
+        "giver": 4,
+        "turnin": 4,
         "title": "Scout",
         "locales": {
             "en": "Scout",
@@ -4526,7 +4526,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Mechanic",
+                "trader": 4,
                 "rep": 0.02
             }
         ],
@@ -4567,8 +4567,8 @@
                 84
             ]
         },
-        "giver": "Mechanic",
-        "turnin": "Mechanic",
+        "giver": 4,
+        "turnin": 4,
         "title": "Insider",
         "locales": {
             "en": "Insider",
@@ -4580,14 +4580,14 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Mechanic",
+                "trader": 4,
                 "rep": 0.04
             }
         ],
         "objectives": [
             {
                 "type": "reputation",
-                "target": "Prapor",
+                "target": 0,
                 "number": 3,
                 "location": "Any",
                 "id": 176
@@ -4603,8 +4603,8 @@
                 82
             ]
         },
-        "giver": "Mechanic",
-        "turnin": "Mechanic",
+        "giver": 4,
+        "turnin": 4,
         "title": "Farming - Part 1",
         "locales": {
             "en": "Farming - Part 1",
@@ -4616,7 +4616,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Mechanic",
+                "trader": 4,
                 "rep": 0.02
             }
         ],
@@ -4648,8 +4648,8 @@
                 104
             ]
         },
-        "giver": "Mechanic",
-        "turnin": "Mechanic",
+        "giver": 4,
+        "turnin": 4,
         "title": "Farming - Part 2",
         "locales": {
             "en": "Farming - Part 2",
@@ -4661,7 +4661,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Mechanic",
+                "trader": 4,
                 "rep": 0.03
             }
         ],
@@ -4698,8 +4698,8 @@
                 105
             ]
         },
-        "giver": "Mechanic",
-        "turnin": "Mechanic",
+        "giver": 4,
+        "turnin": 4,
         "title": "Farming - Part 3",
         "locales": {
             "en": "Farming - Part 3",
@@ -4711,7 +4711,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Mechanic",
+                "trader": 4,
                 "rep": 0.02
             }
         ],
@@ -4741,8 +4741,8 @@
                 106
             ]
         },
-        "giver": "Mechanic",
-        "turnin": "Mechanic",
+        "giver": 4,
+        "turnin": 4,
         "title": "Farming - Part 4",
         "locales": {
             "en": "Farming - Part 4",
@@ -4754,7 +4754,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Mechanic",
+                "trader": 4,
                 "rep": 0.02
             }
         ],
@@ -4784,8 +4784,8 @@
                 107
             ]
         },
-        "giver": "Mechanic",
-        "turnin": "Mechanic",
+        "giver": 4,
+        "turnin": 4,
         "title": "Import",
         "locales": {
             "en": "Import",
@@ -4798,11 +4798,11 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Mechanic",
+                "trader": 4,
                 "rep": 0.03
             },
             {
-                "trader": "Jaeger",
+                "trader": 6,
                 "rep": -0.01
             }
         ],
@@ -4832,8 +4832,8 @@
                 107
             ]
         },
-        "giver": "Mechanic",
-        "turnin": "Mechanic",
+        "giver": 4,
+        "turnin": 4,
         "title": "Fertilizers",
         "locales": {
             "en": "Fertilizers",
@@ -4845,7 +4845,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Mechanic",
+                "trader": 4,
                 "rep": 0.02
             }
         ],
@@ -4875,8 +4875,8 @@
                 106
             ]
         },
-        "giver": "Mechanic",
-        "turnin": "Mechanic",
+        "giver": 4,
+        "turnin": 4,
         "title": "A Shooter Born in Heaven",
         "locales": {
             "en": "A Shooter Born in Heaven",
@@ -4890,7 +4890,7 @@
         ],
         "reputation": [
             {
-                "trader": "Mechanic",
+                "trader": 4,
                 "rep": 0.03
             }
         ],
@@ -4944,8 +4944,8 @@
             "level": 15,
             "quests": []
         },
-        "giver": "Ragman",
-        "turnin": "Ragman",
+        "giver": 5,
+        "turnin": 5,
         "title": "Only business",
         "locales": {
             "en": "Only business",
@@ -4957,14 +4957,14 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Ragman",
+                "trader": 5,
                 "rep": 0.02
             }
         ],
         "objectives": [
             {
                 "type": "reputation",
-                "target": "Ragman",
+                "target": 5,
                 "number": 2,
                 "location": "Any",
                 "id": 194
@@ -4980,8 +4980,8 @@
                 111
             ]
         },
-        "giver": "Ragman",
-        "turnin": "Ragman",
+        "giver": 5,
+        "turnin": 5,
         "title": "Big sale",
         "locales": {
             "en": "Big sale",
@@ -4993,7 +4993,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Ragman",
+                "trader": 5,
                 "rep": 0.03
             }
         ],
@@ -5044,8 +5044,8 @@
                 112
             ]
         },
-        "giver": "Ragman",
-        "turnin": "Ragman",
+        "giver": 5,
+        "turnin": 5,
         "title": "The Blood of War - Part 1",
         "locales": {
             "en": "The Blood of War - Part 1",
@@ -5057,7 +5057,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Ragman",
+                "trader": 5,
                 "rep": 0.02
             }
         ],
@@ -5100,8 +5100,8 @@
                 113
             ]
         },
-        "giver": "Ragman",
-        "turnin": "Ragman",
+        "giver": 5,
+        "turnin": 5,
         "title": "Dressed to kill",
         "locales": {
             "en": "Dressed to kill",
@@ -5113,7 +5113,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Ragman",
+                "trader": 5,
                 "rep": 0.03
             }
         ],
@@ -5143,8 +5143,8 @@
                 112
             ]
         },
-        "giver": "Ragman",
-        "turnin": "Ragman",
+        "giver": 5,
+        "turnin": 5,
         "title": "Database - Part 1",
         "locales": {
             "en": "Database - Part 1",
@@ -5156,7 +5156,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Ragman",
+                "trader": 5,
                 "rep": 0.03
             }
         ],
@@ -5193,8 +5193,8 @@
                 115
             ]
         },
-        "giver": "Ragman",
-        "turnin": "Ragman",
+        "giver": 5,
+        "turnin": 5,
         "title": "Database - Part 2",
         "locales": {
             "en": "Database - Part 2",
@@ -5206,7 +5206,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Ragman",
+                "trader": 5,
                 "rep": 0.03
             }
         ],
@@ -5236,8 +5236,8 @@
                 114
             ]
         },
-        "giver": "Ragman",
-        "turnin": "Ragman",
+        "giver": 5,
+        "turnin": 5,
         "title": "Gratitude",
         "locales": {
             "en": "Gratitude",
@@ -5249,7 +5249,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Ragman",
+                "trader": 5,
                 "rep": 0.03
             }
         ],
@@ -5293,8 +5293,8 @@
                 117
             ]
         },
-        "giver": "Ragman",
-        "turnin": "Ragman",
+        "giver": 5,
+        "turnin": 5,
         "title": "Sales Night",
         "locales": {
             "en": "Sales Night",
@@ -5308,7 +5308,7 @@
         ],
         "reputation": [
             {
-                "trader": "Ragman",
+                "trader": 5,
                 "rep": 0.03
             }
         ],
@@ -5331,8 +5331,8 @@
                 118
             ]
         },
-        "giver": "Ragman",
-        "turnin": "Ragman",
+        "giver": 5,
+        "turnin": 5,
         "title": "Supervisor",
         "locales": {
             "en": "Supervisor",
@@ -5346,7 +5346,7 @@
         ],
         "reputation": [
             {
-                "trader": "Ragman",
+                "trader": 5,
                 "rep": 0.09
             }
         ],
@@ -5369,8 +5369,8 @@
                 117
             ]
         },
-        "giver": "Ragman",
-        "turnin": "Ragman",
+        "giver": 5,
+        "turnin": 5,
         "title": "Hot Delivery",
         "locales": {
             "en": "Hot Delivery",
@@ -5384,7 +5384,7 @@
         ],
         "reputation": [
             {
-                "trader": "Ragman",
+                "trader": 5,
                 "rep": 0.04
             }
         ],
@@ -5424,8 +5424,8 @@
                 120
             ]
         },
-        "giver": "Ragman",
-        "turnin": "Ragman",
+        "giver": 5,
+        "turnin": 5,
         "title": "Scavenger",
         "locales": {
             "en": "Scavenger",
@@ -5439,7 +5439,7 @@
         ],
         "reputation": [
             {
-                "trader": "Ragman",
+                "trader": 5,
                 "rep": 0.03
             }
         ],
@@ -5462,8 +5462,8 @@
                 111
             ]
         },
-        "giver": "Ragman",
-        "turnin": "Ragman",
+        "giver": 5,
+        "turnin": 5,
         "title": "Make ULTRA Great Again",
         "locales": {
             "en": "Make ULTRA Great Again",
@@ -5475,7 +5475,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Ragman",
+                "trader": 5,
                 "rep": 0.02
             }
         ],
@@ -5498,8 +5498,8 @@
                 116
             ]
         },
-        "giver": "Ragman",
-        "turnin": "Ragman",
+        "giver": 5,
+        "turnin": 5,
         "title": "Minibus",
         "locales": {
             "en": "Minibus",
@@ -5511,7 +5511,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Ragman",
+                "trader": 5,
                 "rep": 0.03
             }
         ],
@@ -5554,8 +5554,8 @@
                 116
             ]
         },
-        "giver": "Ragman",
-        "turnin": "Ragman",
+        "giver": 5,
+        "turnin": 5,
         "title": "Sew it good - Part 1",
         "locales": {
             "en": "Sew it good - Part 1",
@@ -5567,7 +5567,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Ragman",
+                "trader": 5,
                 "rep": 0.02
             }
         ],
@@ -5597,8 +5597,8 @@
                 124
             ]
         },
-        "giver": "Ragman",
-        "turnin": "Ragman",
+        "giver": 5,
+        "turnin": 5,
         "title": "Sew it good - Part 2",
         "locales": {
             "en": "Sew it good - Part 2",
@@ -5610,7 +5610,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Ragman",
+                "trader": 5,
                 "rep": 0.03
             }
         ],
@@ -5642,8 +5642,8 @@
                 125
             ]
         },
-        "giver": "Ragman",
-        "turnin": "Ragman",
+        "giver": 5,
+        "turnin": 5,
         "title": "Sew it good - Part 3",
         "locales": {
             "en": "Sew it good - Part 3",
@@ -5655,7 +5655,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Ragman",
+                "trader": 5,
                 "rep": 0.03
             }
         ],
@@ -5687,8 +5687,8 @@
                 126
             ]
         },
-        "giver": "Ragman",
-        "turnin": "Ragman",
+        "giver": 5,
+        "turnin": 5,
         "title": "Sew it good - Part 4",
         "locales": {
             "en": "Sew it good - Part 4",
@@ -5700,7 +5700,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Ragman",
+                "trader": 5,
                 "rep": 0.03
             }
         ],
@@ -5730,8 +5730,8 @@
                 127
             ]
         },
-        "giver": "Ragman",
-        "turnin": "Ragman",
+        "giver": 5,
+        "turnin": 5,
         "title": "Charisma brings success",
         "locales": {
             "en": "Charisma brings success",
@@ -5744,7 +5744,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Ragman",
+                "trader": 5,
                 "rep": 0.03
             }
         ],
@@ -5767,8 +5767,8 @@
                 176
             ]
         },
-        "giver": "Ragman",
-        "turnin": "Ragman",
+        "giver": 5,
+        "turnin": 5,
         "title": "No fuss needed",
         "locales": {
             "en": "No fuss needed",
@@ -5782,14 +5782,14 @@
         ],
         "reputation": [
             {
-                "trader": "Ragman",
+                "trader": 5,
                 "rep": 0.03
             }
         ],
         "objectives": [
             {
                 "type": "reputation",
-                "target": "Therapist",
+                "target": 1,
                 "number": 3,
                 "location": "Any",
                 "id": 232
@@ -5805,8 +5805,8 @@
                 124
             ]
         },
-        "giver": "Ragman",
-        "turnin": "Ragman",
+        "giver": 5,
+        "turnin": 5,
         "title": "The Blood of War - Part 2",
         "locales": {
             "en": "The Blood of War - Part 2",
@@ -5818,7 +5818,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Ragman",
+                "trader": 5,
                 "rep": 0.03
             }
         ],
@@ -5841,8 +5841,8 @@
                 130
             ]
         },
-        "giver": "Ragman",
-        "turnin": "Ragman",
+        "giver": 5,
+        "turnin": 5,
         "title": "The Blood of War - Part 3",
         "locales": {
             "en": "The Blood of War - Part 3",
@@ -5856,7 +5856,7 @@
         ],
         "reputation": [
             {
-                "trader": "Ragman",
+                "trader": 5,
                 "rep": 0.04
             }
         ],
@@ -5899,8 +5899,8 @@
                 126
             ]
         },
-        "giver": "Ragman",
-        "turnin": "Ragman",
+        "giver": 5,
+        "turnin": 5,
         "title": "Living high is not a crime - Part 1",
         "locales": {
             "en": "Living high is not a crime - Part 1",
@@ -5913,7 +5913,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Ragman",
+                "trader": 5,
                 "rep": 0.03
             }
         ],
@@ -5957,8 +5957,8 @@
                 131
             ]
         },
-        "giver": "Ragman",
-        "turnin": "Ragman",
+        "giver": 5,
+        "turnin": 5,
         "title": "Living high is not a crime - Part 2",
         "locales": {
             "en": "Living high is not a crime - Part 2",
@@ -5972,7 +5972,7 @@
         ],
         "reputation": [
             {
-                "trader": "Ragman",
+                "trader": 5,
                 "rep": 0.05
             }
         ],
@@ -6000,8 +6000,8 @@
             "level": 2,
             "quests": []
         },
-        "giver": "Mechanic",
-        "turnin": "Mechanic",
+        "giver": 4,
+        "turnin": 4,
         "title": "Introduction",
         "locales": {
             "en": "Introduction",
@@ -6013,7 +6013,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Mechanic",
+                "trader": 4,
                 "rep": 0.03
             }
         ],
@@ -6036,8 +6036,8 @@
                 134
             ]
         },
-        "giver": "Jaeger",
-        "turnin": "Jaeger",
+        "giver": 6,
+        "turnin": 6,
         "title": "Acquaintance",
         "locales": {
             "en": "Acquaintance",
@@ -6049,7 +6049,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Jaeger",
+                "trader": 6,
                 "rep": 0.01
             }
         ],
@@ -6086,8 +6086,8 @@
                 135
             ]
         },
-        "giver": "Jaeger",
-        "turnin": "Jaeger",
+        "giver": 6,
+        "turnin": 6,
         "title": "The survivalist path - Unprotected, but dangerous",
         "locales": {
             "en": "The survivalist path - Unprotected, but dangerous",
@@ -6099,7 +6099,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Jaeger",
+                "trader": 6,
                 "rep": 0.02
             }
         ],
@@ -6125,8 +6125,8 @@
                 135
             ]
         },
-        "giver": "Jaeger",
-        "turnin": "Jaeger",
+        "giver": 6,
+        "turnin": 6,
         "title": "The survivalist path - Thrifty",
         "locales": {
             "en": "The survivalist path - Thrifty",
@@ -6138,7 +6138,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Jaeger",
+                "trader": 6,
                 "rep": 0.02
             }
         ],
@@ -6186,8 +6186,8 @@
                 137
             ]
         },
-        "giver": "Jaeger",
-        "turnin": "Jaeger",
+        "giver": 6,
+        "turnin": 6,
         "title": "The survivalist path - Zhivchik",
         "locales": {
             "en": "The survivalist path - Zhivchik",
@@ -6199,7 +6199,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Jaeger",
+                "trader": 6,
                 "rep": 0.02
             }
         ],
@@ -6222,8 +6222,8 @@
                 138
             ]
         },
-        "giver": "Jaeger",
-        "turnin": "Jaeger",
+        "giver": 6,
+        "turnin": 6,
         "title": "The survivalist path - Wounded beast",
         "locales": {
             "en": "The survivalist path - Wounded beast",
@@ -6235,7 +6235,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Jaeger",
+                "trader": 6,
                 "rep": 0.02
             }
         ],
@@ -6261,8 +6261,8 @@
                 139
             ]
         },
-        "giver": "Jaeger",
-        "turnin": "Jaeger",
+        "giver": 6,
+        "turnin": 6,
         "title": "The survivalist path - Tough guy",
         "locales": {
             "en": "The survivalist path - Tough guy",
@@ -6274,7 +6274,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Jaeger",
+                "trader": 6,
                 "rep": 0.02
             }
         ],
@@ -6301,8 +6301,8 @@
                 140
             ]
         },
-        "giver": "Jaeger",
-        "turnin": "Jaeger",
+        "giver": 6,
+        "turnin": 6,
         "title": "Courtesy visit",
         "locales": {
             "en": "Courtesy visit",
@@ -6314,7 +6314,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Jaeger",
+                "trader": 6,
                 "rep": 0.03
             }
         ],
@@ -6351,8 +6351,8 @@
                 141
             ]
         },
-        "giver": "Jaeger",
-        "turnin": "Jaeger",
+        "giver": 6,
+        "turnin": 6,
         "title": "Nostalgia",
         "locales": {
             "en": "Nostalgia",
@@ -6364,7 +6364,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Jaeger",
+                "trader": 6,
                 "rep": 0.02
             }
         ],
@@ -6387,8 +6387,8 @@
                 86
             ]
         },
-        "giver": "Jaeger",
-        "turnin": "Jaeger",
+        "giver": 6,
+        "turnin": 6,
         "title": "The Tarkov shooter - Part 1",
         "locales": {
             "en": "The Tarkov shooter - Part 1",
@@ -6400,7 +6400,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Jaeger",
+                "trader": 6,
                 "rep": 0.02
             }
         ],
@@ -6427,8 +6427,8 @@
                 143
             ]
         },
-        "giver": "Jaeger",
-        "turnin": "Jaeger",
+        "giver": 6,
+        "turnin": 6,
         "title": "The Tarkov shooter - Part 2",
         "locales": {
             "en": "The Tarkov shooter - Part 2",
@@ -6442,7 +6442,7 @@
         ],
         "reputation": [
             {
-                "trader": "Jaeger",
+                "trader": 6,
                 "rep": 0.02
             }
         ],
@@ -6482,8 +6482,8 @@
                 144
             ]
         },
-        "giver": "Jaeger",
-        "turnin": "Jaeger",
+        "giver": 6,
+        "turnin": 6,
         "title": "The Tarkov shooter - Part 3",
         "locales": {
             "en": "The Tarkov shooter - Part 3",
@@ -6498,7 +6498,7 @@
         ],
         "reputation": [
             {
-                "trader": "Jaeger",
+                "trader": 6,
                 "rep": 0.02
             }
         ],
@@ -6525,8 +6525,8 @@
                 145
             ]
         },
-        "giver": "Jaeger",
-        "turnin": "Jaeger",
+        "giver": 6,
+        "turnin": 6,
         "title": "The Tarkov shooter - Part 4",
         "locales": {
             "en": "The Tarkov shooter - Part 4",
@@ -6541,7 +6541,7 @@
         ],
         "reputation": [
             {
-                "trader": "Jaeger",
+                "trader": 6,
                 "rep": 0.02
             }
         ],
@@ -6564,8 +6564,8 @@
                 146
             ]
         },
-        "giver": "Jaeger",
-        "turnin": "Jaeger",
+        "giver": 6,
+        "turnin": 6,
         "title": "The Tarkov shooter - Part 5",
         "locales": {
             "en": "The Tarkov shooter - Part 5",
@@ -6579,7 +6579,7 @@
         ],
         "reputation": [
             {
-                "trader": "Jaeger",
+                "trader": 6,
                 "rep": 0.04
             }
         ],
@@ -6606,8 +6606,8 @@
                 147
             ]
         },
-        "giver": "Jaeger",
-        "turnin": "Jaeger",
+        "giver": 6,
+        "turnin": 6,
         "title": "The Tarkov shooter - Part 6",
         "locales": {
             "en": "The Tarkov shooter - Part 6",
@@ -6621,7 +6621,7 @@
         ],
         "reputation": [
             {
-                "trader": "Jaeger",
+                "trader": 6,
                 "rep": 0.02
             }
         ],
@@ -6648,8 +6648,8 @@
                 148
             ]
         },
-        "giver": "Jaeger",
-        "turnin": "Jaeger",
+        "giver": 6,
+        "turnin": 6,
         "title": "The Tarkov shooter - Part 7",
         "locales": {
             "en": "The Tarkov shooter - Part 7",
@@ -6663,7 +6663,7 @@
         ],
         "reputation": [
             {
-                "trader": "Jaeger",
+                "trader": 6,
                 "rep": 0.04
             }
         ],
@@ -6690,8 +6690,8 @@
                 149
             ]
         },
-        "giver": "Jaeger",
-        "turnin": "Jaeger",
+        "giver": 6,
+        "turnin": 6,
         "title": "The Tarkov shooter - Part 8",
         "locales": {
             "en": "The Tarkov shooter - Part 8",
@@ -6706,7 +6706,7 @@
         ],
         "reputation": [
             {
-                "trader": "Jaeger",
+                "trader": 6,
                 "rep": 0.06
             }
         ],
@@ -6733,8 +6733,8 @@
                 139
             ]
         },
-        "giver": "Jaeger",
-        "turnin": "Jaeger",
+        "giver": 6,
+        "turnin": 6,
         "title": "The survivalist path - Cold blooded",
         "locales": {
             "en": "The survivalist path - Cold blooded",
@@ -6746,7 +6746,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Jaeger",
+                "trader": 6,
                 "rep": 0.02
             }
         ],
@@ -6773,8 +6773,8 @@
                 185
             ]
         },
-        "giver": "Therapist",
-        "turnin": "Therapist",
+        "giver": 1,
+        "turnin": 1,
         "title": "Colleagues - Part 2",
         "locales": {
             "en": "Colleagues - Part 2",
@@ -6787,7 +6787,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Therapist",
+                "trader": 1,
                 "rep": 0.04
             }
         ],
@@ -6826,8 +6826,8 @@
                 187
             ]
         },
-        "giver": "Therapist",
-        "turnin": "Therapist",
+        "giver": 1,
+        "turnin": 1,
         "title": "Colleagues - Part 3",
         "locales": {
             "en": "Colleagues - Part 3",
@@ -6840,11 +6840,11 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Therapist",
+                "trader": 1,
                 "rep": 0.04
             },
             {
-                "trader": "Jaeger",
+                "trader": 6,
                 "rep": -0.04
             }
         ],
@@ -6898,8 +6898,8 @@
                 151
             ]
         },
-        "giver": "Jaeger",
-        "turnin": "Jaeger",
+        "giver": 6,
+        "turnin": 6,
         "title": "The survivalist path - Combat medic",
         "locales": {
             "en": "The survivalist path - Combat medic",
@@ -6911,7 +6911,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Jaeger",
+                "trader": 6,
                 "rep": 0.02
             }
         ],
@@ -6934,8 +6934,8 @@
                 151
             ]
         },
-        "giver": "Jaeger",
-        "turnin": "Jaeger",
+        "giver": 6,
+        "turnin": 6,
         "title": "Ambulance",
         "locales": {
             "en": "Ambulance",
@@ -6949,7 +6949,7 @@
         ],
         "reputation": [
             {
-                "trader": "Jaeger",
+                "trader": 6,
                 "rep": 0.02
             }
         ],
@@ -6979,8 +6979,8 @@
                 139
             ]
         },
-        "giver": "Jaeger",
-        "turnin": "Jaeger",
+        "giver": 6,
+        "turnin": 6,
         "title": "Huntsman path - Secured perimeter",
         "locales": {
             "en": "Huntsman path - Secured perimeter",
@@ -6992,7 +6992,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Jaeger",
+                "trader": 6,
                 "rep": 0.02
             }
         ],
@@ -7018,8 +7018,8 @@
                 156
             ]
         },
-        "giver": "Jaeger",
-        "turnin": "Jaeger",
+        "giver": 6,
+        "turnin": 6,
         "title": "Reserve",
         "locales": {
             "en": "Reserve",
@@ -7031,7 +7031,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Jaeger",
+                "trader": 6,
                 "rep": 0.02
             }
         ],
@@ -7054,8 +7054,8 @@
                 156
             ]
         },
-        "giver": "Jaeger",
-        "turnin": "Jaeger",
+        "giver": 6,
+        "turnin": 6,
         "title": "Huntsman path - Woods cleaning",
         "locales": {
             "en": "Huntsman path - Woods cleaning",
@@ -7067,7 +7067,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Jaeger",
+                "trader": 6,
                 "rep": 0.02
             }
         ],
@@ -7090,8 +7090,8 @@
                 158
             ]
         },
-        "giver": "Jaeger",
-        "turnin": "Jaeger",
+        "giver": 6,
+        "turnin": 6,
         "title": "Huntsman path - Controller",
         "locales": {
             "en": "Huntsman path - Controller",
@@ -7104,7 +7104,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Jaeger",
+                "trader": 6,
                 "rep": 0.02
             }
         ],
@@ -7130,8 +7130,8 @@
                 158
             ]
         },
-        "giver": "Jaeger",
-        "turnin": "Jaeger",
+        "giver": 6,
+        "turnin": 6,
         "title": "Huntsman path - Evil watchman",
         "locales": {
             "en": "Huntsman path - Evil watchman",
@@ -7144,7 +7144,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Jaeger",
+                "trader": 6,
                 "rep": 0.02
             }
         ],
@@ -7170,8 +7170,8 @@
                 158
             ]
         },
-        "giver": "Jaeger",
-        "turnin": "Jaeger",
+        "giver": 6,
+        "turnin": 6,
         "title": "Fishing place",
         "locales": {
             "en": "Fishing place",
@@ -7183,7 +7183,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Jaeger",
+                "trader": 6,
                 "rep": 0.02
             }
         ],
@@ -7206,8 +7206,8 @@
                 156
             ]
         },
-        "giver": "Jaeger",
-        "turnin": "Jaeger",
+        "giver": 6,
+        "turnin": 6,
         "title": "Huntsman path - The trophy",
         "locales": {
             "en": "Huntsman path - The trophy",
@@ -7219,7 +7219,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Jaeger",
+                "trader": 6,
                 "rep": 0.04
             }
         ],
@@ -7249,8 +7249,8 @@
                 162
             ]
         },
-        "giver": "Jaeger",
-        "turnin": "Jaeger",
+        "giver": 6,
+        "turnin": 6,
         "title": "Huntsman path - Justice",
         "locales": {
             "en": "Huntsman path - Justice",
@@ -7263,7 +7263,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Jaeger",
+                "trader": 6,
                 "rep": 0.02
             }
         ],
@@ -7289,8 +7289,8 @@
                 162
             ]
         },
-        "giver": "Jaeger",
-        "turnin": "Jaeger",
+        "giver": 6,
+        "turnin": 6,
         "title": "Huntsman path - Sellout",
         "locales": {
             "en": "Huntsman path - Sellout",
@@ -7302,7 +7302,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Jaeger",
+                "trader": 6,
                 "rep": 0.04
             }
         ],
@@ -7332,8 +7332,8 @@
                 164
             ]
         },
-        "giver": "Jaeger",
-        "turnin": "Jaeger",
+        "giver": 6,
+        "turnin": 6,
         "title": "Huntsman path - Woods keeper",
         "locales": {
             "en": "Huntsman path - Woods keeper",
@@ -7345,7 +7345,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Jaeger",
+                "trader": 6,
                 "rep": 0.02
             }
         ],
@@ -7375,8 +7375,8 @@
                 213
             ]
         },
-        "giver": "Jaeger",
-        "turnin": "Jaeger",
+        "giver": 6,
+        "turnin": 6,
         "title": "Huntsman path - Eraser - Part 1",
         "locales": {
             "en": "Huntsman path - Eraser - Part 1",
@@ -7388,7 +7388,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Jaeger",
+                "trader": 6,
                 "rep": 0.02
             }
         ],
@@ -7411,8 +7411,8 @@
                 166
             ]
         },
-        "giver": "Jaeger",
-        "turnin": "Jaeger",
+        "giver": 6,
+        "turnin": 6,
         "title": "Huntsman path - Eraser - Part 2",
         "locales": {
             "en": "Huntsman path - Eraser - Part 2",
@@ -7424,7 +7424,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Jaeger",
+                "trader": 6,
                 "rep": 0.04
             }
         ],
@@ -7447,8 +7447,8 @@
                 165
             ]
         },
-        "giver": "Jaeger",
-        "turnin": "Jaeger",
+        "giver": 6,
+        "turnin": 6,
         "title": "Hunting trip",
         "locales": {
             "en": "Hunting trip",
@@ -7466,7 +7466,7 @@
         ],
         "reputation": [
             {
-                "trader": "Jaeger",
+                "trader": 6,
                 "rep": 0.02
             }
         ],
@@ -7493,8 +7493,8 @@
                 19
             ]
         },
-        "giver": "Therapist",
-        "turnin": "Therapist",
+        "giver": 1,
+        "turnin": 1,
         "title": "Operation Aquarius - Part 1",
         "locales": {
             "en": "Operation Aquarius - Part 1",
@@ -7506,11 +7506,11 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Therapist",
+                "trader": 1,
                 "rep": 0.03
             },
             {
-                "trader": "Skier",
+                "trader": 2,
                 "rep": -0.02
             }
         ],
@@ -7540,8 +7540,8 @@
                 169
             ]
         },
-        "giver": "Therapist",
-        "turnin": "Therapist",
+        "giver": 1,
+        "turnin": 1,
         "title": "Operation Aquarius - Part 2",
         "locales": {
             "en": "Operation Aquarius - Part 2",
@@ -7555,11 +7555,11 @@
         ],
         "reputation": [
             {
-                "trader": "Therapist",
+                "trader": 1,
                 "rep": 0.03
             },
             {
-                "trader": "Skier",
+                "trader": 2,
                 "rep": -0.02
             }
         ],
@@ -7582,8 +7582,8 @@
                 39
             ]
         },
-        "giver": "Prapor",
-        "turnin": "Prapor",
+        "giver": 0,
+        "turnin": 0,
         "title": "Polikhim hobo",
         "locales": {
             "en": "Polikhim hobo",
@@ -7595,7 +7595,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Prapor",
+                "trader": 0,
                 "rep": 0.02
             }
         ],
@@ -7618,8 +7618,8 @@
                 171
             ]
         },
-        "giver": "Prapor",
-        "turnin": "Prapor",
+        "giver": 0,
+        "turnin": 0,
         "title": "Regulated materials",
         "locales": {
             "en": "Regulated materials",
@@ -7634,7 +7634,7 @@
         ],
         "reputation": [
             {
-                "trader": "Prapor",
+                "trader": 0,
                 "rep": 0.02
             }
         ],
@@ -7664,8 +7664,8 @@
                 37
             ]
         },
-        "giver": "Skier",
-        "turnin": "Skier",
+        "giver": 2,
+        "turnin": 2,
         "title": "Stirrup",
         "locales": {
             "en": "Stirrup",
@@ -7679,15 +7679,15 @@
         ],
         "reputation": [
             {
-                "trader": "Skier",
+                "trader": 2,
                 "rep": 0.05
             },
             {
-                "trader": "Prapor",
+                "trader": 0,
                 "rep": -0.05
             },
             {
-                "trader": "Therapist",
+                "trader": 1,
                 "rep": -0.02
             }
         ],
@@ -7713,8 +7713,8 @@
                 77
             ]
         },
-        "giver": "Peacekeeper",
-        "turnin": "Peacekeeper",
+        "giver": 3,
+        "turnin": 3,
         "title": "Mentor",
         "locales": {
             "en": "Mentor",
@@ -7745,8 +7745,8 @@
                 105
             ]
         },
-        "giver": "Mechanic",
-        "turnin": "Mechanic",
+        "giver": 4,
+        "turnin": 4,
         "title": "Bad habit",
         "locales": {
             "en": "Bad habit",
@@ -7758,7 +7758,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Mechanic",
+                "trader": 4,
                 "rep": 0.02
             }
         ],
@@ -7795,8 +7795,8 @@
                 125
             ]
         },
-        "giver": "Ragman",
-        "turnin": "Ragman",
+        "giver": 5,
+        "turnin": 5,
         "title": "The key to success",
         "locales": {
             "en": "The key to success",
@@ -7810,7 +7810,7 @@
         ],
         "reputation": [
             {
-                "trader": "Ragman",
+                "trader": 5,
                 "rep": 0.03
             }
         ],
@@ -7842,8 +7842,8 @@
                 38
             ]
         },
-        "giver": "Jaeger",
-        "turnin": "Jaeger",
+        "giver": 6,
+        "turnin": 6,
         "title": "Shady Business",
         "locales": {
             "en": "Shady Business",
@@ -7855,7 +7855,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Jaeger",
+                "trader": 6,
                 "rep": 0.02
             }
         ],
@@ -7878,8 +7878,8 @@
                 6
             ]
         },
-        "giver": "Therapist",
-        "turnin": "Therapist",
+        "giver": 1,
+        "turnin": 1,
         "title": "Postman Pat - Part 2",
         "locales": {
             "en": "Postman Pat - Part 2",
@@ -7891,7 +7891,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Therapist",
+                "trader": 1,
                 "rep": 0.02
             }
         ],
@@ -7914,8 +7914,8 @@
                 42
             ]
         },
-        "giver": "Therapist",
-        "turnin": "Therapist",
+        "giver": 1,
+        "turnin": 1,
         "title": "Out of curiosity",
         "locales": {
             "en": "Out of curiosity",
@@ -7927,13 +7927,13 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Therapist",
+                "trader": 1,
                 "rep": 0.04
             }
         ],
         "reputationFailure": [
             {
-                "trader": "Therapist",
+                "trader": 1,
                 "rep": -0.25
             }
         ],
@@ -7961,8 +7961,8 @@
                 42
             ]
         },
-        "giver": "Prapor",
-        "turnin": "Prapor",
+        "giver": 0,
+        "turnin": 0,
         "title": "Big customer",
         "locales": {
             "en": "Big customer",
@@ -7974,17 +7974,17 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Prapor",
+                "trader": 0,
                 "rep": 0.03
             },
             {
-                "trader": "Jaeger",
+                "trader": 6,
                 "rep": -0.01
             }
         ],
         "reputationFailure": [
             {
-                "trader": "Prapor",
+                "trader": 0,
                 "rep": -0.25
             }
         ],
@@ -8011,8 +8011,8 @@
                 151
             ]
         },
-        "giver": "Jaeger",
-        "turnin": "Jaeger",
+        "giver": 6,
+        "turnin": 6,
         "title": "The survivalist path - Junkie",
         "locales": {
             "en": "The survivalist path - Junkie",
@@ -8024,7 +8024,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Jaeger",
+                "trader": 6,
                 "rep": 0.02
             }
         ],
@@ -8050,8 +8050,8 @@
                 127
             ]
         },
-        "giver": "Ragman",
-        "turnin": "Ragman",
+        "giver": 5,
+        "turnin": 5,
         "title": "Textile - Part 1",
         "locales": {
             "en": "Textile - Part 1",
@@ -8096,8 +8096,8 @@
                 182
             ]
         },
-        "giver": "Ragman",
-        "turnin": "Ragman",
+        "giver": 5,
+        "turnin": 5,
         "title": "Textile - Part 2",
         "locales": {
             "en": "Textile - Part 2",
@@ -8142,8 +8142,8 @@
                 8
             ]
         },
-        "giver": "Prapor",
-        "turnin": "Prapor",
+        "giver": 0,
+        "turnin": 0,
         "title": "Anesthesia",
         "locales": {
             "en": "Anesthesia",
@@ -8156,7 +8156,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Prapor",
+                "trader": 0,
                 "rep": 0.04
             }
         ],
@@ -8199,8 +8199,8 @@
                 26
             ]
         },
-        "giver": "Therapist",
-        "turnin": "Therapist",
+        "giver": 1,
+        "turnin": 1,
         "title": "Colleagues - Part 1",
         "locales": {
             "en": "Colleagues - Part 1",
@@ -8213,7 +8213,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Therapist",
+                "trader": 1,
                 "rep": 0.04
             }
         ],
@@ -8250,8 +8250,8 @@
                 184
             ]
         },
-        "giver": "Skier",
-        "turnin": "Skier",
+        "giver": 2,
+        "turnin": 2,
         "title": "Rigged game",
         "locales": {
             "en": "Rigged game",
@@ -8264,7 +8264,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Skier",
+                "trader": 2,
                 "rep": 0.05
             }
         ],
@@ -8305,8 +8305,8 @@
                 185
             ]
         },
-        "giver": "Mechanic",
-        "turnin": "Mechanic",
+        "giver": 4,
+        "turnin": 4,
         "title": "Chemistry closet",
         "locales": {
             "en": "Chemistry closet",
@@ -8319,7 +8319,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Mechanic",
+                "trader": 4,
                 "rep": 0.05
             }
         ],
@@ -8349,8 +8349,8 @@
                 184
             ]
         },
-        "giver": "Peacekeeper",
-        "turnin": "Peacekeeper",
+        "giver": 3,
+        "turnin": 3,
         "title": "Samples",
         "locales": {
             "en": "Samples",
@@ -8366,7 +8366,7 @@
         ],
         "reputation": [
             {
-                "trader": "Peacekeeper",
+                "trader": 3,
                 "rep": 0.04
             }
         ],
@@ -8432,8 +8432,8 @@
                 190
             ]
         },
-        "giver": "Peacekeeper",
-        "turnin": "Peacekeeper",
+        "giver": 3,
+        "turnin": 3,
         "title": "TerraGroup employee",
         "locales": {
             "en": "TerraGroup employee",
@@ -8446,7 +8446,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Peacekeeper",
+                "trader": 3,
                 "rep": 0.04
             }
         ],
@@ -8485,8 +8485,8 @@
                 187
             ]
         },
-        "giver": "Jaeger",
-        "turnin": "Jaeger",
+        "giver": 6,
+        "turnin": 6,
         "title": "Huntsman path - Sadist",
         "locales": {
             "en": "Huntsman path - Sadist",
@@ -8499,11 +8499,11 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Jaeger",
+                "trader": 6,
                 "rep": 0.04
             },
             {
-                "trader": "Therapist",
+                "trader": 1,
                 "rep": -0.02
             }
         ],
@@ -8529,8 +8529,8 @@
                 4
             ]
         },
-        "giver": "Prapor",
-        "turnin": "Prapor",
+        "giver": 0,
+        "turnin": 0,
         "title": "The bunker - Part 1",
         "locales": {
             "en": "The bunker - Part 1",
@@ -8543,7 +8543,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Prapor",
+                "trader": 0,
                 "rep": 0.03
             }
         ],
@@ -8573,8 +8573,8 @@
                 191
             ]
         },
-        "giver": "Prapor",
-        "turnin": "Prapor",
+        "giver": 0,
+        "turnin": 0,
         "title": "The bunker - Part 2",
         "locales": {
             "en": "The bunker - Part 2",
@@ -8587,7 +8587,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Prapor",
+                "trader": 0,
                 "rep": 0.03
             }
         ],
@@ -8638,8 +8638,8 @@
                 0
             ]
         },
-        "giver": "Prapor",
-        "turnin": "Prapor",
+        "giver": 0,
+        "turnin": 0,
         "title": "Search mission",
         "locales": {
             "en": "Search mission",
@@ -8651,7 +8651,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Prapor",
+                "trader": 0,
                 "rep": 0.02
             }
         ],
@@ -8681,8 +8681,8 @@
                 176
             ]
         },
-        "giver": "Ragman",
-        "turnin": "Ragman",
+        "giver": 5,
+        "turnin": 5,
         "title": "The stylish one",
         "locales": {
             "en": "The stylish one",
@@ -8712,8 +8712,8 @@
                 151
             ]
         },
-        "giver": "Jaeger",
-        "turnin": "Jaeger",
+        "giver": 6,
+        "turnin": 6,
         "title": "The survivalist path - Eagle-owl",
         "locales": {
             "en": "The survivalist path - Eagle-owl",
@@ -8725,7 +8725,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Jaeger",
+                "trader": 6,
                 "rep": 0.02
             }
         ],
@@ -8806,8 +8806,8 @@
                 206
             ]
         },
-        "giver": "Fence",
-        "turnin": "Fence",
+        "giver": 7,
+        "turnin": 7,
         "title": "Collector",
         "locales": {
             "en": "Collector",
@@ -8990,8 +8990,8 @@
                 30
             ]
         },
-        "giver": "Therapist",
-        "turnin": "Therapist",
+        "giver": 1,
+        "turnin": 1,
         "title": "An apple a day - keeps the doctor away",
         "locales": {
             "en": "An apple a day - keeps the doctor away",
@@ -9023,13 +9023,13 @@
             ],
             "loyalty": [
                 {
-                    "trader": "Jaeger",
+                    "trader": 6,
                     "stage": 4
                 }
             ]
         },
-        "giver": "Jaeger",
-        "turnin": "Jaeger",
+        "giver": 6,
+        "turnin": 6,
         "title": "Hunter",
         "locales": {
             "en": "Hunter",
@@ -9065,8 +9065,8 @@
                 ]
             ]
         },
-        "giver": "Prapor",
-        "turnin": "Prapor",
+        "giver": 0,
+        "turnin": 0,
         "title": "No offence",
         "locales": {
             "en": "No offence",
@@ -9078,7 +9078,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Prapor",
+                "trader": 0,
                 "rep": 0.25
             }
         ],
@@ -9105,8 +9105,8 @@
                 ]
             ]
         },
-        "giver": "Therapist",
-        "turnin": "Therapist",
+        "giver": 1,
+        "turnin": 1,
         "title": "Trust regain",
         "locales": {
             "en": "Trust regain",
@@ -9118,7 +9118,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Therapist",
+                "trader": 1,
                 "rep": 0.25
             }
         ],
@@ -9166,8 +9166,8 @@
                 ]
             ]
         },
-        "giver": "Skier",
-        "turnin": "Skier",
+        "giver": 2,
+        "turnin": 2,
         "title": "Loyalty buyout",
         "locales": {
             "en": "Loyalty buyout",
@@ -9179,7 +9179,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Skier",
+                "trader": 2,
                 "rep": 0.25
             }
         ],
@@ -9204,8 +9204,8 @@
                 27
             ]
         },
-        "giver": "Therapist",
-        "turnin": "Therapist",
+        "giver": 1,
+        "turnin": 1,
         "title": "Hippocratic Vow",
         "locales": {
             "en": "Hippocratic Vow",
@@ -9217,7 +9217,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Therapist",
+                "trader": 1,
                 "rep": 0.2
             }
         ],
@@ -9248,8 +9248,8 @@
                 23
             ]
         },
-        "giver": "Therapist",
-        "turnin": "Therapist",
+        "giver": 1,
+        "turnin": 1,
         "title": "Disease history",
         "locales": {
             "en": "Disease history",
@@ -9261,7 +9261,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Therapist",
+                "trader": 1,
                 "rep": 0.03
             }
         ],
@@ -9306,8 +9306,8 @@
                 111
             ]
         },
-        "giver": "Ragman",
-        "turnin": "Ragman",
+        "giver": 5,
+        "turnin": 5,
         "title": "A fuel matter",
         "locales": {
             "en": "A fuel matter",
@@ -9319,7 +9319,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Ragman",
+                "trader": 5,
                 "rep": 0.03
             }
         ],
@@ -9352,8 +9352,8 @@
                 102
             ]
         },
-        "giver": "Mechanic",
-        "turnin": "Mechanic",
+        "giver": 4,
+        "turnin": 4,
         "title": "Surplus Goods",
         "locales": {
             "en": "Surplus Goods",
@@ -9365,7 +9365,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Mechanic",
+                "trader": 4,
                 "rep": 0.02
             }
         ],
@@ -9395,8 +9395,8 @@
                 205
             ]
         },
-        "giver": "Mechanic",
-        "turnin": "Mechanic",
+        "giver": 4,
+        "turnin": 4,
         "title": "Back door",
         "locales": {
             "en": "Back door",
@@ -9408,7 +9408,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Mechanic",
+                "trader": 4,
                 "rep": 0.02
             }
         ],
@@ -9431,8 +9431,8 @@
                 60
             ]
         },
-        "giver": "Peacekeeper",
-        "turnin": "Peacekeeper",
+        "giver": 3,
+        "turnin": 3,
         "title": "Revision",
         "locales": {
             "en": "Revision",
@@ -9444,7 +9444,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Peacekeeper",
+                "trader": 3,
                 "rep": 0.03
             }
         ],
@@ -9521,8 +9521,8 @@
                 207
             ]
         },
-        "giver": "Peacekeeper",
-        "turnin": "Peacekeeper",
+        "giver": 3,
+        "turnin": 3,
         "title": "Experience exchange",
         "locales": {
             "en": "Experience exchange",
@@ -9534,7 +9534,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Peacekeeper",
+                "trader": 3,
                 "rep": 0.02
             }
         ],
@@ -9557,8 +9557,8 @@
                 204
             ]
         },
-        "giver": "Ragman",
-        "turnin": "Ragman",
+        "giver": 5,
+        "turnin": 5,
         "title": "Inventory check",
         "locales": {
             "en": "Inventory check",
@@ -9570,7 +9570,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Ragman",
+                "trader": 5,
                 "rep": 0.03
             }
         ],
@@ -9642,8 +9642,8 @@
                 192
             ]
         },
-        "giver": "Prapor",
-        "turnin": "Prapor",
+        "giver": 0,
+        "turnin": 0,
         "title": "No place for renegades",
         "locales": {
             "en": "No place for renegades",
@@ -9655,7 +9655,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Prapor",
+                "trader": 0,
                 "rep": 0.03
             }
         ],
@@ -9678,8 +9678,8 @@
                 210
             ]
         },
-        "giver": "Prapor",
-        "turnin": "Prapor",
+        "giver": 0,
+        "turnin": 0,
         "title": "Documents",
         "locales": {
             "en": "Documents",
@@ -9691,7 +9691,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Prapor",
+                "trader": 0,
                 "rep": 0.04
             }
         ],
@@ -9728,8 +9728,8 @@
                 192
             ]
         },
-        "giver": "Skier",
-        "turnin": "Skier",
+        "giver": 2,
+        "turnin": 2,
         "title": "Safe corridor",
         "locales": {
             "en": "Safe corridor",
@@ -9741,7 +9741,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Skier",
+                "trader": 2,
                 "rep": 0.04
             }
         ],
@@ -9767,8 +9767,8 @@
                 165
             ]
         },
-        "giver": "Jaeger",
-        "turnin": "Jaeger",
+        "giver": 6,
+        "turnin": 6,
         "title": "Huntsman Path - Factory Chief",
         "locales": {
             "en": "Huntsman Path - Factory Chief",
@@ -9780,7 +9780,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Jaeger",
+                "trader": 6,
                 "rep": 0.04
             }
         ],
@@ -9810,8 +9810,8 @@
                 165
             ]
         },
-        "giver": "Jaeger",
-        "turnin": "Jaeger",
+        "giver": 6,
+        "turnin": 6,
         "title": "Pest control",
         "locales": {
             "en": "Pest control",
@@ -9823,7 +9823,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Jaeger",
+                "trader": 6,
                 "rep": 0.02
             }
         ],
