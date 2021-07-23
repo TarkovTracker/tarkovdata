@@ -20,7 +20,7 @@
         "raidDuration": { "day": 45, "night": 45 },
         "svg": {
             "file": "maps/Customs.svg",
-            "floors": [ "Ground_Level" ],
+            "floors": [ "Ground_Level" ]
         }
     },
     "woods": {
@@ -44,7 +44,7 @@
         "raidDuration": { "day": 50, "night": 50 },
         "svg": {
             "file": "maps/Shoreline.svg",
-            "floors": [ "Ground_Level" ],
+            "floors": [ "Ground_Level" ]
         }
     },
     "interchange": {
@@ -58,7 +58,7 @@
         "raidDuration": { "day": 45, "night": 45 },
         "svg": {
             "file": "maps/Interchange.svg",
-            "floors": [ "Ground_Level", "First_Floor", "Second_Floor" ],
+            "floors": [ "Ground_Level", "First_Floor", "Second_Floor" ]
         }
     },
     "lab": {

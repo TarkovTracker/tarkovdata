@@ -28,14 +28,14 @@
                 "type": "kill",
                 "target": "Scavs",
                 "number": 5,
-                "location": "Customs",
+                "location": 1,
                 "id": 0
             },
             {
                 "type": "collect",
                 "target": "54491c4f4bdc2db1078b4568",
                 "number": 2,
-                "location": "Any",
+                "location": -1,
                 "id": 1
             }
         ],
@@ -70,14 +70,14 @@
                 "type": "key",
                 "target": "5937ee6486f77408994ba448",
                 "number": 1,
-                "location": "Customs",
+                "location": 1,
                 "id": 371
             },
             {
                 "type": "pickup",
                 "target": "bronze pocket watch",
                 "number": 1,
-                "location": "Customs",
+                "location": 1,
                 "id": 2
             }
         ],
@@ -112,7 +112,7 @@
                 "type": "kill",
                 "target": "Scavs",
                 "number": 15,
-                "location": "Woods",
+                "location": 2,
                 "id": 3
             }
         ],
@@ -149,21 +149,21 @@
                 "type": "key",
                 "target": "5780d0532459777a5108b9a2",
                 "number": 1,
-                "location": "Customs",
+                "location": 1,
                 "id": 86
             },
             {
                 "type": "pickup",
                 "target": "Secure case for documents 0022",
                 "number": 1,
-                "location": "Customs",
+                "location": 1,
                 "id": 4
             },
             {
                 "type": "place",
                 "target": "Secure case for documents 0022",
                 "number": 1,
-                "location": "Factory",
+                "location": 0,
                 "id": 5
             }
         ],
@@ -204,7 +204,7 @@
                 "target": "Tanker 1",
                 "hint": "Gas station",
                 "number": 1,
-                "location": "Customs",
+                "location": 1,
                 "id": 6
             },
             {
@@ -213,7 +213,7 @@
                 "target": "Tanker 2",
                 "hint": "Old Gas Station",
                 "number": 1,
-                "location": "Customs",
+                "location": 1,
                 "id": 7
             },
             {
@@ -222,7 +222,7 @@
                 "target": "Tanker 3",
                 "hint": "Construction",
                 "number": 1,
-                "location": "Customs",
+                "location": 1,
                 "id": 8
             },
             {
@@ -231,7 +231,7 @@
                 "target": "Tanker 4",
                 "hint": "Garages",
                 "number": 1,
-                "location": "Customs",
+                "location": 1,
                 "id": 9
             }
         ],
@@ -268,14 +268,14 @@
                 "type": "key",
                 "target": "5938144586f77473c2087145",
                 "number": 1,
-                "location": "Customs",
+                "location": 1,
                 "id": 10
             },
             {
                 "type": "pickup",
                 "target": "Secure case for documents 0031",
                 "number": 1,
-                "location": "Customs",
+                "location": 1,
                 "id": 11
             }
         ],
@@ -312,7 +312,7 @@
                 "type": "find",
                 "target": "55d482194bdc2d1d4e8b456b",
                 "number": 3,
-                "location": "Any",
+                "location": -1,
                 "have": 0,
                 "id": 12
             }
@@ -350,7 +350,7 @@
                 "type": "pickup",
                 "target": "Sealed letter",
                 "number": 1,
-                "location": "Factory",
+                "location": 0,
                 "id": 13
             }
         ],
@@ -398,14 +398,14 @@
                 "type": "key",
                 "target": "5938504186f7740991483f30",
                 "number": 1,
-                "location": "Customs",
+                "location": 1,
                 "id": 14
             },
             {
                 "type": "pickup",
                 "target": "Bank case",
                 "number": 1,
-                "location": "Customs",
+                "location": 1,
                 "id": 15
             }
         ],
@@ -440,42 +440,42 @@
                 "type": "reputation",
                 "target": "Prapor",
                 "number": 4,
-                "location": "Any",
+                "location": -1,
                 "id": 16
             },
             {
                 "type": "reputation",
                 "target": "Therapist",
                 "number": 4,
-                "location": "Any",
+                "location": -1,
                 "id": 17
             },
             {
                 "type": "reputation",
                 "target": "Skier",
                 "number": 4,
-                "location": "Any",
+                "location": -1,
                 "id": 18
             },
             {
                 "type": "reputation",
                 "target": "Peacekeeper",
                 "number": 4,
-                "location": "Any",
+                "location": -1,
                 "id": 19
             },
             {
                 "type": "reputation",
                 "target": "Mechanic",
                 "number": 4,
-                "location": "Any",
+                "location": -1,
                 "id": 20
             },
             {
                 "type": "reputation",
                 "target": "Ragman",
                 "number": 4,
-                "location": "Any",
+                "location": -1,
                 "id": 21
             }
         ],
@@ -507,7 +507,7 @@
                 "type": "kill",
                 "target": "PMCs",
                 "number": 12,
-                "location": "Any",
+                "location": -1,
                 "with": [
                     "Grenade"
                 ],
@@ -545,7 +545,7 @@
                 "type": "kill",
                 "target": "PMCs",
                 "number": 30,
-                "location": "Any",
+                "location": -1,
                 "with": [
                     "Nighttime (22 - 05 hours)"
                 ],
@@ -583,7 +583,7 @@
                 "type": "kill",
                 "target": "PMCs",
                 "number": 5,
-                "location": "Any",
+                "location": -1,
                 "with": [
                     "M1A",
                     "Hybrid 46 silencer",
@@ -625,7 +625,7 @@
                 "type": "kill",
                 "target": "Scavs",
                 "number": 15,
-                "location": "Shoreline",
+                "location": 3,
                 "with": [
                     "AKM"
                 ],
@@ -663,7 +663,7 @@
                 "type": "kill",
                 "target": "Scavs",
                 "number": 12,
-                "location": "Shoreline",
+                "location": 3,
                 "with": [
                     "Supressed weapon"
                 ],
@@ -673,7 +673,7 @@
                 "type": "find",
                 "target": "572b7fa524597762b747ce82",
                 "number": 7,
-                "location": "Any",
+                "location": -1,
                 "id": 27
             }
         ],
@@ -712,7 +712,7 @@
                 "type": "kill",
                 "target": "Scavs",
                 "number": 25,
-                "location": "Customs",
+                "location": 1,
                 "with": [
                     "AKS-74U"
                 ],
@@ -756,7 +756,7 @@
                 "type": "kill",
                 "target": "Scavs",
                 "number": 10,
-                "location": "Woods",
+                "location": 2,
                 "with": [
                     "12 gauge shotgun"
                 ],
@@ -766,7 +766,7 @@
                 "type": "kill",
                 "target": "PMCs",
                 "number": 10,
-                "location": "Shoreline",
+                "location": 3,
                 "with": [
                     "balaclava",
                     "scav vest"
@@ -777,7 +777,7 @@
                 "type": "find",
                 "target": "57e26fc7245977162a14b800",
                 "number": 5,
-                "location": "Any",
+                "location": -1,
                 "id": 31
             }
         ],
@@ -814,7 +814,7 @@
                 "type": "kill",
                 "target": "PMCs",
                 "number": 10,
-                "location": "Any",
+                "location": -1,
                 "with": [
                     "PACA vest",
                     "6b47 helmet"
@@ -825,21 +825,21 @@
                 "type": "find",
                 "target": "5644bd2b4bdc2d3b4c8b4572",
                 "number": 1,
-                "location": "Any",
+                "location": -1,
                 "id": 33
             },
             {
                 "type": "find",
                 "target": "5447a9cd4bdc2dbd208b4567",
                 "number": 1,
-                "location": "Any",
+                "location": -1,
                 "id": 34
             },
             {
                 "type": "find",
                 "target": "5448bd6b4bdc2dfc2f8b4569",
                 "number": 2,
-                "location": "Any",
+                "location": -1,
                 "id": 35
             }
         ],
@@ -882,7 +882,7 @@
                 "type": "kill",
                 "target": "PMCs",
                 "number": 15,
-                "location": "Any",
+                "location": -1,
                 "with": [
                     "SVDS 7.62x54 Sniper rifle"
                 ],
@@ -892,14 +892,14 @@
                 "type": "collect",
                 "target": "59f32c3b86f77472a31742f0",
                 "number": 7,
-                "location": "Any",
+                "location": -1,
                 "id": 37
             },
             {
                 "type": "collect",
                 "target": "59f32bb586f774757e1e8442",
                 "number": 7,
-                "location": "Any",
+                "location": -1,
                 "id": 38
             }
         ],
@@ -932,7 +932,7 @@
                 "type": "find",
                 "target": "544fb45d4bdc2dee738b4568",
                 "number": 3,
-                "location": "Any",
+                "location": -1,
                 "id": 39
             }
         ],
@@ -969,7 +969,7 @@
                 "type": "find",
                 "target": "590a3efd86f77437d351a25b",
                 "number": 1,
-                "location": "Any",
+                "location": -1,
                 "id": 40
             }
         ],
@@ -1004,7 +1004,7 @@
                 "type": "find",
                 "target": "590a3efd86f77437d351a25b",
                 "number": 2,
-                "location": "Any",
+                "location": -1,
                 "id": 41
             }
         ],
@@ -1039,7 +1039,7 @@
                 "type": "find",
                 "target": "544fb3f34bdc2d03748b456a",
                 "number": 4,
-                "location": "Any",
+                "location": -1,
                 "have": 0,
                 "id": 42
             }
@@ -1077,14 +1077,14 @@
                 "type": "key",
                 "target": "59387a4986f77401cc236e62",
                 "number": 1,
-                "location": "Customs",
+                "location": 1,
                 "id": 43
             },
             {
                 "type": "pickup",
                 "target": "Carbon case",
                 "number": 1,
-                "location": "Customs",
+                "location": 1,
                 "id": 44
             }
         ],
@@ -1125,7 +1125,7 @@
                 "type": "pickup",
                 "target": "Secure case for documents 0052",
                 "number": 1,
-                "location": "Woods",
+                "location": 2,
                 "id": 45
             }
         ],
@@ -1169,7 +1169,7 @@
                 "type": "pickup",
                 "target": "Secure case for documents 0052",
                 "number": 1,
-                "location": "Woods",
+                "location": 2,
                 "id": 46
             }
         ],
@@ -1207,7 +1207,7 @@
                 "type": "find",
                 "target": "57347d7224597744596b4e72",
                 "number": 15,
-                "location": "Any",
+                "location": -1,
                 "id": 47
             }
         ],
@@ -1242,7 +1242,7 @@
                 "type": "find",
                 "target": "5733279d245977289b77ec24",
                 "number": 4,
-                "location": "Any",
+                "location": -1,
                 "have": 0,
                 "id": 48
             },
@@ -1250,7 +1250,7 @@
                 "type": "find",
                 "target": "590a3c0a86f774385a33c450",
                 "number": 8,
-                "location": "Any",
+                "location": -1,
                 "have": 0,
                 "id": 49
             }
@@ -1290,7 +1290,7 @@
                 "target": "Ambulance 1",
                 "hint": "Resort",
                 "number": 1,
-                "location": "Shoreline",
+                "location": 3,
                 "id": 50
             },
             {
@@ -1299,7 +1299,7 @@
                 "target": "Ambulance 2",
                 "hint": "Tunnel close",
                 "number": 1,
-                "location": "Shoreline",
+                "location": 3,
                 "id": 51
             },
             {
@@ -1308,7 +1308,7 @@
                 "target": "Ambulance 3",
                 "hint": "Tunnel far",
                 "number": 1,
-                "location": "Shoreline",
+                "location": 3,
                 "id": 52
             }
         ],
@@ -1343,14 +1343,14 @@
                 "type": "key",
                 "target": "5a13f46386f7741dd7384b04",
                 "number": 1,
-                "location": "Shoreline",
+                "location": 3,
                 "id": 53
             },
             {
                 "type": "pickup",
                 "target": "Secure case for documents 0060",
                 "number": 1,
-                "location": "Shoreline",
+                "location": 3,
                 "id": 54
             }
         ],
@@ -1387,7 +1387,7 @@
                 "type": "pickup",
                 "target": "Blood sample",
                 "number": 1,
-                "location": "Woods",
+                "location": 2,
                 "id": 55
             }
         ],
@@ -1422,7 +1422,7 @@
                 "type": "skill",
                 "target": "Health",
                 "number": 4,
-                "location": "Any",
+                "location": -1,
                 "id": 56
             }
         ],
@@ -1457,7 +1457,7 @@
                 "type": "place",
                 "target": "590c5a7286f7747884343aea",
                 "number": 3,
-                "location": "Factory",
+                "location": 0,
                 "id": 57
             }
         ],
@@ -1493,7 +1493,7 @@
                 "type": "kill",
                 "target": "Scavs",
                 "number": 40,
-                "location": "Interchange",
+                "location": 4,
                 "with": [
                     "Respirator OR Gasmask",
                     "Close range"
@@ -1532,14 +1532,14 @@
                 "type": "find",
                 "target": "5af0534a86f7743b6f354284",
                 "number": 1,
-                "location": "Any",
+                "location": -1,
                 "id": 59
             },
             {
                 "type": "find",
                 "target": "5c0530ee86f774697952d952",
                 "number": 1,
-                "location": "Any",
+                "location": -1,
                 "id": 60
             }
         ],
@@ -1576,7 +1576,7 @@
                 "type": "skill",
                 "target": "Health",
                 "number": 10,
-                "location": "Any",
+                "location": -1,
                 "id": 61
             }
         ],
@@ -1611,14 +1611,14 @@
                 "type": "find",
                 "target": "59e7635f86f7742cbf2c1095",
                 "number": 1,
-                "location": "Any",
+                "location": -1,
                 "id": 62
             },
             {
                 "type": "find",
                 "target": "5a38e6bac4a2826c6e06d79b",
                 "number": 1,
-                "location": "Any",
+                "location": -1,
                 "id": 63
             }
         ],
@@ -1653,14 +1653,14 @@
                 "type": "key",
                 "target": "593962ca86f774068014d9af",
                 "number": 1,
-                "location": "Customs",
+                "location": 1,
                 "id": 64
             },
             {
                 "type": "pickup",
                 "target": "Docs 0048",
                 "number": 1,
-                "location": "Customs",
+                "location": 1,
                 "id": 65
             }
         ],
@@ -1699,7 +1699,7 @@
                 "type": "find",
                 "target": "590c621186f774138d11ea29",
                 "number": 2,
-                "location": "Any",
+                "location": -1,
                 "id": 66
             }
         ],
@@ -1736,28 +1736,28 @@
                 "type": "key",
                 "target": "593aa4be86f77457f56379f8",
                 "number": 1,
-                "location": "Customs",
+                "location": 1,
                 "id": 67
             },
             {
                 "type": "key",
                 "target": "5913611c86f77479e0084092",
                 "number": 1,
-                "location": "Customs",
+                "location": 1,
                 "id": 68
             },
             {
                 "type": "pickup",
                 "target": "Gilded Zibbo lighter",
                 "number": 1,
-                "location": "Customs",
+                "location": 1,
                 "id": 69
             },
             {
                 "type": "place",
                 "target": "Gilded Zibbo lighter",
                 "number": 1,
-                "location": "Customs",
+                "location": 1,
                 "id": 70
             }
         ],
@@ -1792,14 +1792,14 @@
                 "type": "key",
                 "target": "5780cfa52459777dfb276eb1",
                 "number": 1,
-                "location": "Customs",
+                "location": 1,
                 "id": 71
             },
             {
                 "type": "pickup",
                 "target": "Docs 0013",
                 "number": 1,
-                "location": "Customs",
+                "location": 1,
                 "id": 72
             }
         ],
@@ -1836,21 +1836,21 @@
                 "type": "key",
                 "target": "5780cfa52459777dfb276eb1",
                 "number": 1,
-                "location": "Customs",
+                "location": 1,
                 "id": 73
             },
             {
                 "type": "pickup",
                 "target": "Sealed letter (TerraGroup)",
                 "number": 1,
-                "location": "Customs",
+                "location": 1,
                 "id": 74
             },
             {
                 "type": "pickup",
                 "target": "Sliderkey Secure Flash drive",
                 "number": 1,
-                "location": "Customs",
+                "location": 1,
                 "id": 75
             }
         ],
@@ -1889,7 +1889,7 @@
                 "type": "pickup",
                 "target": "Syringe with a chemical",
                 "number": 1,
-                "location": "Factory",
+                "location": 0,
                 "id": 76
             }
         ],
@@ -1937,7 +1937,7 @@
                 "tool": "5991b51486f77447b112d44f",
                 "target": "Transport van",
                 "number": 1,
-                "location": "Customs",
+                "location": 1,
                 "id": 77
             }
         ],
@@ -1980,21 +1980,21 @@
                 "type": "key",
                 "target": "5a0dc95c86f77452440fc675",
                 "number": 1,
-                "location": "Shoreline",
+                "location": 3,
                 "id": 78
             },
             {
                 "type": "key",
                 "target": "5ad5db3786f7743568421cce",
                 "number": 1,
-                "location": "Interchange",
+                "location": 4,
                 "id": 79
             },
             {
                 "type": "pickup",
                 "target": "Chemical container",
                 "number": 1,
-                "location": "Shoreline",
+                "location": 3,
                 "id": 80
             },
             {
@@ -2002,7 +2002,7 @@
                 "target": "Chemical container",
                 "hint": "Mantis",
                 "number": 1,
-                "location": "Interchange",
+                "location": 4,
                 "id": 81
             },
             {
@@ -2010,7 +2010,7 @@
                 "target": "Chemical container",
                 "hint": "Emercom",
                 "number": 1,
-                "location": "Interchange",
+                "location": 4,
                 "id": 82
             }
         ],
@@ -2047,14 +2047,14 @@
                 "type": "find",
                 "target": "59e7715586f7742ee5789605",
                 "number": 4,
-                "location": "Any",
+                "location": -1,
                 "id": 83
             },
             {
                 "type": "find",
                 "target": "5b4335ba86f7744d2837a264",
                 "number": 3,
-                "location": "Any",
+                "location": -1,
                 "id": 84
             }
         ],
@@ -2089,7 +2089,7 @@
                 "type": "kill",
                 "target": "PMCs",
                 "number": 7,
-                "location": "Any",
+                "location": -1,
                 "with": [
                     "USEC faction"
                 ],
@@ -2099,7 +2099,7 @@
                 "type": "find",
                 "target": "59f32c3b86f77472a31742f0",
                 "number": 7,
-                "location": "Any",
+                "location": -1,
                 "id": 85
             }
         ],
@@ -2134,7 +2134,7 @@
                 "type": "collect",
                 "target": "5696686a4bdc2da3298b456a",
                 "number": 6000,
-                "location": "Any",
+                "location": -1,
                 "id": 87
             }
         ],
@@ -2169,7 +2169,7 @@
                 "type": "key",
                 "target": "5a0ee30786f774023b6ee08f",
                 "number": 1,
-                "location": "Shoreline",
+                "location": 3,
                 "id": 88
             },
             {
@@ -2179,7 +2179,7 @@
                     "5a145d7b86f7744cbb6f4a13"
                 ],
                 "number": 1,
-                "location": "Shoreline",
+                "location": 3,
                 "id": 89
             },
             {
@@ -2187,7 +2187,7 @@
                 "target": "Motor Controller",
                 "hint": "SUV",
                 "number": 1,
-                "location": "Woods",
+                "location": 2,
                 "id": 90
             },
             {
@@ -2195,7 +2195,7 @@
                 "target": "Motor Controller",
                 "hint": "By Eastern drone",
                 "number": 1,
-                "location": "Shoreline",
+                "location": 3,
                 "id": 91
             },
             {
@@ -2203,7 +2203,7 @@
                 "target": "Motor Controller",
                 "hint": "East 306/308",
                 "number": 1,
-                "location": "Shoreline",
+                "location": 3,
                 "id": 92
             },
             {
@@ -2211,7 +2211,7 @@
                 "target": "Single-axis Fiber Optic Gyroscope",
                 "hint": "West 216",
                 "number": 1,
-                "location": "Shoreline",
+                "location": 3,
                 "id": 93
             },
             {
@@ -2219,7 +2219,7 @@
                 "target": "Single-axis Fiber Optic Gyroscope",
                 "hint": "Truck bed",
                 "number": 1,
-                "location": "Woods",
+                "location": 2,
                 "id": 94
             }
         ],
@@ -2254,14 +2254,14 @@
                 "type": "find",
                 "target": "5c05308086f7746b2101e90b",
                 "number": 2,
-                "location": "Any",
+                "location": -1,
                 "id": 95
             },
             {
                 "type": "find",
                 "target": "5c052f6886f7746b1e3db148",
                 "number": 1,
-                "location": "Any",
+                "location": -1,
                 "id": 96
             }
         ],
@@ -2299,7 +2299,7 @@
                 "type": "kill",
                 "target": "Scavs",
                 "number": 12,
-                "location": "Customs",
+                "location": 1,
                 "with": [
                     "UNTAR helmet",
                     "MF-UNTAR armor vest",
@@ -2311,7 +2311,7 @@
                 "type": "kill",
                 "target": "Scavs",
                 "number": 12,
-                "location": "Interchange",
+                "location": 4,
                 "with": [
                     "UNTAR helmet",
                     "MF-UNTAR armor vest",
@@ -2323,7 +2323,7 @@
                 "type": "kill",
                 "target": "Scavs",
                 "number": 12,
-                "location": "Shoreline",
+                "location": 3,
                 "with": [
                     "UNTAR helmet",
                     "MF-UNTAR armor vest",
@@ -2335,7 +2335,7 @@
                 "type": "kill",
                 "target": "Scavs",
                 "number": 12,
-                "location": "Woods",
+                "location": 2,
                 "with": [
                     "UNTAR helmet",
                     "MF-UNTAR armor vest",
@@ -2378,7 +2378,7 @@
                 "tool": "5b4391a586f7745321235ab2",
                 "target": "Brutal",
                 "number": 1,
-                "location": "Interchange",
+                "location": 4,
                 "id": 101
             },
             {
@@ -2386,7 +2386,7 @@
                 "tool": "5b4391a586f7745321235ab2",
                 "target": "Pier",
                 "number": 1,
-                "location": "Woods",
+                "location": 2,
                 "id": 102
             },
             {
@@ -2394,7 +2394,7 @@
                 "tool": "5b4391a586f7745321235ab2",
                 "target": "Roadblock",
                 "number": 1,
-                "location": "Customs",
+                "location": 1,
                 "id": 103
             }
         ],
@@ -2429,21 +2429,21 @@
                 "type": "place",
                 "target": "5734758f24597738025ee253",
                 "number": 3,
-                "location": "Interchange",
+                "location": 4,
                 "id": 104
             },
             {
                 "type": "place",
                 "target": "5734758f24597738025ee253",
                 "number": 3,
-                "location": "Woods",
+                "location": 2,
                 "id": 105
             },
             {
                 "type": "place",
                 "target": "5734758f24597738025ee253",
                 "number": 3,
-                "location": "Customs",
+                "location": 1,
                 "id": 106
             },
             {
@@ -2453,7 +2453,7 @@
                 "with": [
                     "Between 22 and 10 hours"
                 ],
-                "location": "Interchange",
+                "location": 4,
                 "id": 304
             }
         ],
@@ -2488,7 +2488,7 @@
                 "type": "kill",
                 "target": "Scavs",
                 "number": 20,
-                "location": "Any",
+                "location": -1,
                 "with": [
                     "supressed 12 gauge shotgun"
                 ],
@@ -2498,7 +2498,7 @@
                 "type": "kill",
                 "target": "PMCs",
                 "number": 10,
-                "location": "Any",
+                "location": -1,
                 "with": [
                     "supressed 12 gauge shotgun"
                 ],
@@ -2538,7 +2538,7 @@
                 "type": "skill",
                 "target": "Stress Resistance",
                 "number": 6,
-                "location": "Any",
+                "location": -1,
                 "id": 109
             }
         ],
@@ -2575,35 +2575,35 @@
                 "type": "warning",
                 "target": "Do not kill any scavs from quest accept to quest complete",
                 "number": 1,
-                "location": "Customs",
+                "location": 1,
                 "id": 110
             },
             {
                 "type": "pickup",
                 "target": "False flash drive",
                 "number": 1,
-                "location": "Customs",
+                "location": 1,
                 "id": 111
             },
             {
                 "type": "place",
                 "target": "False flash drive",
                 "number": 1,
-                "location": "Customs",
+                "location": 1,
                 "id": 112
             },
             {
                 "type": "place",
                 "target": "59faf7ca86f7740dbe19f6c2",
                 "number": 1,
-                "location": "Customs",
+                "location": 1,
                 "id": 113
             },
             {
                 "type": "place",
                 "target": "55801eed4bdc2d89578b4588",
                 "number": 1,
-                "location": "Customs",
+                "location": 1,
                 "id": 114
             }
         ],
@@ -2640,7 +2640,7 @@
                 "type": "kill",
                 "target": "PMCs",
                 "number": 15,
-                "location": "Customs",
+                "location": 1,
                 "with": [
                     "MP Series shotgun",
                     "Ushanka ear-flap cap",
@@ -2682,14 +2682,14 @@
                 "type": "place",
                 "target": "55801eed4bdc2d89578b4588",
                 "number": 1,
-                "location": "Shoreline",
+                "location": 3,
                 "id": 116
             },
             {
                 "type": "place",
                 "target": "544fb5454bdc2df8738b456a",
                 "number": 1,
-                "location": "Shoreline",
+                "location": 3,
                 "id": 117
             }
         ],
@@ -2730,7 +2730,7 @@
                 "target": "Tigr vehicle 1",
                 "hint": "Checkpoint",
                 "number": 1,
-                "location": "Customs",
+                "location": 1,
                 "id": 118
             },
             {
@@ -2739,7 +2739,7 @@
                 "target": "Tigr vehicle 2",
                 "hint": "Gas station",
                 "number": 1,
-                "location": "Customs",
+                "location": 1,
                 "id": 119
             },
             {
@@ -2748,7 +2748,7 @@
                 "target": "Tigr vehicle 3",
                 "hint": "Bridge",
                 "number": 1,
-                "location": "Customs",
+                "location": 1,
                 "id": 120
             }
         ],
@@ -2791,7 +2791,7 @@
                 "target": "T-90 tank 1",
                 "hint": "Bunker",
                 "number": 1,
-                "location": "Shoreline",
+                "location": 3,
                 "id": 121
             },
             {
@@ -2800,7 +2800,7 @@
                 "target": "T-90 tank 2",
                 "hint": "Town",
                 "number": 1,
-                "location": "Shoreline",
+                "location": 3,
                 "id": 122
             },
             {
@@ -2809,7 +2809,7 @@
                 "target": "T-90 tank 3",
                 "hint": "Weather station",
                 "number": 1,
-                "location": "Shoreline",
+                "location": 3,
                 "id": 123
             }
         ],
@@ -2845,7 +2845,7 @@
                 "target": "SAS disk 1",
                 "hint": "East Drone",
                 "number": 1,
-                "location": "Shoreline",
+                "location": 3,
                 "id": 124
             },
             {
@@ -2853,7 +2853,7 @@
                 "target": "SAS disk 2",
                 "hint": "North Drone",
                 "number": 1,
-                "location": "Shoreline",
+                "location": 3,
                 "id": 125
             }
         ],
@@ -2891,7 +2891,7 @@
                 "tool": "5991b51486f77447b112d44f",
                 "target": "Un cargo truck 1",
                 "number": 1,
-                "location": "Shoreline",
+                "location": 3,
                 "id": 126
             },
             {
@@ -2899,21 +2899,21 @@
                 "tool": "5991b51486f77447b112d44f",
                 "target": "Un cargo truck 2",
                 "number": 1,
-                "location": "Shoreline",
+                "location": 3,
                 "id": 127
             },
             {
                 "type": "collect",
                 "target": "590c5f0d86f77413997acfab",
                 "number": 5,
-                "location": "Any",
+                "location": -1,
                 "id": 128
             },
             {
                 "type": "kill",
                 "target": "Scavs",
                 "number": 10,
-                "location": "Shoreline",
+                "location": 3,
                 "with": [
                     "MF-UNTAR armor vest",
                     "UNTAR helmet"
@@ -2954,7 +2954,7 @@
                 "type": "locate",
                 "target": "The missing informant",
                 "number": 1,
-                "location": "Shoreline",
+                "location": 3,
                 "id": 130
             }
         ],
@@ -2989,7 +2989,7 @@
                 "type": "key",
                 "target": "5780cf7f2459777de4559322",
                 "number": 1,
-                "location": "Customs",
+                "location": 1,
                 "id": 131
             },
             {
@@ -2997,7 +2997,7 @@
                 "tool": "5991b51486f77447b112d44f",
                 "target": "Ritual spot",
                 "number": 1,
-                "location": "Shoreline",
+                "location": 3,
                 "id": 132
             },
             {
@@ -3006,7 +3006,7 @@
                 "target": "Ritual spot 1",
                 "hint": "Cabins",
                 "number": 1,
-                "location": "Woods",
+                "location": 2,
                 "id": 133
             },
             {
@@ -3015,7 +3015,7 @@
                 "target": "Ritual spot 2",
                 "hint": "Checkpoint",
                 "number": 1,
-                "location": "Woods",
+                "location": 2,
                 "id": 268
             },
             {
@@ -3023,7 +3023,7 @@
                 "tool": "5991b51486f77447b112d44f",
                 "target": "Ritual spot",
                 "number": 1,
-                "location": "Customs",
+                "location": 1,
                 "id": 134
             }
         ],
@@ -3058,7 +3058,7 @@
                 "type": "kill",
                 "target": "Scavs",
                 "number": 7,
-                "location": "Shoreline",
+                "location": 3,
                 "with": [
                     "12 gauge shotgun headshots"
                 ],
@@ -3099,7 +3099,7 @@
                 "tool": "5991b51486f77447b112d44f",
                 "target": "Helicopter",
                 "number": 1,
-                "location": "Shoreline",
+                "location": 3,
                 "id": 136
             },
             {
@@ -3107,7 +3107,7 @@
                 "tool": "5991b51486f77447b112d44f",
                 "target": "Safe road",
                 "number": 1,
-                "location": "Shoreline",
+                "location": 3,
                 "id": 137
             }
         ],
@@ -3142,28 +3142,28 @@
                 "type": "find",
                 "target": "590c5bbd86f774785762df04",
                 "number": 1,
-                "location": "Any",
+                "location": -1,
                 "id": 138
             },
             {
                 "type": "find",
                 "target": "59e358a886f7741776641ac3",
                 "number": 2,
-                "location": "Any",
+                "location": -1,
                 "id": 139
             },
             {
                 "type": "find",
                 "target": "59e35cbb86f7741778269d83",
                 "number": 2,
-                "location": "Any",
+                "location": -1,
                 "id": 140
             },
             {
                 "type": "find",
                 "target": "59e3556c86f7741776641ac2",
                 "number": 2,
-                "location": "Any",
+                "location": -1,
                 "id": 141
             }
         ],
@@ -3201,21 +3201,21 @@
                     "5a0ee34586f774023b6ee092"
                 ],
                 "number": 1,
-                "location": "Shoreline",
+                "location": 3,
                 "id": 142
             },
             {
                 "type": "locate",
                 "target": "Generator 1",
                 "number": 1,
-                "location": "Shoreline",
+                "location": 3,
                 "id": 143
             },
             {
                 "type": "locate",
                 "target": "Generator 2",
                 "number": 1,
-                "location": "Shoreline",
+                "location": 3,
                 "id": 144
             }
         ],
@@ -3250,7 +3250,7 @@
                 "type": "pickup",
                 "target": "The key to the closed premises of the sanatorium",
                 "number": 1,
-                "location": "Shoreline",
+                "location": 3,
                 "id": 145
             }
         ],
@@ -3287,7 +3287,7 @@
                 "type": "collect",
                 "target": "5696686a4bdc2da3298b456a",
                 "number": 8000,
-                "location": "Any",
+                "location": -1,
                 "id": 146
             }
         ],
@@ -3326,28 +3326,28 @@
                 "type": "find",
                 "target": "544fb3f34bdc2d03748b456a",
                 "number": 4,
-                "location": "Any",
+                "location": -1,
                 "id": 147
             },
             {
                 "type": "find",
                 "target": "59faf98186f774067b6be103",
                 "number": 2,
-                "location": "Any",
+                "location": -1,
                 "id": 148
             },
             {
                 "type": "find",
                 "target": "59e35cbb86f7741778269d83",
                 "number": 2,
-                "location": "Any",
+                "location": -1,
                 "id": 149
             },
             {
                 "type": "find",
                 "target": "59fafb5d86f774067a6f2084",
                 "number": 2,
-                "location": "Any",
+                "location": -1,
                 "id": 150
             }
         ],
@@ -3385,14 +3385,14 @@
                     "5a145d7b86f7744cbb6f4a13"
                 ],
                 "number": 1,
-                "location": "Shoreline",
+                "location": 3,
                 "id": 151
             },
             {
                 "type": "pickup",
                 "target": "Toughbook reinforced laptop",
                 "number": 1,
-                "location": "Shoreline",
+                "location": 3,
                 "id": 152
             }
         ],
@@ -3430,7 +3430,7 @@
                 "target": "Docs 0013",
                 "hint": "East 108",
                 "number": 1,
-                "location": "Shoreline",
+                "location": 3,
                 "id": 153
             }
         ],
@@ -3465,7 +3465,7 @@
                 "type": "locate",
                 "target": "Hidden Terragroup cargo",
                 "number": 1,
-                "location": "Shoreline",
+                "location": 3,
                 "id": 154
             }
         ],
@@ -3504,7 +3504,7 @@
                 "type": "kill",
                 "target": "Scavs",
                 "number": 10,
-                "location": "Shoreline",
+                "location": 3,
                 "with": [
                     "Supressed M4 or ADAR"
                 ],
@@ -3545,7 +3545,7 @@
                 "tool": "5991b51486f77447b112d44f",
                 "target": "Fisher's dwelling",
                 "number": 1,
-                "location": "Shoreline",
+                "location": 3,
                 "id": 156
             }
         ],
@@ -3580,7 +3580,7 @@
                 "type": "locate",
                 "target": "Artyom's car",
                 "number": 1,
-                "location": "Shoreline",
+                "location": 3,
                 "id": 157
             }
         ],
@@ -3615,7 +3615,7 @@
                 "type": "pickup",
                 "target": "Sliderkey Flash drive",
                 "number": 1,
-                "location": "Shoreline",
+                "location": 3,
                 "id": 158
             }
         ],
@@ -3655,14 +3655,14 @@
                     "5a0ea79b86f7741d4a35298e"
                 ],
                 "number": 1,
-                "location": "Shoreline",
+                "location": 3,
                 "id": 159
             },
             {
                 "type": "pickup",
                 "target": "Working hard drive",
                 "number": 1,
-                "location": "Shoreline",
+                "location": 3,
                 "id": 160
             }
         ],
@@ -3703,7 +3703,7 @@
                 "type": "skill",
                 "target": "Sniper Rifles",
                 "number": 7,
-                "location": "Any",
+                "location": -1,
                 "id": 161
             }
         ],
@@ -3733,7 +3733,7 @@
                 "type": "skill",
                 "target": "Sniper Rifles",
                 "number": 9,
-                "location": "Any",
+                "location": -1,
                 "id": 162
             }
         ],
@@ -4238,14 +4238,14 @@
                 "type": "locate",
                 "target": "First signal source",
                 "number": 1,
-                "location": "Shoreline",
+                "location": 3,
                 "id": 163
             },
             {
                 "type": "locate",
                 "target": "Second signal source",
                 "number": 1,
-                "location": "Shoreline",
+                "location": 3,
                 "id": 164
             }
         ],
@@ -4280,28 +4280,28 @@
                 "type": "find",
                 "target": "573477e124597737dd42e191",
                 "number": 3,
-                "location": "Any",
+                "location": -1,
                 "id": 165
             },
             {
                 "type": "find",
                 "target": "590a358486f77429692b2790",
                 "number": 3,
-                "location": "Any",
+                "location": -1,
                 "id": 166
             },
             {
                 "type": "find",
                 "target": "590a3b0486f7743954552bdb",
                 "number": 3,
-                "location": "Any",
+                "location": -1,
                 "id": 167
             },
             {
                 "type": "find",
                 "target": "56742c324bdc2d150f8b456d",
                 "number": 3,
-                "location": "Any",
+                "location": -1,
                 "id": 168
             }
         ],
@@ -4340,7 +4340,7 @@
                 "target": "Antenna 1",
                 "hint": "Weather Station",
                 "number": 1,
-                "location": "Shoreline",
+                "location": 3,
                 "id": 169
             },
             {
@@ -4349,7 +4349,7 @@
                 "target": "Antenna 2",
                 "hint": "Radio tower",
                 "number": 1,
-                "location": "Shoreline",
+                "location": 3,
                 "id": 170
             },
             {
@@ -4358,7 +4358,7 @@
                 "target": "Antenna 3",
                 "hint": "West Resort Roof",
                 "number": 1,
-                "location": "Shoreline",
+                "location": 3,
                 "id": 171
             }
         ],
@@ -4393,7 +4393,7 @@
                 "type": "skill",
                 "target": "Memory",
                 "number": 4,
-                "location": "Any",
+                "location": -1,
                 "id": 172
             }
         ],
@@ -4429,7 +4429,7 @@
                 "target": "Factory exit 1",
                 "hint": "Main",
                 "number": 1,
-                "location": "Factory",
+                "location": 0,
                 "id": 173
             },
             {
@@ -4437,7 +4437,7 @@
                 "target": "Factory exit 2",
                 "hint": "Forlifts",
                 "number": 1,
-                "location": "Factory",
+                "location": 0,
                 "id": 174
             },
             {
@@ -4445,7 +4445,7 @@
                 "target": "Factory exit 3",
                 "hint": "Staging side",
                 "number": 1,
-                "location": "Factory",
+                "location": 0,
                 "id": 175
             }
         ],
@@ -4481,7 +4481,7 @@
                 "type": "reputation",
                 "target": "Prapor",
                 "number": 3,
-                "location": "Any",
+                "location": -1,
                 "id": 176
             }
         ],
@@ -4517,7 +4517,7 @@
                 "target": "590c2e1186f77425357b6124",
                 "hint": "Forklifts",
                 "number": 1,
-                "location": "Factory",
+                "location": 0,
                 "id": 177
             },
             {
@@ -4525,7 +4525,7 @@
                 "target": "590c2e1186f77425357b6124",
                 "hint": "Glass hallway",
                 "number": 1,
-                "location": "Factory",
+                "location": 0,
                 "id": 178
             }
         ],
@@ -4560,21 +4560,21 @@
                 "type": "find",
                 "target": "59e36c6f86f774176c10a2a7",
                 "number": 2,
-                "location": "Any",
+                "location": -1,
                 "id": 179
             },
             {
                 "type": "find",
                 "target": "57347cd0245977445a2d6ff1",
                 "number": 4,
-                "location": "Any",
+                "location": -1,
                 "id": 180
             },
             {
                 "type": "find",
                 "target": "590a3b0486f7743954552bdb",
                 "number": 2,
-                "location": "Any",
+                "location": -1,
                 "id": 181
             }
         ],
@@ -4609,14 +4609,14 @@
                 "type": "key",
                 "target": "5780d0532459777a5108b9a2",
                 "number": 1,
-                "location": "Customs",
+                "location": 1,
                 "id": 182
             },
             {
                 "type": "pickup",
                 "target": "Package with graphics cards",
                 "number": 1,
-                "location": "Customs",
+                "location": 1,
                 "id": 183
             }
         ],
@@ -4651,14 +4651,14 @@
                 "type": "find",
                 "target": "57347ca924597744596b4e71",
                 "number": 3,
-                "location": "Any",
+                "location": -1,
                 "id": 184
             },
             {
                 "type": "find",
                 "target": "5734779624597737e04bf329",
                 "number": 8,
-                "location": "Any",
+                "location": -1,
                 "id": 185
             }
         ],
@@ -4698,14 +4698,14 @@
                 "type": "find",
                 "target": "5c052fb986f7746b2101e909",
                 "number": 1,
-                "location": "Any",
+                "location": -1,
                 "id": 186
             },
             {
                 "type": "find",
                 "target": "5c05300686f7746dce784e5d",
                 "number": 1,
-                "location": "Any",
+                "location": -1,
                 "id": 187
             }
         ],
@@ -4740,14 +4740,14 @@
                 "type": "find",
                 "target": "5c06779c86f77426e00dd782",
                 "number": 5,
-                "location": "Any",
+                "location": -1,
                 "id": 188
             },
             {
                 "type": "find",
                 "target": "5c06782b86f77426df5407d2",
                 "number": 5,
-                "location": "Any",
+                "location": -1,
                 "id": 189
             }
         ],
@@ -4784,7 +4784,7 @@
                 "type": "kill",
                 "target": "PMCs",
                 "number": 3,
-                "location": "Woods",
+                "location": 2,
                 "with": [
                     "Headshot from more than 100 meters"
                 ],
@@ -4794,7 +4794,7 @@
                 "type": "kill",
                 "target": "PMCs",
                 "number": 3,
-                "location": "Reserve",
+                "location": 6,
                 "with": [
                     "Headshot from more than 100 meters"
                 ],
@@ -4804,7 +4804,7 @@
                 "type": "kill",
                 "target": "PMCs",
                 "number": 3,
-                "location": "Shoreline",
+                "location": 3,
                 "with": [
                     "Headshot from more than 100 meters"
                 ],
@@ -4814,7 +4814,7 @@
                 "type": "kill",
                 "target": "PMCs",
                 "number": 3,
-                "location": "Customs",
+                "location": 1,
                 "with": [
                     "Headshot from more than 100 meters"
                 ],
@@ -4850,7 +4850,7 @@
                 "type": "reputation",
                 "target": "Ragman",
                 "number": 2,
-                "location": "Any",
+                "location": -1,
                 "id": 194
             }
         ],
@@ -4885,35 +4885,35 @@
                 "type": "locate",
                 "target": "AVOKADO",
                 "number": 1,
-                "location": "Interchange",
+                "location": 4,
                 "id": 195
             },
             {
                 "type": "locate",
                 "target": "KOSTIN",
                 "number": 1,
-                "location": "Interchange",
+                "location": 4,
                 "id": 196
             },
             {
                 "type": "locate",
                 "target": "tRend",
                 "number": 1,
-                "location": "Interchange",
+                "location": 4,
                 "id": 197
             },
             {
                 "type": "locate",
                 "target": "DINO CLOTHES",
                 "number": 1,
-                "location": "Interchange",
+                "location": 4,
                 "id": 198
             },
             {
                 "type": "locate",
                 "target": "TOP BRAND",
                 "number": 1,
-                "location": "Interchange",
+                "location": 4,
                 "id": 199
             }
         ],
@@ -4950,7 +4950,7 @@
                 "target": "Tanker 1",
                 "hint": "Behind Goshan",
                 "number": 1,
-                "location": "Interchange",
+                "location": 4,
                 "id": 200
             },
             {
@@ -4959,7 +4959,7 @@
                 "target": "Tanker 2",
                 "hint": "Highway Checkpoint",
                 "number": 1,
-                "location": "Interchange",
+                "location": 4,
                 "id": 201
             },
             {
@@ -4968,7 +4968,7 @@
                 "target": "Tanker 3",
                 "hint": "Power Station",
                 "number": 1,
-                "location": "Interchange",
+                "location": 4,
                 "id": 202
             }
         ],
@@ -5003,14 +5003,14 @@
                 "type": "find",
                 "target": "59e7708286f7742cbd762753",
                 "number": 2,
-                "location": "Any",
+                "location": -1,
                 "id": 203
             },
             {
                 "type": "find",
                 "target": "5aa2b9ede5b5b000137b758b",
                 "number": 2,
-                "location": "Any",
+                "location": -1,
                 "id": 204
             }
         ],
@@ -5045,21 +5045,21 @@
                 "type": "pickup",
                 "target": "Goshan cargo manifest",
                 "number": 1,
-                "location": "Interchange",
+                "location": 4,
                 "id": 205
             },
             {
                 "type": "pickup",
                 "target": "OLI cargo manifest",
                 "number": 1,
-                "location": "Interchange",
+                "location": 4,
                 "id": 206
             },
             {
                 "type": "pickup",
                 "target": "IDEA cargo manifest",
                 "number": 1,
-                "location": "Interchange",
+                "location": 4,
                 "id": 207
             }
         ],
@@ -5094,14 +5094,14 @@
                 "type": "key",
                 "target": "5ad5cfbd86f7742c825d6104",
                 "number": 1,
-                "location": "Interchange",
+                "location": 4,
                 "id": 208
             },
             {
                 "type": "pickup",
                 "target": "OLI cargo route documents",
                 "number": 1,
-                "location": "Interchange",
+                "location": 4,
                 "id": 209
             }
         ],
@@ -5136,28 +5136,28 @@
                 "type": "place",
                 "target": "5ab8f4ff86f77431c60d91ba",
                 "number": 1,
-                "location": "Woods",
+                "location": 2,
                 "id": 210
             },
             {
                 "type": "place",
                 "target": "5ab8f85d86f7745cd93a1cf5",
                 "number": 1,
-                "location": "Woods",
+                "location": 2,
                 "id": 211
             },
             {
                 "type": "place",
                 "target": "5aa2b9aee5b5b00015693121",
                 "number": 1,
-                "location": "Woods",
+                "location": 2,
                 "id": 212
             },
             {
                 "type": "place",
                 "target": "5aa2b923e5b5b000137b7589",
                 "number": 1,
-                "location": "Woods",
+                "location": 2,
                 "id": 213
             }
         ],
@@ -5194,7 +5194,7 @@
                 "type": "warning",
                 "target": "\"Survive\" Interchange 7 times (they do not have to be consecutive)",
                 "number": 7,
-                "location": "Interchange",
+                "location": 4,
                 "id": 373
             }
         ],
@@ -5231,7 +5231,7 @@
                 "type": "collect",
                 "target": "5ad7247386f7747487619dc3",
                 "number": 1,
-                "location": "Any",
+                "location": -1,
                 "id": 214
             }
         ],
@@ -5269,7 +5269,7 @@
                 "target": "5645bcc04bdc2d363b8b4572",
                 "hint": "AVOKADO",
                 "number": 2,
-                "location": "Interchange",
+                "location": 4,
                 "id": 215
             },
             {
@@ -5277,7 +5277,7 @@
                 "target": "5a7c4850e899ef00150be885",
                 "hint": "AVOKADO",
                 "number": 2,
-                "location": "Interchange",
+                "location": 4,
                 "id": 216
             },
             {
@@ -5285,7 +5285,7 @@
                 "target": "5ab8e79e86f7742d8b372e78",
                 "hint": "Front Stage",
                 "number": 2,
-                "location": "Interchange",
+                "location": 4,
                 "id": 217
             }
         ],
@@ -5322,7 +5322,7 @@
                 "type": "skill",
                 "target": "Search",
                 "number": 9,
-                "location": "Any",
+                "location": -1,
                 "id": 218
             }
         ],
@@ -5357,7 +5357,7 @@
                 "type": "kill",
                 "target": "Scavs",
                 "number": 25,
-                "location": "Interchange",
+                "location": 4,
                 "id": 219
             }
         ],
@@ -5394,7 +5394,7 @@
                 "target": "Minibus 1",
                 "hint": "Safe Room",
                 "number": 1,
-                "location": "Interchange",
+                "location": 4,
                 "id": 220
             },
             {
@@ -5403,7 +5403,7 @@
                 "target": "Minibus 2",
                 "hint": "Beside Ramp",
                 "number": 1,
-                "location": "Interchange",
+                "location": 4,
                 "id": 221
             },
             {
@@ -5412,7 +5412,7 @@
                 "target": "Minibus 3",
                 "hint": "Oli Containers",
                 "number": 1,
-                "location": "Interchange",
+                "location": 4,
                 "id": 222
             }
         ],
@@ -5447,14 +5447,14 @@
                 "type": "find",
                 "target": "5ab8f20c86f7745cdb629fb2",
                 "number": 1,
-                "location": "Any",
+                "location": -1,
                 "id": 223
             },
             {
                 "type": "find",
                 "target": "59e763f286f7742ee57895da",
                 "number": 1,
-                "location": "Any",
+                "location": -1,
                 "id": 224
             }
         ],
@@ -5490,7 +5490,7 @@
                 "target": "5ab8e79e86f7742d8b372e78",
                 "hint": "0-50% condition",
                 "number": 1,
-                "location": "Any",
+                "location": -1,
                 "id": 225
             },
             {
@@ -5498,7 +5498,7 @@
                 "target": "5ab8e79e86f7742d8b372e78",
                 "hint": "50-100% condition",
                 "number": 1,
-                "location": "Any",
+                "location": -1,
                 "id": 226
             }
         ],
@@ -5534,7 +5534,7 @@
                 "target": "545cdb794bdc2d3a198b456a",
                 "hint": "0-50% condition",
                 "number": 1,
-                "location": "Any",
+                "location": -1,
                 "id": 227
             },
             {
@@ -5542,7 +5542,7 @@
                 "target": "545cdb794bdc2d3a198b456a",
                 "hint": "50-100% condition",
                 "number": 1,
-                "location": "Any",
+                "location": -1,
                 "id": 228
             }
         ],
@@ -5577,14 +5577,14 @@
                 "type": "find",
                 "target": "59e7643b86f7742cbf2c109a",
                 "number": 2,
-                "location": "Any",
+                "location": -1,
                 "id": 229
             },
             {
                 "type": "find",
                 "target": "5648a69d4bdc2ded0b8b457b",
                 "number": 2,
-                "location": "Any",
+                "location": -1,
                 "id": 230
             }
         ],
@@ -5620,7 +5620,7 @@
                 "type": "skill",
                 "target": "Charisma",
                 "number": 10,
-                "location": "Any",
+                "location": -1,
                 "id": 231
             }
         ],
@@ -5655,7 +5655,7 @@
                 "type": "reputation",
                 "target": "Therapist",
                 "number": 3,
-                "location": "Any",
+                "location": -1,
                 "id": 232
             }
         ],
@@ -5690,7 +5690,7 @@
                 "type": "find",
                 "target": "5b43575a86f77424f443fe62",
                 "number": 4,
-                "location": "Any",
+                "location": -1,
                 "id": 233
             }
         ],
@@ -5729,7 +5729,7 @@
                 "target": "Fuel stash 1",
                 "hint": "Outskirts side",
                 "number": 1,
-                "location": "Woods",
+                "location": 2,
                 "id": 234
             },
             {
@@ -5738,7 +5738,7 @@
                 "target": "Fuel stash 2",
                 "hint": "Sniper rock",
                 "number": 1,
-                "location": "Woods",
+                "location": 2,
                 "id": 235
             },
             {
@@ -5747,7 +5747,7 @@
                 "target": "Fuel stash 3",
                 "hint": "Jaeger camp",
                 "number": 1,
-                "location": "Woods",
+                "location": 2,
                 "id": 236
             }
         ],
@@ -5783,28 +5783,28 @@
                 "type": "find",
                 "target": "59e3639286f7741777737013",
                 "number": 2,
-                "location": "Any",
+                "location": -1,
                 "id": 237
             },
             {
                 "type": "find",
                 "target": "573478bc24597738002c6175",
                 "number": 2,
-                "location": "Any",
+                "location": -1,
                 "id": 238
             },
             {
                 "type": "find",
                 "target": "59e3658a86f7741776641ac4",
                 "number": 1,
-                "location": "Any",
+                "location": -1,
                 "id": 239
             },
             {
                 "type": "find",
                 "target": "59faf7ca86f7740dbe19f6c2",
                 "number": 1,
-                "location": "Any",
+                "location": -1,
                 "id": 240
             }
         ],
@@ -5841,14 +5841,14 @@
                 "type": "find",
                 "target": "590de71386f774347051a052",
                 "number": 3,
-                "location": "Any",
+                "location": -1,
                 "id": 241
             },
             {
                 "type": "find",
                 "target": "590de7e986f7741b096e5f32",
                 "number": 2,
-                "location": "Any",
+                "location": -1,
                 "id": 242
             }
         ],
@@ -5881,7 +5881,7 @@
                 "type": "pickup",
                 "target": "Jaeger's message",
                 "number": 1,
-                "location": "Woods",
+                "location": 2,
                 "id": 243
             }
         ],
@@ -5916,21 +5916,21 @@
                 "type": "find",
                 "target": "590c5d4b86f774784e1b9c45",
                 "number": 3,
-                "location": "Any",
+                "location": -1,
                 "id": 244
             },
             {
                 "type": "find",
                 "target": "5751487e245977207e26a315",
                 "number": 2,
-                "location": "Any",
+                "location": -1,
                 "id": 245
             },
             {
                 "type": "find",
                 "target": "57347da92459774491567cf5",
                 "number": 2,
-                "location": "Any",
+                "location": -1,
                 "id": 246
             }
         ],
@@ -5965,7 +5965,7 @@
                 "type": "kill",
                 "target": "Scavs",
                 "number": 5,
-                "location": "Woods",
+                "location": 2,
                 "with": [
                     "No body armor"
                 ],
@@ -6004,7 +6004,7 @@
                 "target": "590c5d4b86f774784e1b9c45",
                 "hint": "ZB-014",
                 "number": 1,
-                "location": "Woods",
+                "location": 2,
                 "id": 248
             },
             {
@@ -6012,7 +6012,7 @@
                 "target": "5448fee04bdc2dbc018b4567",
                 "hint": "ZB-014",
                 "number": 1,
-                "location": "Woods",
+                "location": 2,
                 "id": 249
             },
             {
@@ -6020,7 +6020,7 @@
                 "target": "590c5d4b86f774784e1b9c45",
                 "hint": "ZB-016",
                 "number": 1,
-                "location": "Woods",
+                "location": 2,
                 "id": 250
             },
             {
@@ -6028,7 +6028,7 @@
                 "target": "5448fee04bdc2dbc018b4567",
                 "hint": "ZB-016",
                 "number": 1,
-                "location": "Woods",
+                "location": 2,
                 "id": 251
             }
         ],
@@ -6063,7 +6063,7 @@
                 "type": "warning",
                 "target": "Gain the dehydrated status for 5 minutes",
                 "number": 1,
-                "location": "Any",
+                "location": -1,
                 "id": 352
             }
         ],
@@ -6098,7 +6098,7 @@
                 "type": "kill",
                 "target": "Scavs",
                 "number": 3,
-                "location": "Any",
+                "location": -1,
                 "with": [
                     "Suffering from pain effect"
                 ],
@@ -6136,7 +6136,7 @@
                 "type": "kill",
                 "target": "Scavs",
                 "number": 3,
-                "location": "Woods",
+                "location": 2,
                 "with": [
                     "In one raid",
                     "No healing used"
@@ -6175,21 +6175,21 @@
                 "type": "locate",
                 "target": "Priest house",
                 "number": 1,
-                "location": "Shoreline",
+                "location": 3,
                 "id": 254
             },
             {
                 "type": "locate",
                 "target": "Fisherman house",
                 "number": 1,
-                "location": "Shoreline",
+                "location": 3,
                 "id": 255
             },
             {
                 "type": "locate",
                 "target": "Chairman house",
                 "number": 1,
-                "location": "Shoreline",
+                "location": 3,
                 "id": 256
             }
         ],
@@ -6224,7 +6224,7 @@
                 "type": "pickup",
                 "target": "Jaeger's photo album",
                 "number": 1,
-                "location": "Shoreline",
+                "location": 3,
                 "id": 257
             }
         ],
@@ -6259,7 +6259,7 @@
                 "type": "kill",
                 "target": "Scavs",
                 "number": 5,
-                "location": "Any",
+                "location": -1,
                 "with": [
                     "A bolt-action sniper rifle without scope",
                     "At least 40 meters away"
@@ -6300,7 +6300,7 @@
                 "type": "kill",
                 "target": "Any",
                 "number": 3,
-                "location": "Any",
+                "location": -1,
                 "with": [
                     "A bolt-action sniper rifle",
                     "Leg shots",
@@ -6312,7 +6312,7 @@
                 "type": "kill",
                 "target": "Any",
                 "number": 2,
-                "location": "Any",
+                "location": -1,
                 "with": [
                     "A bolt-action sniper rifle",
                     "head shots",
@@ -6355,7 +6355,7 @@
                 "type": "kill",
                 "target": "PMCs",
                 "number": 3,
-                "location": "Any",
+                "location": -1,
                 "with": [
                     "A bolt-action sniper rifle",
                     "Less than 25 meters away"
@@ -6397,7 +6397,7 @@
                 "type": "skill",
                 "target": "Sniper Rifles",
                 "number": 3,
-                "location": "Any",
+                "location": -1,
                 "id": 262
             }
         ],
@@ -6434,7 +6434,7 @@
                 "type": "kill",
                 "target": "Scavs",
                 "number": 8,
-                "location": "Customs",
+                "location": 1,
                 "with": [
                     "A bolt-action sniper rifle",
                     "Between 21 and 05 hours"
@@ -6475,7 +6475,7 @@
                 "type": "kill",
                 "target": "Scavs",
                 "number": 5,
-                "location": "Any",
+                "location": -1,
                 "with": [
                     "A bolt-action sniper rifle",
                     "Must be sniper scavs"
@@ -6516,7 +6516,7 @@
                 "type": "kill",
                 "target": "PMCs",
                 "number": 5,
-                "location": "Any",
+                "location": -1,
                 "with": [
                     "Supressed bolt-action sniper rifle",
                     "At least 45 meters away"
@@ -6558,7 +6558,7 @@
                 "type": "kill",
                 "target": "PMCs",
                 "number": 3,
-                "location": "Woods",
+                "location": 2,
                 "with": [
                     "A bolt-action sniper rifle",
                     "In a single raid"
@@ -6597,7 +6597,7 @@
                 "type": "kill",
                 "target": "PMCs",
                 "number": 2,
-                "location": "Any",
+                "location": -1,
                 "with": [
                     "Headshot",
                     "While you have tremor effect"
@@ -6637,21 +6637,21 @@
                 "type": "key",
                 "target": "5a0eb6ac86f7743124037a28",
                 "number": 1,
-                "location": "Shoreline",
+                "location": 3,
                 "id": 321
             },
             {
                 "type": "pickup",
                 "target": "Sanitar's surgery kit",
                 "number": 1,
-                "location": "Shoreline",
+                "location": 3,
                 "id": 318
             },
             {
                 "type": "pickup",
                 "target": "Sanitar's ophthalmoscope",
                 "number": 1,
-                "location": "Shoreline",
+                "location": 3,
                 "id": 319
             }
         ],
@@ -6693,35 +6693,35 @@
                 "type": "warning",
                 "target": "Do not kill Sanitar",
                 "number": 1,
-                "location": "Shoreline",
+                "location": 3,
                 "id": 320
             },
             {
                 "type": "find",
                 "target": "5ed515f6915ec335206e4152",
                 "number": 1,
-                "location": "Any",
+                "location": -1,
                 "id": 322
             },
             {
                 "type": "find",
                 "target": "5ed515c8d380ab312177c0fa",
                 "number": 1,
-                "location": "Any",
+                "location": -1,
                 "id": 323
             },
             {
                 "type": "collect",
                 "target": "5c1d0c5f86f7744bb2683cf0",
                 "number": 1,
-                "location": "Any",
+                "location": -1,
                 "id": 324
             },
             {
                 "type": "collect",
                 "target": "5c1d0dc586f7744baf2e7b79",
                 "number": 1,
-                "location": "Any",
+                "location": -1,
                 "id": 325
             }
         ],
@@ -6759,7 +6759,7 @@
                 "type": "skill",
                 "target": "Vitality",
                 "number": 5,
-                "location": "Any",
+                "location": -1,
                 "id": 270
             }
         ],
@@ -6796,14 +6796,14 @@
                 "type": "find",
                 "target": "5d02778e86f774203e7dedbe",
                 "number": 2,
-                "location": "Any",
+                "location": -1,
                 "id": 271
             },
             {
                 "type": "find",
                 "target": "5c052e6986f7746b207bc3c9",
                 "number": 1,
-                "location": "Any",
+                "location": -1,
                 "id": 272
             }
         ],
@@ -6838,7 +6838,7 @@
                 "type": "kill",
                 "target": "PMCs",
                 "number": 6,
-                "location": "Factory",
+                "location": 0,
                 "with": [
                     "In the office area"
                 ],
@@ -6876,7 +6876,7 @@
                 "type": "locate",
                 "target": "Food storage",
                 "number": 1,
-                "location": "Reserve",
+                "location": 6,
                 "id": 274
             }
         ],
@@ -6911,7 +6911,7 @@
                 "type": "kill",
                 "target": "Scavs",
                 "number": 30,
-                "location": "Any",
+                "location": -1,
                 "id": 275
             }
         ],
@@ -6947,7 +6947,7 @@
                 "type": "kill",
                 "target": "PMCs",
                 "number": 2,
-                "location": "Any",
+                "location": -1,
                 "with": [
                     "While they are flashed"
                 ],
@@ -6986,7 +6986,7 @@
                 "type": "kill",
                 "target": "PMCs",
                 "number": 5,
-                "location": "Customs",
+                "location": 1,
                 "with": [
                     "In the dorms area"
                 ],
@@ -7024,7 +7024,7 @@
                 "type": "find",
                 "target": "5c94bbff86f7747ee735c08f",
                 "number": 2,
-                "location": "Any",
+                "location": -1,
                 "id": 278
             }
         ],
@@ -7059,14 +7059,14 @@
                 "type": "kill",
                 "target": "Reshala",
                 "number": 1,
-                "location": "Customs",
+                "location": 1,
                 "id": 279
             },
             {
                 "type": "find",
                 "target": "5b3b713c5acfc4330140bd8d",
                 "number": 1,
-                "location": "Customs",
+                "location": 1,
                 "id": 280
             }
         ],
@@ -7102,7 +7102,7 @@
                 "type": "kill",
                 "target": "Scavs",
                 "number": 3,
-                "location": "Customs",
+                "location": 1,
                 "with": [
                     "Reshala bodyguards"
                 ],
@@ -7140,14 +7140,14 @@
                 "type": "kill",
                 "target": "Killa",
                 "number": 1,
-                "location": "Interchange",
+                "location": 4,
                 "id": 282
             },
             {
                 "type": "find",
                 "target": "5c0e874186f7745dc7616606",
                 "number": 1,
-                "location": "Interchange",
+                "location": 4,
                 "id": 283
             }
         ],
@@ -7182,14 +7182,14 @@
                 "type": "kill",
                 "target": "Shturman",
                 "number": 1,
-                "location": "Woods",
+                "location": 2,
                 "id": 284
             },
             {
                 "type": "find",
                 "target": "5d08d21286f774736e7c94c3",
                 "number": 1,
-                "location": "Woods",
+                "location": 2,
                 "id": 285
             }
         ],
@@ -7224,7 +7224,7 @@
                 "type": "kill",
                 "target": "Glukhar",
                 "number": 1,
-                "location": "Reserve",
+                "location": 6,
                 "id": 286
             }
         ],
@@ -7259,7 +7259,7 @@
                 "type": "kill",
                 "target": "Raiders",
                 "number": 6,
-                "location": "Any",
+                "location": -1,
                 "id": 287
             }
         ],
@@ -7300,7 +7300,7 @@
                 "type": "kill",
                 "target": "Shturman",
                 "number": 1,
-                "location": "Woods",
+                "location": 2,
                 "with": [
                     "Remington M700",
                     "March Tactical 3-24x42 FPP scope"
@@ -7343,14 +7343,14 @@
                 "type": "key",
                 "target": "5938603e86f77435642354f4",
                 "number": 1,
-                "location": "Customs",
+                "location": 1,
                 "id": 289
             },
             {
                 "type": "locate",
                 "target": "The hidden water in 2-story dorms, room 206",
                 "number": 1,
-                "location": "Customs",
+                "location": 1,
                 "id": 290
             }
         ],
@@ -7391,7 +7391,7 @@
                 "type": "kill",
                 "target": "Scavs",
                 "number": 15,
-                "location": "Customs",
+                "location": 1,
                 "id": 291
             }
         ],
@@ -7426,7 +7426,7 @@
                 "type": "kill",
                 "target": "Scavs",
                 "number": 25,
-                "location": "Customs",
+                "location": 1,
                 "id": 292
             }
         ],
@@ -7462,14 +7462,14 @@
                 "type": "find",
                 "target": "5d03794386f77420415576f5",
                 "number": 1,
-                "location": "Any",
+                "location": -1,
                 "id": 293
             },
             {
                 "type": "find",
                 "target": "5d0379a886f77420407aa271",
                 "number": 5,
-                "location": "Any",
+                "location": -1,
                 "id": 294
             }
         ],
@@ -7514,7 +7514,7 @@
                 "type": "kill",
                 "target": "PMCs",
                 "number": 3,
-                "location": "Any",
+                "location": -1,
                 "with": [
                     "pistol"
                 ],
@@ -7548,7 +7548,7 @@
                 "type": "collect",
                 "target": "569668774bdc2da2298b4568",
                 "number": 50000,
-                "location": "Any",
+                "location": -1,
                 "id": 296
             }
         ],
@@ -7583,21 +7583,21 @@
                 "type": "find",
                 "target": "573476d324597737da2adc13",
                 "number": 5,
-                "location": "Any",
+                "location": -1,
                 "id": 297
             },
             {
                 "type": "find",
                 "target": "5734770f24597738025ee254",
                 "number": 5,
-                "location": "Any",
+                "location": -1,
                 "id": 298
             },
             {
                 "type": "find",
                 "target": "573476f124597737e04bf328",
                 "number": 5,
-                "location": "Any",
+                "location": -1,
                 "id": 299
             }
         ],
@@ -7633,7 +7633,7 @@
                 "target": "Clothes design handbook Part 1",
                 "hint": "Oli side 2F",
                 "number": 1,
-                "location": "Interchange",
+                "location": 4,
                 "id": 300
             },
             {
@@ -7641,7 +7641,7 @@
                 "target": "Clothes design handbook Part 2",
                 "hint": "Idea side 1F",
                 "number": 1,
-                "location": "Interchange",
+                "location": 4,
                 "id": 301
             }
         ],
@@ -7676,7 +7676,7 @@
                 "type": "find",
                 "target": "590c621186f774138d11ea29",
                 "number": 3,
-                "location": "Any",
+                "location": -1,
                 "id": 302
             }
         ],
@@ -7711,7 +7711,7 @@
                 "type": "pickup",
                 "target": "Sealed letter",
                 "number": 1,
-                "location": "Factory",
+                "location": 0,
                 "id": 13
             }
         ],
@@ -7753,7 +7753,7 @@
                 "tool": "5991b51486f77447b112d44f",
                 "target": "Transport van",
                 "number": 1,
-                "location": "Customs",
+                "location": 1,
                 "id": 77
             }
         ],
@@ -7803,7 +7803,7 @@
                 "tool": "5991b51486f77447b112d44f",
                 "target": "Transport van",
                 "number": 1,
-                "location": "Customs",
+                "location": 1,
                 "id": 77
             }
         ],
@@ -7841,7 +7841,7 @@
                 "type": "kill",
                 "target": "Scavs",
                 "number": 15,
-                "location": "Woods",
+                "location": 2,
                 "with": [
                     "Stimulants active"
                 ],
@@ -7875,21 +7875,21 @@
                 "type": "find",
                 "target": "5e2af4d286f7746d4159f07a",
                 "number": 5,
-                "location": "Any",
+                "location": -1,
                 "id": 306
             },
             {
                 "type": "find",
                 "target": "5e2af4a786f7746d3f3c3400",
                 "number": 10,
-                "location": "Any",
+                "location": -1,
                 "id": 307
             },
             {
                 "type": "find",
                 "target": "5c12688486f77426843c7d32",
                 "number": 3,
-                "location": "Any",
+                "location": -1,
                 "id": 308
             }
         ],
@@ -7920,21 +7920,21 @@
                 "type": "find",
                 "target": "5e2af47786f7746d404f3aaa",
                 "number": 10,
-                "location": "Any",
+                "location": -1,
                 "id": 309
             },
             {
                 "type": "find",
                 "target": "5e2af41e86f774755a234b67",
                 "number": 10,
-                "location": "Any",
+                "location": -1,
                 "id": 310
             },
             {
                 "type": "find",
                 "target": "5e2af29386f7746d4159f077",
                 "number": 5,
-                "location": "Any",
+                "location": -1,
                 "id": 311
             }
         ],
@@ -7972,7 +7972,7 @@
                 "target": "Trading post 1",
                 "hint": "Cottages",
                 "number": 1,
-                "location": "Shoreline",
+                "location": 3,
                 "id": 312
             },
             {
@@ -7981,7 +7981,7 @@
                 "target": "Trading post 2",
                 "hint": "Pier",
                 "number": 1,
-                "location": "Shoreline",
+                "location": 3,
                 "id": 313
             },
             {
@@ -7990,7 +7990,7 @@
                 "target": "Trading post 3",
                 "hint": "Resort",
                 "number": 1,
-                "location": "Shoreline",
+                "location": 3,
                 "id": 314
             }
         ],
@@ -8026,21 +8026,21 @@
                 "type": "locate",
                 "target": "Health resort group",
                 "number": 1,
-                "location": "Shoreline",
+                "location": 3,
                 "id": 315
             },
             {
                 "type": "locate",
                 "target": "Pier group",
                 "number": 1,
-                "location": "Shoreline",
+                "location": 3,
                 "id": 316
             },
             {
                 "type": "locate",
                 "target": "Cottage group",
                 "number": 1,
-                "location": "Shoreline",
+                "location": 3,
                 "id": 317
             }
         ],
@@ -8077,7 +8077,7 @@
                 "tool": "5991b51486f77447b112d44f",
                 "target": "Health resort Medical container",
                 "number": 1,
-                "location": "Shoreline",
+                "location": 3,
                 "id": 326
             },
             {
@@ -8085,7 +8085,7 @@
                 "tool": "5991b51486f77447b112d44f",
                 "target": "Cottages Medical container",
                 "number": 1,
-                "location": "Shoreline",
+                "location": 3,
                 "id": 327
             },
             {
@@ -8093,7 +8093,7 @@
                 "tool": "5991b51486f77447b112d44f",
                 "target": "Pier Medical container",
                 "number": 1,
-                "location": "Shoreline",
+                "location": 3,
                 "id": 328
             }
         ],
@@ -8130,14 +8130,14 @@
                 "type": "key",
                 "target": "5eff09cd30a7dc22fd1ddfed",
                 "number": 1,
-                "location": "Shoreline",
+                "location": 3,
                 "id": 329
             },
             {
                 "type": "locate",
                 "target": "Sanitar's office",
                 "number": 1,
-                "location": "Shoreline",
+                "location": 3,
                 "id": 330
             }
         ],
@@ -8173,49 +8173,49 @@
                 "type": "find",
                 "target": "5ed51652f6c34d2cc26336a1",
                 "number": 1,
-                "location": "Any",
+                "location": -1,
                 "id": 331
             },
             {
                 "type": "find",
                 "target": "5ed5166ad380ab312177c100",
                 "number": 1,
-                "location": "Any",
+                "location": -1,
                 "id": 332
             },
             {
                 "type": "find",
                 "target": "5ed5160a87bb8443d10680b5",
                 "number": 1,
-                "location": "Any",
+                "location": -1,
                 "id": 333
             },
             {
                 "type": "find",
                 "target": "5ed515f6915ec335206e4152",
                 "number": 1,
-                "location": "Any",
+                "location": -1,
                 "id": 334
             },
             {
                 "type": "find",
                 "target": "5ed515ece452db0eb56fc028",
                 "number": 1,
-                "location": "Any",
+                "location": -1,
                 "id": 335
             },
             {
                 "type": "find",
                 "target": "5ed515e03a40a50460332579",
                 "number": 1,
-                "location": "Any",
+                "location": -1,
                 "id": 336
             },
             {
                 "type": "find",
                 "target": "5ed515c8d380ab312177c0fa",
                 "number": 1,
-                "location": "Any",
+                "location": -1,
                 "id": 337
             }
         ],
@@ -8252,21 +8252,21 @@
                 "type": "key",
                 "target": "5efde6b4f5448336730dbd61",
                 "number": 1,
-                "location": "Labs",
+                "location": 5,
                 "id": 338
             },
             {
                 "type": "locate",
                 "target": "Sanitar's workplace",
                 "number": 1,
-                "location": "Labs",
+                "location": 5,
                 "id": 339
             },
             {
                 "type": "pickup",
                 "target": "Marked with tape flash drive",
                 "number": 1,
-                "location": "Labs",
+                "location": 5,
                 "id": 340
             }
         ],
@@ -8308,7 +8308,7 @@
                 "type": "kill",
                 "target": "Sanitar",
                 "number": 1,
-                "location": "Shoreline",
+                "location": 3,
                 "id": 341
             }
         ],
@@ -8347,14 +8347,14 @@
                 "type": "locate",
                 "target": "Underground bunker",
                 "number": 1,
-                "location": "Reserve",
+                "location": 6,
                 "id": 342
             },
             {
                 "type": "locate",
                 "target": "Bunker control room",
                 "number": 1,
-                "location": "Reserve",
+                "location": 6,
                 "id": 343
             }
         ],
@@ -8390,35 +8390,35 @@
                 "type": "locate",
                 "target": "White Bishop hermetic door",
                 "number": 1,
-                "location": "Reserve",
+                "location": 6,
                 "id": 344
             },
             {
                 "type": "locate",
                 "target": "Black Bishop hermetic door",
                 "number": 1,
-                "location": "Reserve",
+                "location": 6,
                 "id": 345
             },
             {
                 "type": "locate",
                 "target": "Black Pawn hermetic door",
                 "number": 1,
-                "location": "Reserve",
+                "location": 6,
                 "id": 346
             },
             {
                 "type": "locate",
                 "target": "White Pawn hermetic door",
                 "number": 1,
-                "location": "Reserve",
+                "location": 6,
                 "id": 347
             },
             {
                 "type": "locate",
                 "target": "White King hermetic door",
                 "number": 1,
-                "location": "Reserve",
+                "location": 6,
                 "id": 348
             }
         ],
@@ -8453,14 +8453,14 @@
                 "type": "locate",
                 "target": "Missing convoy",
                 "number": 1,
-                "location": "Woods",
+                "location": 2,
                 "id": 349
             },
             {
                 "type": "locate",
                 "target": "Temporary USEC camp",
                 "number": 1,
-                "location": "Woods",
+                "location": 2,
                 "id": 350
             }
         ],
@@ -8491,7 +8491,7 @@
                 "type": "kill",
                 "target": "Killa",
                 "number": 100,
-                "location": "Interchange",
+                "location": 4,
                 "id": 351
             }
         ],
@@ -8525,7 +8525,7 @@
                 "type": "kill",
                 "target": "Scavs",
                 "number": 6,
-                "location": "Any",
+                "location": -1,
                 "with": [
                     "No NVG or Thermals",
                     "Between 21 and 04 hours"
@@ -8613,161 +8613,161 @@
                 "type": "find",
                 "target": "5bc9c377d4351e3bac12251b",
                 "number": 1,
-                "location": "Any",
+                "location": -1,
                 "id": 353
             },
             {
                 "type": "find",
                 "target": "5bc9c1e2d4351e00367fbcf0",
                 "number": 1,
-                "location": "Any",
+                "location": -1,
                 "id": 354
             },
             {
                 "type": "find",
                 "target": "5bc9c049d4351e44f824d360",
                 "number": 1,
-                "location": "Any",
+                "location": -1,
                 "id": 355
             },
             {
                 "type": "find",
                 "target": "5bc9b355d4351e6d1509862a",
                 "number": 1,
-                "location": "Any",
+                "location": -1,
                 "id": 356
             },
             {
                 "type": "find",
                 "target": "5bc9bc53d4351e00367fbcee",
                 "number": 1,
-                "location": "Any",
+                "location": -1,
                 "id": 357
             },
             {
                 "type": "find",
                 "target": "5bc9bdb8d4351e003562b8a1",
                 "number": 1,
-                "location": "Any",
+                "location": -1,
                 "id": 358
             },
             {
                 "type": "find",
                 "target": "5bc9b9ecd4351e3bac122519",
                 "number": 1,
-                "location": "Any",
+                "location": -1,
                 "id": 359
             },
             {
                 "type": "find",
                 "target": "5bc9b720d4351e450201234b",
                 "number": 1,
-                "location": "Any",
+                "location": -1,
                 "id": 360
             },
             {
                 "type": "find",
                 "target": "5bc9b156d4351e00367fbce9",
                 "number": 1,
-                "location": "Any",
+                "location": -1,
                 "id": 361
             },
             {
                 "type": "find",
                 "target": "5bc9c29cd4351e003562b8a3",
                 "number": 1,
-                "location": "Any",
+                "location": -1,
                 "id": 362
             },
             {
                 "type": "find",
                 "target": "5bd073a586f7747e6f135799",
                 "number": 1,
-                "location": "Any",
+                "location": -1,
                 "id": 363
             },
             {
                 "type": "find",
                 "target": "5bd073c986f7747f627e796c",
                 "number": 1,
-                "location": "Any",
+                "location": -1,
                 "id": 364
             },
             {
                 "type": "find",
                 "target": "5e54f6af86f7742199090bf3",
                 "number": 1,
-                "location": "Any",
+                "location": -1,
                 "id": 365
             },
             {
                 "type": "find",
                 "target": "5e54f79686f7744022011103",
                 "number": 1,
-                "location": "Any",
+                "location": -1,
                 "id": 366
             },
             {
                 "type": "find",
                 "target": "5e54f62086f774219b0f1937",
                 "number": 1,
-                "location": "Any",
+                "location": -1,
                 "id": 367
             },
             {
                 "type": "find",
                 "target": "5e54f76986f7740366043752",
                 "number": 1,
-                "location": "Any",
+                "location": -1,
                 "id": 368
             },
             {
                 "type": "find",
                 "target": "5f745ee30acaeb0d490d8c5b",
                 "number": 1,
-                "location": "Any",
+                "location": -1,
                 "id": 369
             },
             {
                 "type": "find",
                 "target": "5bc9be8fd4351e00334cae6e",
                 "number": 1,
-                "location": "Any",
+                "location": -1,
                 "id": 370
             },
             {
                 "type": "find",
                 "target": "60b0f988c4449e4cb624c1da",
                 "number": 1,
-                "location": "Any",
+                "location": -1,
                 "id": 399
             },
             {
                 "type": "find",
                 "target": "60b0f93284c20f0feb453da7",
                 "number": 1,
-                "location": "Any",
+                "location": -1,
                 "id": 400
             },
             {
                 "type": "find",
                 "target": "60b0f7057897d47c5b04ab94",
                 "number": 1,
-                "location": "Any",
+                "location": -1,
                 "id": 401
             },
             {
                 "type": "find",
                 "target": "60b0f6c058e0b0481a09ad11",
                 "number": 1,
-                "location": "Any",
+                "location": -1,
                 "id": 402
             },
             {
                 "type": "find",
                 "target": "60b0f561c4449e4cb624c1d7",
                 "number": 1,
-                "location": "Any",
+                "location": -1,
                 "id": 403
             }
         ],
@@ -8797,7 +8797,7 @@
                 "type": "collect",
                 "target": "5449016a4bdc2d6f028b456f",
                 "number": 400000,
-                "location": "Any",
+                "location": -1,
                 "id": 372
             }
         ],
@@ -8836,7 +8836,7 @@
                 "type": "kill",
                 "target": "Shturman",
                 "number": 25,
-                "location": "Woods",
+                "location": 2,
                 "id": 374
             }
         ],
@@ -8875,7 +8875,7 @@
                 "type": "collect",
                 "target": "58d3db5386f77426186285a0",
                 "number": 10,
-                "location": "Any",
+                "location": -1,
                 "id": 375
             }
         ],
@@ -8914,28 +8914,28 @@
                 "type": "collect",
                 "target": "593aa4be86f77457f56379f8",
                 "number": 1,
-                "location": "Any",
+                "location": -1,
                 "id": 376
             },
             {
                 "type": "collect",
                 "target": "591afe0186f77431bd616a11",
                 "number": 1,
-                "location": "Any",
+                "location": -1,
                 "id": 377
             },
             {
                 "type": "collect",
                 "target": "5913915886f774123603c392",
                 "number": 1,
-                "location": "Any",
+                "location": -1,
                 "id": 378
             },
             {
                 "type": "collect",
                 "target": "5913877a86f774432f15d444",
                 "number": 1,
-                "location": "Any",
+                "location": -1,
                 "id": 379
             }
         ],
@@ -8974,7 +8974,7 @@
                 "type": "collect",
                 "target": "5449016a4bdc2d6f028b456f",
                 "number": 1000000,
-                "location": "Any",
+                "location": -1,
                 "id": 380
             }
         ],
@@ -9011,14 +9011,14 @@
                 "type": "warning",
                 "target": "This quest is only available if you have less than 0.6 repuation with Therapist",
                 "number": 1,
-                "location": "None",
+                "location": -2,
                 "id": 381
             },
             {
                 "type": "collect",
                 "target": "5696686a4bdc2da3298b456a",
                 "number": 500,
-                "location": "Any",
+                "location": -1,
                 "id": 382
             }
         ],
@@ -9054,28 +9054,28 @@
                 "type": "key",
                 "target": "5d947d4e86f774447b415895",
                 "number": 1,
-                "location": "Reserve",
+                "location": 6,
                 "id": 420
             },
             {
                 "type": "key",
                 "target": "5d947d3886f774447b415893",
                 "number": 1,
-                "location": "Reserve",
+                "location": 6,
                 "id": 421
             },
             {
                 "type": "pickup",
                 "target": "Medical Journal No.1",
                 "number": 1,
-                "location": "Reserve",
+                "location": 6,
                 "id": 383
             },
             {
                 "type": "pickup",
                 "target": "Medical Journal No.2",
                 "number": 1,
-                "location": "Reserve",
+                "location": 6,
                 "id": 384
             }
 
@@ -9113,7 +9113,7 @@
                 "tool": "5991b51486f77447b112d44f",
                 "target": "Fuel Tanks 1",
                 "number": 1,
-                "location": "Reserve",
+                "location": 6,
                 "id": 385
             },
             {
@@ -9121,7 +9121,7 @@
                 "tool": "5991b51486f77447b112d44f",
                 "target": "Fuel Tanks 2",
                 "number": 1,
-                "location": "Reserve",
+                "location": 6,
                 "id": 386
             }
         ],
@@ -9156,14 +9156,14 @@
                 "type": "key",
                 "target": "5d9f1fa686f774726974a992",
                 "number": 1,
-                "location": "Reserve",
+                "location": 6,
                 "id": 387
             },
             {
                 "type": "pickup",
                 "target": "MBT navigation complex",
                 "number": 1,
-                "location": "Reserve",
+                "location": 6,
                 "id": 388
             }
 
@@ -9199,7 +9199,7 @@
                 "type": "locate",
                 "target": "Unpowered secret exit",
                 "number": 1,
-                "location": "Reserve",
+                "location": 6,
                 "id": 389
             }
 
@@ -9235,7 +9235,7 @@
                 "type": "key",
                 "target": "5d9f1fa686f774726974a992",
                 "number": 1,
-                "location": "Reserve",
+                "location": 6,
                 "id": 390
             },
             {
@@ -9243,7 +9243,7 @@
                 "tool": "5991b51486f77447b112d44f",
                 "target": "BMP-2 1",
                 "number": 1,
-                "location": "Reserve",
+                "location": 6,
                 "id": 391
             },
             {
@@ -9251,7 +9251,7 @@
                 "tool": "5991b51486f77447b112d44f",
                 "target": "BMP-2 2",
                 "number": 1,
-                "location": "Reserve",
+                "location": 6,
                 "id": 392
             },
             {
@@ -9259,7 +9259,7 @@
                 "tool": "5991b51486f77447b112d44f",
                 "target": "BMP-2 3",
                 "number": 1,
-                "location": "Reserve",
+                "location": 6,
                 "id": 393
             },
             {
@@ -9267,7 +9267,7 @@
                 "tool": "5991b51486f77447b112d44f",
                 "target": "BMP-2 4",
                 "number": 1,
-                "location": "Reserve",
+                "location": 6,
                 "id": 394
             },
             {
@@ -9275,21 +9275,21 @@
                 "tool": "5991b51486f77447b112d44f",
                 "target": "IFV LAV III 1",
                 "number": 1,
-                "location": "Reserve",
+                "location": 6,
                 "id": 395
             },
             {
                 "type": "locate",
                 "target": "IFV LAV III 2",
                 "number": 1,
-                "location": "Reserve",
+                "location": 6,
                 "id": 396
             },
             {
                 "type": "locate",
                 "target": "T-90",
                 "number": 1,
-                "location": "Reserve",
+                "location": 6,
                 "id": 397
             }
         ],
@@ -9324,7 +9324,7 @@
                 "type": "pickup",
                 "target": "T-90M Commander control panel",
                 "number": 1,
-                "location": "Reserve",
+                "location": 6,
                 "id": 398
             }
         ],
@@ -9359,56 +9359,56 @@
                 "type": "key",
                 "target": "5d80ccac86f77470841ff452",
                 "number": 1,
-                "location": "Reserve",
+                "location": 6,
                 "id": 404
             },
             {
                 "type": "key",
                 "target": "5d80ccdd86f77474f7575e02",
                 "number": 1,
-                "location": "Reserve",
+                "location": 6,
                 "id": 405
             },
             {
                 "type": "key",
                 "target": "5d80cd1a86f77402aa362f42",
                 "number": 1,
-                "location": "Reserve",
+                "location": 6,
                 "id": 406
             },
             {
                 "type": "locate",
                 "target": "Western Barracks arsenal 1",
                 "number": 1,
-                "location": "Reserve",
+                "location": 6,
                 "id": 407
             },
             {
                 "type": "locate",
                 "target": "Western Barracks arsenal 2",
                 "number": 1,
-                "location": "Reserve",
+                "location": 6,
                 "id": 408
             },
             {
                 "type": "locate",
                 "target": "Western Barracks duty room",
                 "number": 1,
-                "location": "Reserve",
+                "location": 6,
                 "id": 409
             },
             {
                 "type": "locate",
                 "target": "Northern Barracks arsenal 1",
                 "number": 1,
-                "location": "Reserve",
+                "location": 6,
                 "id": 410
             },
             {
                 "type": "locate",
                 "target": "Northern Barracks arsenal 1",
                 "number": 1,
-                "location": "Reserve",
+                "location": 6,
                 "id": 411
             }
         ],
@@ -9443,7 +9443,7 @@
                 "type": "kill",
                 "target": "Raiders",
                 "number": 5,
-                "location": "Reserve",
+                "location": 6,
                 "id": 412
             }
         ],
@@ -9478,21 +9478,21 @@
                 "type": "pickup",
                 "target": "Military documents No.1",
                 "number": 1,
-                "location": "Reserve",
+                "location": 6,
                 "id": 413
             },
             {
                 "type": "pickup",
                 "target": "Military documents No.2",
                 "number": 1,
-                "location": "Reserve",
+                "location": 6,
                 "id": 414
             },
             {
                 "type": "pickup",
                 "target": "Military documents No.3",
                 "number": 1,
-                "location": "Reserve",
+                "location": 6,
                 "id": 415
             }
         ],
@@ -9527,7 +9527,7 @@
                 "type": "kill",
                 "target": "Scavs",
                 "number": 10,
-                "location": "Reserve",
+                "location": 6,
                 "with": [
                     "in underground warehouse"
                 ],
@@ -9565,14 +9565,14 @@
                 "type": "kill",
                 "target": "Tagilla",
                 "number": 1,
-                "location": "Factory",
+                "location": 0,
                 "id": 417
             },
             {
                 "type": "find",
                 "target": "60a7acf20c5cb24b01346648",
                 "number": 1,
-                "location": "Factory",
+                "location": 0,
                 "id": 418
             }
         ],
@@ -9607,7 +9607,7 @@
                 "type": "kill",
                 "target": "Scavs",
                 "number": 10,
-                "location": "Reserve",
+                "location": 6,
                 "with": [
                     "in barracks area"
                 ],
