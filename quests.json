@@ -499,7 +499,8 @@
         "wiki": "https://escapefromtarkov.gamepedia.com/Grenadier",
         "exp": 21300,
         "unlocks": [
-            "5c1260dc86f7746b106e8748"
+            "5c1260dc86f7746b106e8748",
+            "5cadf6eeae921500134b2799"
         ],
         "reputation": [],
         "objectives": [
@@ -2148,7 +2149,9 @@
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Lend_lease_-_Part_1",
         "exp": 20000,
-        "unlocks": [],
+        "unlocks": [
+            "5df24cf80dee1b22f862e9bc"
+        ],
         "reputation": [
             {
                 "trader": "Skier",
@@ -5166,7 +5169,9 @@
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Sales_Night",
         "exp": 19800,
-        "unlocks": [],
+        "unlocks": [
+            "5b40e2bc5acfc40016388216"
+        ],
         "reputation": [
             {
                 "trader": "Ragman",
@@ -5238,7 +5243,9 @@
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Hot_delivery",
         "exp": 25000,
-        "unlocks": [],
+        "unlocks": [
+            "5b44cd8b86f774503d30cba2"
+        ],
         "reputation": [
             {
                 "trader": "Ragman",
@@ -5693,7 +5700,9 @@
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/The_Blood_of_War_-_Part_3",
         "exp": 21000,
-        "unlocks": [],
+        "unlocks": [
+            "60a283193cb70855c43a381d"
+        ],
         "reputation": [
             {
                 "trader": "Ragman",
@@ -7412,7 +7421,9 @@
         "wiki": "https://escapefromtarkov.gamepedia.com/Regulated_materials",
         "exp": 0,
         "nokappa": true,
-        "unlocks": [],
+        "unlocks": [
+            "5cadfbf7ae92152ac412eeef"
+        ],
         "reputation": [
             {
                 "trader": "Prapor",
@@ -8127,7 +8138,10 @@
         "wiki": "https://escapefromtarkov.gamepedia.com/Samples",
         "exp": 13200,
         "nokappa": true,
-        "unlocks": [],
+        "unlocks": [
+            "5e00c1ad86f774747333222c",
+            "5a16b7e1fcdbcb00165aa6c9"
+        ],
         "reputation": [
             {
                 "trader": "Peacekeeper",
