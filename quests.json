@@ -697,7 +697,9 @@
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/The_Punisher_-_Part_3",
         "exp": 11700,
-        "unlocks": [],
+        "unlocks": [
+            "5e023d34e8a400319a28ed44"
+        ],
         "reputation": [
             {
                 "trader": "Prapor",
