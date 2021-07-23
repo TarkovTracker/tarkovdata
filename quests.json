@@ -19,7 +19,7 @@
         ],
         "reputation": [
             {
-                "trader": "Prapor",
+                "trader": 0,
                 "rep": 0.02
             }
         ],
@@ -61,7 +61,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Prapor",
+                "trader": 0,
                 "rep": 0.03
             }
         ],
@@ -103,7 +103,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Prapor",
+                "trader": 0,
                 "rep": 0.03
             }
         ],
@@ -140,7 +140,7 @@
         ],
         "reputation": [
             {
-                "trader": "Prapor",
+                "trader": 0,
                 "rep": 0.03
             }
         ],
@@ -189,11 +189,11 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Prapor",
+                "trader": 0,
                 "rep": 0.03
             },
             {
-                "trader": "Jaeger",
+                "trader": 6,
                 "rep": -0.01
             }
         ],
@@ -259,7 +259,7 @@
         ],
         "reputation": [
             {
-                "trader": "Prapor",
+                "trader": 0,
                 "rep": 0.03
             }
         ],
@@ -303,7 +303,7 @@
         ],
         "reputation": [
             {
-                "trader": "Prapor",
+                "trader": 0,
                 "rep": 0.02
             }
         ],
@@ -341,7 +341,7 @@
         ],
         "reputation": [
             {
-                "trader": "Prapor",
+                "trader": 0,
                 "rep": 0.02
             }
         ],
@@ -385,11 +385,11 @@
         ],
         "reputation": [
             {
-                "trader": "Prapor",
+                "trader": 0,
                 "rep": 0.02
             },
             {
-                "trader": "Jaeger",
+                "trader": 6,
                 "rep": -0.01
             }
         ],
@@ -431,7 +431,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Prapor",
+                "trader": 0,
                 "rep": 0.02
             }
         ],
@@ -537,7 +537,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Prapor",
+                "trader": 0,
                 "rep": 0.02
             }
         ],
@@ -575,7 +575,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Prapor",
+                "trader": 0,
                 "rep": 0.02
             }
         ],
@@ -617,7 +617,7 @@
         ],
         "reputation": [
             {
-                "trader": "Prapor",
+                "trader": 0,
                 "rep": 0.02
             }
         ],
@@ -655,7 +655,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Prapor",
+                "trader": 0,
                 "rep": 0.03
             }
         ],
@@ -702,11 +702,11 @@
         ],
         "reputation": [
             {
-                "trader": "Prapor",
+                "trader": 0,
                 "rep": 0.04
             },
             {
-                "trader": "Skier",
+                "trader": 2,
                 "rep": 0.02
             }
         ],
@@ -746,11 +746,11 @@
         ],
         "reputation": [
             {
-                "trader": "Prapor",
+                "trader": 0,
                 "rep": 0.03
             },
             {
-                "trader": "Jaeger",
+                "trader": 6,
                 "rep": -0.01
             }
         ],
@@ -808,7 +808,7 @@
         ],
         "reputation": [
             {
-                "trader": "Prapor",
+                "trader": 0,
                 "rep": 0.03
             }
         ],
@@ -868,15 +868,15 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Prapor",
+                "trader": 0,
                 "rep": 0.04
             },
             {
-                "trader": "Skier",
+                "trader": 2,
                 "rep": 0.01
             },
             {
-                "trader": "Therapist",
+                "trader": 1,
                 "rep": 0.05
             }
         ],
@@ -926,7 +926,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Therapist",
+                "trader": 1,
                 "rep": 0.03
             }
         ],
@@ -963,7 +963,7 @@
         ],
         "reputation": [
             {
-                "trader": "Therapist",
+                "trader": 1,
                 "rep": 0.03
             }
         ],
@@ -998,7 +998,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Therapist",
+                "trader": 1,
                 "rep": 0.03
             }
         ],
@@ -1033,7 +1033,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Therapist",
+                "trader": 1,
                 "rep": 0.03
             }
         ],
@@ -1071,7 +1071,7 @@
         ],
         "reputation": [
             {
-                "trader": "Therapist",
+                "trader": 1,
                 "rep": 0.04
             }
         ],
@@ -1113,7 +1113,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Therapist",
+                "trader": 1,
                 "rep": 0.04
             }
         ],
@@ -1157,7 +1157,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Skier",
+                "trader": 2,
                 "rep": 0.04
             }
         ],
@@ -1201,7 +1201,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Therapist",
+                "trader": 1,
                 "rep": 0.03
             }
         ],
@@ -1236,7 +1236,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Therapist",
+                "trader": 1,
                 "rep": 0.04
             }
         ],
@@ -1282,7 +1282,7 @@
         ],
         "reputation": [
             {
-                "trader": "Therapist",
+                "trader": 1,
                 "rep": 0.03
             }
         ],
@@ -1337,7 +1337,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Therapist",
+                "trader": 1,
                 "rep": 0.04
             }
         ],
@@ -1381,7 +1381,7 @@
         ],
         "reputation": [
             {
-                "trader": "Therapist",
+                "trader": 1,
                 "rep": 0.04
             }
         ],
@@ -1416,7 +1416,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Therapist",
+                "trader": 1,
                 "rep": 0.09
             }
         ],
@@ -1451,7 +1451,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Therapist",
+                "trader": 1,
                 "rep": 0.04
             }
         ],
@@ -1487,7 +1487,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Therapist",
+                "trader": 1,
                 "rep": 0.05
             }
         ],
@@ -1526,7 +1526,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Therapist",
+                "trader": 1,
                 "rep": 0.05
             }
         ],
@@ -1570,7 +1570,7 @@
         ],
         "reputation": [
             {
-                "trader": "Therapist",
+                "trader": 1,
                 "rep": 0.04
             }
         ],
@@ -1605,7 +1605,7 @@
         ],
         "reputation": [
             {
-                "trader": "Skier",
+                "trader": 2,
                 "rep": 0.05
             }
         ],
@@ -1647,7 +1647,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Skier",
+                "trader": 2,
                 "rep": 0.04
             }
         ],
@@ -1689,11 +1689,11 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Skier",
+                "trader": 2,
                 "rep": 0.04
             },
             {
-                "trader": "Jaeger",
+                "trader": 6,
                 "rep": -0.01
             }
         ],
@@ -1730,7 +1730,7 @@
         ],
         "reputation": [
             {
-                "trader": "Skier",
+                "trader": 2,
                 "rep": 0.04
             }
         ],
@@ -1786,7 +1786,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Skier",
+                "trader": 2,
                 "rep": 0.04
             }
         ],
@@ -1830,7 +1830,7 @@
         ],
         "reputation": [
             {
-                "trader": "Skier",
+                "trader": 2,
                 "rep": 0.04
             }
         ],
@@ -1879,11 +1879,11 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Skier",
+                "trader": 2,
                 "rep": 0.04
             },
             {
-                "trader": "Jaeger",
+                "trader": 6,
                 "rep": -0.01
             }
         ],
@@ -1920,11 +1920,11 @@
         ],
         "reputation": [
             {
-                "trader": "Skier",
+                "trader": 2,
                 "rep": 0.04
             },
             {
-                "trader": "Jaeger",
+                "trader": 6,
                 "rep": -0.01
             }
         ],
@@ -1970,11 +1970,11 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Skier",
+                "trader": 2,
                 "rep": 0.05
             },
             {
-                "trader": "Jaeger",
+                "trader": 6,
                 "rep": -0.01
             }
         ],
@@ -2041,7 +2041,7 @@
         ],
         "reputation": [
             {
-                "trader": "Skier",
+                "trader": 2,
                 "rep": 0.05
             }
         ],
@@ -2083,7 +2083,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Skier",
+                "trader": 2,
                 "rep": 0.06
             }
         ],
@@ -2128,7 +2128,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Skier",
+                "trader": 2,
                 "rep": 0.12
             }
         ],
@@ -2165,7 +2165,7 @@
         ],
         "reputation": [
             {
-                "trader": "Skier",
+                "trader": 2,
                 "rep": 0.05
             }
         ],
@@ -2250,7 +2250,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Peacekeeper",
+                "trader": 3,
                 "rep": 0.04
             }
         ],
@@ -2295,7 +2295,7 @@
         ],
         "reputation": [
             {
-                "trader": "Peacekeeper",
+                "trader": 3,
                 "rep": 0.04
             }
         ],
@@ -2373,7 +2373,7 @@
         ],
         "reputation": [
             {
-                "trader": "Skier",
+                "trader": 2,
                 "rep": 0.05
             }
         ],
@@ -2425,7 +2425,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Skier",
+                "trader": 2,
                 "rep": 0.05
             }
         ],
@@ -2484,7 +2484,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Skier",
+                "trader": 2,
                 "rep": 0.05
             }
         ],
@@ -2534,7 +2534,7 @@
         ],
         "reputation": [
             {
-                "trader": "Skier",
+                "trader": 2,
                 "rep": 0.05
             }
         ],
@@ -2571,7 +2571,7 @@
         ],
         "reputation": [
             {
-                "trader": "Skier",
+                "trader": 2,
                 "rep": 0.07
             }
         ],
@@ -2636,7 +2636,7 @@
         ],
         "reputation": [
             {
-                "trader": "Skier",
+                "trader": 2,
                 "rep": 0.05
             }
         ],
@@ -2678,7 +2678,7 @@
         ],
         "reputation": [
             {
-                "trader": "Peacekeeper",
+                "trader": 3,
                 "rep": 0.02
             }
         ],
@@ -2720,11 +2720,11 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Peacekeeper",
+                "trader": 3,
                 "rep": 0.03
             },
             {
-                "trader": "Jaeger",
+                "trader": 6,
                 "rep": -0.01
             }
         ],
@@ -2781,11 +2781,11 @@
         ],
         "reputation": [
             {
-                "trader": "Peacekeeper",
+                "trader": 3,
                 "rep": 0.03
             },
             {
-                "trader": "Jaeger",
+                "trader": 6,
                 "rep": -0.01
             }
         ],
@@ -2840,7 +2840,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Peacekeeper",
+                "trader": 3,
                 "rep": 0.03
             }
         ],
@@ -2886,7 +2886,7 @@
         ],
         "reputation": [
             {
-                "trader": "Peacekeeper",
+                "trader": 3,
                 "rep": 0.03
             }
         ],
@@ -2950,7 +2950,7 @@
         ],
         "reputation": [
             {
-                "trader": "Peacekeeper",
+                "trader": 3,
                 "rep": 0.02
             }
         ],
@@ -2985,7 +2985,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Peacekeeper",
+                "trader": 3,
                 "rep": 0.03
             }
         ],
@@ -3054,7 +3054,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Peacekeeper",
+                "trader": 3,
                 "rep": 0.03
             }
         ],
@@ -3094,7 +3094,7 @@
         ],
         "reputation": [
             {
-                "trader": "Peacekeeper",
+                "trader": 3,
                 "rep": 0.02
             }
         ],
@@ -3138,7 +3138,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Peacekeeper",
+                "trader": 3,
                 "rep": 0.03
             }
         ],
@@ -3194,7 +3194,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Peacekeeper",
+                "trader": 3,
                 "rep": 0.03
             }
         ],
@@ -3246,7 +3246,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Peacekeeper",
+                "trader": 3,
                 "rep": 0.02
             }
         ],
@@ -3283,7 +3283,7 @@
         ],
         "reputation": [
             {
-                "trader": "Peacekeeper",
+                "trader": 3,
                 "rep": 0.04
             }
         ],
@@ -3318,11 +3318,11 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Peacekeeper",
+                "trader": 3,
                 "rep": 0.04
             },
             {
-                "trader": "Jaeger",
+                "trader": 6,
                 "rep": -0.01
             }
         ],
@@ -3378,7 +3378,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Peacekeeper",
+                "trader": 3,
                 "rep": 0.03
             }
         ],
@@ -3425,7 +3425,7 @@
         ],
         "reputation": [
             {
-                "trader": "Peacekeeper",
+                "trader": 3,
                 "rep": 0.03
             }
         ],
@@ -3461,7 +3461,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Peacekeeper",
+                "trader": 3,
                 "rep": 0.03
             }
         ],
@@ -3496,11 +3496,11 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Peacekeeper",
+                "trader": 3,
                 "rep": 0.04
             },
             {
-                "trader": "Jaeger",
+                "trader": 6,
                 "rep": -0.01
             }
         ],
@@ -3540,7 +3540,7 @@
         ],
         "reputation": [
             {
-                "trader": "Peacekeeper",
+                "trader": 3,
                 "rep": 0.03
             }
         ],
@@ -3576,7 +3576,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Peacekeeper",
+                "trader": 3,
                 "rep": 0.03
             }
         ],
@@ -3611,7 +3611,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Peacekeeper",
+                "trader": 3,
                 "rep": 0.03
             }
         ],
@@ -3648,7 +3648,7 @@
         ],
         "reputation": [
             {
-                "trader": "Peacekeeper",
+                "trader": 3,
                 "rep": 0.03
             }
         ],
@@ -3695,11 +3695,11 @@
         ],
         "reputation": [
             {
-                "trader": "Peacekeeper",
+                "trader": 3,
                 "rep": 0.06
             },
             {
-                "trader": "Jaeger",
+                "trader": 6,
                 "rep": -0.01
             }
         ],
@@ -3768,7 +3768,7 @@
         ],
         "reputation": [
             {
-                "trader": "Peacekeeper",
+                "trader": 3,
                 "rep": 0.12
             }
         ],
@@ -3793,7 +3793,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Mechanic",
+                "trader": 4,
                 "rep": 0.02
             }
         ],
@@ -3820,7 +3820,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Mechanic",
+                "trader": 4,
                 "rep": 0.02
             }
         ],
@@ -3847,7 +3847,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Mechanic",
+                "trader": 4,
                 "rep": 0.03
             }
         ],
@@ -3874,7 +3874,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Mechanic",
+                "trader": 4,
                 "rep": 0.03
             }
         ],
@@ -3901,7 +3901,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Mechanic",
+                "trader": 4,
                 "rep": 0.03
             }
         ],
@@ -3928,7 +3928,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Mechanic",
+                "trader": 4,
                 "rep": 0.03
             }
         ],
@@ -3955,7 +3955,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Mechanic",
+                "trader": 4,
                 "rep": 0.03
             }
         ],
@@ -3982,7 +3982,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Mechanic",
+                "trader": 4,
                 "rep": 0.03
             }
         ],
@@ -4009,7 +4009,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Mechanic",
+                "trader": 4,
                 "rep": 0.03
             }
         ],
@@ -4038,7 +4038,7 @@
         ],
         "reputation": [
             {
-                "trader": "Mechanic",
+                "trader": 4,
                 "rep": 0.03
             }
         ],
@@ -4065,7 +4065,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Mechanic",
+                "trader": 4,
                 "rep": 0.03
             }
         ],
@@ -4095,7 +4095,7 @@
         ],
         "reputation": [
             {
-                "trader": "Mechanic",
+                "trader": 4,
                 "rep": 0.02
             }
         ],
@@ -4124,7 +4124,7 @@
         ],
         "reputation": [
             {
-                "trader": "Mechanic",
+                "trader": 4,
                 "rep": 0.03
             }
         ],
@@ -4153,7 +4153,7 @@
         ],
         "reputation": [
             {
-                "trader": "Mechanic",
+                "trader": 4,
                 "rep": 0.03
             }
         ],
@@ -4180,7 +4180,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Mechanic",
+                "trader": 4,
                 "rep": 0.03
             }
         ],
@@ -4207,7 +4207,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Mechanic",
+                "trader": 4,
                 "rep": 0.04
             }
         ],
@@ -4234,7 +4234,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Mechanic",
+                "trader": 4,
                 "rep": 0.02
             }
         ],
@@ -4276,7 +4276,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Mechanic",
+                "trader": 4,
                 "rep": 0.02
             }
         ],
@@ -4334,7 +4334,7 @@
         ],
         "reputation": [
             {
-                "trader": "Mechanic",
+                "trader": 4,
                 "rep": 0.02
             }
         ],
@@ -4389,7 +4389,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Mechanic",
+                "trader": 4,
                 "rep": 0.02
             }
         ],
@@ -4424,7 +4424,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Mechanic",
+                "trader": 4,
                 "rep": 0.02
             }
         ],
@@ -4477,7 +4477,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Mechanic",
+                "trader": 4,
                 "rep": 0.04
             }
         ],
@@ -4512,7 +4512,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Mechanic",
+                "trader": 4,
                 "rep": 0.02
             }
         ],
@@ -4556,7 +4556,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Mechanic",
+                "trader": 4,
                 "rep": 0.03
             }
         ],
@@ -4605,7 +4605,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Mechanic",
+                "trader": 4,
                 "rep": 0.02
             }
         ],
@@ -4647,7 +4647,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Mechanic",
+                "trader": 4,
                 "rep": 0.02
             }
         ],
@@ -4690,11 +4690,11 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Mechanic",
+                "trader": 4,
                 "rep": 0.03
             },
             {
-                "trader": "Jaeger",
+                "trader": 6,
                 "rep": -0.01
             }
         ],
@@ -4736,7 +4736,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Mechanic",
+                "trader": 4,
                 "rep": 0.02
             }
         ],
@@ -4780,7 +4780,7 @@
         ],
         "reputation": [
             {
-                "trader": "Mechanic",
+                "trader": 4,
                 "rep": 0.03
             }
         ],
@@ -4846,7 +4846,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Ragman",
+                "trader": 5,
                 "rep": 0.02
             }
         ],
@@ -4881,7 +4881,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Ragman",
+                "trader": 5,
                 "rep": 0.03
             }
         ],
@@ -4944,7 +4944,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Ragman",
+                "trader": 5,
                 "rep": 0.02
             }
         ],
@@ -4999,7 +4999,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Ragman",
+                "trader": 5,
                 "rep": 0.03
             }
         ],
@@ -5041,7 +5041,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Ragman",
+                "trader": 5,
                 "rep": 0.03
             }
         ],
@@ -5090,7 +5090,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Ragman",
+                "trader": 5,
                 "rep": 0.03
             }
         ],
@@ -5132,7 +5132,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Ragman",
+                "trader": 5,
                 "rep": 0.03
             }
         ],
@@ -5190,7 +5190,7 @@
         ],
         "reputation": [
             {
-                "trader": "Ragman",
+                "trader": 5,
                 "rep": 0.03
             }
         ],
@@ -5227,7 +5227,7 @@
         ],
         "reputation": [
             {
-                "trader": "Ragman",
+                "trader": 5,
                 "rep": 0.09
             }
         ],
@@ -5264,7 +5264,7 @@
         ],
         "reputation": [
             {
-                "trader": "Ragman",
+                "trader": 5,
                 "rep": 0.04
             }
         ],
@@ -5318,7 +5318,7 @@
         ],
         "reputation": [
             {
-                "trader": "Ragman",
+                "trader": 5,
                 "rep": 0.03
             }
         ],
@@ -5353,7 +5353,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Ragman",
+                "trader": 5,
                 "rep": 0.02
             }
         ],
@@ -5388,7 +5388,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Ragman",
+                "trader": 5,
                 "rep": 0.03
             }
         ],
@@ -5443,7 +5443,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Ragman",
+                "trader": 5,
                 "rep": 0.02
             }
         ],
@@ -5485,7 +5485,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Ragman",
+                "trader": 5,
                 "rep": 0.03
             }
         ],
@@ -5529,7 +5529,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Ragman",
+                "trader": 5,
                 "rep": 0.03
             }
         ],
@@ -5573,7 +5573,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Ragman",
+                "trader": 5,
                 "rep": 0.03
             }
         ],
@@ -5616,7 +5616,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Ragman",
+                "trader": 5,
                 "rep": 0.03
             }
         ],
@@ -5653,7 +5653,7 @@
         ],
         "reputation": [
             {
-                "trader": "Ragman",
+                "trader": 5,
                 "rep": 0.03
             }
         ],
@@ -5688,7 +5688,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Ragman",
+                "trader": 5,
                 "rep": 0.03
             }
         ],
@@ -5725,7 +5725,7 @@
         ],
         "reputation": [
             {
-                "trader": "Ragman",
+                "trader": 5,
                 "rep": 0.04
             }
         ],
@@ -5781,7 +5781,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Ragman",
+                "trader": 5,
                 "rep": 0.03
             }
         ],
@@ -5839,7 +5839,7 @@
         ],
         "reputation": [
             {
-                "trader": "Ragman",
+                "trader": 5,
                 "rep": 0.05
             }
         ],
@@ -5879,7 +5879,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Mechanic",
+                "trader": 4,
                 "rep": 0.03
             }
         ],
@@ -5914,7 +5914,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Jaeger",
+                "trader": 6,
                 "rep": 0.01
             }
         ],
@@ -5963,7 +5963,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Jaeger",
+                "trader": 6,
                 "rep": 0.02
             }
         ],
@@ -6001,7 +6001,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Jaeger",
+                "trader": 6,
                 "rep": 0.02
             }
         ],
@@ -6061,7 +6061,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Jaeger",
+                "trader": 6,
                 "rep": 0.02
             }
         ],
@@ -6096,7 +6096,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Jaeger",
+                "trader": 6,
                 "rep": 0.02
             }
         ],
@@ -6134,7 +6134,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Jaeger",
+                "trader": 6,
                 "rep": 0.02
             }
         ],
@@ -6173,7 +6173,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Jaeger",
+                "trader": 6,
                 "rep": 0.03
             }
         ],
@@ -6222,7 +6222,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Jaeger",
+                "trader": 6,
                 "rep": 0.02
             }
         ],
@@ -6257,7 +6257,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Jaeger",
+                "trader": 6,
                 "rep": 0.02
             }
         ],
@@ -6298,7 +6298,7 @@
         ],
         "reputation": [
             {
-                "trader": "Jaeger",
+                "trader": 6,
                 "rep": 0.02
             }
         ],
@@ -6353,7 +6353,7 @@
         ],
         "reputation": [
             {
-                "trader": "Jaeger",
+                "trader": 6,
                 "rep": 0.02
             }
         ],
@@ -6395,7 +6395,7 @@
         ],
         "reputation": [
             {
-                "trader": "Jaeger",
+                "trader": 6,
                 "rep": 0.02
             }
         ],
@@ -6432,7 +6432,7 @@
         ],
         "reputation": [
             {
-                "trader": "Jaeger",
+                "trader": 6,
                 "rep": 0.04
             }
         ],
@@ -6473,7 +6473,7 @@
         ],
         "reputation": [
             {
-                "trader": "Jaeger",
+                "trader": 6,
                 "rep": 0.02
             }
         ],
@@ -6514,7 +6514,7 @@
         ],
         "reputation": [
             {
-                "trader": "Jaeger",
+                "trader": 6,
                 "rep": 0.04
             }
         ],
@@ -6556,7 +6556,7 @@
         ],
         "reputation": [
             {
-                "trader": "Jaeger",
+                "trader": 6,
                 "rep": 0.06
             }
         ],
@@ -6595,7 +6595,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Jaeger",
+                "trader": 6,
                 "rep": 0.02
             }
         ],
@@ -6635,7 +6635,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Therapist",
+                "trader": 1,
                 "rep": 0.04
             }
         ],
@@ -6687,11 +6687,11 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Therapist",
+                "trader": 1,
                 "rep": 0.04
             },
             {
-                "trader": "Jaeger",
+                "trader": 6,
                 "rep": -0.04
             }
         ],
@@ -6757,7 +6757,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Jaeger",
+                "trader": 6,
                 "rep": 0.02
             }
         ],
@@ -6794,7 +6794,7 @@
         ],
         "reputation": [
             {
-                "trader": "Jaeger",
+                "trader": 6,
                 "rep": 0.02
             }
         ],
@@ -6836,7 +6836,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Jaeger",
+                "trader": 6,
                 "rep": 0.02
             }
         ],
@@ -6874,7 +6874,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Jaeger",
+                "trader": 6,
                 "rep": 0.02
             }
         ],
@@ -6909,7 +6909,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Jaeger",
+                "trader": 6,
                 "rep": 0.02
             }
         ],
@@ -6945,7 +6945,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Jaeger",
+                "trader": 6,
                 "rep": 0.02
             }
         ],
@@ -6984,7 +6984,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Jaeger",
+                "trader": 6,
                 "rep": 0.02
             }
         ],
@@ -7022,7 +7022,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Jaeger",
+                "trader": 6,
                 "rep": 0.02
             }
         ],
@@ -7057,7 +7057,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Jaeger",
+                "trader": 6,
                 "rep": 0.04
             }
         ],
@@ -7100,7 +7100,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Jaeger",
+                "trader": 6,
                 "rep": 0.02
             }
         ],
@@ -7138,7 +7138,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Jaeger",
+                "trader": 6,
                 "rep": 0.04
             }
         ],
@@ -7180,7 +7180,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Jaeger",
+                "trader": 6,
                 "rep": 0.02
             }
         ],
@@ -7222,7 +7222,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Jaeger",
+                "trader": 6,
                 "rep": 0.02
             }
         ],
@@ -7257,7 +7257,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Jaeger",
+                "trader": 6,
                 "rep": 0.04
             }
         ],
@@ -7298,7 +7298,7 @@
         ],
         "reputation": [
             {
-                "trader": "Jaeger",
+                "trader": 6,
                 "rep": 0.02
             }
         ],
@@ -7337,11 +7337,11 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Therapist",
+                "trader": 1,
                 "rep": 0.03
             },
             {
-                "trader": "Skier",
+                "trader": 2,
                 "rep": -0.02
             }
         ],
@@ -7385,11 +7385,11 @@
         ],
         "reputation": [
             {
-                "trader": "Therapist",
+                "trader": 1,
                 "rep": 0.03
             },
             {
-                "trader": "Skier",
+                "trader": 2,
                 "rep": -0.02
             }
         ],
@@ -7424,7 +7424,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Prapor",
+                "trader": 0,
                 "rep": 0.02
             }
         ],
@@ -7462,7 +7462,7 @@
         ],
         "reputation": [
             {
-                "trader": "Prapor",
+                "trader": 0,
                 "rep": 0.02
             }
         ],
@@ -7506,15 +7506,15 @@
         ],
         "reputation": [
             {
-                "trader": "Skier",
+                "trader": 2,
                 "rep": 0.05
             },
             {
-                "trader": "Prapor",
+                "trader": 0,
                 "rep": -0.05
             },
             {
-                "trader": "Therapist",
+                "trader": 1,
                 "rep": -0.02
             }
         ],
@@ -7583,7 +7583,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Mechanic",
+                "trader": 4,
                 "rep": 0.02
             }
         ],
@@ -7634,7 +7634,7 @@
         ],
         "reputation": [
             {
-                "trader": "Ragman",
+                "trader": 5,
                 "rep": 0.03
             }
         ],
@@ -7678,7 +7678,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Jaeger",
+                "trader": 6,
                 "rep": 0.02
             }
         ],
@@ -7713,7 +7713,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Therapist",
+                "trader": 1,
                 "rep": 0.02
             }
         ],
@@ -7748,7 +7748,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Therapist",
+                "trader": 1,
                 "rep": 0.04
             }
         ],
@@ -7794,11 +7794,11 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Prapor",
+                "trader": 0,
                 "rep": 0.03
             },
             {
-                "trader": "Jaeger",
+                "trader": 6,
                 "rep": -0.01
             }
         ],
@@ -7843,7 +7843,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Jaeger",
+                "trader": 6,
                 "rep": 0.02
             }
         ],
@@ -7972,7 +7972,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Prapor",
+                "trader": 0,
                 "rep": 0.04
             }
         ],
@@ -8028,7 +8028,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Therapist",
+                "trader": 1,
                 "rep": 0.04
             }
         ],
@@ -8078,7 +8078,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Skier",
+                "trader": 2,
                 "rep": 0.05
             }
         ],
@@ -8132,7 +8132,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Mechanic",
+                "trader": 4,
                 "rep": 0.05
             }
         ],
@@ -8178,7 +8178,7 @@
         ],
         "reputation": [
             {
-                "trader": "Peacekeeper",
+                "trader": 3,
                 "rep": 0.04
             }
         ],
@@ -8257,7 +8257,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Peacekeeper",
+                "trader": 3,
                 "rep": 0.04
             }
         ],
@@ -8309,11 +8309,11 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Jaeger",
+                "trader": 6,
                 "rep": 0.04
             },
             {
-                "trader": "Therapist",
+                "trader": 1,
                 "rep": -0.02
             }
         ],
@@ -8352,7 +8352,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Prapor",
+                "trader": 0,
                 "rep": 0.03
             }
         ],
@@ -8395,7 +8395,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Prapor",
+                "trader": 0,
                 "rep": 0.03
             }
         ],
@@ -8458,7 +8458,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Prapor",
+                "trader": 0,
                 "rep": 0.02
             }
         ],
@@ -8530,7 +8530,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Jaeger",
+                "trader": 6,
                 "rep": 0.02
             }
         ],
@@ -8879,7 +8879,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Prapor",
+                "trader": 0,
                 "rep": 0.25
             }
         ],
@@ -8918,7 +8918,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Therapist",
+                "trader": 1,
                 "rep": 0.25
             }
         ],
@@ -8978,7 +8978,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Skier",
+                "trader": 2,
                 "rep": 0.25
             }
         ],
@@ -9015,7 +9015,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Therapist",
+                "trader": 1,
                 "rep": 0.2
             }
         ],
@@ -9058,7 +9058,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Therapist",
+                "trader": 1,
                 "rep": 0.03
             }
         ],
@@ -9116,7 +9116,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Ragman",
+                "trader": 5,
                 "rep": 0.03
             }
         ],
@@ -9161,7 +9161,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Mechanic",
+                "trader": 4,
                 "rep": 0.02
             }
         ],
@@ -9204,7 +9204,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Mechanic",
+                "trader": 4,
                 "rep": 0.02
             }
         ],
@@ -9240,7 +9240,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Peacekeeper",
+                "trader": 3,
                 "rep": 0.03
             }
         ],
@@ -9329,7 +9329,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Peacekeeper",
+                "trader": 3,
                 "rep": 0.02
             }
         ],
@@ -9364,7 +9364,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Ragman",
+                "trader": 5,
                 "rep": 0.03
             }
         ],
@@ -9448,7 +9448,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Prapor",
+                "trader": 0,
                 "rep": 0.03
             }
         ],
@@ -9483,7 +9483,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Prapor",
+                "trader": 0,
                 "rep": 0.04
             }
         ],
@@ -9532,7 +9532,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Skier",
+                "trader": 2,
                 "rep": 0.04
             }
         ],
@@ -9570,7 +9570,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Jaeger",
+                "trader": 6,
                 "rep": 0.04
             }
         ],
@@ -9612,7 +9612,7 @@
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Jaeger",
+                "trader": 6,
                 "rep": 0.02
             }
         ],
