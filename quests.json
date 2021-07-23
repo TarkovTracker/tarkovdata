@@ -10,17 +10,18 @@
         "title": "Debut",
         "locales": {
             "en": "Debut",
-            "ru": "Проба пера"
+            "ru": "Проба пера",
+            "cs": "Debut"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Debut",
-        "exp": 1700,
+        "exp": 600,
         "unlocks": [
             "57dc2fa62459775949412633"
         ],
         "reputation": [
             {
                 "trader": "Prapor",
-                "rep": 0.02
+                "rep": 0.08
             }
         ],
         "objectives": [
@@ -54,15 +55,16 @@
         "title": "Checking",
         "locales": {
             "en": "Checking",
-            "ru": "Проверка на вшивость"
+            "ru": "Проверка на вшивость",
+            "cs": "Kontrola"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Checking",
-        "exp": 1800,
+        "exp": 800,
         "unlocks": [],
         "reputation": [
             {
                 "trader": "Prapor",
-                "rep": 0.03
+                "rep": 0.05
             }
         ],
         "objectives": [
@@ -96,7 +98,8 @@
         "title": "Shootout picnic",
         "locales": {
             "en": "Shootout picnic",
-            "ru": "Пикник со стрельбой"
+            "ru": "Пикник со стрельбой",
+            "cs": "Piknik na střelnici"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Shootout_picnic",
         "exp": 2000,
@@ -104,7 +107,7 @@
         "reputation": [
             {
                 "trader": "Prapor",
-                "rep": 0.03
+                "rep": 0.1
             }
         ],
         "objectives": [
@@ -131,17 +134,18 @@
         "title": "Delivery from the past",
         "locales": {
             "en": "Delivery from the past",
-            "ru": "Посылка из прошлого"
+            "ru": "Посылка из прошлого",
+            "cs": "Zásilka z minulosti"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Delivery_from_the_past",
-        "exp": 4000,
+        "exp": 4100,
         "unlocks": [
             "56dff3afd2720bba668b4567"
         ],
         "reputation": [
             {
                 "trader": "Prapor",
-                "rep": 0.03
+                "rep": 0.11
             }
         ],
         "objectives": [
@@ -182,15 +186,16 @@
         "title": "BP depot",
         "locales": {
             "en": "BP depot",
-            "ru": "Нефтянка"
+            "ru": "Нефтянка",
+            "cs": "Depo BP"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/BP_depot",
-        "exp": 2800,
+        "exp": 2900,
         "unlocks": [],
         "reputation": [
             {
                 "trader": "Prapor",
-                "rep": 0.03
+                "rep": 0.08
             },
             {
                 "trader": "Jaeger",
@@ -250,17 +255,18 @@
         "title": "Bad rep evidence",
         "locales": {
             "en": "Bad rep evidence",
-            "ru": "Компромат"
+            "ru": "Компромат",
+            "cs": "Důkaz špatné pověsti"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Bad_rep_evidence",
-        "exp": 4100,
+        "exp": 4200,
         "unlocks": [
             "576fd4ec2459777f0b518431"
         ],
         "reputation": [
             {
                 "trader": "Prapor",
-                "rep": 0.03
+                "rep": 0.1
             }
         ],
         "objectives": [
@@ -294,17 +300,18 @@
         "title": "Ice cream cones",
         "locales": {
             "en": "Ice cream cones",
-            "ru": "Рожки для мороженого"
+            "ru": "Рожки для мороженого",
+            "cs": "Zmrzlinové kornouty"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Ice_cream_cones",
-        "exp": 5200,
+        "exp": 5400,
         "unlocks": [
             "55d482194bdc2d1d4e8b456b"
         ],
         "reputation": [
             {
                 "trader": "Prapor",
-                "rep": 0.02
+                "rep": 0.08
             }
         ],
         "objectives": [
@@ -332,17 +339,18 @@
         "title": "Postman Pat",
         "locales": {
             "en": "Postman Pat",
-            "ru": "Почтальон Печкин"
+            "ru": "Почтальон Печкин",
+            "cs": "Pošťák Pat - Část 1"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Postman_Pat_-_Part_1",
-        "exp": 5900,
+        "exp": 6000,
         "unlocks": [
             "544fb45d4bdc2dee738b4568"
         ],
         "reputation": [
             {
                 "trader": "Prapor",
-                "rep": 0.02
+                "rep": 0.08
             }
         ],
         "objectives": [
@@ -375,10 +383,11 @@
         "title": "Shaking up teller",
         "locales": {
             "en": "Shaking up teller",
-            "ru": "Тряхнуть кассира"
+            "ru": "Тряхнуть кассира",
+            "cs": "Třesoucí se pokladní"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Shaking_up_teller",
-        "exp": 5900,
+        "exp": 6100,
         "unlocks": [
             "57ffb0e42459777d047111c5",
             "59c0ec5b86f77435b128bfca"
@@ -386,7 +395,7 @@
         "reputation": [
             {
                 "trader": "Prapor",
-                "rep": 0.02
+                "rep": 0.08
             },
             {
                 "trader": "Jaeger",
@@ -424,15 +433,16 @@
         "title": "Perfect mediator",
         "locales": {
             "en": "Perfect mediator",
-            "ru": "Идеальный переговорщик"
+            "ru": "Идеальный переговорщик",
+            "cs": "Perfektní prostředník"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Perfect_mediator",
-        "exp": 20900,
+        "exp": 17200,
         "unlocks": [],
         "reputation": [
             {
                 "trader": "Prapor",
-                "rep": 0.02
+                "rep": 0.09
             }
         ],
         "objectives": [
@@ -497,10 +507,9 @@
             "ru": "Гренадёр"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Grenadier",
-        "exp": 18000,
+        "exp": 21300,
         "unlocks": [
-            "5c1260dc86f7746b106e8748",
-            "5cadf6eeae921500134b2799"
+            "5c1260dc86f7746b106e8748"
         ],
         "reputation": [],
         "objectives": [
@@ -530,17 +539,13 @@
         "title": "Insomnia",
         "locales": {
             "en": "Insomnia",
-            "ru": "Бессонница"
+            "ru": "Бессонница",
+            "cs": "Insomnie"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Insomnia",
-        "exp": 18200,
+        "exp": 18500,
         "unlocks": [],
-        "reputation": [
-            {
-                "trader": "Prapor",
-                "rep": 0.02
-            }
-        ],
+        "reputation": [],
         "objectives": [
             {
                 "type": "kill",
@@ -568,15 +573,16 @@
         "title": "Test drive. Pt. 1",
         "locales": {
             "en": "Test drive. Pt. 1",
-            "ru": "Тест-драйв. Часть 1"
+            "ru": "Тест-драйв. Часть 1",
+            "cs": "Testovací jízda - Část 1"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Test_drive_-_Part_1",
-        "exp": 18200,
+        "exp": 31000,
         "unlocks": [],
         "reputation": [
             {
                 "trader": "Prapor",
-                "rep": 0.02
+                "rep": 0.12
             }
         ],
         "objectives": [
@@ -608,17 +614,18 @@
         "title": "The Punisher - Part 1",
         "locales": {
             "en": "The Punisher - Part 1",
-            "ru": "Каратель"
+            "ru": "Каратель",
+            "cs": "Mstitel - Část 1"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/The_Punisher_-_Part_1",
-        "exp": 10200,
+        "exp": 10800,
         "unlocks": [
             "55801eed4bdc2d89578b4588"
         ],
         "reputation": [
             {
                 "trader": "Prapor",
-                "rep": 0.02
+                "rep": 0.08
             }
         ],
         "objectives": [
@@ -648,15 +655,16 @@
         "title": "The Punisher - Part 2",
         "locales": {
             "en": "The Punisher - Part 2",
-            "ru": "Каратель. Часть 2"
+            "ru": "Каратель. Часть 2",
+            "cs": "Mstitel - Část 2"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/The_Punisher_-_Part_2",
-        "exp": 13100,
+        "exp": 13900,
         "unlocks": [],
         "reputation": [
             {
                 "trader": "Prapor",
-                "rep": 0.03
+                "rep": 0.1
             }
         ],
         "objectives": [
@@ -693,21 +701,20 @@
         "title": "The Punisher - Part 3",
         "locales": {
             "en": "The Punisher - Part 3",
-            "ru": "Каратель. Часть 3"
+            "ru": "Каратель. Часть 3",
+            "cs": "Mstitel - Část 3"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/The_Punisher_-_Part_3",
-        "exp": 11700,
-        "unlocks": [
-            "5e023d34e8a400319a28ed44"
-        ],
+        "exp": 12400,
+        "unlocks": [],
         "reputation": [
             {
                 "trader": "Prapor",
-                "rep": 0.04
+                "rep": 0.08
             },
             {
                 "trader": "Skier",
-                "rep": 0.02
+                "rep": 0.05
             }
         ],
         "objectives": [
@@ -737,17 +744,18 @@
         "title": "The Punisher - Part 4",
         "locales": {
             "en": "The Punisher - Part 4",
-            "ru": "Каратель. Часть 4"
+            "ru": "Каратель. Часть 4",
+            "cs": "Mstitel - Část 4"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/The_Punisher_-_Part_4",
-        "exp": 18000,
+        "exp": 19000,
         "unlocks": [
             "56dff061d2720bb5668b4567"
         ],
         "reputation": [
             {
                 "trader": "Prapor",
-                "rep": 0.03
+                "rep": 0.12
             },
             {
                 "trader": "Jaeger",
@@ -799,17 +807,18 @@
         "title": "The Punisher - Part 5",
         "locales": {
             "en": "The Punisher - Part 5",
-            "ru": "Каратель. Часть 5"
+            "ru": "Каратель. Часть 5",
+            "cs": "Mstitel - Část 5"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/The_Punisher_-_Part_5",
-        "exp": 18200,
+        "exp": 19300,
         "unlocks": [
             "59e0d99486f7744a32234762"
         ],
         "reputation": [
             {
                 "trader": "Prapor",
-                "rep": 0.03
+                "rep": 0.12
             }
         ],
         "objectives": [
@@ -861,7 +870,8 @@
         "title": "The Punisher - Part 6",
         "locales": {
             "en": "The Punisher - Part 6",
-            "ru": "Каратель. Часть 6"
+            "ru": "Каратель. Часть 6",
+            "cs": "Mstitel - Část 6"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/The_Punisher_-_Part_6",
         "exp": 20600,
@@ -869,15 +879,15 @@
         "reputation": [
             {
                 "trader": "Prapor",
-                "rep": 0.04
+                "rep": 0.12
             },
             {
                 "trader": "Skier",
-                "rep": 0.01
+                "rep": 0.06
             },
             {
                 "trader": "Therapist",
-                "rep": 0.05
+                "rep": 0.15
             }
         ],
         "objectives": [
@@ -919,15 +929,16 @@
         "title": "Shortage",
         "locales": {
             "en": "Shortage",
-            "ru": "Дефицит"
+            "ru": "Дефицит",
+            "cs": "Nedostatek"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Shortage",
-        "exp": 2000,
+        "exp": 500,
         "unlocks": [],
         "reputation": [
             {
                 "trader": "Therapist",
-                "rep": 0.03
+                "rep": 0.07
             }
         ],
         "objectives": [
@@ -954,7 +965,8 @@
         "title": "Sanitary Standards - Part 1",
         "locales": {
             "en": "Sanitary Standards - Part 1",
-            "ru": "Санэпиднадзор. Часть 1"
+            "ru": "Санэпиднадзор. Часть 1",
+            "cs": "Hygienické standardy - Část 1"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Sanitary_Standards_-_Part_1",
         "exp": 2200,
@@ -964,7 +976,7 @@
         "reputation": [
             {
                 "trader": "Therapist",
-                "rep": 0.03
+                "rep": 0.09
             }
         ],
         "objectives": [
@@ -991,7 +1003,8 @@
         "title": "Sanitary Standards - Part 2",
         "locales": {
             "en": "Sanitary Standards - Part 2",
-            "ru": "Санэпиднадзор. Часть 2"
+            "ru": "Санэпиднадзор. Часть 2",
+            "cs": "Hygienické standardy - Část 2"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Sanitary_Standards_-_Part_2",
         "exp": 4500,
@@ -999,7 +1012,7 @@
         "reputation": [
             {
                 "trader": "Therapist",
-                "rep": 0.03
+                "rep": 0.09
             }
         ],
         "objectives": [
@@ -1026,15 +1039,16 @@
         "title": "Painkiller",
         "locales": {
             "en": "Painkiller",
-            "ru": "Пейнкиллер"
+            "ru": "Пейнкиллер",
+            "cs": "Prášky proti bolesti"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Painkiller",
-        "exp": 4500,
+        "exp": 4600,
         "unlocks": [],
         "reputation": [
             {
                 "trader": "Therapist",
-                "rep": 0.03
+                "rep": 0.09
             }
         ],
         "objectives": [
@@ -1062,17 +1076,18 @@
         "title": "Pharmacist",
         "locales": {
             "en": "Pharmacist",
-            "ru": "Провизор"
+            "ru": "Провизор",
+            "cs": "Lékárník"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Pharmacist",
-        "exp": 5700,
+        "exp": 5900,
         "unlocks": [
             "5aa7cfc0e5b5b00015693143"
         ],
         "reputation": [
             {
                 "trader": "Therapist",
-                "rep": 0.04
+                "rep": 0.09
             }
         ],
         "objectives": [
@@ -1106,7 +1121,8 @@
         "title": "Supply plans",
         "locales": {
             "en": "Supply plans",
-            "ru": "Планы снабжения"
+            "ru": "Планы снабжения",
+            "cs": "Zásobovací plány"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Supply_plans",
         "exp": 7700,
@@ -1114,13 +1130,11 @@
         "reputation": [
             {
                 "trader": "Therapist",
-                "rep": 0.04
-            }
-        ],
-        "reputationFailure": [
+                "rep": 0.09
+            },
             {
-                "trader": "Therapist",
-                "rep": -0.04
+                "trader": "Skier",
+                "rep": -0.3
             }
         ],
         "objectives": [
@@ -1150,21 +1164,20 @@
         "title": "Kind of sabotage",
         "locales": {
             "en": "Kind of sabotage",
-            "ru": "Своего рода саботаж"
+            "ru": "Своего рода саботаж",
+            "cs": "Tak trochu sabotáž"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Kind_of_sabotage",
-        "exp": 4500,
+        "exp": 4600,
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Skier",
-                "rep": 0.04
-            }
-        ],
-        "reputationFailure": [
+                "trader": "Therapist",
+                "rep": -0.1
+            },
             {
                 "trader": "Skier",
-                "rep": -0.04
+                "rep": 0.3
             }
         ],
         "objectives": [
@@ -1194,15 +1207,16 @@
         "title": "General wares",
         "locales": {
             "en": "General wares",
-            "ru": "Сельпо"
+            "ru": "Сельпо",
+            "cs": "Běžné zboží"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/General_wares",
-        "exp": 4800,
+        "exp": 5000,
         "unlocks": [],
         "reputation": [
             {
                 "trader": "Therapist",
-                "rep": 0.03
+                "rep": 0.07
             }
         ],
         "objectives": [
@@ -1229,15 +1243,16 @@
         "title": "Car repair",
         "locales": {
             "en": "Car repair",
-            "ru": "Авторем"
+            "ru": "Авторем",
+            "cs": "Oprava auta"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Car_repair",
-        "exp": 6900,
+        "exp": 7600,
         "unlocks": [],
         "reputation": [
             {
                 "trader": "Therapist",
-                "rep": 0.04
+                "rep": 0.08
             }
         ],
         "objectives": [
@@ -1273,17 +1288,18 @@
         "title": "Health Care Privacy - Part 1",
         "locales": {
             "en": "Health Care Privacy - Part 1",
-            "ru": "Врачебная тайна. Часть 1"
+            "ru": "Врачебная тайна. Часть 1",
+            "cs": "Soukromá zdravotní péče - Část 1"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Health_Care_Privacy_-_Part_1",
-        "exp": 4800,
+        "exp": 6500,
         "unlocks": [
             "590c678286f77426c9660122"
         ],
         "reputation": [
             {
                 "trader": "Therapist",
-                "rep": 0.03
+                "rep": 0.07
             }
         ],
         "objectives": [
@@ -1330,15 +1346,16 @@
         "title": "Health Care Privacy - Part 2",
         "locales": {
             "en": "Health Care Privacy - Part 2",
-            "ru": "Врачебная тайна. Часть 2"
+            "ru": "Врачебная тайна. Часть 2",
+            "cs": "Soukromá zdravotní péče - Část 2"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Health_Care_Privacy_-_Part_2",
-        "exp": 5900,
+        "exp": 8600,
         "unlocks": [],
         "reputation": [
             {
                 "trader": "Therapist",
-                "rep": 0.04
+                "rep": 0.09
             }
         ],
         "objectives": [
@@ -1372,17 +1389,18 @@
         "title": "Health Care Privacy - Part 3",
         "locales": {
             "en": "Health Care Privacy - Part 3",
-            "ru": "Врачебная тайна. Часть 3"
+            "ru": "Врачебная тайна. Часть 3",
+            "cs": "Soukromá zdravotní péče - Část 3"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Health_Care_Privacy_-_Part_3",
-        "exp": 6000,
+        "exp": 9400,
         "unlocks": [
             "544fb3f34bdc2d03748b456a"
         ],
         "reputation": [
             {
                 "trader": "Therapist",
-                "rep": 0.04
+                "rep": 0.09
             }
         ],
         "objectives": [
@@ -1409,7 +1427,8 @@
         "title": "Health Care Privacy - Part 4",
         "locales": {
             "en": "Health Care Privacy - Part 4",
-            "ru": "Врачебная тайна. Часть 4"
+            "ru": "Врачебная тайна. Часть 4",
+            "cs": "Soukromá zdravotní péče - Část 4"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Health_Care_Privacy_-_Part_4",
         "exp": 10200,
@@ -1444,15 +1463,16 @@
         "title": "Health Care Privacy - Part 5",
         "locales": {
             "en": "Health Care Privacy - Part 5",
-            "ru": "Врачебная тайна. Часть 5"
+            "ru": "Врачебная тайна. Часть 5",
+            "cs": "Soukromá zdravotní péče - Část 5"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Health_Care_Privacy_-_Part_5",
-        "exp": 7300,
+        "exp": 13300,
         "unlocks": [],
         "reputation": [
             {
                 "trader": "Therapist",
-                "rep": 0.04
+                "rep": 0.1
             }
         ],
         "objectives": [
@@ -1480,15 +1500,16 @@
         "title": "Decontamination Service",
         "locales": {
             "en": "Decontamination Service",
-            "ru": "Служба дезинфекции"
+            "ru": "Служба дезинфекции",
+            "cs": "Dekontaminační služby"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Decontamination_service",
-        "exp": 7400,
+        "exp": 21600,
         "unlocks": [],
         "reputation": [
             {
                 "trader": "Therapist",
-                "rep": 0.05
+                "rep": 0.11
             }
         ],
         "objectives": [
@@ -1519,15 +1540,16 @@
         "title": "Private clinic",
         "locales": {
             "en": "Private clinic",
-            "ru": "Частная клиника"
+            "ru": "Частная клиника",
+            "cs": "Soukromá klinika"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Private_clinic",
-        "exp": 30600,
+        "exp": 20100,
         "unlocks": [],
         "reputation": [
             {
                 "trader": "Therapist",
-                "rep": 0.05
+                "rep": 0.11
             }
         ],
         "objectives": [
@@ -1561,7 +1583,8 @@
         "title": "Athlete",
         "locales": {
             "en": "Athlete",
-            "ru": "Физкультурник"
+            "ru": "Физкультурник",
+            "cs": "Sportovec"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Athlete",
         "exp": 19600,
@@ -1571,7 +1594,7 @@
         "reputation": [
             {
                 "trader": "Therapist",
-                "rep": 0.04
+                "rep": 0.11
             }
         ],
         "objectives": [
@@ -1596,7 +1619,8 @@
         "title": "Supplier",
         "locales": {
             "en": "Supplier",
-            "ru": "Снабженец"
+            "ru": "Снабженец",
+            "cs": "Dodavatel"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Supplier",
         "exp": 3300,
@@ -1606,7 +1630,7 @@
         "reputation": [
             {
                 "trader": "Skier",
-                "rep": 0.05
+                "rep": 0.12
             }
         ],
         "objectives": [
@@ -1640,7 +1664,8 @@
         "title": "The Extortionist",
         "locales": {
             "en": "The Extortionist",
-            "ru": "Вымогатель"
+            "ru": "Вымогатель",
+            "cs": "Vyděrač"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/The_Extortionist",
         "exp": 3200,
@@ -1648,7 +1673,7 @@
         "reputation": [
             {
                 "trader": "Skier",
-                "rep": 0.04
+                "rep": 0.08
             }
         ],
         "objectives": [
@@ -1682,7 +1707,8 @@
         "title": "What's on the flash drive?",
         "locales": {
             "en": "What's on the flash drive?",
-            "ru": "Что на флешке?"
+            "ru": "Что на флешке?",
+            "cs": "Co je na tom flash disku?"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/What%27s_on_the_flash_drive%3F",
         "exp": 4500,
@@ -1690,7 +1716,7 @@
         "reputation": [
             {
                 "trader": "Skier",
-                "rep": 0.04
+                "rep": 0.1
             },
             {
                 "trader": "Jaeger",
@@ -1721,17 +1747,18 @@
         "title": "Golden swag",
         "locales": {
             "en": "Golden swag",
-            "ru": "Золотые понты"
+            "ru": "Золотые понты",
+            "cs": "Zlatý lup"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Golden_swag",
-        "exp": 4500,
+        "exp": 4600,
         "unlocks": [
             "584984812459776a704a82a6"
         ],
         "reputation": [
             {
                 "trader": "Skier",
-                "rep": 0.04
+                "rep": 0.1
             }
         ],
         "objectives": [
@@ -1779,7 +1806,8 @@
         "title": "Chemical - Part 1",
         "locales": {
             "en": "Chemical - Part 1",
-            "ru": "Реагент. Часть 1"
+            "ru": "Реагент. Часть 1",
+            "cs": "Chemikálie - Část 1"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Chemical_-_Part_1",
         "exp": 4800,
@@ -1787,7 +1815,7 @@
         "reputation": [
             {
                 "trader": "Skier",
-                "rep": 0.04
+                "rep": 0.08
             }
         ],
         "objectives": [
@@ -1821,17 +1849,18 @@
         "title": "Chemical - Part 2",
         "locales": {
             "en": "Chemical - Part 2",
-            "ru": "Реагент. Часть 2"
+            "ru": "Реагент. Часть 2",
+            "cs": "Chemikálie - Část 2"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Chemical_-_Part_2",
-        "exp": 4800,
+        "exp": 4900,
         "unlocks": [
             "5a966f51a2750c00156aacf6"
         ],
         "reputation": [
             {
                 "trader": "Skier",
-                "rep": 0.04
+                "rep": 0.08
             }
         ],
         "objectives": [
@@ -1872,7 +1901,8 @@
         "title": "Chemical - Part 3",
         "locales": {
             "en": "Chemical - Part 3",
-            "ru": "Реагент. Часть 3"
+            "ru": "Реагент. Часть 3",
+            "cs": "Chemikálie - Část 3"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Chemical_-_Part_3",
         "exp": 5400,
@@ -1880,7 +1910,7 @@
         "reputation": [
             {
                 "trader": "Skier",
-                "rep": 0.04
+                "rep": 0.08
             },
             {
                 "trader": "Jaeger",
@@ -1911,27 +1941,30 @@
         "title": "Chemical - Part 4",
         "locales": {
             "en": "Chemical - Part 4",
-            "ru": "Реагент. Часть 4"
+            "ru": "Реагент. Часть 4",
+            "cs": "Chemikálie - Část 4"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Chemical_-_Part_4",
-        "exp": 6500,
+        "exp": 6600,
         "unlocks": [
             "5aa7e4a4e5b5b000137b76f2"
         ],
         "reputation": [
             {
                 "trader": "Skier",
-                "rep": 0.04
+                "rep": 0.1
+            },
+            {
+                "trader": "Therapist",
+                "rep": -0.3
+            },
+            {
+                "trader": "Prapor",
+                "rep": -0.15
             },
             {
                 "trader": "Jaeger",
                 "rep": -0.01
-            }
-        ],
-        "reputationFailure": [
-            {
-                "trader": "Skier",
-                "rep": -0.25
             }
         ],
         "objectives": [
@@ -1960,18 +1993,19 @@
         },
         "giver": "Skier",
         "turnin": "Skier",
-        "title": "Vitamins - Part 1",
+        "title": "\"Vitamins\" - Part 1",
         "locales": {
-            "en": "Vitamins - Part 1",
-            "ru": "Витамины. Часть 1"
+            "en": "\"Vitamins\" - Part 1",
+            "ru": "Витамины. Часть 1",
+            "cs": "\"Vitamíny\" - Část 1"
         },
-        "wiki": "https://escapefromtarkov.fandom.com/wiki/Vitamins_-_Part_1",
-        "exp": 13000,
+        "wiki": "https://escapefromtarkov.gamepedia.com/%22Vitamins%22_-_Part_1",
+        "exp": 14100,
         "unlocks": [],
         "reputation": [
             {
                 "trader": "Skier",
-                "rep": 0.05
+                "rep": 0.1
             },
             {
                 "trader": "Jaeger",
@@ -2029,20 +2063,19 @@
         },
         "giver": "Skier",
         "turnin": "Skier",
-        "title": "Vitamins - Part 2",
+        "title": "\"Vitamins\" - Part 2",
         "locales": {
-            "en": "Vitamins - Part 2",
-            "ru": "Витамины. Часть 2"
+            "en": "\"Vitamins\" - Part 2",
+            "ru": "Витамины. Часть 2",
+            "cs": "\"Vitamíny\" - Část 2"
         },
-        "wiki": "https://escapefromtarkov.fandom.com/wiki/Vitamins_-_Part_2",
-        "exp": 15800,
-        "unlocks": [
-            "5fc3f2d5900b1d5091531e57"
-        ],
+        "wiki": "https://escapefromtarkov.gamepedia.com/%22Vitamins%22_-_Part_2",
+        "exp": 17200,
+        "unlocks": [],
         "reputation": [
             {
                 "trader": "Skier",
-                "rep": 0.05
+                "rep": 0.12
             }
         ],
         "objectives": [
@@ -2076,15 +2109,16 @@
         "title": "Friend from the West - Part 1",
         "locales": {
             "en": "Friend from the West - Part 1",
-            "ru": "Друг с запада. Часть 1"
+            "ru": "Друг с запада. Часть 1",
+            "cs": "Přítel ze západu - Část 1"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Friend_from_the_West_-_Part_1",
-        "exp": 7400,
+        "exp": 10800,
         "unlocks": [],
         "reputation": [
             {
                 "trader": "Skier",
-                "rep": 0.06
+                "rep": 0.14
             }
         ],
         "objectives": [
@@ -2121,7 +2155,8 @@
         "title": "Friend from the West - Part 2",
         "locales": {
             "en": "Friend from the West - Part 2",
-            "ru": "Друг с запада. Часть 2"
+            "ru": "Друг с запада. Часть 2",
+            "cs": "Přítel ze západu - Část 2"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Friend_from_the_West_-_Part_2",
         "exp": 9200,
@@ -2156,17 +2191,16 @@
         "title": "Lend lease - Part 1",
         "locales": {
             "en": "Lend lease - Part 1",
-            "ru": "Лэндлиз"
+            "ru": "Лэндлиз",
+            "cs": "Pronájem pozemku - Část 1"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Lend_lease_-_Part_1",
-        "exp": 17500,
-        "unlocks": [
-            "5df24cf80dee1b22f862e9bc"
-        ],
+        "exp": 20000,
+        "unlocks": [],
         "reputation": [
             {
                 "trader": "Skier",
-                "rep": 0.05
+                "rep": 0.12
             }
         ],
         "objectives": [
@@ -2243,15 +2277,16 @@
         "title": "Lend lease - Part 2",
         "locales": {
             "en": "Lend lease - Part 2",
-            "ru": "Лэндлиз. Часть 2"
+            "ru": "Лэндлиз. Часть 2",
+            "cs": "Pronájem pozemku - Část 2"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Lend_lease_-_Part_2",
-        "exp": 21000,
+        "exp": 22200,
         "unlocks": [],
         "reputation": [
             {
                 "trader": "Peacekeeper",
-                "rep": 0.04
+                "rep": 0.09
             }
         ],
         "objectives": [
@@ -2285,10 +2320,11 @@
         "title": "Peacekeeping mission",
         "locales": {
             "en": "Peacekeeping mission",
-            "ru": "Миротворческая миссия"
+            "ru": "Миротворческая миссия",
+            "cs": "Mírová mise"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Peacekeeping_mission",
-        "exp": 25500,
+        "exp": 32400,
         "nokappa": true,
         "unlocks": [
             "60a3c68c37ea821725773ef5"
@@ -2296,7 +2332,7 @@
         "reputation": [
             {
                 "trader": "Peacekeeper",
-                "rep": 0.04
+                "rep": 0.12
             }
         ],
         "objectives": [
@@ -2364,17 +2400,18 @@
         "title": "Informed means armed",
         "locales": {
             "en": "Informed means armed",
-            "ru": "Осведомлён значит вооружён"
+            "ru": "Осведомлён значит вооружён",
+            "cs": "Informace jsou zbraň"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Informed_means_armed",
-        "exp": 14000,
+        "exp": 15900,
         "unlocks": [
             "5b4391a586f7745321235ab2"
         ],
         "reputation": [
             {
                 "trader": "Skier",
-                "rep": 0.05
+                "rep": 0.1
             }
         ],
         "objectives": [
@@ -2418,15 +2455,16 @@
         "title": "Chumming",
         "locales": {
             "en": "Chumming",
-            "ru": "Прикормка"
+            "ru": "Прикормка",
+            "cs": "Přátelení"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Chumming",
-        "exp": 19100,
+        "exp": 22000,
         "unlocks": [],
         "reputation": [
             {
                 "trader": "Skier",
-                "rep": 0.05
+                "rep": 0.12
             }
         ],
         "objectives": [
@@ -2477,15 +2515,16 @@
         "title": "Silent caliber",
         "locales": {
             "en": "Silent caliber",
-            "ru": "Тихий калибр"
+            "ru": "Тихий калибр",
+            "cs": "Tichý kalibr"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Silent_caliber",
-        "exp": 18000,
+        "exp": 12900,
         "unlocks": [],
         "reputation": [
             {
                 "trader": "Skier",
-                "rep": 0.05
+                "rep": 0.09
             }
         ],
         "objectives": [
@@ -2525,17 +2564,18 @@
         "title": "Flint",
         "locales": {
             "en": "Flint",
-            "ru": "Кремень"
+            "ru": "Кремень",
+            "cs": "Flint"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Flint",
-        "exp": 25100,
+        "exp": 20000,
         "unlocks": [
             "5bffdd7e0db834001b734a1a"
         ],
         "reputation": [
             {
                 "trader": "Skier",
-                "rep": 0.05
+                "rep": 0.08
             }
         ],
         "objectives": [
@@ -2562,10 +2602,11 @@
         "title": "Bullshit",
         "locales": {
             "en": "Bullshit",
-            "ru": "Деза"
+            "ru": "Деза",
+            "cs": "Hovadina"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Bullshit",
-        "exp": 29900,
+        "exp": 29700,
         "unlocks": [
             "5c1127d0d174af29be75cf68"
         ],
@@ -2592,7 +2633,7 @@
             },
             {
                 "type": "place",
-                "target": "False flash drive",
+                "target": "5c12301c86f77419522ba7e4",
                 "number": 1,
                 "location": "Customs",
                 "id": 112
@@ -2627,17 +2668,18 @@
         "title": "Setup",
         "locales": {
             "en": "Setup",
-            "ru": "Подстава"
+            "ru": "Подстава",
+            "cs": "Situace"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Setup",
-        "exp": 21900,
+        "exp": 29300,
         "unlocks": [
             "5c1127bdd174af44217ab8b9"
         ],
         "reputation": [
             {
                 "trader": "Skier",
-                "rep": 0.05
+                "rep": 0.07
             }
         ],
         "objectives": [
@@ -2669,17 +2711,18 @@
         "title": "Fishing Gear",
         "locales": {
             "en": "Fishing Gear",
-            "ru": "Рыболовные снасти"
+            "ru": "Рыболовные снасти",
+            "cs": "Rybářské vybavení"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Fishing_Gear",
-        "exp": 4800,
+        "exp": 5400,
         "unlocks": [
-            "5b3116595acfc40019476364"
+            "58d399e486f77442e0016fe7"
         ],
         "reputation": [
             {
                 "trader": "Peacekeeper",
-                "rep": 0.02
+                "rep": 0.06
             }
         ],
         "objectives": [
@@ -2713,15 +2756,16 @@
         "title": "Tigr Safari",
         "locales": {
             "en": "Tigr Safari",
-            "ru": "Сафари на тигра"
+            "ru": "Сафари на тигра",
+            "cs": "Tygří safari"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Tigr_Safari",
-        "exp": 5900,
+        "exp": 6600,
         "unlocks": [],
         "reputation": [
             {
                 "trader": "Peacekeeper",
-                "rep": 0.03
+                "rep": 0.07
             },
             {
                 "trader": "Jaeger",
@@ -2772,17 +2816,18 @@
         "title": "Scrap Metal",
         "locales": {
             "en": "Scrap Metal",
-            "ru": "Металлолом"
+            "ru": "Металлолом",
+            "cs": "Kovošrot"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Scrap_Metal",
-        "exp": 5900,
+        "exp": 7200,
         "unlocks": [
             "59411abb86f77478f702b5d2"
         ],
         "reputation": [
             {
                 "trader": "Peacekeeper",
-                "rep": 0.03
+                "rep": 0.07
             },
             {
                 "trader": "Jaeger",
@@ -2833,15 +2878,16 @@
         "title": "Eagle Eye",
         "locales": {
             "en": "Eagle Eye",
-            "ru": "Глаз орла"
+            "ru": "Глаз орла",
+            "cs": "Orlí oko"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Eagle_Eye",
-        "exp": 6600,
+        "exp": 7300,
         "unlocks": [],
         "reputation": [
             {
                 "trader": "Peacekeeper",
-                "rep": 0.03
+                "rep": 0.07
             }
         ],
         "objectives": [
@@ -2877,17 +2923,18 @@
         "title": "Humanitarian Supplies",
         "locales": {
             "en": "Humanitarian Supplies",
-            "ru": "Гуманитарка"
+            "ru": "Гуманитарка",
+            "cs": "Humanitární zásoby"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Humanitarian_Supplies",
-        "exp": 6700,
+        "exp": 7400,
         "unlocks": [
             "593d493f86f7745e6b2ceb22"
         ],
         "reputation": [
             {
                 "trader": "Peacekeeper",
-                "rep": 0.03
+                "rep": 0.07
             }
         ],
         "objectives": [
@@ -2941,17 +2988,18 @@
         "title": "The Cult - Part 1",
         "locales": {
             "en": "The Cult - Part 1",
-            "ru": "Секта. Часть 1"
+            "ru": "Секта. Часть 1",
+            "cs": "Kult - Část 1"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/The_Cult_-_Part_1",
-        "exp": 6200,
+        "exp": 6700,
         "unlocks": [
             "59e6906286f7746c9f75e847"
         ],
         "reputation": [
             {
                 "trader": "Peacekeeper",
-                "rep": 0.02
+                "rep": 0.06
             }
         ],
         "objectives": [
@@ -2978,15 +3026,16 @@
         "title": "The Cult - Part 2",
         "locales": {
             "en": "The Cult - Part 2",
-            "ru": "Секта. Часть 2"
+            "ru": "Секта. Часть 2",
+            "cs": "Kult - Část 2"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/The_Cult_-_Part_2",
-        "exp": 7500,
+        "exp": 8200,
         "unlocks": [],
         "reputation": [
             {
                 "trader": "Peacekeeper",
-                "rep": 0.03
+                "rep": 0.07
             }
         ],
         "objectives": [
@@ -3047,15 +3096,16 @@
         "title": "Spa Tour - Part 1",
         "locales": {
             "en": "Spa Tour - Part 1",
-            "ru": "Путевка в санаторий. Часть 1"
+            "ru": "Путевка в санаторий. Часть 1",
+            "cs": "Lázně - Část 1"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Spa_Tour_-_Part_1",
-        "exp": 7400,
+        "exp": 8900,
         "unlocks": [],
         "reputation": [
             {
                 "trader": "Peacekeeper",
-                "rep": 0.03
+                "rep": 0.07
             }
         ],
         "objectives": [
@@ -3085,17 +3135,18 @@
         "title": "Spa Tour - Part 2",
         "locales": {
             "en": "Spa Tour - Part 2",
-            "ru": "Путевка в санаторий. Часть 2"
+            "ru": "Путевка в санаторий. Часть 2",
+            "cs": "Lázně - Část 2"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Spa_Tour_-_Part_2",
-        "exp": 6300,
+        "exp": 7500,
         "unlocks": [
             "58d3db5386f77426186285a0"
         ],
         "reputation": [
             {
                 "trader": "Peacekeeper",
-                "rep": 0.02
+                "rep": 0.06
             }
         ],
         "objectives": [
@@ -3131,15 +3182,16 @@
         "title": "Spa Tour - Part 3",
         "locales": {
             "en": "Spa Tour - Part 3",
-            "ru": "Путевка в санаторий. Часть 3"
+            "ru": "Путевка в санаторий. Часть 3",
+            "cs": "Lázně - Část 3"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Spa_Tour_-_Part_3",
-        "exp": 7600,
+        "exp": 9100,
         "unlocks": [],
         "reputation": [
             {
                 "trader": "Peacekeeper",
-                "rep": 0.03
+                "rep": 0.07
             }
         ],
         "objectives": [
@@ -3187,15 +3239,16 @@
         "title": "Spa Tour - Part 4",
         "locales": {
             "en": "Spa Tour - Part 4",
-            "ru": "Путевка в санаторий. Часть 4"
+            "ru": "Путевка в санаторий. Часть 4",
+            "cs": "Lázně - Část 4"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Spa_Tour_-_Part_4",
-        "exp": 7700,
+        "exp": 9300,
         "unlocks": [],
         "reputation": [
             {
                 "trader": "Peacekeeper",
-                "rep": 0.03
+                "rep": 0.07
             }
         ],
         "objectives": [
@@ -3239,15 +3292,16 @@
         "title": "Spa Tour - Part 5",
         "locales": {
             "en": "Spa Tour - Part 5",
-            "ru": "Путевка в санаторий. Часть 5"
+            "ru": "Путевка в санаторий. Часть 5",
+            "cs": "Lázně - Část 5"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Spa_Tour_-_Part_5",
-        "exp": 6500,
+        "exp": 7800,
         "unlocks": [],
         "reputation": [
             {
                 "trader": "Peacekeeper",
-                "rep": 0.02
+                "rep": 0.06
             }
         ],
         "objectives": [
@@ -3272,19 +3326,20 @@
         "giver": "Peacekeeper",
         "turnin": "Peacekeeper",
         "title": "Spa Tour - Part 6",
-        "wiki": "https://escapefromtarkov.gamepedia.com/Spa_Tour_-_Part_5",
         "locales": {
             "en": "Spa Tour - Part 6",
-            "ru": "Путевка в санаторий. Часть 6"
+            "ru": "Путевка в санаторий. Часть 6",
+            "cs": "Lázně - Část 6"
         },
-        "exp": 9500,
+        "wiki": "",
+        "exp": 11400,
         "unlocks": [
             "5a608bf24f39f98ffc77720e"
         ],
         "reputation": [
             {
                 "trader": "Peacekeeper",
-                "rep": 0.04
+                "rep": 0.09
             }
         ],
         "objectives": [
@@ -3311,15 +3366,16 @@
         "title": "Spa Tour - Part 7",
         "locales": {
             "en": "Spa Tour - Part 7",
-            "ru": "Путевка в санаторий. Часть 7"
+            "ru": "Путевка в санаторий. Часть 7",
+            "cs": "Lázně - Část 7"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Spa_Tour_-_Part_7",
-        "exp": 9700,
+        "exp": 11600,
         "unlocks": [],
         "reputation": [
             {
                 "trader": "Peacekeeper",
-                "rep": 0.04
+                "rep": 0.09
             },
             {
                 "trader": "Jaeger",
@@ -3371,15 +3427,16 @@
         "title": "Cargo X - Part 1",
         "locales": {
             "en": "Cargo X - Part 1",
-            "ru": "Груз X. Часть 1"
+            "ru": "Груз X. Часть 1",
+            "cs": "Náklad X - Část 1"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Cargo_X_-_Part_1",
-        "exp": 8200,
+        "exp": 10400,
         "unlocks": [],
         "reputation": [
             {
                 "trader": "Peacekeeper",
-                "rep": 0.03
+                "rep": 0.07
             }
         ],
         "objectives": [
@@ -3416,17 +3473,18 @@
         "title": "Cargo X - Part 2",
         "locales": {
             "en": "Cargo X - Part 2",
-            "ru": "Груз X. Часть 2"
+            "ru": "Груз X. Часть 2",
+            "cs": "Náklad X - Část 2"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Cargo_X_-_Part_2",
-        "exp": 8300,
+        "exp": 8600,
         "unlocks": [
             "57da93632459771cb65bf83f"
         ],
         "reputation": [
             {
                 "trader": "Peacekeeper",
-                "rep": 0.03
+                "rep": 0.07
             }
         ],
         "objectives": [
@@ -3454,15 +3512,16 @@
         "title": "Cargo X - Part 3",
         "locales": {
             "en": "Cargo X - Part 3",
-            "ru": "Груз X. Часть 3"
+            "ru": "Груз X. Часть 3",
+            "cs": "Náklad X - Část 3"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Cargo_X_-_Part_3",
-        "exp": 8400,
+        "exp": 10700,
         "unlocks": [],
         "reputation": [
             {
                 "trader": "Peacekeeper",
-                "rep": 0.03
+                "rep": 0.07
             }
         ],
         "objectives": [
@@ -3489,15 +3548,16 @@
         "title": "Wet Job - Part 1",
         "locales": {
             "en": "Wet Job - Part 1",
-            "ru": "Мокрое дело. Часть 1"
+            "ru": "Мокрое дело. Часть 1",
+            "cs": "Mokrá práce - Část 1"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Wet_Job_-_Part_1",
-        "exp": 11400,
+        "exp": 13000,
         "unlocks": [],
         "reputation": [
             {
                 "trader": "Peacekeeper",
-                "rep": 0.04
+                "rep": 0.09
             },
             {
                 "trader": "Jaeger",
@@ -3531,17 +3591,18 @@
         "title": "Wet Job - Part 2",
         "locales": {
             "en": "Wet Job - Part 2",
-            "ru": "Мокрое дело. Часть 2"
+            "ru": "Мокрое дело. Часть 2",
+            "cs": "Mokrá práce - Část 2"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Wet_Job_-_Part_2",
-        "exp": 9700,
+        "exp": 11700,
         "unlocks": [
             "59c1383d86f774290a37e0ca"
         ],
         "reputation": [
             {
                 "trader": "Peacekeeper",
-                "rep": 0.03
+                "rep": 0.07
             }
         ],
         "objectives": [
@@ -3569,15 +3630,16 @@
         "title": "Wet Job - Part 3",
         "locales": {
             "en": "Wet Job - Part 3",
-            "ru": "Мокрое дело. Часть 3"
+            "ru": "Мокрое дело. Часть 3",
+            "cs": "Mokrá práce - Část 3"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Wet_Job_-_Part_3",
-        "exp": 8200,
+        "exp": 9900,
         "unlocks": [],
         "reputation": [
             {
                 "trader": "Peacekeeper",
-                "rep": 0.03
+                "rep": 0.06
             }
         ],
         "objectives": [
@@ -3604,15 +3666,16 @@
         "title": "Wet Job - Part 4",
         "locales": {
             "en": "Wet Job - Part 4",
-            "ru": "Мокрое дело. Часть 4"
+            "ru": "Мокрое дело. Часть 4",
+            "cs": "Mokrá práce - Část 4"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Wet_Job_-_Part_4",
-        "exp": 8300,
+        "exp": 10000,
         "unlocks": [],
         "reputation": [
             {
                 "trader": "Peacekeeper",
-                "rep": 0.03
+                "rep": 0.06
             }
         ],
         "objectives": [
@@ -3639,17 +3702,18 @@
         "title": "Wet Job - Part 5",
         "locales": {
             "en": "Wet Job - Part 5",
-            "ru": "Мокрое дело. Часть 5"
+            "ru": "Мокрое дело. Часть 5",
+            "cs": "Mokrá práce - Část 5"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Wet_Job_-_Part_5",
-        "exp": 8400,
+        "exp": 10200,
         "unlocks": [
             "5a367e5dc4a282000e49738f"
         ],
         "reputation": [
             {
                 "trader": "Peacekeeper",
-                "rep": 0.03
+                "rep": 0.06
             }
         ],
         "objectives": [
@@ -3686,7 +3750,8 @@
         "title": "Wet Job - Part 6",
         "locales": {
             "en": "Wet Job - Part 6",
-            "ru": "Мокрое дело. Часть 6"
+            "ru": "Мокрое дело. Часть 6",
+            "cs": "Mokrá práce - Část 6"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Wet_Job_-_Part_6",
         "exp": 10400,
@@ -3727,7 +3792,8 @@
         "title": "Psycho Sniper",
         "locales": {
             "en": "Psycho Sniper",
-            "ru": "Снайпер-психопат"
+            "ru": "Снайпер-психопат",
+            "cs": "Šílený odstřelovač"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Psycho_Sniper",
         "exp": 32400,
@@ -3757,7 +3823,8 @@
         "title": "The guide",
         "locales": {
             "en": "The guide",
-            "ru": "Проводник"
+            "ru": "Проводник",
+            "cs": "Průvodce"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/The_guide",
         "exp": 35100,
@@ -3786,15 +3853,16 @@
         "title": "Gunsmith - Part 1",
         "locales": {
             "en": "Gunsmith - Part 1",
-            "ru": "Оружейник. Часть 1"
+            "ru": "Оружейник. Часть 1",
+            "cs": "Puškař - Část 1"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Gunsmith_-_Part_1",
-        "exp": 5400,
+        "exp": 6500,
         "unlocks": [],
         "reputation": [
             {
                 "trader": "Mechanic",
-                "rep": 0.02
+                "rep": 0.04
             }
         ],
         "objectives": [],
@@ -3813,7 +3881,8 @@
         "title": "Gunsmith - Part 2",
         "locales": {
             "en": "Gunsmith - Part 2",
-            "ru": "Оружейник. Часть 2"
+            "ru": "Оружейник. Часть 2",
+            "cs": "Puškař - Část 2"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Gunsmith_-_Part_2",
         "exp": 6000,
@@ -3821,7 +3890,7 @@
         "reputation": [
             {
                 "trader": "Mechanic",
-                "rep": 0.02
+                "rep": 0.04
             }
         ],
         "objectives": [],
@@ -3840,15 +3909,16 @@
         "title": "Gunsmith - Part 3",
         "locales": {
             "en": "Gunsmith - Part 3",
-            "ru": "Оружейник. Часть 3"
+            "ru": "Оружейник. Часть 3",
+            "cs": "Puškař - Část 3"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Gunsmith_-_Part_3",
-        "exp": 7900,
+        "exp": 8000,
         "unlocks": [],
         "reputation": [
             {
                 "trader": "Mechanic",
-                "rep": 0.03
+                "rep": 0.05
             }
         ],
         "objectives": [],
@@ -3867,15 +3937,16 @@
         "title": "Gunsmith - Part 4",
         "locales": {
             "en": "Gunsmith - Part 4",
-            "ru": "Оружейник. Часть 4"
+            "ru": "Оружейник. Часть 4",
+            "cs": "Puškař - Část 4"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Gunsmith_-_Part_4",
-        "exp": 10000,
+        "exp": 10100,
         "unlocks": [],
         "reputation": [
             {
                 "trader": "Mechanic",
-                "rep": 0.03
+                "rep": 0.05
             }
         ],
         "objectives": [],
@@ -3894,15 +3965,16 @@
         "title": "Gunsmith - Part 5",
         "locales": {
             "en": "Gunsmith - Part 5",
-            "ru": "Оружейник. Часть 5"
+            "ru": "Оружейник. Часть 5",
+            "cs": "Puškař - Část 5"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Gunsmith_-_Part_5",
-        "exp": 13700,
+        "exp": 13900,
         "unlocks": [],
         "reputation": [
             {
                 "trader": "Mechanic",
-                "rep": 0.03
+                "rep": 0.06
             }
         ],
         "objectives": [],
@@ -3921,15 +3993,16 @@
         "title": "Gunsmith - Part 6",
         "locales": {
             "en": "Gunsmith - Part 6",
-            "ru": "Оружейник. Часть 6"
+            "ru": "Оружейник. Часть 6",
+            "cs": "Puškař - Část 6"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Gunsmith_-_Part_6",
-        "exp": 14700,
+        "exp": 13900,
         "unlocks": [],
         "reputation": [
             {
                 "trader": "Mechanic",
-                "rep": 0.03
+                "rep": 0.06
             }
         ],
         "objectives": [],
@@ -3948,7 +4021,8 @@
         "title": "Gunsmith - Part 7",
         "locales": {
             "en": "Gunsmith - Part 7",
-            "ru": "Оружейник. Часть 7"
+            "ru": "Оружейник. Часть 7",
+            "cs": "Puškař - Část 7"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Gunsmith_-_Part_7",
         "exp": 16000,
@@ -3956,7 +4030,7 @@
         "reputation": [
             {
                 "trader": "Mechanic",
-                "rep": 0.03
+                "rep": 0.06
             }
         ],
         "objectives": [],
@@ -3975,15 +4049,16 @@
         "title": "Gunsmith - Part 8",
         "locales": {
             "en": "Gunsmith - Part 8",
-            "ru": "Оружейник. Часть 8"
+            "ru": "Оружейник. Часть 8",
+            "cs": "Puškař - Část 8"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Gunsmith_-_Part_8",
-        "exp": 16000,
+        "exp": 16200,
         "unlocks": [],
         "reputation": [
             {
                 "trader": "Mechanic",
-                "rep": 0.03
+                "rep": 0.06
             }
         ],
         "objectives": [],
@@ -4002,15 +4077,16 @@
         "title": "Gunsmith - Part 9",
         "locales": {
             "en": "Gunsmith - Part 9",
-            "ru": "Оружейник. Часть 9"
+            "ru": "Оружейник. Часть 9",
+            "cs": "Puškař - Část 9"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Gunsmith_-_Part_9",
-        "exp": 17000,
+        "exp": 17300,
         "unlocks": [],
         "reputation": [
             {
                 "trader": "Mechanic",
-                "rep": 0.03
+                "rep": 0.06
             }
         ],
         "objectives": [],
@@ -4029,17 +4105,18 @@
         "title": "Gunsmith - Part 10",
         "locales": {
             "en": "Gunsmith - Part 10",
-            "ru": "Оружейник. Часть 10"
+            "ru": "Оружейник. Часть 10",
+            "cs": "Puškař - Část 10"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Gunsmith_-_Part_10",
-        "exp": 17300,
+        "exp": 17500,
         "unlocks": [
             "5af08cc686f77424a61595f2"
         ],
         "reputation": [
             {
                 "trader": "Mechanic",
-                "rep": 0.03
+                "rep": 0.06
             }
         ],
         "objectives": [],
@@ -4058,15 +4135,16 @@
         "title": "Gunsmith - Part 11",
         "locales": {
             "en": "Gunsmith - Part 11",
-            "ru": "Оружейник. Часть 11"
+            "ru": "Оружейник. Часть 11",
+            "cs": "Puškař - Část 11"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Gunsmith_-_Part_11",
-        "exp": 18400,
+        "exp": 18600,
         "unlocks": [],
         "reputation": [
             {
                 "trader": "Mechanic",
-                "rep": 0.03
+                "rep": 0.06
             }
         ],
         "objectives": [],
@@ -4085,18 +4163,18 @@
         "title": "Gunsmith - Part 12",
         "locales": {
             "en": "Gunsmith - Part 12",
-            "ru": "Оружейник. Часть 12"
+            "ru": "Оружейник. Часть 12",
+            "cs": "Puškař - Část 12"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Gunsmith_-_Part_12",
-        "exp": 14200,
+        "exp": 14400,
         "unlocks": [
-            "588226ef24597767af46e39c",
-            "5a33e75ac4a2826c6e06d759"
+            "588226ef24597767af46e39c"
         ],
         "reputation": [
             {
                 "trader": "Mechanic",
-                "rep": 0.02
+                "rep": 0.04
             }
         ],
         "objectives": [],
@@ -4115,17 +4193,18 @@
         "title": "Gunsmith - Part 13",
         "locales": {
             "en": "Gunsmith - Part 13",
-            "ru": "Оружейник. Часть 13"
+            "ru": "Оружейник. Часть 13",
+            "cs": "Puškař - Část 13"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Gunsmith_-_Part_13",
-        "exp": 18700,
+        "exp": 19000,
         "unlocks": [
             "5b07db875acfc40dc528a5f6"
         ],
         "reputation": [
             {
                 "trader": "Mechanic",
-                "rep": 0.03
+                "rep": 0.05
             }
         ],
         "objectives": [],
@@ -4144,17 +4223,18 @@
         "title": "Gunsmith - Part 14",
         "locales": {
             "en": "Gunsmith - Part 14",
-            "ru": "Оружейник. Часть 14"
+            "ru": "Оружейник. Часть 14",
+            "cs": "Puškař - Část 14"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Gunsmith_-_Part_14",
-        "exp": 20500,
+        "exp": 20800,
         "unlocks": [
             "5b07dd285acfc4001754240d"
         ],
         "reputation": [
             {
                 "trader": "Mechanic",
-                "rep": 0.03
+                "rep": 0.05
             }
         ],
         "objectives": [],
@@ -4173,15 +4253,16 @@
         "title": "Gunsmith - Part 15",
         "locales": {
             "en": "Gunsmith - Part 15",
-            "ru": "Оружейник. Часть 15"
+            "ru": "Оружейник. Часть 15",
+            "cs": "Puškař - Část 15"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Gunsmith_-_Part_15",
-        "exp": 22300,
+        "exp": 22600,
         "unlocks": [],
         "reputation": [
             {
                 "trader": "Mechanic",
-                "rep": 0.03
+                "rep": 0.05
             }
         ],
         "objectives": [],
@@ -4200,15 +4281,16 @@
         "title": "Gunsmith - Part 16",
         "locales": {
             "en": "Gunsmith - Part 16",
-            "ru": "Оружейник. Часть 16"
+            "ru": "Оружейник. Часть 16",
+            "cs": "Puškař - Část 16"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Gunsmith_-_Part_16",
-        "exp": 32800,
+        "exp": 28500,
         "unlocks": [],
         "reputation": [
             {
                 "trader": "Mechanic",
-                "rep": 0.04
+                "rep": 0.06
             }
         ],
         "objectives": [],
@@ -4227,15 +4309,16 @@
         "title": "Signal - Part 1",
         "locales": {
             "en": "Signal - Part 1",
-            "ru": "Сигнал. Часть 1"
+            "ru": "Сигнал. Часть 1",
+            "cs": "Signál - Část 1"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Signal_-_Part_1",
-        "exp": 6700,
+        "exp": 8500,
         "unlocks": [],
         "reputation": [
             {
                 "trader": "Mechanic",
-                "rep": 0.02
+                "rep": 0.04
             }
         ],
         "objectives": [
@@ -4269,15 +4352,16 @@
         "title": "Signal - Part 2",
         "locales": {
             "en": "Signal - Part 2",
-            "ru": "Сигнал. Часть 2"
+            "ru": "Сигнал. Часть 2",
+            "cs": "Signál - Část 2"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Signal_-_Part_2",
-        "exp": 6700,
+        "exp": 8700,
         "unlocks": [],
         "reputation": [
             {
                 "trader": "Mechanic",
-                "rep": 0.02
+                "rep": 0.04
             }
         ],
         "objectives": [
@@ -4325,17 +4409,18 @@
         "title": "Signal - Part 3",
         "locales": {
             "en": "Signal - Part 3",
-            "ru": "Сигнал. Часть 3"
+            "ru": "Сигнал. Часть 3",
+            "cs": "Signál - Část 3"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Signal_-_Part_3",
-        "exp": 8500,
+        "exp": 11000,
         "unlocks": [
             "5ac78a9b86f7741cca0bbd8d"
         ],
         "reputation": [
             {
                 "trader": "Mechanic",
-                "rep": 0.02
+                "rep": 0.04
             }
         ],
         "objectives": [
@@ -4382,15 +4467,16 @@
         "title": "Signal - Part 4",
         "locales": {
             "en": "Signal - Part 4",
-            "ru": "Сигнал. Часть 4"
+            "ru": "Сигнал. Часть 4",
+            "cs": "Signál - Část 4"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Signal_-_Part_4",
-        "exp": 8600,
+        "exp": 11100,
         "unlocks": [],
         "reputation": [
             {
                 "trader": "Mechanic",
-                "rep": 0.02
+                "rep": 0.04
             }
         ],
         "objectives": [
@@ -4417,15 +4503,16 @@
         "title": "Scout",
         "locales": {
             "en": "Scout",
-            "ru": "Скаут"
+            "ru": "Скаут",
+            "cs": "Průzkumník"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Scout",
-        "exp": 6800,
+        "exp": 9200,
         "unlocks": [],
         "reputation": [
             {
                 "trader": "Mechanic",
-                "rep": 0.02
+                "rep": 0.04
             }
         ],
         "objectives": [
@@ -4470,7 +4557,8 @@
         "title": "Insider",
         "locales": {
             "en": "Insider",
-            "ru": "Свой человек"
+            "ru": "Свой человек",
+            "cs": "Špión"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Insider",
         "exp": 9300,
@@ -4505,15 +4593,16 @@
         "title": "Farming - Part 1",
         "locales": {
             "en": "Farming - Part 1",
-            "ru": "Садоводство. Часть 1"
+            "ru": "Садоводство. Часть 1",
+            "cs": "Sběrač - Část 1"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Farming_-_Part_1",
-        "exp": 6600,
+        "exp": 8000,
         "unlocks": [],
         "reputation": [
             {
                 "trader": "Mechanic",
-                "rep": 0.02
+                "rep": 0.04
             }
         ],
         "objectives": [
@@ -4549,10 +4638,11 @@
         "title": "Farming - Part 2",
         "locales": {
             "en": "Farming - Part 2",
-            "ru": "Садоводство. Часть 2"
+            "ru": "Садоводство. Часть 2",
+            "cs": "Sběrač - Část 2"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Farming_-_Part_2",
-        "exp": 5500,
+        "exp": 6800,
         "unlocks": [],
         "reputation": [
             {
@@ -4598,15 +4688,16 @@
         "title": "Farming - Part 3",
         "locales": {
             "en": "Farming - Part 3",
-            "ru": "Садоводство. Часть 3"
+            "ru": "Садоводство. Часть 3",
+            "cs": "Sběrač - Část 3"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Farming_-_Part_3",
-        "exp": 6500,
+        "exp": 8100,
         "unlocks": [],
         "reputation": [
             {
                 "trader": "Mechanic",
-                "rep": 0.02
+                "rep": 0.03
             }
         ],
         "objectives": [
@@ -4640,15 +4731,16 @@
         "title": "Farming - Part 4",
         "locales": {
             "en": "Farming - Part 4",
-            "ru": "Садоводство. Часть 4"
+            "ru": "Садоводство. Часть 4",
+            "cs": "Sběrač - Část 4"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Farming_-_Part_4",
-        "exp": 8000,
+        "exp": 9800,
         "unlocks": [],
         "reputation": [
             {
                 "trader": "Mechanic",
-                "rep": 0.02
+                "rep": 0.04
             }
         ],
         "objectives": [
@@ -4682,20 +4774,17 @@
         "title": "Import",
         "locales": {
             "en": "Import",
-            "ru": "Импорт"
+            "ru": "Импорт",
+            "cs": "Dovoz"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Import",
-        "exp": 29000,
+        "exp": 42800,
         "nokappa": true,
         "unlocks": [],
         "reputation": [
             {
                 "trader": "Mechanic",
-                "rep": 0.03
-            },
-            {
-                "trader": "Jaeger",
-                "rep": -0.01
+                "rep": 0.04
             }
         ],
         "objectives": [
@@ -4729,15 +4818,16 @@
         "title": "Fertilizers",
         "locales": {
             "en": "Fertilizers",
-            "ru": "Удобрения"
+            "ru": "Удобрения",
+            "cs": "Hnojiva"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Fertilizers",
-        "exp": 17200,
+        "exp": 19500,
         "unlocks": [],
         "reputation": [
             {
                 "trader": "Mechanic",
-                "rep": 0.02
+                "rep": 0.06
             }
         ],
         "objectives": [
@@ -4771,17 +4861,18 @@
         "title": "A Shooter Born in Heaven",
         "locales": {
             "en": "A Shooter Born in Heaven",
-            "ru": "Стрелок от бога"
+            "ru": "Стрелок от бога",
+            "cs": "Střelec zrozený v nebi"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/A_Shooter_Born_in_Heaven",
-        "exp": 11600,
+        "exp": 39500,
         "unlocks": [
             "5c127c4486f7745625356c13"
         ],
         "reputation": [
             {
                 "trader": "Mechanic",
-                "rep": 0.03
+                "rep": 0.06
             }
         ],
         "objectives": [
@@ -4839,7 +4930,8 @@
         "title": "Only business",
         "locales": {
             "en": "Only business",
-            "ru": "Только бизнес"
+            "ru": "Только бизнес",
+            "cs": "Jen obchod"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Only_business",
         "exp": 6700,
@@ -4847,7 +4939,7 @@
         "reputation": [
             {
                 "trader": "Ragman",
-                "rep": 0.02
+                "rep": 0.06
             }
         ],
         "objectives": [
@@ -4874,15 +4966,16 @@
         "title": "Big sale",
         "locales": {
             "en": "Big sale",
-            "ru": "Распродажа"
+            "ru": "Распродажа",
+            "cs": "Velký výprodej"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Big_sale",
-        "exp": 8200,
+        "exp": 8900,
         "unlocks": [],
         "reputation": [
             {
                 "trader": "Ragman",
-                "rep": 0.03
+                "rep": 0.07
             }
         ],
         "objectives": [
@@ -4937,7 +5030,8 @@
         "title": "The Blood of War - Part 1",
         "locales": {
             "en": "The Blood of War - Part 1",
-            "ru": "Кровь войны"
+            "ru": "Кровь войны",
+            "cs": "Krev války - Část 1"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/The_Blood_of_War_-_Part_1",
         "exp": 7500,
@@ -4945,7 +5039,7 @@
         "reputation": [
             {
                 "trader": "Ragman",
-                "rep": 0.02
+                "rep": 0.06
             }
         ],
         "objectives": [
@@ -4992,15 +5086,16 @@
         "title": "Dressed to kill",
         "locales": {
             "en": "Dressed to kill",
-            "ru": "Модный приговор"
+            "ru": "Модный приговор",
+            "cs": "Oblečený k zabijení"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Dressed_to_kill",
-        "exp": 8400,
+        "exp": 10200,
         "unlocks": [],
         "reputation": [
             {
                 "trader": "Ragman",
-                "rep": 0.03
+                "rep": 0.07
             }
         ],
         "objectives": [
@@ -5034,15 +5129,16 @@
         "title": "Database - Part 1",
         "locales": {
             "en": "Database - Part 1",
-            "ru": "Картотека. Часть 1"
+            "ru": "Картотека. Часть 1",
+            "cs": "Databáze - Část 1"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Database_-_Part_1",
-        "exp": 8400,
+        "exp": 11500,
         "unlocks": [],
         "reputation": [
             {
                 "trader": "Ragman",
-                "rep": 0.03
+                "rep": 0.07
             }
         ],
         "objectives": [
@@ -5083,15 +5179,16 @@
         "title": "Database - Part 2",
         "locales": {
             "en": "Database - Part 2",
-            "ru": "Картотека. Часть 2"
+            "ru": "Картотека. Часть 2",
+            "cs": "Databáze - Část 2"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Database_-_Part_2",
-        "exp": 8500,
+        "exp": 11700,
         "unlocks": [],
         "reputation": [
             {
                 "trader": "Ragman",
-                "rep": 0.03
+                "rep": 0.07
             }
         ],
         "objectives": [
@@ -5125,15 +5222,16 @@
         "title": "Gratitude",
         "locales": {
             "en": "Gratitude",
-            "ru": "Благодарность"
+            "ru": "Благодарность",
+            "cs": "Vděčnost"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Gratitude",
-        "exp": 14400,
+        "exp": 16300,
         "unlocks": [],
         "reputation": [
             {
                 "trader": "Ragman",
-                "rep": 0.03
+                "rep": 0.07
             }
         ],
         "objectives": [
@@ -5181,17 +5279,16 @@
         "title": "Sales Night",
         "locales": {
             "en": "Sales Night",
-            "ru": "Ночь распродаж"
+            "ru": "Ночь распродаж",
+            "cs": "Noc slev"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Sales_Night",
-        "exp": 17500,
-        "unlocks": [
-            "5b40e2bc5acfc40016388216"
-        ],
+        "exp": 19800,
+        "unlocks": [],
         "reputation": [
             {
                 "trader": "Ragman",
-                "rep": 0.03
+                "rep": 0.09
             }
         ],
         "objectives": [
@@ -5218,7 +5315,8 @@
         "title": "Supervisor",
         "locales": {
             "en": "Supervisor",
-            "ru": "Супервайзер"
+            "ru": "Супервайзер",
+            "cs": "Dozorce"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Supervisor",
         "exp": 24100,
@@ -5255,17 +5353,16 @@
         "title": "Hot Delivery",
         "locales": {
             "en": "Hot Delivery",
-            "ru": "Горячая доставка"
+            "ru": "Горячая доставка",
+            "cs": "Horký zboží"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Hot_delivery",
-        "exp": 20300,
-        "unlocks": [
-            "5b44cd8b86f774503d30cba2"
-        ],
+        "exp": 25000,
+        "unlocks": [],
         "reputation": [
             {
                 "trader": "Ragman",
-                "rep": 0.04
+                "rep": 0.09
             }
         ],
         "objectives": [
@@ -5309,17 +5406,16 @@
         "title": "Scavenger",
         "locales": {
             "en": "Scavenger",
-            "ru": "Скавенжер"
+            "ru": "Скавенжер",
+            "cs": "Mrchožrout"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Scavenger",
-        "exp": 17700,
-        "unlocks": [
-            "5bffe7930db834001b734a39"
-        ],
+        "exp": 15400,
+        "unlocks": [],
         "reputation": [
             {
                 "trader": "Ragman",
-                "rep": 0.03
+                "rep": 0.11
             }
         ],
         "objectives": [
@@ -5346,7 +5442,8 @@
         "title": "Make ULTRA Great Again",
         "locales": {
             "en": "Make ULTRA Great Again",
-            "ru": "Вернем Ультре былое величие"
+            "ru": "Вернем Ультре былое величие",
+            "cs": "Udělat ULTRA opět nejlepší"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Make_ULTRA_Great_Again",
         "exp": 9800,
@@ -5354,7 +5451,7 @@
         "reputation": [
             {
                 "trader": "Ragman",
-                "rep": 0.02
+                "rep": 0.09
             }
         ],
         "objectives": [
@@ -5381,15 +5478,16 @@
         "title": "Minibus",
         "locales": {
             "en": "Minibus",
-            "ru": "Маршрутка"
+            "ru": "Маршрутка",
+            "cs": "Minibus"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Minibus",
-        "exp": 13800,
+        "exp": 16500,
         "unlocks": [],
         "reputation": [
             {
                 "trader": "Ragman",
-                "rep": 0.03
+                "rep": 0.07
             }
         ],
         "objectives": [
@@ -5436,7 +5534,8 @@
         "title": "Sew it good - Part 1",
         "locales": {
             "en": "Sew it good - Part 1",
-            "ru": "Шить - не тужить. Часть 1"
+            "ru": "Шить - не тужить. Часть 1",
+            "cs": "Ušíj to dobře - Část 1"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Sew_it_good_-_Part_1",
         "exp": 12300,
@@ -5444,7 +5543,7 @@
         "reputation": [
             {
                 "trader": "Ragman",
-                "rep": 0.02
+                "rep": 0.06
             }
         ],
         "objectives": [
@@ -5478,15 +5577,16 @@
         "title": "Sew it good - Part 2",
         "locales": {
             "en": "Sew it good - Part 2",
-            "ru": "Шить - не тужить. Часть 2"
+            "ru": "Шить - не тужить. Часть 2",
+            "cs": "Ušíj to dobře - Část 2"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Sew_it_good_-_Part_2",
-        "exp": 17500,
+        "exp": 18700,
         "unlocks": [],
         "reputation": [
             {
                 "trader": "Ragman",
-                "rep": 0.03
+                "rep": 0.09
             }
         ],
         "objectives": [
@@ -5522,15 +5622,16 @@
         "title": "Sew it good - Part 3",
         "locales": {
             "en": "Sew it good - Part 3",
-            "ru": "Шить - не тужить. Часть 3"
+            "ru": "Шить - не тужить. Часть 3",
+            "cs": "Ušíj to dobře - Část 3"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Sew_it_good_-_Part_3",
-        "exp": 18200,
+        "exp": 19700,
         "unlocks": [],
         "reputation": [
             {
                 "trader": "Ragman",
-                "rep": 0.03
+                "rep": 0.09
             }
         ],
         "objectives": [
@@ -5566,15 +5667,16 @@
         "title": "Sew it good - Part 4",
         "locales": {
             "en": "Sew it good - Part 4",
-            "ru": "Шить - не тужить. Часть 4"
+            "ru": "Шить - не тужить. Часть 4",
+            "cs": "Ušíj to dobře - Část 4"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Sew_it_good_-_Part_4",
-        "exp": 18500,
+        "exp": 20700,
         "unlocks": [],
         "reputation": [
             {
                 "trader": "Ragman",
-                "rep": 0.03
+                "rep": 0.09
             }
         ],
         "objectives": [
@@ -5608,16 +5710,17 @@
         "title": "Charisma brings success",
         "locales": {
             "en": "Charisma brings success",
-            "ru": "Харизма города берет"
+            "ru": "Харизма города берет",
+            "cs": "Charisma přináší úspěch"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Charisma_brings_success",
-        "exp": 15600,
+        "exp": 12700,
         "nokappa": true,
         "unlocks": [],
         "reputation": [
             {
                 "trader": "Ragman",
-                "rep": 0.03
+                "rep": 0.07
             }
         ],
         "objectives": [
@@ -5644,17 +5747,16 @@
         "title": "No fuss needed",
         "locales": {
             "en": "No fuss needed",
-            "ru": "Борода не нужна"
+            "ru": "Борода не нужна",
+            "cs": "Není třeba tropit povyk"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/No_fuss_needed",
-        "exp": 15800,
-        "unlocks": [
-            "5b40e1525acfc4771e1c6611"
-        ],
+        "exp": 12900,
+        "unlocks": [],
         "reputation": [
             {
                 "trader": "Ragman",
-                "rep": 0.03
+                "rep": 0.07
             }
         ],
         "objectives": [
@@ -5681,15 +5783,16 @@
         "title": "The Blood of War - Part 2",
         "locales": {
             "en": "The Blood of War - Part 2",
-            "ru": "Кровь войны. Часть 2"
+            "ru": "Кровь войны. Часть 2",
+            "cs": "Krev války - Část 2"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/The_Blood_of_War_-_Part_2",
-        "exp": 14600,
+        "exp": 15600,
         "unlocks": [],
         "reputation": [
             {
                 "trader": "Ragman",
-                "rep": 0.03
+                "rep": 0.07
             }
         ],
         "objectives": [
@@ -5716,17 +5819,16 @@
         "title": "The Blood of War - Part 3",
         "locales": {
             "en": "The Blood of War - Part 3",
-            "ru": "Кровь войны. Часть 3"
+            "ru": "Кровь войны. Часть 3",
+            "cs": "Krev války - Část 3"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/The_Blood_of_War_-_Part_3",
-        "exp": 21300,
-        "unlocks": [
-            "60a283193cb70855c43a381d"
-        ],
+        "exp": 21000,
+        "unlocks": [],
         "reputation": [
             {
                 "trader": "Ragman",
-                "rep": 0.04
+                "rep": 0.09
             }
         ],
         "objectives": [
@@ -5773,16 +5875,17 @@
         "title": "Living high is not a crime - Part 1",
         "locales": {
             "en": "Living high is not a crime - Part 1",
-            "ru": "Красиво жить не запретишь"
+            "ru": "Красиво жить не запретишь",
+            "cs": "Žít blaze, není zločin - Část 1"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Living_high_is_not_a_crime_-_Part_1",
-        "exp": 19900,
+        "exp": 23000,
         "nokappa": true,
         "unlocks": [],
         "reputation": [
             {
                 "trader": "Ragman",
-                "rep": 0.03
+                "rep": 0.09
             }
         ],
         "objectives": [
@@ -5830,17 +5933,16 @@
         "title": "Living high is not a crime - Part 2",
         "locales": {
             "en": "Living high is not a crime - Part 2",
-            "ru": "Красиво жить не запретишь. Часть 2"
+            "ru": "Красиво жить не запретишь. Часть 2",
+            "cs": "Žít blaze, není zločin - Část 2"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Living_high_is_not_a_crime_-_Part_2",
-        "exp": 25900,
-        "unlocks": [
-            "5d5d87f786f77427997cfaef"
-        ],
+        "exp": 29600,
+        "unlocks": [],
         "reputation": [
             {
                 "trader": "Ragman",
-                "rep": 0.05
+                "rep": 0.12
             }
         ],
         "objectives": [
@@ -5872,7 +5974,8 @@
         "title": "Introduction",
         "locales": {
             "en": "Introduction",
-            "ru": "Поручение"
+            "ru": "Поручение",
+            "cs": "Představení"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Introduction",
         "exp": 4500,
@@ -5880,7 +5983,7 @@
         "reputation": [
             {
                 "trader": "Mechanic",
-                "rep": 0.03
+                "rep": 0.05
             }
         ],
         "objectives": [
@@ -5907,15 +6010,16 @@
         "title": "Acquaintance",
         "locales": {
             "en": "Acquaintance",
-            "ru": "Знакомство"
+            "ru": "Знакомство",
+            "cs": "Známost"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Acquaintance",
-        "exp": 3900,
+        "exp": 4000,
         "unlocks": [],
         "reputation": [
             {
                 "trader": "Jaeger",
-                "rep": 0.01
+                "rep": 0.04
             }
         ],
         "objectives": [
@@ -5956,15 +6060,16 @@
         "title": "The survivalist path - Unprotected, but dangerous",
         "locales": {
             "en": "The survivalist path - Unprotected, but dangerous",
-            "ru": "Путь выживальщика. Беззащитен, но опасен"
+            "ru": "Путь выживальщика. Беззащитен, но опасен",
+            "cs": "Cesta přeživšího. Nechráněný, ale nebezpečný"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/The_survivalist_path_-_Unprotected,_but_dangerous",
-        "exp": 5600,
+        "exp": 7000,
         "unlocks": [],
         "reputation": [
             {
                 "trader": "Jaeger",
-                "rep": 0.02
+                "rep": 0.04
             }
         ],
         "objectives": [
@@ -5994,15 +6099,16 @@
         "title": "The survivalist path - Thrifty",
         "locales": {
             "en": "The survivalist path - Thrifty",
-            "ru": "Путь выживальщика. Запасливый"
+            "ru": "Путь выживальщика. Запасливый",
+            "cs": "Cesta přeživšího. Poctivý"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/The_survivalist_path_-_Thrifty",
-        "exp": 4700,
+        "exp": 6500,
         "unlocks": [],
         "reputation": [
             {
                 "trader": "Jaeger",
-                "rep": 0.02
+                "rep": 0.04
             }
         ],
         "objectives": [
@@ -6054,15 +6160,16 @@
         "title": "The survivalist path - Zhivchik",
         "locales": {
             "en": "The survivalist path - Zhivchik",
-            "ru": "Путь выживальщика. Живчик"
+            "ru": "Путь выживальщика. Живчик",
+            "cs": "Cesta přeživšího. Zhivchik"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/The_survivalist_path_-_Zhivchik",
-        "exp": 5700,
+        "exp": 9000,
         "unlocks": [],
         "reputation": [
             {
                 "trader": "Jaeger",
-                "rep": 0.02
+                "rep": 0.03
             }
         ],
         "objectives": [
@@ -6089,17 +6196,13 @@
         "title": "The survivalist path - Wounded beast",
         "locales": {
             "en": "The survivalist path - Wounded beast",
-            "ru": "Путь выживальщика. Раненый зверь"
+            "ru": "Путь выживальщика. Раненый зверь",
+            "cs": "Cesta přeživšího. Zraněná bestie"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/The_survivalist_path_-_Wounded_beast",
-        "exp": 5800,
+        "exp": 10000,
         "unlocks": [],
-        "reputation": [
-            {
-                "trader": "Jaeger",
-                "rep": 0.02
-            }
-        ],
+        "reputation": [],
         "objectives": [
             {
                 "type": "kill",
@@ -6127,17 +6230,13 @@
         "title": "The survivalist path - Tough guy",
         "locales": {
             "en": "The survivalist path - Tough guy",
-            "ru": "Путь выживальщика. Крепыш"
+            "ru": "Путь выживальщика. Крепыш",
+            "cs": "Cesta přeživšího. Tvrďák"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/The_survivalist_path_-_Tough_guy",
-        "exp": 7000,
+        "exp": 12000,
         "unlocks": [],
-        "reputation": [
-            {
-                "trader": "Jaeger",
-                "rep": 0.02
-            }
-        ],
+        "reputation": [],
         "objectives": [
             {
                 "type": "kill",
@@ -6166,10 +6265,11 @@
         "title": "Courtesy visit",
         "locales": {
             "en": "Courtesy visit",
-            "ru": "Визит вежливости"
+            "ru": "Визит вежливости",
+            "cs": "Zdvořilostní návštěva"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Courtesy_visit",
-        "exp": 11800,
+        "exp": 10000,
         "unlocks": [],
         "reputation": [
             {
@@ -6215,15 +6315,16 @@
         "title": "Nostalgia",
         "locales": {
             "en": "Nostalgia",
-            "ru": "Ностальгия"
+            "ru": "Ностальгия",
+            "cs": "Nostalgie"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Nostalgia",
-        "exp": 16800,
+        "exp": 10000,
         "unlocks": [],
         "reputation": [
             {
                 "trader": "Jaeger",
-                "rep": 0.02
+                "rep": 0.03
             }
         ],
         "objectives": [
@@ -6250,15 +6351,16 @@
         "title": "The Tarkov shooter - Part 1",
         "locales": {
             "en": "The Tarkov shooter - Part 1",
-            "ru": "Тарковский стрелок. Часть 1"
+            "ru": "Тарковский стрелок. Часть 1",
+            "cs": "\"Střelec z Tarkova\" - Část 1"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/%22The_Tarkov_shooter%22_-_Part_1",
-        "exp": 12300,
+        "exp": 18900,
         "unlocks": [],
         "reputation": [
             {
                 "trader": "Jaeger",
-                "rep": 0.02
+                "rep": 0.05
             }
         ],
         "objectives": [
@@ -6289,17 +6391,18 @@
         "title": "The Tarkov shooter - Part 2",
         "locales": {
             "en": "The Tarkov shooter - Part 2",
-            "ru": "Тарковский стрелок. Часть 2"
+            "ru": "Тарковский стрелок. Часть 2",
+            "cs": "\"Střelec z Tarkova\" - Část 2"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/%22The_Tarkov_shooter%22_-_Part_2",
-        "exp": 12400,
+        "exp": 19200,
         "unlocks": [
             "5bc5a372d4351e44f824d17f"
         ],
         "reputation": [
             {
                 "trader": "Jaeger",
-                "rep": 0.02
+                "rep": 0.05
             }
         ],
         "objectives": [
@@ -6343,10 +6446,11 @@
         "title": "The Tarkov shooter - Part 3",
         "locales": {
             "en": "The Tarkov shooter - Part 3",
-            "ru": "Тарковский стрелок. Часть 3"
+            "ru": "Тарковский стрелок. Часть 3",
+            "cs": "\"Střelec z Tarkova\" - Část 3"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/%22The_Tarkov_shooter%22_-_Part_3",
-        "exp": 10500,
+        "exp": 16200,
         "unlocks": [
             "5bbdb83fd4351e44f824c44b",
             "5bbde409d4351e003562b036"
@@ -6354,7 +6458,7 @@
         "reputation": [
             {
                 "trader": "Jaeger",
-                "rep": 0.02
+                "rep": 0.04
             }
         ],
         "objectives": [
@@ -6385,10 +6489,11 @@
         "title": "The Tarkov shooter - Part 4",
         "locales": {
             "en": "The Tarkov shooter - Part 4",
-            "ru": "Тарковский стрелок. Часть 4"
+            "ru": "Тарковский стрелок. Часть 4",
+            "cs": "\"Střelec z Tarkova\" - Část 4"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/%22The_Tarkov_shooter%22_-_Part_4",
-        "exp": 11800,
+        "exp": 16400,
         "unlocks": [
             "5bbdb811d4351e45020113c7",
             "5bbde41ed4351e003562b038"
@@ -6396,7 +6501,7 @@
         "reputation": [
             {
                 "trader": "Jaeger",
-                "rep": 0.02
+                "rep": 0.04
             }
         ],
         "objectives": [
@@ -6423,17 +6528,18 @@
         "title": "The Tarkov shooter - Part 5",
         "locales": {
             "en": "The Tarkov shooter - Part 5",
-            "ru": "Тарковский стрелок. Часть 5"
+            "ru": "Тарковский стрелок. Часть 5",
+            "cs": "\"Střelec z Tarkova\" - Část 5"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/%22The_Tarkov_shooter%22_-_Part_5",
-        "exp": 13000,
+        "exp": 20000,
         "unlocks": [
             "5bc5a351d4351e003477a414"
         ],
         "reputation": [
             {
                 "trader": "Jaeger",
-                "rep": 0.04
+                "rep": 0.05
             }
         ],
         "objectives": [
@@ -6464,17 +6570,18 @@
         "title": "The Tarkov shooter - Part 6",
         "locales": {
             "en": "The Tarkov shooter - Part 6",
-            "ru": "Тарковский стрелок. Часть 6"
+            "ru": "Тарковский стрелок. Часть 6",
+            "cs": "\"Střelec z Tarkova\" - Část 6"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/%22The_Tarkov_shooter%22_-_Part_6",
-        "exp": 13100,
+        "exp": 20300,
         "unlocks": [
             "5bbdb870d4351e00367fb67d"
         ],
         "reputation": [
             {
                 "trader": "Jaeger",
-                "rep": 0.02
+                "rep": 0.05
             }
         ],
         "objectives": [
@@ -6505,17 +6612,18 @@
         "title": "The Tarkov shooter - Part 7",
         "locales": {
             "en": "The Tarkov shooter - Part 7",
-            "ru": "Тарковский стрелок. Часть 7"
+            "ru": "Тарковский стрелок. Часть 7",
+            "cs": "\"Střelec z Tarkova\" - Část 7"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/%22The_Tarkov_shooter%22_-_Part_7",
-        "exp": 13300,
+        "exp": 20700,
         "unlocks": [
             "5bc5a35cd4351e450201232f"
         ],
         "reputation": [
             {
                 "trader": "Jaeger",
-                "rep": 0.04
+                "rep": 0.05
             }
         ],
         "objectives": [
@@ -6546,7 +6654,8 @@
         "title": "The Tarkov shooter - Part 8",
         "locales": {
             "en": "The Tarkov shooter - Part 8",
-            "ru": "Тарковский стрелок. Часть 8"
+            "ru": "Тарковский стрелок. Часть 8",
+            "cs": "\"Střelec z Tarkova\" - Část 8"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/%22The_Tarkov_shooter%22_-_Part_8",
         "exp": 25200,
@@ -6588,15 +6697,16 @@
         "title": "The survivalist path - Cold blooded",
         "locales": {
             "en": "The survivalist path - Cold blooded",
-            "ru": "Путь выживальщика. Хладнокровный"
+            "ru": "Путь выживальщика. Хладнокровный",
+            "cs": "Cesta přeživšího. Chladnokrevný"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/The_survivalist_path_-_Cold_blooded",
-        "exp": 5900,
+        "exp": 11000,
         "unlocks": [],
         "reputation": [
             {
                 "trader": "Jaeger",
-                "rep": 0.02
+                "rep": 0.04
             }
         ],
         "objectives": [
@@ -6627,16 +6737,17 @@
         "title": "Colleagues - Part 2",
         "locales": {
             "en": "Colleagues - Part 2",
-            "ru": "Коллеги. Часть 2"
+            "ru": "Коллеги. Часть 2",
+            "cs": "Kolegové - Část 2"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Colleagues_-_Part_2",
-        "exp": 12300,
+        "exp": 13200,
         "nokappa": true,
         "unlocks": [],
         "reputation": [
             {
                 "trader": "Therapist",
-                "rep": 0.04
+                "rep": 0.12
             }
         ],
         "objectives": [
@@ -6679,20 +6790,17 @@
         "title": "Colleagues - Part 3",
         "locales": {
             "en": "Colleagues - Part 3",
-            "ru": "Коллеги. Часть 3"
+            "ru": "Коллеги. Часть 3",
+            "cs": "Kolegové - Část 3"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Colleagues_-_Part_3",
-        "exp": 15800,
+        "exp": 13200,
         "nokappa": true,
         "unlocks": [],
         "reputation": [
             {
                 "trader": "Therapist",
-                "rep": 0.04
-            },
-            {
-                "trader": "Jaeger",
-                "rep": -0.04
+                "rep": 0.12
             }
         ],
         "objectives": [
@@ -6750,15 +6858,16 @@
         "title": "The survivalist path - Combat medic",
         "locales": {
             "en": "The survivalist path - Combat medic",
-            "ru": "Путь выживальщика. Боевой медик"
+            "ru": "Путь выживальщика. Боевой медик",
+            "cs": "Cesta přeživšího. Bojový medik"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/The_survivalist_path_-_Combat_medic",
-        "exp": 5900,
+        "exp": 14000,
         "unlocks": [],
         "reputation": [
             {
                 "trader": "Jaeger",
-                "rep": 0.02
+                "rep": 0.04
             }
         ],
         "objectives": [
@@ -6785,17 +6894,18 @@
         "title": "Ambulance",
         "locales": {
             "en": "Ambulance",
-            "ru": "Скорая помощь"
+            "ru": "Скорая помощь",
+            "cs": "Sanitka"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Ambulance",
-        "exp": 14800,
+        "exp": 12000,
         "unlocks": [
             "5d02797c86f774203f38e30a"
         ],
         "reputation": [
             {
                 "trader": "Jaeger",
-                "rep": 0.02
+                "rep": 0.03
             }
         ],
         "objectives": [
@@ -6829,15 +6939,16 @@
         "title": "Huntsman path - Secured perimeter",
         "locales": {
             "en": "Huntsman path - Secured perimeter",
-            "ru": "Путь охотника. Охранка"
+            "ru": "Путь охотника. Охранка",
+            "cs": "Cesta lovce. Zajištěný perimetr"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Huntsman_path_-_Secured_perimeter",
-        "exp": 5900,
+        "exp": 14000,
         "unlocks": [],
         "reputation": [
             {
                 "trader": "Jaeger",
-                "rep": 0.02
+                "rep": 0.03
             }
         ],
         "objectives": [
@@ -6864,18 +6975,19 @@
         },
         "giver": "Jaeger",
         "turnin": "Jaeger",
-        "title": "Reserve",
+        "title": "Reserv",
         "locales": {
-            "en": "Reserve",
-            "ru": "Резерв"
+            "en": "Reserv",
+            "ru": "Резерв",
+            "cs": "Rezerva"
         },
-        "wiki": "https://escapefromtarkov.fandom.com/wiki/Reserve_(quest)",
-        "exp": 11800,
+        "wiki": "https://escapefromtarkov.gamepedia.com/Reserv",
+        "exp": 9000,
         "unlocks": [],
         "reputation": [
             {
                 "trader": "Jaeger",
-                "rep": 0.02
+                "rep": 0.03
             }
         ],
         "objectives": [
@@ -6902,15 +7014,16 @@
         "title": "Huntsman path - Woods cleaning",
         "locales": {
             "en": "Huntsman path - Woods cleaning",
-            "ru": "Путь охотника. Очистка леса"
+            "ru": "Путь охотника. Очистка леса",
+            "cs": "Cesta lovce. Čistění lesa"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Huntsman_path_-_Woods_cleaning",
-        "exp": 5900,
+        "exp": 18000,
         "unlocks": [],
         "reputation": [
             {
                 "trader": "Jaeger",
-                "rep": 0.02
+                "rep": 0.04
             }
         ],
         "objectives": [
@@ -6937,16 +7050,17 @@
         "title": "Huntsman path - Controller",
         "locales": {
             "en": "Huntsman path - Controller",
-            "ru": "Путь охотника. Контролёр"
+            "ru": "Путь охотника. Контролёр",
+            "cs": "Cesta lovce. Dohled"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Huntsman_path_-_Controller",
-        "exp": 7200,
+        "exp": 21000,
         "nokappa": true,
         "unlocks": [],
         "reputation": [
             {
                 "trader": "Jaeger",
-                "rep": 0.02
+                "rep": 0.04
             }
         ],
         "objectives": [
@@ -6976,16 +7090,17 @@
         "title": "Huntsman path - Evil watchman",
         "locales": {
             "en": "Huntsman path - Evil watchman",
-            "ru": "Путь охотника. Злой вахтёр"
+            "ru": "Путь охотника. Злой вахтёр",
+            "cs": "Cesta lovce. Zlý hlídač"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Huntsman_path_-_Evil_watchman",
-        "exp": 6000,
+        "exp": 21000,
         "nokappa": true,
         "unlocks": [],
         "reputation": [
             {
                 "trader": "Jaeger",
-                "rep": 0.02
+                "rep": 0.04
             }
         ],
         "objectives": [
@@ -7015,15 +7130,16 @@
         "title": "Fishing place",
         "locales": {
             "en": "Fishing place",
-            "ru": "Рыбное место"
+            "ru": "Рыбное место",
+            "cs": "Rybářské místo"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Fishing_place",
-        "exp": 18000,
+        "exp": 15000,
         "unlocks": [],
         "reputation": [
             {
                 "trader": "Jaeger",
-                "rep": 0.02
+                "rep": 0.04
             }
         ],
         "objectives": [
@@ -7050,15 +7166,16 @@
         "title": "Huntsman path - The trophy",
         "locales": {
             "en": "Huntsman path - The trophy",
-            "ru": "Путь охотника. Трофей"
+            "ru": "Путь охотника. Трофей",
+            "cs": "Cesta lovce. Trofej"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Huntsman_path_-_The_trophy",
-        "exp": 7100,
+        "exp": 20000,
         "unlocks": [],
         "reputation": [
             {
                 "trader": "Jaeger",
-                "rep": 0.04
+                "rep": 0.05
             }
         ],
         "objectives": [
@@ -7092,16 +7209,17 @@
         "title": "Huntsman path - Justice",
         "locales": {
             "en": "Huntsman path - Justice",
-            "ru": "Путь охотника. Справедливость"
+            "ru": "Путь охотника. Справедливость",
+            "cs": "Cesta lovce. Spravedlnost"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Huntsman_path_-_Justice",
-        "exp": 7200,
+        "exp": 20000,
         "nokappa": true,
         "unlocks": [],
         "reputation": [
             {
                 "trader": "Jaeger",
-                "rep": 0.02
+                "rep": 0.05
             }
         ],
         "objectives": [
@@ -7128,18 +7246,19 @@
         },
         "giver": "Jaeger",
         "turnin": "Jaeger",
-        "title": "Huntsman path - Sellout",
+        "title": "Huntsman path - Sell-out",
         "locales": {
-            "en": "Huntsman path - Sellout",
-            "ru": "Путь охотника. Переучёт"
+            "en": "Huntsman path - Sell-out",
+            "ru": "Путь охотника. Переучёт",
+            "cs": "Cesta lovce. Zaprodanec"
         },
-        "wiki": "https://escapefromtarkov.fandom.com/wiki/Huntsman_path_-_Sellout",
-        "exp": 7200,
+        "wiki": "https://escapefromtarkov.gamepedia.com/Huntsman_path_-_Sell-out",
+        "exp": 23000,
         "unlocks": [],
         "reputation": [
             {
                 "trader": "Jaeger",
-                "rep": 0.04
+                "rep": 0.05
             }
         ],
         "objectives": [
@@ -7173,15 +7292,16 @@
         "title": "Huntsman path - Woods keeper",
         "locales": {
             "en": "Huntsman path - Woods keeper",
-            "ru": "Путь охотника. Санитар леса"
+            "ru": "Путь охотника. Санитар леса",
+            "cs": "Cesta lovce. Lesník"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Huntsman_path_-_Woods_keeper",
-        "exp": 7300,
+        "exp": 25000,
         "unlocks": [],
         "reputation": [
             {
                 "trader": "Jaeger",
-                "rep": 0.02
+                "rep": 0.05
             }
         ],
         "objectives": [
@@ -7215,15 +7335,16 @@
         "title": "Huntsman path - Eraser - Part 1",
         "locales": {
             "en": "Huntsman path - Eraser - Part 1",
-            "ru": "Путь охотника. Стиратель"
+            "ru": "Путь охотника. Стиратель",
+            "cs": "Cesta lovce. Čistič - Část 1"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Huntsman_path_-_Eraser_-_Part_1",
-        "exp": 8900,
+        "exp": 30000,
         "unlocks": [],
         "reputation": [
             {
                 "trader": "Jaeger",
-                "rep": 0.02
+                "rep": 0.05
             }
         ],
         "objectives": [
@@ -7250,15 +7371,16 @@
         "title": "Huntsman path - Eraser - Part 2",
         "locales": {
             "en": "Huntsman path - Eraser - Part 2",
-            "ru": "Путь охотника. Стиратель 2"
+            "ru": "Путь охотника. Стиратель 2",
+            "cs": "Cesta lovce. Čistič - Část 2"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Huntsman_path_-_Eraser_-_Part_2",
-        "exp": 17000,
+        "exp": 30000,
         "unlocks": [],
         "reputation": [
             {
                 "trader": "Jaeger",
-                "rep": 0.04
+                "rep": 0.05
             }
         ],
         "objectives": [
@@ -7285,10 +7407,11 @@
         "title": "Hunting trip",
         "locales": {
             "en": "Hunting trip",
-            "ru": "На охоту"
+            "ru": "На охоту",
+            "cs": "Lov"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Hunting_trip",
-        "exp": 22200,
+        "exp": 16000,
         "nokappa": true,
         "unlocks": [
             "5d383ee786f7742a15793860",
@@ -7299,7 +7422,7 @@
         "reputation": [
             {
                 "trader": "Jaeger",
-                "rep": 0.02
+                "rep": 0.04
             }
         ],
         "objectives": [
@@ -7330,19 +7453,20 @@
         "title": "Operation Aquarius - Part 1",
         "locales": {
             "en": "Operation Aquarius - Part 1",
-            "ru": "Операция «Водолей»"
+            "ru": "Операция «Водолей»",
+            "cs": "Operace Vodnář - Část 1"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Operation_Aquarius_-_Part_1",
-        "exp": 3300,
+        "exp": 3400,
         "unlocks": [],
         "reputation": [
             {
                 "trader": "Therapist",
-                "rep": 0.03
+                "rep": 0.09
             },
             {
                 "trader": "Skier",
-                "rep": -0.02
+                "rep": -0.08
             }
         ],
         "objectives": [
@@ -7376,7 +7500,8 @@
         "title": "Operation Aquarius - Part 2",
         "locales": {
             "en": "Operation Aquarius - Part 2",
-            "ru": "Операция «Водолей». Часть 2"
+            "ru": "Операция «Водолей». Часть 2",
+            "cs": "Operace Vodnář - Část 2"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Operation_Aquarius_-_Part_2",
         "exp": 3400,
@@ -7386,11 +7511,11 @@
         "reputation": [
             {
                 "trader": "Therapist",
-                "rep": 0.03
+                "rep": 0.09
             },
             {
                 "trader": "Skier",
-                "rep": -0.02
+                "rep": -0.08
             }
         ],
         "objectives": [
@@ -7417,15 +7542,16 @@
         "title": "Polikhim hobo",
         "locales": {
             "en": "Polikhim hobo",
-            "ru": "Бомж с Полихима"
+            "ru": "Бомж с Полихима",
+            "cs": "Polikhimský tulák"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Polikhim_hobo",
-        "exp": 5900,
+        "exp": 7000,
         "unlocks": [],
         "reputation": [
             {
                 "trader": "Prapor",
-                "rep": 0.02
+                "rep": 0.1
             }
         ],
         "objectives": [
@@ -7452,18 +7578,17 @@
         "title": "Regulated materials",
         "locales": {
             "en": "Regulated materials",
-            "ru": "Поставщик"
+            "ru": "Поставщик",
+            "cs": "Regulované materiály"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Regulated_materials",
-        "exp": 14800,
+        "exp": 0,
         "nokappa": true,
-        "unlocks": [
-            "5cadfbf7ae92152ac412eeef"
-        ],
+        "unlocks": [],
         "reputation": [
             {
                 "trader": "Prapor",
-                "rep": 0.02
+                "rep": 0.1
             }
         ],
         "objectives": [
@@ -7497,25 +7622,26 @@
         "title": "Stirrup",
         "locales": {
             "en": "Stirrup",
-            "ru": "Движуха"
+            "ru": "Движуха",
+            "cs": "Zmatek"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Stirrup",
-        "exp": 5300,
+        "exp": 4700,
         "unlocks": [
             "59e6687d86f77411d949b251"
         ],
         "reputation": [
             {
                 "trader": "Skier",
-                "rep": 0.05
+                "rep": 0.12
             },
             {
                 "trader": "Prapor",
-                "rep": -0.05
+                "rep": -0.12
             },
             {
                 "trader": "Therapist",
-                "rep": -0.02
+                "rep": -0.05
             }
         ],
         "objectives": [
@@ -7545,7 +7671,8 @@
         "title": "Mentor",
         "locales": {
             "en": "Mentor",
-            "ru": "Наставник"
+            "ru": "Наставник",
+            "cs": "Mentor"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Mentor",
         "exp": 4700,
@@ -7576,15 +7703,16 @@
         "title": "Bad habit",
         "locales": {
             "en": "Bad habit",
-            "ru": "Вредная привычка"
+            "ru": "Вредная привычка",
+            "cs": "Zlozvyk"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Bad_habit",
-        "exp": 6700,
+        "exp": 9000,
         "unlocks": [],
         "reputation": [
             {
                 "trader": "Mechanic",
-                "rep": 0.02
+                "rep": 0.04
             }
         ],
         "objectives": [
@@ -7625,17 +7753,16 @@
         "title": "The key to success",
         "locales": {
             "en": "The key to success",
-            "ru": "Секрет успеха"
+            "ru": "Секрет успеха",
+            "cs": "Klíč k úspěchu"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/The_key_to_success",
-        "exp": 15600,
-        "unlocks": [
-            "6034d2d697633951dc245ea6"
-        ],
+        "exp": 18100,
+        "unlocks": [],
         "reputation": [
             {
                 "trader": "Ragman",
-                "rep": 0.03
+                "rep": 0.07
             }
         ],
         "objectives": [
@@ -7671,15 +7798,16 @@
         "title": "Shady Business",
         "locales": {
             "en": "Shady Business",
-            "ru": "Мутное дело"
+            "ru": "Мутное дело",
+            "cs": "Pochybný obchod"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Shady_business",
-        "exp": 11400,
+        "exp": 11000,
         "unlocks": [],
         "reputation": [
             {
                 "trader": "Jaeger",
-                "rep": 0.02
+                "rep": 0.04
             }
         ],
         "objectives": [
@@ -7706,15 +7834,16 @@
         "title": "Postman Pat - Part 2",
         "locales": {
             "en": "Postman Pat - Part 2",
-            "ru": "Почтальон Печкин. Часть 2"
+            "ru": "Почтальон Печкин. Часть 2",
+            "cs": "Pošťák Pat - Část 2"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Postman_Pat_-_Part_2",
-        "exp": 3500,
+        "exp": 4200,
         "unlocks": [],
         "reputation": [
             {
                 "trader": "Therapist",
-                "rep": 0.02
+                "rep": 0.06
             }
         ],
         "objectives": [
@@ -7741,21 +7870,24 @@
         "title": "Out of curiosity",
         "locales": {
             "en": "Out of curiosity",
-            "ru": "Простое любопытство"
+            "ru": "Простое любопытство",
+            "cs": "Ze zvědavosti"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Out_of_curiosity",
-        "exp": 7700,
+        "exp": 8300,
         "unlocks": [],
         "reputation": [
             {
-                "trader": "Therapist",
-                "rep": 0.04
-            }
-        ],
-        "reputationFailure": [
+                "trader": "Skier",
+                "rep": -0.3
+            },
             {
                 "trader": "Therapist",
-                "rep": -0.25
+                "rep": 0.3
+            },
+            {
+                "trader": "Prapor",
+                "rep": -0.15
             }
         ],
         "objectives": [
@@ -7787,25 +7919,28 @@
         "title": "Big customer",
         "locales": {
             "en": "Big customer",
-            "ru": "Большой заказчик"
+            "ru": "Большой заказчик",
+            "cs": "Velký zákazník"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Big_customer",
-        "exp": 8100,
+        "exp": 8200,
         "unlocks": [],
         "reputation": [
             {
+                "trader": "Skier",
+                "rep": -0.3
+            },
+            {
+                "trader": "Therapist",
+                "rep": -0.3
+            },
+            {
                 "trader": "Prapor",
-                "rep": 0.03
+                "rep": 0.1
             },
             {
                 "trader": "Jaeger",
                 "rep": -0.01
-            }
-        ],
-        "reputationFailure": [
-            {
-                "trader": "Prapor",
-                "rep": -0.25
             }
         ],
         "objectives": [
@@ -7836,15 +7971,16 @@
         "title": "The survivalist path - Junkie",
         "locales": {
             "en": "The survivalist path - Junkie",
-            "ru": "Путь выживальщика. Торчок"
+            "ru": "Путь выживальщика. Торчок",
+            "cs": "Cesta přeživšího. Feťák"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/The_survivalist_path_-_Junkie",
-        "exp": 5900,
+        "exp": 12000,
         "unlocks": [],
         "reputation": [
             {
                 "trader": "Jaeger",
-                "rep": 0.02
+                "rep": 0.03
             }
         ],
         "objectives": [
@@ -7874,7 +8010,8 @@
         "title": "Textile - Part 1",
         "locales": {
             "en": "Textile - Part 1",
-            "ru": "Текстиль. Часть 1"
+            "ru": "Текстиль. Часть 1",
+            "cs": "Textil - Část 1"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Textile_-_Part_1",
         "exp": 0,
@@ -7919,7 +8056,8 @@
         "title": "Textile - Part 2",
         "locales": {
             "en": "Textile - Part 2",
-            "ru": "Текстиль. Часть 2"
+            "ru": "Текстиль. Часть 2",
+            "cs": "Textil - Část 2"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Textile_-_Part_2",
         "exp": 0,
@@ -7964,16 +8102,17 @@
         "title": "Anesthesia",
         "locales": {
             "en": "Anesthesia",
-            "ru": "Анестезия"
+            "ru": "Анестезия",
+            "cs": "Anestézie"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Anesthesia",
-        "exp": 18100,
+        "exp": 12600,
         "nokappa": true,
         "unlocks": [],
         "reputation": [
             {
                 "trader": "Prapor",
-                "rep": 0.04
+                "rep": 0.1
             }
         ],
         "objectives": [
@@ -8020,16 +8159,17 @@
         "title": "Colleagues - Part 1",
         "locales": {
             "en": "Colleagues - Part 1",
-            "ru": "Коллеги. Часть 1"
+            "ru": "Коллеги. Часть 1",
+            "cs": "Kolegové - Část 1"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Colleagues_-_Part_1",
-        "exp": 12300,
+        "exp": 12600,
         "nokappa": true,
         "unlocks": [],
         "reputation": [
             {
                 "trader": "Therapist",
-                "rep": 0.04
+                "rep": 0.08
             }
         ],
         "objectives": [
@@ -8070,16 +8210,17 @@
         "title": "Rigged game",
         "locales": {
             "en": "Rigged game",
-            "ru": "Игра на верняк"
+            "ru": "Игра на верняк",
+            "cs": "Zmanipulovaná hra"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Rigged_game",
-        "exp": 12900,
+        "exp": 13200,
         "nokappa": true,
         "unlocks": [],
         "reputation": [
             {
                 "trader": "Skier",
-                "rep": 0.05
+                "rep": 0.1
             }
         ],
         "objectives": [
@@ -8121,19 +8262,20 @@
         },
         "giver": "Mechanic",
         "turnin": "Mechanic",
-        "title": "Chemistry closet",
+        "title": "The chemistry closet",
         "locales": {
-            "en": "Chemistry closet",
-            "ru": "Кабинет химии"
+            "en": "The chemistry closet",
+            "ru": "Кабинет химии",
+            "cs": "Skříňka s chemikáliemi"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Chemistry_closet",
-        "exp": 13400,
+        "wiki": "https://escapefromtarkov.gamepedia.com/The_chemistry_closet",
+        "exp": 13800,
         "nokappa": true,
         "unlocks": [],
         "reputation": [
             {
                 "trader": "Mechanic",
-                "rep": 0.05
+                "rep": 0.14
             }
         ],
         "objectives": [
@@ -8167,19 +8309,17 @@
         "title": "Samples",
         "locales": {
             "en": "Samples",
-            "ru": "Образцы"
+            "ru": "Образцы",
+            "cs": "Vzorky"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Samples",
-        "exp": 15300,
+        "exp": 13200,
         "nokappa": true,
-        "unlocks": [
-            "5e00c1ad86f774747333222c",
-            "5a16b7e1fcdbcb00165aa6c9"
-        ],
+        "unlocks": [],
         "reputation": [
             {
                 "trader": "Peacekeeper",
-                "rep": 0.04
+                "rep": 0.12
             }
         ],
         "objectives": [
@@ -8249,16 +8389,17 @@
         "title": "TerraGroup employee",
         "locales": {
             "en": "TerraGroup employee",
-            "ru": "Сотрудник Terragroup"
+            "ru": "Сотрудник Terragroup",
+            "cs": "TerraGroup zaměstnanec"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/TerraGroup_employee",
-        "exp": 17000,
+        "exp": 14400,
         "nokappa": true,
         "unlocks": [],
         "reputation": [
             {
                 "trader": "Peacekeeper",
-                "rep": 0.04
+                "rep": 0.2
             }
         ],
         "objectives": [
@@ -8301,20 +8442,21 @@
         "title": "Huntsman path - Sadist",
         "locales": {
             "en": "Huntsman path - Sadist",
-            "ru": "Путь охотника. Садист"
+            "ru": "Путь охотника. Садист",
+            "cs": "Cesta lovce. Sadista"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Huntsman_path_-_Sadist",
-        "exp": 16300,
+        "exp": 13800,
         "nokappa": true,
         "unlocks": [],
         "reputation": [
             {
                 "trader": "Jaeger",
-                "rep": 0.04
+                "rep": 0.2
             },
             {
                 "trader": "Therapist",
-                "rep": -0.02
+                "rep": -0.2
             }
         ],
         "objectives": [
@@ -8344,16 +8486,17 @@
         "title": "The bunker - Part 1",
         "locales": {
             "en": "The bunker - Part 1",
-            "ru": "Бункер. Часть 1"
+            "ru": "Бункер. Часть 1",
+            "cs": "Bunkr - Část 1"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/The_bunker_-_Part_1",
-        "exp": 5700,
+        "exp": 6000,
         "nokappa": true,
         "unlocks": [],
         "reputation": [
             {
                 "trader": "Prapor",
-                "rep": 0.03
+                "rep": 0.08
             }
         ],
         "objectives": [
@@ -8387,16 +8530,17 @@
         "title": "The bunker - Part 2",
         "locales": {
             "en": "The bunker - Part 2",
-            "ru": "Бункер. Часть 2"
+            "ru": "Бункер. Часть 2",
+            "cs": "Bunkr - Část 2"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/The_bunker_-_Part_2",
-        "exp": 9200,
+        "exp": 6600,
         "nokappa": true,
         "unlocks": [],
         "reputation": [
             {
                 "trader": "Prapor",
-                "rep": 0.03
+                "rep": 0.08
             }
         ],
         "objectives": [
@@ -8451,15 +8595,16 @@
         "title": "Search mission",
         "locales": {
             "en": "Search mission",
-            "ru": "Поисковая миссия"
+            "ru": "Поисковая миссия",
+            "cs": "Záchranná mise"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Search_mission",
-        "exp": 2800,
+        "exp": 2000,
         "unlocks": [],
         "reputation": [
             {
                 "trader": "Prapor",
-                "rep": 0.02
+                "rep": 0.04
             }
         ],
         "objectives": [
@@ -8493,7 +8638,8 @@
         "title": "The stylish one",
         "locales": {
             "en": "The stylish one",
-            "ru": "Модник"
+            "ru": "Модник",
+            "cs": "Stylový"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/The_stylish_one",
         "exp": 0,
@@ -8523,15 +8669,16 @@
         "title": "The survivalist path - Eagle-owl",
         "locales": {
             "en": "The survivalist path - Eagle-owl",
-            "ru": "Путь выживальщика. Филин"
+            "ru": "Путь выживальщика. Филин",
+            "cs": "Cesta přeživšího. Výr"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/The_survivalist_path_-_Eagle-owl",
-        "exp": 5900,
+        "exp": 13000,
         "unlocks": [],
         "reputation": [
             {
                 "trader": "Jaeger",
-                "rep": 0.02
+                "rep": 0.03
             }
         ],
         "objectives": [
@@ -8607,8 +8754,7 @@
                 181,
                 193,
                 196,
-                197,
-                206
+                197
             ]
         },
         "giver": "Fence",
@@ -8616,7 +8762,8 @@
         "title": "Collector",
         "locales": {
             "en": "Collector",
-            "ru": "Коллекционер"
+            "ru": "Коллекционер",
+            "cs": "Kolektor"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Collector",
         "exp": 0,
@@ -8799,7 +8946,8 @@
         "title": "An apple a day - keeps the doctor away",
         "locales": {
             "en": "An apple a day - keeps the doctor away",
-            "ru": "В здоровом теле - здоровый дух"
+            "ru": "В здоровом теле - здоровый дух",
+            "cs": "Jablko denně, u lékaře méně"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/An_apple_a_day_-_keeps_the_doctor_away",
         "exp": 0,
@@ -8836,7 +8984,8 @@
         "title": "Hunter",
         "locales": {
             "en": "Hunter",
-            "ru": "Охотник"
+            "ru": "Охотник",
+            "cs": "Lovec"
         },
         "wiki": "https://escapefromtarkov.fandom.com/wiki/Hunter",
         "exp": 0,
@@ -8872,7 +9021,8 @@
         "title": "No offence",
         "locales": {
             "en": "No offence",
-            "ru": "Без обид"
+            "ru": "Без обид",
+            "cs": "Bez urážky"
         },
         "wiki": "https://escapefromtarkov.fandom.com/wiki/No_offence",
         "exp": 0,
@@ -8880,7 +9030,7 @@
         "reputation": [
             {
                 "trader": "Prapor",
-                "rep": 0.25
+                "rep": 0.4
             }
         ],
         "nokappa": true,
@@ -8911,7 +9061,8 @@
         "title": "Trust regain",
         "locales": {
             "en": "Trust regain",
-            "ru": "Забудем старые обиды"
+            "ru": "Забудем старые обиды",
+            "cs": "Důvěra obnovena"
         },
         "wiki": "https://escapefromtarkov.fandom.com/wiki/Trust_regain",
         "exp": 0,
@@ -8919,7 +9070,7 @@
         "reputation": [
             {
                 "trader": "Therapist",
-                "rep": 0.25
+                "rep": 0.3
             }
         ],
         "nokappa": true,
@@ -8971,7 +9122,8 @@
         "title": "Loyalty buyout",
         "locales": {
             "en": "Loyalty buyout",
-            "ru": "Выкуп доверия"
+            "ru": "Выкуп доверия",
+            "cs": "Vyplatit se"
         },
         "wiki": "https://escapefromtarkov.fandom.com/wiki/Loyalty_buyout",
         "exp": 0,
@@ -8979,7 +9131,7 @@
         "reputation": [
             {
                 "trader": "Skier",
-                "rep": 0.25
+                "rep": 0.3
             }
         ],
         "nokappa": true,
@@ -9008,7 +9160,8 @@
         "title": "Hippocratic Vow",
         "locales": {
             "en": "Hippocratic Vow",
-            "ru": "Клятва Гиппократу"
+            "ru": "Клятва Гиппократу",
+            "cs": "Hypokratova přísaha"
         },
         "wiki": "https://escapefromtarkov.fandom.com/wiki/Hippocratic_Vow",
         "exp": 0,
@@ -9051,7 +9204,8 @@
         "title": "Disease history",
         "locales": {
             "en": "Disease history",
-            "ru": "Медицинский журнал"
+            "ru": "Медицинский журнал",
+            "cs": "Historie nemocí"
         },
         "wiki": "https://escapefromtarkov.fandom.com/wiki/Disease_history",
         "exp": 7200,
@@ -9106,12 +9260,13 @@
         },
         "giver": "Ragman",
         "turnin": "Ragman",
-        "title": "A fuel matter",
+        "title": "Fuel matter",
         "locales": {
-            "en": "A fuel matter",
-            "ru": "Топливный вопрос"
+            "en": "Fuel matter",
+            "ru": "Топливный вопрос",
+            "cs": "Na palivu záleží"
         },
-        "wiki": "https://escapefromtarkov.fandom.com/wiki/A_fuel_matter",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Fuel_matter",
         "exp": 8200,
         "unlocks": [],
         "reputation": [
@@ -9154,10 +9309,11 @@
         "title": "Surplus Goods",
         "locales": {
             "en": "Surplus Goods",
-            "ru": "Военный хабар"
+            "ru": "Военный хабар",
+            "cs": "Přebytečné zboží"
         },
         "wiki": "https://escapefromtarkov.fandom.com/wiki/Surplus_goods",
-        "exp": 7500,
+        "exp": 9200,
         "unlocks": [],
         "reputation": [
             {
@@ -9197,7 +9353,8 @@
         "title": "Back door",
         "locales": {
             "en": "Back door",
-            "ru": "Чёрный выход"
+            "ru": "Чёрный выход",
+            "cs": "Zadní dveře"
         },
         "wiki": "https://escapefromtarkov.fandom.com/wiki/Back_door",
         "exp": 8200,
@@ -9233,7 +9390,8 @@
         "title": "Revision",
         "locales": {
             "en": "Revision",
-            "ru": "Ревизия"
+            "ru": "Ревизия",
+            "cs": "Revize"
         },
         "wiki": "https://escapefromtarkov.fandom.com/wiki/Revision",
         "exp": 7300,
@@ -9322,7 +9480,8 @@
         "title": "Experience exchange",
         "locales": {
             "en": "Experience exchange",
-            "ru": "Секретные разработки"
+            "ru": "Секретные разработки",
+            "cs": "Výměna zkušeností"
         },
         "wiki": "https://escapefromtarkov.fandom.com/wiki/Experience_exchange",
         "exp": 7200,
@@ -9357,7 +9516,8 @@
         "title": "Inventory check",
         "locales": {
             "en": "Inventory check",
-            "ru": "Знаток Резерва"
+            "ru": "Знаток Резерва",
+            "cs": "Kontrola inventáře"
         },
         "wiki": "https://escapefromtarkov.fandom.com/wiki/Inventory_check",
         "exp": 10000,
@@ -9441,7 +9601,8 @@
         "title": "No place for renegades",
         "locales": {
             "en": "No place for renegades",
-            "ru": "Ренегатам тут не место"
+            "ru": "Ренегатам тут не место",
+            "cs": "Pro odpadlíky tu není místo"
         },
         "wiki": "https://escapefromtarkov.fandom.com/wiki/No_place_for_renegades",
         "exp": 8500,
@@ -9476,7 +9637,8 @@
         "title": "Documents",
         "locales": {
             "en": "Documents",
-            "ru": "Документы"
+            "ru": "Документы",
+            "cs": "Dokumenty"
         },
         "wiki": "https://escapefromtarkov.fandom.com/wiki/Documents",
         "exp": 7800,
@@ -9525,7 +9687,8 @@
         "title": "Safe corridor",
         "locales": {
             "en": "Safe corridor",
-            "ru": "Безопасный коридор"
+            "ru": "Безопасный коридор",
+            "cs": "Bezpečný koridor"
         },
         "wiki": "https://escapefromtarkov.fandom.com/wiki/Safe_corridor",
         "exp": 9000,
@@ -9560,12 +9723,13 @@
         },
         "giver": "Jaeger",
         "turnin": "Jaeger",
-        "title": "Huntsman Path - Factory Chief",
+        "title": "Tagilla",
         "locales": {
-            "en": "Huntsman Path - Factory Chief",
-            "ru": "Путь охотника. Начальник завода"
+            "en": "Tagilla",
+            "ru": "Путь охотника. Начальник завода",
+            "cs": "Tagilla"
         },
-        "wiki": "https://escapefromtarkov.fandom.com/wiki/Huntsman_Path_-_Factory_Chief",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Tagilla",
         "exp": 8500,
         "unlocks": [],
         "reputation": [
@@ -9605,7 +9769,8 @@
         "title": "Pest control",
         "locales": {
             "en": "Pest control",
-            "ru": "Борьба с вредителями"
+            "ru": "Борьба с вредителями",
+            "cs": "Hubení škůdců"
         },
         "wiki": "https://escapefromtarkov.fandom.com/wiki/Pest_control",
         "exp": 7400,
