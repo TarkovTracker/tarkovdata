@@ -1119,7 +1119,7 @@
         ],
         "reputationFailure": [
             {
-                "trader": "Therapist",
+                "trader": 1,
                 "rep": -0.04
             }
         ],
@@ -1163,7 +1163,7 @@
         ],
         "reputationFailure": [
             {
-                "trader": "Skier",
+                "trader": 2,
                 "rep": -0.04
             }
         ],
@@ -1930,7 +1930,7 @@
         ],
         "reputationFailure": [
             {
-                "trader": "Skier",
+                "trader": 2,
                 "rep": -0.25
             }
         ],
@@ -7754,7 +7754,7 @@
         ],
         "reputationFailure": [
             {
-                "trader": "Therapist",
+                "trader": 1,
                 "rep": -0.25
             }
         ],
@@ -7804,7 +7804,7 @@
         ],
         "reputationFailure": [
             {
-                "trader": "Prapor",
+                "trader": 0,
                 "rep": -0.25
             }
         ],
