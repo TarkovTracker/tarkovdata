@@ -209,7 +209,7 @@
                     "type": "trader",
                     "name": "2",
                     "quantity": 3,
-                    "id": "275"
+                    "id": 275
                 }
             ],
             "id": 0,
@@ -511,7 +511,7 @@
                     "type": "trader",
                     "name": "4",
                     "quantity": 3,
-                    "id": "276"
+                    "id": 276
                 }
             ],
             "id": 8,
@@ -619,7 +619,7 @@
                     "type": "trader",
                     "name": "5",
                     "quantity": 2,
-                    "id": "277"
+                    "id": 277
                 }
             ],
             "id": 11,
@@ -671,7 +671,7 @@
                     "type": "trader",
                     "name": "4",
                     "quantity": 2,
-                    "id": "278"
+                    "id": 278
                 }
             ],
             "id": 13,
@@ -815,7 +815,7 @@
                     "type": "trader",
                     "name": "4",
                     "quantity": 2,
-                    "id": "279"
+                    "id": 279
                 }
             ],
             "id": 16,
@@ -871,7 +871,7 @@
                     "type": "trader",
                     "name": "0",
                     "quantity": 3,
-                    "id": "280"
+                    "id": 280
                 }
             ],
             "id": 17,
@@ -1123,7 +1123,7 @@
                     "type": "trader",
                     "name": "1",
                     "quantity": 2,
-                    "id": "281"
+                    "id": 281
                 }
             ],
             "id": 23,
@@ -1185,7 +1185,7 @@
                     "type": "trader",
                     "name": "1",
                     "quantity": 3,
-                    "id": "282"
+                    "id": 282
                 }
             ],
             "id": 24,
@@ -1399,7 +1399,7 @@
                     "type": "trader",
                     "name": "5",
                     "quantity": 2,
-                    "id": "283"
+                    "id": 283
                 }
             ],
             "id": 29,
@@ -1455,7 +1455,7 @@
                     "type": "trader",
                     "name": "2",
                     "quantity": 3,
-                    "id": "284"
+                    "id": 284
                 }
             ],
             "id": 30,
@@ -1613,7 +1613,7 @@
                     "type": "trader",
                     "name": "4",
                     "quantity": 2,
-                    "id": "285"
+                    "id": 285
                 }
             ],
             "id": 34,
@@ -1701,7 +1701,7 @@
                     "type": "trader",
                     "name": "3",
                     "quantity": 4,
-                    "id": "286"
+                    "id": 286
                 }
             ],
             "id": 36,
@@ -1832,13 +1832,13 @@
                     "type": "trader",
                     "name": "0",
                     "quantity": 3,
-                    "id": "287"
+                    "id": 287
                 },
                 {
                     "type": "trader",
                     "name": "5",
                     "quantity": 3,
-                    "id": "288"
+                    "id": 288
                 }
             ],
             "id": 39,
@@ -1912,13 +1912,13 @@
                     "type": "trader",
                     "name": "3",
                     "quantity": 4,
-                    "id": "289"
+                    "id": 289
                 },
                 {
                     "type": "trader",
                     "name": "5",
                     "quantity": 4,
-                    "id": "290"
+                    "id": 290
                 }
             ],
             "id": 40,
@@ -2108,7 +2108,7 @@
                     "type": "trader",
                     "name": "6",
                     "quantity": 2,
-                    "id": "291"
+                    "id": 291
                 }
             ],
             "id": 45,
@@ -2164,7 +2164,7 @@
                     "type": "trader",
                     "name": "6",
                     "quantity": 3,
-                    "id": "292"
+                    "id": 292
                 }
             ],
             "id": 46,
@@ -2240,7 +2240,7 @@
                     "type": "trader",
                     "name": "4",
                     "quantity": 2,
-                    "id": "293"
+                    "id": 293
                 }
             ],
             "id": 48,
@@ -2296,7 +2296,7 @@
                     "type": "trader",
                     "name": "4",
                     "quantity": 3,
-                    "id": "294"
+                    "id": 294
                 }
             ],
             "id": 49,
