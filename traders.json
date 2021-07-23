@@ -24,13 +24,13 @@
             },
             {
                 "level": 3,
-                "requiredLevel": 22,
+                "requiredLevel": 26,
                 "requiredReputation": 0.35,
                 "requiredSales": 1500000
             },
             {
                 "level": 4,
-                "requiredLevel": 33,
+                "requiredLevel": 36,
                 "requiredReputation": 0.5,
                 "requiredSales": 2300000
             }
@@ -61,13 +61,13 @@
             },
             {
                 "level": 3,
-                "requiredLevel": 20,
+                "requiredLevel": 24,
                 "requiredReputation": 0.3,
                 "requiredSales": 700000
             },
             {
                 "level": 4,
-                "requiredLevel": 32,
+                "requiredLevel": 35,
                 "requiredReputation": 0.6,
                 "requiredSales": 900000
             }
@@ -104,7 +104,7 @@
             },
             {
                 "level": 4,
-                "requiredLevel": 35,
+                "requiredLevel": 38,
                 "requiredReputation": 0.75,
                 "requiredSales": 2600000
             }
@@ -129,19 +129,19 @@
             },
             {
                 "level": 2,
-                "requiredLevel": 10,
+                "requiredLevel": 14,
                 "requiredReputation": 0,
                 "requiredSales": 11000
             },
             {
                 "level": 3,
-                "requiredLevel": 18,
+                "requiredLevel": 23,
                 "requiredReputation": 0.3,
                 "requiredSales": 25000
             },
             {
                 "level": 4,
-                "requiredLevel": 29,
+                "requiredLevel": 37,
                 "requiredReputation": 0.6,
                 "requiredSales": 32000
             }
@@ -203,19 +203,19 @@
             },
             {
                 "level": 2,
-                "requiredLevel": 15,
+                "requiredLevel": 17,
                 "requiredReputation": 0,
                 "requiredSales": 750000
             },
             {
                 "level": 3,
-                "requiredLevel": 30,
+                "requiredLevel": 32,
                 "requiredReputation": 0.3,
                 "requiredSales": 1600000
             },
             {
                 "level": 4,
-                "requiredLevel": 40,
+                "requiredLevel": 42,
                 "requiredReputation": 0.6,
                 "requiredSales": 2500000
             }
@@ -273,6 +273,12 @@
                 "level": 1,
                 "requiredLevel": 1,
                 "requiredReputation": 0,
+                "requiredSales": 0
+            },
+            {
+                "level": 2,
+                "requiredLevel": 1,
+                "requiredReputation": 6,
                 "requiredSales": 0
             }
         ]
