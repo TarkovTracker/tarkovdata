@@ -5,7 +5,7 @@
             "level": 1,
             "quests": []
         },
-        "giver": "Prapor",
+        "giver": 0,
         "turnin": "Prapor",
         "title": "Debut",
         "locales": {
@@ -49,7 +49,7 @@
                 0
             ]
         },
-        "giver": "Prapor",
+        "giver": 0,
         "turnin": "Prapor",
         "title": "Checking",
         "locales": {
@@ -91,7 +91,7 @@
                 1
             ]
         },
-        "giver": "Prapor",
+        "giver": 0,
         "turnin": "Prapor",
         "title": "Shootout picnic",
         "locales": {
@@ -126,7 +126,7 @@
                 1
             ]
         },
-        "giver": "Prapor",
+        "giver": 0,
         "turnin": "Prapor",
         "title": "Delivery from the past",
         "locales": {
@@ -177,7 +177,7 @@
                 3
             ]
         },
-        "giver": "Prapor",
+        "giver": 0,
         "turnin": "Prapor",
         "title": "BP depot",
         "locales": {
@@ -245,7 +245,7 @@
                 4
             ]
         },
-        "giver": "Prapor",
+        "giver": 0,
         "turnin": "Prapor",
         "title": "Bad rep evidence",
         "locales": {
@@ -289,7 +289,7 @@
                 5
             ]
         },
-        "giver": "Prapor",
+        "giver": 0,
         "turnin": "Prapor",
         "title": "Ice cream cones",
         "locales": {
@@ -327,7 +327,7 @@
                 6
             ]
         },
-        "giver": "Prapor",
+        "giver": 0,
         "turnin": "Therapist",
         "title": "Postman Pat",
         "locales": {
@@ -370,7 +370,7 @@
                 }
             ]
         },
-        "giver": "Prapor",
+        "giver": 0,
         "turnin": "Prapor",
         "title": "Shaking up teller",
         "locales": {
@@ -419,7 +419,7 @@
                 8
             ]
         },
-        "giver": "Prapor",
+        "giver": 0,
         "turnin": "Prapor",
         "title": "Perfect mediator",
         "locales": {
@@ -489,7 +489,7 @@
                 8
             ]
         },
-        "giver": "Prapor",
+        "giver": 0,
         "turnin": "Prapor",
         "title": "Grenadier",
         "locales": {
@@ -525,7 +525,7 @@
                 10
             ]
         },
-        "giver": "Prapor",
+        "giver": 0,
         "turnin": "Prapor",
         "title": "Insomnia",
         "locales": {
@@ -563,7 +563,7 @@
                 10
             ]
         },
-        "giver": "Prapor",
+        "giver": 0,
         "turnin": "Prapor",
         "title": "Test drive. Pt. 1",
         "locales": {
@@ -603,7 +603,7 @@
                 8
             ]
         },
-        "giver": "Prapor",
+        "giver": 0,
         "turnin": "Prapor",
         "title": "The Punisher - Part 1",
         "locales": {
@@ -643,7 +643,7 @@
                 13
             ]
         },
-        "giver": "Prapor",
+        "giver": 0,
         "turnin": "Prapor",
         "title": "The Punisher - Part 2",
         "locales": {
@@ -688,7 +688,7 @@
                 14
             ]
         },
-        "giver": "Prapor",
+        "giver": 0,
         "turnin": "Prapor",
         "title": "The Punisher - Part 3",
         "locales": {
@@ -732,7 +732,7 @@
                 15
             ]
         },
-        "giver": "Prapor",
+        "giver": 0,
         "turnin": "Prapor",
         "title": "The Punisher - Part 4",
         "locales": {
@@ -794,7 +794,7 @@
                 16
             ]
         },
-        "giver": "Prapor",
+        "giver": 0,
         "turnin": "Prapor",
         "title": "The Punisher - Part 5",
         "locales": {
@@ -856,7 +856,7 @@
                 17
             ]
         },
-        "giver": "Prapor",
+        "giver": 0,
         "turnin": "Prapor",
         "title": "The Punisher - Part 6",
         "locales": {
@@ -914,7 +914,7 @@
             "level": 1,
             "quests": []
         },
-        "giver": "Therapist",
+        "giver": 1,
         "turnin": "Therapist",
         "title": "Shortage",
         "locales": {
@@ -949,7 +949,7 @@
                 19
             ]
         },
-        "giver": "Therapist",
+        "giver": 1,
         "turnin": "Therapist",
         "title": "Sanitary Standards - Part 1",
         "locales": {
@@ -986,7 +986,7 @@
                 20
             ]
         },
-        "giver": "Therapist",
+        "giver": 1,
         "turnin": "Therapist",
         "title": "Sanitary Standards - Part 2",
         "locales": {
@@ -1021,7 +1021,7 @@
                 21
             ]
         },
-        "giver": "Therapist",
+        "giver": 1,
         "turnin": "Therapist",
         "title": "Painkiller",
         "locales": {
@@ -1057,7 +1057,7 @@
                 22
             ]
         },
-        "giver": "Therapist",
+        "giver": 1,
         "turnin": "Therapist",
         "title": "Pharmacist",
         "locales": {
@@ -1101,7 +1101,7 @@
                 23
             ]
         },
-        "giver": "Therapist",
+        "giver": 1,
         "turnin": "Therapist",
         "title": "Supply plans",
         "locales": {
@@ -1145,7 +1145,7 @@
                 23
             ]
         },
-        "giver": "Skier",
+        "giver": 2,
         "turnin": "Skier",
         "title": "Kind of sabotage",
         "locales": {
@@ -1189,7 +1189,7 @@
                 23
             ]
         },
-        "giver": "Therapist",
+        "giver": 1,
         "turnin": "Therapist",
         "title": "General wares",
         "locales": {
@@ -1224,7 +1224,7 @@
                 23
             ]
         },
-        "giver": "Therapist",
+        "giver": 1,
         "turnin": "Therapist",
         "title": "Car repair",
         "locales": {
@@ -1268,7 +1268,7 @@
                 23
             ]
         },
-        "giver": "Therapist",
+        "giver": 1,
         "turnin": "Therapist",
         "title": "Health Care Privacy - Part 1",
         "locales": {
@@ -1325,7 +1325,7 @@
                 28
             ]
         },
-        "giver": "Therapist",
+        "giver": 1,
         "turnin": "Therapist",
         "title": "Health Care Privacy - Part 2",
         "locales": {
@@ -1367,7 +1367,7 @@
                 29
             ]
         },
-        "giver": "Therapist",
+        "giver": 1,
         "turnin": "Therapist",
         "title": "Health Care Privacy - Part 3",
         "locales": {
@@ -1404,7 +1404,7 @@
                 30
             ]
         },
-        "giver": "Therapist",
+        "giver": 1,
         "turnin": "Therapist",
         "title": "Health Care Privacy - Part 4",
         "locales": {
@@ -1439,7 +1439,7 @@
                 31
             ]
         },
-        "giver": "Therapist",
+        "giver": 1,
         "turnin": "Therapist",
         "title": "Health Care Privacy - Part 5",
         "locales": {
@@ -1475,7 +1475,7 @@
                 34
             ]
         },
-        "giver": "Therapist",
+        "giver": 1,
         "turnin": "Therapist",
         "title": "Decontamination Service",
         "locales": {
@@ -1514,7 +1514,7 @@
                 31
             ]
         },
-        "giver": "Therapist",
+        "giver": 1,
         "turnin": "Therapist",
         "title": "Private clinic",
         "locales": {
@@ -1556,7 +1556,7 @@
                 31
             ]
         },
-        "giver": "Therapist",
+        "giver": 1,
         "turnin": "Therapist",
         "title": "Athlete",
         "locales": {
@@ -1591,7 +1591,7 @@
             "level": 5,
             "quests": []
         },
-        "giver": "Skier",
+        "giver": 2,
         "turnin": "Skier",
         "title": "Supplier",
         "locales": {
@@ -1635,7 +1635,7 @@
                 36
             ]
         },
-        "giver": "Skier",
+        "giver": 2,
         "turnin": "Skier",
         "title": "The Extortionist",
         "locales": {
@@ -1677,7 +1677,7 @@
                 37
             ]
         },
-        "giver": "Skier",
+        "giver": 2,
         "turnin": "Skier",
         "title": "What's on the flash drive?",
         "locales": {
@@ -1716,7 +1716,7 @@
                 38
             ]
         },
-        "giver": "Skier",
+        "giver": 2,
         "turnin": "Skier",
         "title": "Golden swag",
         "locales": {
@@ -1774,7 +1774,7 @@
                 39
             ]
         },
-        "giver": "Skier",
+        "giver": 2,
         "turnin": "Skier",
         "title": "Chemical - Part 1",
         "locales": {
@@ -1816,7 +1816,7 @@
                 40
             ]
         },
-        "giver": "Skier",
+        "giver": 2,
         "turnin": "Skier",
         "title": "Chemical - Part 2",
         "locales": {
@@ -1867,7 +1867,7 @@
                 41
             ]
         },
-        "giver": "Skier",
+        "giver": 2,
         "turnin": "Skier",
         "title": "Chemical - Part 3",
         "locales": {
@@ -1906,7 +1906,7 @@
                 42
             ]
         },
-        "giver": "Skier",
+        "giver": 2,
         "turnin": "Skier",
         "title": "Chemical - Part 4",
         "locales": {
@@ -1958,7 +1958,7 @@
                 42
             ]
         },
-        "giver": "Skier",
+        "giver": 2,
         "turnin": "Skier",
         "title": "Vitamins - Part 1",
         "locales": {
@@ -2027,7 +2027,7 @@
                 44
             ]
         },
-        "giver": "Skier",
+        "giver": 2,
         "turnin": "Skier",
         "title": "Vitamins - Part 2",
         "locales": {
@@ -2071,7 +2071,7 @@
                 39
             ]
         },
-        "giver": "Skier",
+        "giver": 2,
         "turnin": "Skier",
         "title": "Friend from the West - Part 1",
         "locales": {
@@ -2116,7 +2116,7 @@
                 46
             ]
         },
-        "giver": "Skier",
+        "giver": 2,
         "turnin": "Skier",
         "title": "Friend from the West - Part 2",
         "locales": {
@@ -2151,7 +2151,7 @@
                 47
             ]
         },
-        "giver": "Skier",
+        "giver": 2,
         "turnin": "Skier",
         "title": "Lend lease - Part 1",
         "locales": {
@@ -2238,7 +2238,7 @@
                 48
             ]
         },
-        "giver": "Peacekeeper",
+        "giver": 3,
         "turnin": "Peacekeeper",
         "title": "Lend lease - Part 2",
         "locales": {
@@ -2280,7 +2280,7 @@
                 49
             ]
         },
-        "giver": "Peacekeeper",
+        "giver": 3,
         "turnin": "Peacekeeper",
         "title": "Peacekeeping mission",
         "locales": {
@@ -2359,7 +2359,7 @@
                 47
             ]
         },
-        "giver": "Skier",
+        "giver": 2,
         "turnin": "Skier",
         "title": "Informed means armed",
         "locales": {
@@ -2413,7 +2413,7 @@
                 51
             ]
         },
-        "giver": "Skier",
+        "giver": 2,
         "turnin": "Skier",
         "title": "Chumming",
         "locales": {
@@ -2472,7 +2472,7 @@
                 52
             ]
         },
-        "giver": "Skier",
+        "giver": 2,
         "turnin": "Skier",
         "title": "Silent caliber",
         "locales": {
@@ -2520,7 +2520,7 @@
                 52
             ]
         },
-        "giver": "Skier",
+        "giver": 2,
         "turnin": "Skier",
         "title": "Flint",
         "locales": {
@@ -2557,7 +2557,7 @@
                 52
             ]
         },
-        "giver": "Skier",
+        "giver": 2,
         "turnin": "Skier",
         "title": "Bullshit",
         "locales": {
@@ -2622,7 +2622,7 @@
                 55
             ]
         },
-        "giver": "Skier",
+        "giver": 2,
         "turnin": "Skier",
         "title": "Setup",
         "locales": {
@@ -2664,7 +2664,7 @@
                 47
             ]
         },
-        "giver": "Peacekeeper",
+        "giver": 3,
         "turnin": "Peacekeeper",
         "title": "Fishing Gear",
         "locales": {
@@ -2708,7 +2708,7 @@
                 57
             ]
         },
-        "giver": "Peacekeeper",
+        "giver": 3,
         "turnin": "Peacekeeper",
         "title": "Tigr Safari",
         "locales": {
@@ -2767,7 +2767,7 @@
                 58
             ]
         },
-        "giver": "Peacekeeper",
+        "giver": 3,
         "turnin": "Peacekeeper",
         "title": "Scrap Metal",
         "locales": {
@@ -2828,7 +2828,7 @@
                 59
             ]
         },
-        "giver": "Peacekeeper",
+        "giver": 3,
         "turnin": "Peacekeeper",
         "title": "Eagle Eye",
         "locales": {
@@ -2872,7 +2872,7 @@
                 60
             ]
         },
-        "giver": "Peacekeeper",
+        "giver": 3,
         "turnin": "Peacekeeper",
         "title": "Humanitarian Supplies",
         "locales": {
@@ -2936,7 +2936,7 @@
                 61
             ]
         },
-        "giver": "Peacekeeper",
+        "giver": 3,
         "turnin": "Peacekeeper",
         "title": "The Cult - Part 1",
         "locales": {
@@ -2973,7 +2973,7 @@
                 62
             ]
         },
-        "giver": "Peacekeeper",
+        "giver": 3,
         "turnin": "Peacekeeper",
         "title": "The Cult - Part 2",
         "locales": {
@@ -3042,7 +3042,7 @@
                 61
             ]
         },
-        "giver": "Peacekeeper",
+        "giver": 3,
         "turnin": "Peacekeeper",
         "title": "Spa Tour - Part 1",
         "locales": {
@@ -3080,7 +3080,7 @@
                 64
             ]
         },
-        "giver": "Peacekeeper",
+        "giver": 3,
         "turnin": "Peacekeeper",
         "title": "Spa Tour - Part 2",
         "locales": {
@@ -3126,7 +3126,7 @@
                 65
             ]
         },
-        "giver": "Peacekeeper",
+        "giver": 3,
         "turnin": "Peacekeeper",
         "title": "Spa Tour - Part 3",
         "locales": {
@@ -3182,7 +3182,7 @@
                 66
             ]
         },
-        "giver": "Peacekeeper",
+        "giver": 3,
         "turnin": "Peacekeeper",
         "title": "Spa Tour - Part 4",
         "locales": {
@@ -3234,7 +3234,7 @@
                 67
             ]
         },
-        "giver": "Peacekeeper",
+        "giver": 3,
         "turnin": "Peacekeeper",
         "title": "Spa Tour - Part 5",
         "locales": {
@@ -3269,7 +3269,7 @@
                 68
             ]
         },
-        "giver": "Peacekeeper",
+        "giver": 3,
         "turnin": "Peacekeeper",
         "title": "Spa Tour - Part 6",
         "wiki": "https://escapefromtarkov.gamepedia.com/Spa_Tour_-_Part_5",
@@ -3306,7 +3306,7 @@
                 69
             ]
         },
-        "giver": "Peacekeeper",
+        "giver": 3,
         "turnin": "Peacekeeper",
         "title": "Spa Tour - Part 7",
         "locales": {
@@ -3366,7 +3366,7 @@
                 70
             ]
         },
-        "giver": "Peacekeeper",
+        "giver": 3,
         "turnin": "Peacekeeper",
         "title": "Cargo X - Part 1",
         "locales": {
@@ -3411,7 +3411,7 @@
                 71
             ]
         },
-        "giver": "Peacekeeper",
+        "giver": 3,
         "turnin": "Peacekeeper",
         "title": "Cargo X - Part 2",
         "locales": {
@@ -3449,7 +3449,7 @@
                 72
             ]
         },
-        "giver": "Peacekeeper",
+        "giver": 3,
         "turnin": "Peacekeeper",
         "title": "Cargo X - Part 3",
         "locales": {
@@ -3484,7 +3484,7 @@
                 70
             ]
         },
-        "giver": "Peacekeeper",
+        "giver": 3,
         "turnin": "Peacekeeper",
         "title": "Wet Job - Part 1",
         "locales": {
@@ -3526,7 +3526,7 @@
                 74
             ]
         },
-        "giver": "Peacekeeper",
+        "giver": 3,
         "turnin": "Peacekeeper",
         "title": "Wet Job - Part 2",
         "locales": {
@@ -3564,7 +3564,7 @@
                 75
             ]
         },
-        "giver": "Peacekeeper",
+        "giver": 3,
         "turnin": "Peacekeeper",
         "title": "Wet Job - Part 3",
         "locales": {
@@ -3599,7 +3599,7 @@
                 76
             ]
         },
-        "giver": "Peacekeeper",
+        "giver": 3,
         "turnin": "Peacekeeper",
         "title": "Wet Job - Part 4",
         "locales": {
@@ -3634,7 +3634,7 @@
                 77
             ]
         },
-        "giver": "Peacekeeper",
+        "giver": 3,
         "turnin": "Peacekeeper",
         "title": "Wet Job - Part 5",
         "locales": {
@@ -3681,7 +3681,7 @@
                 78
             ]
         },
-        "giver": "Peacekeeper",
+        "giver": 3,
         "turnin": "Peacekeeper",
         "title": "Wet Job - Part 6",
         "locales": {
@@ -3722,7 +3722,7 @@
                 79
             ]
         },
-        "giver": "Mechanic",
+        "giver": 4,
         "turnin": "Mechanic",
         "title": "Psycho Sniper",
         "locales": {
@@ -3752,7 +3752,7 @@
                 79
             ]
         },
-        "giver": "Peacekeeper",
+        "giver": 3,
         "turnin": "Peacekeeper",
         "title": "The guide",
         "locales": {
@@ -3781,7 +3781,7 @@
             "level": 2,
             "quests": []
         },
-        "giver": "Mechanic",
+        "giver": 4,
         "turnin": "Mechanic",
         "title": "Gunsmith - Part 1",
         "locales": {
@@ -3808,7 +3808,7 @@
                 82
             ]
         },
-        "giver": "Mechanic",
+        "giver": 4,
         "turnin": "Mechanic",
         "title": "Gunsmith - Part 2",
         "locales": {
@@ -3835,7 +3835,7 @@
                 82
             ]
         },
-        "giver": "Mechanic",
+        "giver": 4,
         "turnin": "Mechanic",
         "title": "Gunsmith - Part 3",
         "locales": {
@@ -3862,7 +3862,7 @@
                 84
             ]
         },
-        "giver": "Mechanic",
+        "giver": 4,
         "turnin": "Mechanic",
         "title": "Gunsmith - Part 4",
         "locales": {
@@ -3889,7 +3889,7 @@
                 85
             ]
         },
-        "giver": "Mechanic",
+        "giver": 4,
         "turnin": "Mechanic",
         "title": "Gunsmith - Part 5",
         "locales": {
@@ -3916,7 +3916,7 @@
                 86
             ]
         },
-        "giver": "Mechanic",
+        "giver": 4,
         "turnin": "Mechanic",
         "title": "Gunsmith - Part 6",
         "locales": {
@@ -3943,7 +3943,7 @@
                 87
             ]
         },
-        "giver": "Mechanic",
+        "giver": 4,
         "turnin": "Mechanic",
         "title": "Gunsmith - Part 7",
         "locales": {
@@ -3970,7 +3970,7 @@
                 88
             ]
         },
-        "giver": "Mechanic",
+        "giver": 4,
         "turnin": "Mechanic",
         "title": "Gunsmith - Part 8",
         "locales": {
@@ -3997,7 +3997,7 @@
                 89
             ]
         },
-        "giver": "Mechanic",
+        "giver": 4,
         "turnin": "Mechanic",
         "title": "Gunsmith - Part 9",
         "locales": {
@@ -4024,7 +4024,7 @@
                 90
             ]
         },
-        "giver": "Mechanic",
+        "giver": 4,
         "turnin": "Mechanic",
         "title": "Gunsmith - Part 10",
         "locales": {
@@ -4053,7 +4053,7 @@
                 91
             ]
         },
-        "giver": "Mechanic",
+        "giver": 4,
         "turnin": "Mechanic",
         "title": "Gunsmith - Part 11",
         "locales": {
@@ -4080,7 +4080,7 @@
                 92
             ]
         },
-        "giver": "Mechanic",
+        "giver": 4,
         "turnin": "Mechanic",
         "title": "Gunsmith - Part 12",
         "locales": {
@@ -4110,7 +4110,7 @@
                 93
             ]
         },
-        "giver": "Mechanic",
+        "giver": 4,
         "turnin": "Mechanic",
         "title": "Gunsmith - Part 13",
         "locales": {
@@ -4139,7 +4139,7 @@
                 94
             ]
         },
-        "giver": "Mechanic",
+        "giver": 4,
         "turnin": "Mechanic",
         "title": "Gunsmith - Part 14",
         "locales": {
@@ -4168,7 +4168,7 @@
                 95
             ]
         },
-        "giver": "Mechanic",
+        "giver": 4,
         "turnin": "Mechanic",
         "title": "Gunsmith - Part 15",
         "locales": {
@@ -4195,7 +4195,7 @@
                 96
             ]
         },
-        "giver": "Mechanic",
+        "giver": 4,
         "turnin": "Mechanic",
         "title": "Gunsmith - Part 16",
         "locales": {
@@ -4222,7 +4222,7 @@
                 83
             ]
         },
-        "giver": "Mechanic",
+        "giver": 4,
         "turnin": "Mechanic",
         "title": "Signal - Part 1",
         "locales": {
@@ -4264,7 +4264,7 @@
                 98
             ]
         },
-        "giver": "Mechanic",
+        "giver": 4,
         "turnin": "Mechanic",
         "title": "Signal - Part 2",
         "locales": {
@@ -4320,7 +4320,7 @@
                 99
             ]
         },
-        "giver": "Mechanic",
+        "giver": 4,
         "turnin": "Mechanic",
         "title": "Signal - Part 3",
         "locales": {
@@ -4377,7 +4377,7 @@
                 100
             ]
         },
-        "giver": "Mechanic",
+        "giver": 4,
         "turnin": "Mechanic",
         "title": "Signal - Part 4",
         "locales": {
@@ -4412,7 +4412,7 @@
                 99
             ]
         },
-        "giver": "Mechanic",
+        "giver": 4,
         "turnin": "Mechanic",
         "title": "Scout",
         "locales": {
@@ -4465,7 +4465,7 @@
                 84
             ]
         },
-        "giver": "Mechanic",
+        "giver": 4,
         "turnin": "Mechanic",
         "title": "Insider",
         "locales": {
@@ -4500,7 +4500,7 @@
                 82
             ]
         },
-        "giver": "Mechanic",
+        "giver": 4,
         "turnin": "Mechanic",
         "title": "Farming - Part 1",
         "locales": {
@@ -4544,7 +4544,7 @@
                 104
             ]
         },
-        "giver": "Mechanic",
+        "giver": 4,
         "turnin": "Mechanic",
         "title": "Farming - Part 2",
         "locales": {
@@ -4593,7 +4593,7 @@
                 105
             ]
         },
-        "giver": "Mechanic",
+        "giver": 4,
         "turnin": "Mechanic",
         "title": "Farming - Part 3",
         "locales": {
@@ -4635,7 +4635,7 @@
                 106
             ]
         },
-        "giver": "Mechanic",
+        "giver": 4,
         "turnin": "Mechanic",
         "title": "Farming - Part 4",
         "locales": {
@@ -4677,7 +4677,7 @@
                 107
             ]
         },
-        "giver": "Mechanic",
+        "giver": 4,
         "turnin": "Mechanic",
         "title": "Import",
         "locales": {
@@ -4724,7 +4724,7 @@
                 107
             ]
         },
-        "giver": "Mechanic",
+        "giver": 4,
         "turnin": "Mechanic",
         "title": "Fertilizers",
         "locales": {
@@ -4766,7 +4766,7 @@
                 106
             ]
         },
-        "giver": "Mechanic",
+        "giver": 4,
         "turnin": "Mechanic",
         "title": "A Shooter Born in Heaven",
         "locales": {
@@ -4834,7 +4834,7 @@
             "level": 15,
             "quests": []
         },
-        "giver": "Ragman",
+        "giver": 5,
         "turnin": "Ragman",
         "title": "Only business",
         "locales": {
@@ -4869,7 +4869,7 @@
                 111
             ]
         },
-        "giver": "Ragman",
+        "giver": 5,
         "turnin": "Ragman",
         "title": "Big sale",
         "locales": {
@@ -4932,7 +4932,7 @@
                 112
             ]
         },
-        "giver": "Ragman",
+        "giver": 5,
         "turnin": "Ragman",
         "title": "The Blood of War - Part 1",
         "locales": {
@@ -4987,7 +4987,7 @@
                 113
             ]
         },
-        "giver": "Ragman",
+        "giver": 5,
         "turnin": "Ragman",
         "title": "Dressed to kill",
         "locales": {
@@ -5029,7 +5029,7 @@
                 112
             ]
         },
-        "giver": "Ragman",
+        "giver": 5,
         "turnin": "Ragman",
         "title": "Database - Part 1",
         "locales": {
@@ -5078,7 +5078,7 @@
                 115
             ]
         },
-        "giver": "Ragman",
+        "giver": 5,
         "turnin": "Ragman",
         "title": "Database - Part 2",
         "locales": {
@@ -5120,7 +5120,7 @@
                 114
             ]
         },
-        "giver": "Ragman",
+        "giver": 5,
         "turnin": "Ragman",
         "title": "Gratitude",
         "locales": {
@@ -5176,7 +5176,7 @@
                 117
             ]
         },
-        "giver": "Ragman",
+        "giver": 5,
         "turnin": "Ragman",
         "title": "Sales Night",
         "locales": {
@@ -5213,7 +5213,7 @@
                 118
             ]
         },
-        "giver": "Ragman",
+        "giver": 5,
         "turnin": "Ragman",
         "title": "Supervisor",
         "locales": {
@@ -5250,7 +5250,7 @@
                 117
             ]
         },
-        "giver": "Ragman",
+        "giver": 5,
         "turnin": "Ragman",
         "title": "Hot Delivery",
         "locales": {
@@ -5304,7 +5304,7 @@
                 120
             ]
         },
-        "giver": "Ragman",
+        "giver": 5,
         "turnin": "Ragman",
         "title": "Scavenger",
         "locales": {
@@ -5341,7 +5341,7 @@
                 111
             ]
         },
-        "giver": "Ragman",
+        "giver": 5,
         "turnin": "Ragman",
         "title": "Make ULTRA Great Again",
         "locales": {
@@ -5376,7 +5376,7 @@
                 116
             ]
         },
-        "giver": "Ragman",
+        "giver": 5,
         "turnin": "Ragman",
         "title": "Minibus",
         "locales": {
@@ -5431,7 +5431,7 @@
                 116
             ]
         },
-        "giver": "Ragman",
+        "giver": 5,
         "turnin": "Ragman",
         "title": "Sew it good - Part 1",
         "locales": {
@@ -5473,7 +5473,7 @@
                 124
             ]
         },
-        "giver": "Ragman",
+        "giver": 5,
         "turnin": "Ragman",
         "title": "Sew it good - Part 2",
         "locales": {
@@ -5517,7 +5517,7 @@
                 125
             ]
         },
-        "giver": "Ragman",
+        "giver": 5,
         "turnin": "Ragman",
         "title": "Sew it good - Part 3",
         "locales": {
@@ -5561,7 +5561,7 @@
                 126
             ]
         },
-        "giver": "Ragman",
+        "giver": 5,
         "turnin": "Ragman",
         "title": "Sew it good - Part 4",
         "locales": {
@@ -5603,7 +5603,7 @@
                 127
             ]
         },
-        "giver": "Ragman",
+        "giver": 5,
         "turnin": "Ragman",
         "title": "Charisma brings success",
         "locales": {
@@ -5639,7 +5639,7 @@
                 176
             ]
         },
-        "giver": "Ragman",
+        "giver": 5,
         "turnin": "Ragman",
         "title": "No fuss needed",
         "locales": {
@@ -5676,7 +5676,7 @@
                 124
             ]
         },
-        "giver": "Ragman",
+        "giver": 5,
         "turnin": "Ragman",
         "title": "The Blood of War - Part 2",
         "locales": {
@@ -5711,7 +5711,7 @@
                 130
             ]
         },
-        "giver": "Ragman",
+        "giver": 5,
         "turnin": "Ragman",
         "title": "The Blood of War - Part 3",
         "locales": {
@@ -5768,7 +5768,7 @@
                 126
             ]
         },
-        "giver": "Ragman",
+        "giver": 5,
         "turnin": "Ragman",
         "title": "Living high is not a crime - Part 1",
         "locales": {
@@ -5825,7 +5825,7 @@
                 131
             ]
         },
-        "giver": "Ragman",
+        "giver": 5,
         "turnin": "Ragman",
         "title": "Living high is not a crime - Part 2",
         "locales": {
@@ -5867,7 +5867,7 @@
             "level": 2,
             "quests": []
         },
-        "giver": "Mechanic",
+        "giver": 4,
         "turnin": "Mechanic",
         "title": "Introduction",
         "locales": {
@@ -5902,7 +5902,7 @@
                 134
             ]
         },
-        "giver": "Jaeger",
+        "giver": 6,
         "turnin": "Jaeger",
         "title": "Acquaintance",
         "locales": {
@@ -5951,7 +5951,7 @@
                 135
             ]
         },
-        "giver": "Jaeger",
+        "giver": 6,
         "turnin": "Jaeger",
         "title": "The survivalist path - Unprotected, but dangerous",
         "locales": {
@@ -5989,7 +5989,7 @@
                 135
             ]
         },
-        "giver": "Jaeger",
+        "giver": 6,
         "turnin": "Jaeger",
         "title": "The survivalist path - Thrifty",
         "locales": {
@@ -6049,7 +6049,7 @@
                 137
             ]
         },
-        "giver": "Jaeger",
+        "giver": 6,
         "turnin": "Jaeger",
         "title": "The survivalist path - Zhivchik",
         "locales": {
@@ -6084,7 +6084,7 @@
                 138
             ]
         },
-        "giver": "Jaeger",
+        "giver": 6,
         "turnin": "Jaeger",
         "title": "The survivalist path - Wounded beast",
         "locales": {
@@ -6122,7 +6122,7 @@
                 139
             ]
         },
-        "giver": "Jaeger",
+        "giver": 6,
         "turnin": "Jaeger",
         "title": "The survivalist path - Tough guy",
         "locales": {
@@ -6161,7 +6161,7 @@
                 140
             ]
         },
-        "giver": "Jaeger",
+        "giver": 6,
         "turnin": "Jaeger",
         "title": "Courtesy visit",
         "locales": {
@@ -6210,7 +6210,7 @@
                 141
             ]
         },
-        "giver": "Jaeger",
+        "giver": 6,
         "turnin": "Jaeger",
         "title": "Nostalgia",
         "locales": {
@@ -6245,7 +6245,7 @@
                 86
             ]
         },
-        "giver": "Jaeger",
+        "giver": 6,
         "turnin": "Jaeger",
         "title": "The Tarkov shooter - Part 1",
         "locales": {
@@ -6284,7 +6284,7 @@
                 143
             ]
         },
-        "giver": "Jaeger",
+        "giver": 6,
         "turnin": "Jaeger",
         "title": "The Tarkov shooter - Part 2",
         "locales": {
@@ -6338,7 +6338,7 @@
                 144
             ]
         },
-        "giver": "Jaeger",
+        "giver": 6,
         "turnin": "Jaeger",
         "title": "The Tarkov shooter - Part 3",
         "locales": {
@@ -6380,7 +6380,7 @@
                 145
             ]
         },
-        "giver": "Jaeger",
+        "giver": 6,
         "turnin": "Jaeger",
         "title": "The Tarkov shooter - Part 4",
         "locales": {
@@ -6418,7 +6418,7 @@
                 146
             ]
         },
-        "giver": "Jaeger",
+        "giver": 6,
         "turnin": "Jaeger",
         "title": "The Tarkov shooter - Part 5",
         "locales": {
@@ -6459,7 +6459,7 @@
                 147
             ]
         },
-        "giver": "Jaeger",
+        "giver": 6,
         "turnin": "Jaeger",
         "title": "The Tarkov shooter - Part 6",
         "locales": {
@@ -6500,7 +6500,7 @@
                 148
             ]
         },
-        "giver": "Jaeger",
+        "giver": 6,
         "turnin": "Jaeger",
         "title": "The Tarkov shooter - Part 7",
         "locales": {
@@ -6541,7 +6541,7 @@
                 149
             ]
         },
-        "giver": "Jaeger",
+        "giver": 6,
         "turnin": "Jaeger",
         "title": "The Tarkov shooter - Part 8",
         "locales": {
@@ -6583,7 +6583,7 @@
                 139
             ]
         },
-        "giver": "Jaeger",
+        "giver": 6,
         "turnin": "Jaeger",
         "title": "The survivalist path - Cold blooded",
         "locales": {
@@ -6622,7 +6622,7 @@
                 185
             ]
         },
-        "giver": "Therapist",
+        "giver": 1,
         "turnin": "Therapist",
         "title": "Colleagues - Part 2",
         "locales": {
@@ -6674,7 +6674,7 @@
                 187
             ]
         },
-        "giver": "Therapist",
+        "giver": 1,
         "turnin": "Therapist",
         "title": "Colleagues - Part 3",
         "locales": {
@@ -6745,7 +6745,7 @@
                 151
             ]
         },
-        "giver": "Jaeger",
+        "giver": 6,
         "turnin": "Jaeger",
         "title": "The survivalist path - Combat medic",
         "locales": {
@@ -6780,7 +6780,7 @@
                 151
             ]
         },
-        "giver": "Jaeger",
+        "giver": 6,
         "turnin": "Jaeger",
         "title": "Ambulance",
         "locales": {
@@ -6824,7 +6824,7 @@
                 139
             ]
         },
-        "giver": "Jaeger",
+        "giver": 6,
         "turnin": "Jaeger",
         "title": "Huntsman path - Secured perimeter",
         "locales": {
@@ -6862,7 +6862,7 @@
                 156
             ]
         },
-        "giver": "Jaeger",
+        "giver": 6,
         "turnin": "Jaeger",
         "title": "Reserve",
         "locales": {
@@ -6897,7 +6897,7 @@
                 156
             ]
         },
-        "giver": "Jaeger",
+        "giver": 6,
         "turnin": "Jaeger",
         "title": "Huntsman path - Woods cleaning",
         "locales": {
@@ -6932,7 +6932,7 @@
                 158
             ]
         },
-        "giver": "Jaeger",
+        "giver": 6,
         "turnin": "Jaeger",
         "title": "Huntsman path - Controller",
         "locales": {
@@ -6971,7 +6971,7 @@
                 158
             ]
         },
-        "giver": "Jaeger",
+        "giver": 6,
         "turnin": "Jaeger",
         "title": "Huntsman path - Evil watchman",
         "locales": {
@@ -7010,7 +7010,7 @@
                 158
             ]
         },
-        "giver": "Jaeger",
+        "giver": 6,
         "turnin": "Jaeger",
         "title": "Fishing place",
         "locales": {
@@ -7045,7 +7045,7 @@
                 156
             ]
         },
-        "giver": "Jaeger",
+        "giver": 6,
         "turnin": "Jaeger",
         "title": "Huntsman path - The trophy",
         "locales": {
@@ -7087,7 +7087,7 @@
                 162
             ]
         },
-        "giver": "Jaeger",
+        "giver": 6,
         "turnin": "Jaeger",
         "title": "Huntsman path - Justice",
         "locales": {
@@ -7126,7 +7126,7 @@
                 162
             ]
         },
-        "giver": "Jaeger",
+        "giver": 6,
         "turnin": "Jaeger",
         "title": "Huntsman path - Sellout",
         "locales": {
@@ -7168,7 +7168,7 @@
                 164
             ]
         },
-        "giver": "Jaeger",
+        "giver": 6,
         "turnin": "Jaeger",
         "title": "Huntsman path - Woods keeper",
         "locales": {
@@ -7210,7 +7210,7 @@
                 213
             ]
         },
-        "giver": "Jaeger",
+        "giver": 6,
         "turnin": "Jaeger",
         "title": "Huntsman path - Eraser - Part 1",
         "locales": {
@@ -7245,7 +7245,7 @@
                 166
             ]
         },
-        "giver": "Jaeger",
+        "giver": 6,
         "turnin": "Jaeger",
         "title": "Huntsman path - Eraser - Part 2",
         "locales": {
@@ -7280,7 +7280,7 @@
                 165
             ]
         },
-        "giver": "Jaeger",
+        "giver": 6,
         "turnin": "Jaeger",
         "title": "Hunting trip",
         "locales": {
@@ -7325,7 +7325,7 @@
                 19
             ]
         },
-        "giver": "Therapist",
+        "giver": 1,
         "turnin": "Therapist",
         "title": "Operation Aquarius - Part 1",
         "locales": {
@@ -7371,7 +7371,7 @@
                 169
             ]
         },
-        "giver": "Therapist",
+        "giver": 1,
         "turnin": "Therapist",
         "title": "Operation Aquarius - Part 2",
         "locales": {
@@ -7412,7 +7412,7 @@
                 39
             ]
         },
-        "giver": "Prapor",
+        "giver": 0,
         "turnin": "Prapor",
         "title": "Polikhim hobo",
         "locales": {
@@ -7447,7 +7447,7 @@
                 171
             ]
         },
-        "giver": "Prapor",
+        "giver": 0,
         "turnin": "Prapor",
         "title": "Regulated materials",
         "locales": {
@@ -7492,7 +7492,7 @@
                 37
             ]
         },
-        "giver": "Skier",
+        "giver": 2,
         "turnin": "Skier",
         "title": "Stirrup",
         "locales": {
@@ -7540,7 +7540,7 @@
                 77
             ]
         },
-        "giver": "Peacekeeper",
+        "giver": 3,
         "turnin": "Peacekeeper",
         "title": "Mentor",
         "locales": {
@@ -7571,7 +7571,7 @@
                 105
             ]
         },
-        "giver": "Mechanic",
+        "giver": 4,
         "turnin": "Mechanic",
         "title": "Bad habit",
         "locales": {
@@ -7620,7 +7620,7 @@
                 125
             ]
         },
-        "giver": "Ragman",
+        "giver": 5,
         "turnin": "Ragman",
         "title": "The key to success",
         "locales": {
@@ -7666,7 +7666,7 @@
                 38
             ]
         },
-        "giver": "Jaeger",
+        "giver": 6,
         "turnin": "Jaeger",
         "title": "Shady Business",
         "locales": {
@@ -7701,7 +7701,7 @@
                 6
             ]
         },
-        "giver": "Therapist",
+        "giver": 1,
         "turnin": "Therapist",
         "title": "Postman Pat - Part 2",
         "locales": {
@@ -7736,7 +7736,7 @@
                 42
             ]
         },
-        "giver": "Therapist",
+        "giver": 1,
         "turnin": "Therapist",
         "title": "Out of curiosity",
         "locales": {
@@ -7782,7 +7782,7 @@
                 42
             ]
         },
-        "giver": "Prapor",
+        "giver": 0,
         "turnin": "Prapor",
         "title": "Big customer",
         "locales": {
@@ -7831,7 +7831,7 @@
                 151
             ]
         },
-        "giver": "Jaeger",
+        "giver": 6,
         "turnin": "Jaeger",
         "title": "The survivalist path - Junkie",
         "locales": {
@@ -7869,7 +7869,7 @@
                 127
             ]
         },
-        "giver": "Ragman",
+        "giver": 5,
         "turnin": "Ragman",
         "title": "Textile - Part 1",
         "locales": {
@@ -7914,7 +7914,7 @@
                 182
             ]
         },
-        "giver": "Ragman",
+        "giver": 5,
         "turnin": "Ragman",
         "title": "Textile - Part 2",
         "locales": {
@@ -7959,7 +7959,7 @@
                 8
             ]
         },
-        "giver": "Prapor",
+        "giver": 0,
         "turnin": "Prapor",
         "title": "Anesthesia",
         "locales": {
@@ -8015,7 +8015,7 @@
                 26
             ]
         },
-        "giver": "Therapist",
+        "giver": 1,
         "turnin": "Therapist",
         "title": "Colleagues - Part 1",
         "locales": {
@@ -8065,7 +8065,7 @@
                 184
             ]
         },
-        "giver": "Skier",
+        "giver": 2,
         "turnin": "Skier",
         "title": "Rigged game",
         "locales": {
@@ -8119,7 +8119,7 @@
                 185
             ]
         },
-        "giver": "Mechanic",
+        "giver": 4,
         "turnin": "Mechanic",
         "title": "Chemistry closet",
         "locales": {
@@ -8162,7 +8162,7 @@
                 184
             ]
         },
-        "giver": "Peacekeeper",
+        "giver": 3,
         "turnin": "Peacekeeper",
         "title": "Samples",
         "locales": {
@@ -8244,7 +8244,7 @@
                 190
             ]
         },
-        "giver": "Peacekeeper",
+        "giver": 3,
         "turnin": "Peacekeeper",
         "title": "TerraGroup employee",
         "locales": {
@@ -8296,7 +8296,7 @@
                 187
             ]
         },
-        "giver": "Jaeger",
+        "giver": 6,
         "turnin": "Jaeger",
         "title": "Huntsman path - Sadist",
         "locales": {
@@ -8339,7 +8339,7 @@
                 4
             ]
         },
-        "giver": "Prapor",
+        "giver": 0,
         "turnin": "Prapor",
         "title": "The bunker - Part 1",
         "locales": {
@@ -8382,7 +8382,7 @@
                 191
             ]
         },
-        "giver": "Prapor",
+        "giver": 0,
         "turnin": "Prapor",
         "title": "The bunker - Part 2",
         "locales": {
@@ -8446,7 +8446,7 @@
                 0
             ]
         },
-        "giver": "Prapor",
+        "giver": 0,
         "turnin": "Prapor",
         "title": "Search mission",
         "locales": {
@@ -8488,7 +8488,7 @@
                 176
             ]
         },
-        "giver": "Ragman",
+        "giver": 5,
         "turnin": "Ragman",
         "title": "The stylish one",
         "locales": {
@@ -8518,7 +8518,7 @@
                 151
             ]
         },
-        "giver": "Jaeger",
+        "giver": 6,
         "turnin": "Jaeger",
         "title": "The survivalist path - Eagle-owl",
         "locales": {
@@ -8611,7 +8611,7 @@
                 206
             ]
         },
-        "giver": "Fence",
+        "giver": 7,
         "turnin": "Fence",
         "title": "Collector",
         "locales": {
@@ -8794,7 +8794,7 @@
                 30
             ]
         },
-        "giver": "Therapist",
+        "giver": 1,
         "turnin": "Therapist",
         "title": "An apple a day - keeps the doctor away",
         "locales": {
@@ -8831,7 +8831,7 @@
                 }
             ]
         },
-        "giver": "Jaeger",
+        "giver": 6,
         "turnin": "Jaeger",
         "title": "Hunter",
         "locales": {
@@ -8867,7 +8867,7 @@
                 ]
             ]
         },
-        "giver": "Prapor",
+        "giver": 0,
         "turnin": "Prapor",
         "title": "No offence",
         "locales": {
@@ -8906,7 +8906,7 @@
                 ]
             ]
         },
-        "giver": "Therapist",
+        "giver": 1,
         "turnin": "Therapist",
         "title": "Trust regain",
         "locales": {
@@ -8966,7 +8966,7 @@
                 ]
             ]
         },
-        "giver": "Skier",
+        "giver": 2,
         "turnin": "Skier",
         "title": "Loyalty buyout",
         "locales": {
@@ -9003,7 +9003,7 @@
                 27
             ]
         },
-        "giver": "Therapist",
+        "giver": 1,
         "turnin": "Therapist",
         "title": "Hippocratic Vow",
         "locales": {
@@ -9046,7 +9046,7 @@
                 23
             ]
         },
-        "giver": "Therapist",
+        "giver": 1,
         "turnin": "Therapist",
         "title": "Disease history",
         "locales": {
@@ -9104,7 +9104,7 @@
                 111
             ]
         },
-        "giver": "Ragman",
+        "giver": 5,
         "turnin": "Ragman",
         "title": "A fuel matter",
         "locales": {
@@ -9149,7 +9149,7 @@
                 102
             ]
         },
-        "giver": "Mechanic",
+        "giver": 4,
         "turnin": "Mechanic",
         "title": "Surplus Goods",
         "locales": {
@@ -9192,7 +9192,7 @@
                 205
             ]
         },
-        "giver": "Mechanic",
+        "giver": 4,
         "turnin": "Mechanic",
         "title": "Back door",
         "locales": {
@@ -9228,7 +9228,7 @@
                 60
             ]
         },
-        "giver": "Peacekeeper",
+        "giver": 3,
         "turnin": "Peacekeeper",
         "title": "Revision",
         "locales": {
@@ -9317,7 +9317,7 @@
                 207
             ]
         },
-        "giver": "Peacekeeper",
+        "giver": 3,
         "turnin": "Peacekeeper",
         "title": "Experience exchange",
         "locales": {
@@ -9352,7 +9352,7 @@
                 204
             ]
         },
-        "giver": "Ragman",
+        "giver": 5,
         "turnin": "Ragman",
         "title": "Inventory check",
         "locales": {
@@ -9436,7 +9436,7 @@
                 192
             ]
         },
-        "giver": "Prapor",
+        "giver": 0,
         "turnin": "Prapor",
         "title": "No place for renegades",
         "locales": {
@@ -9471,7 +9471,7 @@
                 210
             ]
         },
-        "giver": "Prapor",
+        "giver": 0,
         "turnin": "Prapor",
         "title": "Documents",
         "locales": {
@@ -9520,7 +9520,7 @@
                 192
             ]
         },
-        "giver": "Skier",
+        "giver": 2,
         "turnin": "Skier",
         "title": "Safe corridor",
         "locales": {
@@ -9558,7 +9558,7 @@
                 165
             ]
         },
-        "giver": "Jaeger",
+        "giver": 6,
         "turnin": "Jaeger",
         "title": "Huntsman Path - Factory Chief",
         "locales": {
@@ -9600,7 +9600,7 @@
                 165
             ]
         },
-        "giver": "Jaeger",
+        "giver": 6,
         "turnin": "Jaeger",
         "title": "Pest control",
         "locales": {
