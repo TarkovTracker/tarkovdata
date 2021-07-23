@@ -499,7 +499,8 @@
         "wiki": "https://escapefromtarkov.gamepedia.com/Grenadier",
         "exp": 18000,
         "unlocks": [
-            "5c1260dc86f7746b106e8748"
+            "5c1260dc86f7746b106e8748",
+            "5cadf6eeae921500134b2799"
         ],
         "reputation": [],
         "objectives": [
@@ -696,7 +697,9 @@
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/The_Punisher_-_Part_3",
         "exp": 11700,
-        "unlocks": [],
+        "unlocks": [
+            "5e023d34e8a400319a28ed44"
+        ],
         "reputation": [
             {
                 "trader": "Prapor",
@@ -2157,7 +2160,9 @@
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Lend_lease_-_Part_1",
         "exp": 17500,
-        "unlocks": [],
+        "unlocks": [
+            "5df24cf80dee1b22f862e9bc"
+        ],
         "reputation": [
             {
                 "trader": "Skier",
@@ -2669,7 +2674,7 @@
         "wiki": "https://escapefromtarkov.gamepedia.com/Fishing_Gear",
         "exp": 4800,
         "unlocks": [
-            "58d399e486f77442e0016fe7"
+            "5b3116595acfc40019476364"
         ],
         "reputation": [
             {
@@ -5643,7 +5648,9 @@
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/No_fuss_needed",
         "exp": 15800,
-        "unlocks": [],
+        "unlocks": [
+            "5b40e1525acfc4771e1c6611"
+        ],
         "reputation": [
             {
                 "trader": "Ragman",
@@ -7450,7 +7457,9 @@
         "wiki": "https://escapefromtarkov.gamepedia.com/Regulated_materials",
         "exp": 14800,
         "nokappa": true,
-        "unlocks": [],
+        "unlocks": [
+            "5cadfbf7ae92152ac412eeef"
+        ],
         "reputation": [
             {
                 "trader": "Prapor",
@@ -7620,7 +7629,9 @@
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/The_key_to_success",
         "exp": 15600,
-        "unlocks": [],
+        "unlocks": [
+            "6034d2d697633951dc245ea6"
+        ],
         "reputation": [
             {
                 "trader": "Ragman",
@@ -8161,7 +8172,10 @@
         "wiki": "https://escapefromtarkov.gamepedia.com/Samples",
         "exp": 15300,
         "nokappa": true,
-        "unlocks": [],
+        "unlocks": [
+            "5e00c1ad86f774747333222c",
+            "5a16b7e1fcdbcb00165aa6c9"
+        ],
         "reputation": [
             {
                 "trader": "Peacekeeper",
