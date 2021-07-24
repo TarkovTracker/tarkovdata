@@ -430,7 +430,7 @@
       "fragmentationChance": 0.4,
       "ricochetChance": 0.4,
       "penetrationChance": 0.7,
-      "penetrationPower": 25,
+      "penetrationPower": 27,
       "accuracy": 0,
       "recoil": 0,
       "initialSpeed": 890
@@ -554,7 +554,7 @@
   "5887431f2459777e1612938f": {
     "id": "5887431f2459777e1612938f",
     "name": "7.62x54R LPS gzh",
-    "shortName": "LPS",
+    "shortName": "LPS gzh",
     "weight": 0.024,
     "caliber": "Caliber762x54R",
     "stackMaxSize": 40,
@@ -1161,12 +1161,12 @@
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
-      "damage": 48,
+      "damage": 49,
       "armorDamage": 41,
       "fragmentationChance": 0.16,
       "ricochetChance": 0.36,
       "penetrationChance": 0.72,
-      "penetrationPower": 34,
+      "penetrationPower": 35,
       "accuracy": 0,
       "recoil": 0,
       "initialSpeed": 890
@@ -1437,12 +1437,12 @@
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
-      "damage": 54,
+      "damage": 56,
       "armorDamage": 30,
       "fragmentationChance": 0.25,
       "ricochetChance": 0.26,
       "penetrationChance": 0.51,
-      "penetrationPower": 20,
+      "penetrationPower": 21,
       "accuracy": 0,
       "recoil": 0,
       "initialSpeed": 884
@@ -1483,12 +1483,12 @@
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
-      "damage": 46,
+      "damage": 48,
       "armorDamage": 32,
       "fragmentationChance": 0.17,
       "ricochetChance": 0.38,
       "penetrationChance": 0.66,
-      "penetrationPower": 30,
+      "penetrationPower": 33,
       "accuracy": 0,
       "recoil": 0,
       "initialSpeed": 890
@@ -2485,8 +2485,8 @@
   },
   "5e023e53d4353e3302577c4c": {
     "id": "5e023e53d4353e3302577c4c",
-    "name": "7.62x51mm FMJ",
-    "shortName": "FMJ",
+    "name": "7.62x51mm BCP FMJ",
+    "shortName": "BCP FMJ",
     "weight": 0.022,
     "caliber": "Caliber762x51",
     "stackMaxSize": 40,
@@ -2508,8 +2508,8 @@
   },
   "5e023e6e34d52a55c3304f71": {
     "id": "5e023e6e34d52a55c3304f71",
-    "name": "7.62x51mm SP",
-    "shortName": "SP",
+    "name": "7.62x51mm TCW SP",
+    "shortName": "TCW SP",
     "weight": 0.023,
     "caliber": "Caliber762x51",
     "stackMaxSize": 40,
