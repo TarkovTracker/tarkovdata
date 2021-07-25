@@ -2296,7 +2296,9 @@
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Lend_lease_-_Part_2",
         "exp": 21000,
-        "unlocks": [],
+        "unlocks": [
+            "5c17a7ed2e2216152142459c"
+        ],
         "reputation": [
             {
                 "trader": 3,
