@@ -1448,7 +1448,7 @@
         "reputation": [
             {
                 "trader": 1,
-                "rep": 0.09
+                "rep": 0.04
             }
         ],
         "objectives": [
@@ -2176,7 +2176,7 @@
         "reputation": [
             {
                 "trader": 2,
-                "rep": 0.12
+                "rep": 0.05
             }
         ],
         "objectives": [
@@ -4581,7 +4581,7 @@
         "reputation": [
             {
                 "trader": 4,
-                "rep": 0.04
+                "rep": 0.02
             }
         ],
         "objectives": [
@@ -4662,7 +4662,7 @@
         "reputation": [
             {
                 "trader": 4,
-                "rep": 0.03
+                "rep": 0.02
             }
         ],
         "objectives": [
@@ -7346,7 +7346,7 @@
         "reputation": [
             {
                 "trader": 6,
-                "rep": 0.02
+                "rep": 0.04
             }
         ],
         "objectives": [
