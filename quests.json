@@ -13,7 +13,7 @@
             "ru": "Проба пера",
             "cs": "Debut"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Debut",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Debut",
         "exp": 1700,
         "unlocks": [
             "57dc2fa62459775949412633"
@@ -58,7 +58,7 @@
             "ru": "Проверка на вшивость",
             "cs": "Kontrola"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Checking",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Checking",
         "exp": 1800,
         "unlocks": [],
         "reputation": [
@@ -101,7 +101,7 @@
             "ru": "Пикник со стрельбой",
             "cs": "Piknik na střelnici"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Shootout_picnic",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Shootout_picnic",
         "exp": 2000,
         "unlocks": [],
         "reputation": [
@@ -137,7 +137,7 @@
             "ru": "Посылка из прошлого",
             "cs": "Zásilka z minulosti"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Delivery_from_the_past",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Delivery_from_the_past",
         "exp": 4000,
         "unlocks": [
             "56dff3afd2720bba668b4567"
@@ -189,7 +189,7 @@
             "ru": "Нефтянка",
             "cs": "Depo BP"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/BP_depot",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/BP_depot",
         "exp": 2800,
         "unlocks": [],
         "reputation": [
@@ -258,7 +258,7 @@
             "ru": "Компромат",
             "cs": "Důkaz špatné pověsti"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Bad_rep_evidence",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Bad_rep_evidence",
         "exp": 4100,
         "unlocks": [
             "576fd4ec2459777f0b518431"
@@ -303,7 +303,7 @@
             "ru": "Рожки для мороженого",
             "cs": "Zmrzlinové kornouty"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Ice_cream_cones",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Ice_cream_cones",
         "exp": 5200,
         "unlocks": [
             "55d482194bdc2d1d4e8b456b"
@@ -342,7 +342,7 @@
             "ru": "Почтальон Печкин",
             "cs": "Pošťák Pat - Část 1"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Postman_Pat_-_Part_1",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Postman_Pat_-_Part_1",
         "exp": 5900,
         "unlocks": [
             "544fb45d4bdc2dee738b4568"
@@ -386,7 +386,7 @@
             "ru": "Тряхнуть кассира",
             "cs": "Třesoucí se pokladní"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Shaking_up_teller",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Shaking_up_teller",
         "exp": 5900,
         "unlocks": [
             "57ffb0e42459777d047111c5",
@@ -436,7 +436,7 @@
             "ru": "Идеальный переговорщик",
             "cs": "Perfektní prostředník"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Perfect_mediator",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Perfect_mediator",
         "exp": 20900,
         "unlocks": [],
         "reputation": [
@@ -506,7 +506,7 @@
             "en": "Grenadier",
             "ru": "Гренадёр"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Grenadier",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Grenadier",
         "exp": 18000,
         "unlocks": [
             "5c1260dc86f7746b106e8748",
@@ -543,7 +543,7 @@
             "ru": "Бессонница",
             "cs": "Insomnie"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Insomnia",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Insomnia",
         "exp": 18200,
         "unlocks": [],
         "reputation": [
@@ -582,7 +582,7 @@
             "ru": "Тест-драйв. Часть 1",
             "cs": "Testovací jízda - Část 1"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Test_drive_-_Part_1",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Test_drive_-_Part_1",
         "exp": 18200,
         "unlocks": [],
         "reputation": [
@@ -623,7 +623,7 @@
             "ru": "Каратель",
             "cs": "Mstitel - Část 1"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/The_Punisher_-_Part_1",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/The_Punisher_-_Part_1",
         "exp": 10200,
         "unlocks": [
             "55801eed4bdc2d89578b4588"
@@ -664,7 +664,7 @@
             "ru": "Каратель. Часть 2",
             "cs": "Mstitel - Část 2"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/The_Punisher_-_Part_2",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/The_Punisher_-_Part_2",
         "exp": 13100,
         "unlocks": [],
         "reputation": [
@@ -710,7 +710,7 @@
             "ru": "Каратель. Часть 3",
             "cs": "Mstitel - Část 3"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/The_Punisher_-_Part_3",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/The_Punisher_-_Part_3",
         "exp": 11700,
         "unlocks": [
             "5e023d34e8a400319a28ed44"
@@ -755,7 +755,7 @@
             "ru": "Каратель. Часть 4",
             "cs": "Mstitel - Část 4"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/The_Punisher_-_Part_4",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/The_Punisher_-_Part_4",
         "exp": 18000,
         "unlocks": [
             "56dff061d2720bb5668b4567"
@@ -818,7 +818,7 @@
             "ru": "Каратель. Часть 5",
             "cs": "Mstitel - Část 5"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/The_Punisher_-_Part_5",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/The_Punisher_-_Part_5",
         "exp": 18200,
         "unlocks": [
             "59e0d99486f7744a32234762"
@@ -881,7 +881,7 @@
             "ru": "Каратель. Часть 6",
             "cs": "Mstitel - Část 6"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/The_Punisher_-_Part_6",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/The_Punisher_-_Part_6",
         "exp": 20600,
         "unlocks": [],
         "reputation": [
@@ -940,7 +940,7 @@
             "ru": "Дефицит",
             "cs": "Nedostatek"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Shortage",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Shortage",
         "exp": 2000,
         "unlocks": [],
         "reputation": [
@@ -976,7 +976,7 @@
             "ru": "Санэпиднадзор. Часть 1",
             "cs": "Hygienické standardy - Část 1"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Sanitary_Standards_-_Part_1",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Sanitary_Standards_-_Part_1",
         "exp": 2200,
         "unlocks": [
             "590c661e86f7741e566b646a"
@@ -1014,7 +1014,7 @@
             "ru": "Санэпиднадзор. Часть 2",
             "cs": "Hygienické standardy - Část 2"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Sanitary_Standards_-_Part_2",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Sanitary_Standards_-_Part_2",
         "exp": 4500,
         "unlocks": [],
         "reputation": [
@@ -1050,7 +1050,7 @@
             "ru": "Пейнкиллер",
             "cs": "Prášky proti bolesti"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Painkiller",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Painkiller",
         "exp": 4500,
         "unlocks": [],
         "reputation": [
@@ -1087,7 +1087,7 @@
             "ru": "Провизор",
             "cs": "Lékárník"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Pharmacist",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Pharmacist",
         "exp": 5700,
         "unlocks": [
             "5aa7cfc0e5b5b00015693143"
@@ -1132,7 +1132,7 @@
             "ru": "Планы снабжения",
             "cs": "Zásobovací plány"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Supply_plans",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Supply_plans",
         "exp": 7700,
         "unlocks": [],
         "reputation": [
@@ -1177,7 +1177,7 @@
             "ru": "Своего рода саботаж",
             "cs": "Tak trochu sabotáž"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Kind_of_sabotage",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Kind_of_sabotage",
         "exp": 4500,
         "unlocks": [],
         "reputation": [
@@ -1222,7 +1222,7 @@
             "ru": "Сельпо",
             "cs": "Běžné zboží"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/General_wares",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/General_wares",
         "exp": 4800,
         "unlocks": [],
         "reputation": [
@@ -1258,7 +1258,7 @@
             "ru": "Авторем",
             "cs": "Oprava auta"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Car_repair",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Car_repair",
         "exp": 6900,
         "unlocks": [],
         "reputation": [
@@ -1303,7 +1303,7 @@
             "ru": "Врачебная тайна. Часть 1",
             "cs": "Soukromá zdravotní péče - Část 1"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Health_Care_Privacy_-_Part_1",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Health_Care_Privacy_-_Part_1",
         "exp": 4800,
         "unlocks": [
             "590c678286f77426c9660122"
@@ -1361,7 +1361,7 @@
             "ru": "Врачебная тайна. Часть 2",
             "cs": "Soukromá zdravotní péče - Část 2"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Health_Care_Privacy_-_Part_2",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Health_Care_Privacy_-_Part_2",
         "exp": 5900,
         "unlocks": [],
         "reputation": [
@@ -1404,7 +1404,7 @@
             "ru": "Врачебная тайна. Часть 3",
             "cs": "Soukromá zdravotní péče - Část 3"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Health_Care_Privacy_-_Part_3",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Health_Care_Privacy_-_Part_3",
         "exp": 6000,
         "unlocks": [
             "544fb3f34bdc2d03748b456a"
@@ -1442,7 +1442,7 @@
             "ru": "Врачебная тайна. Часть 4",
             "cs": "Soukromá zdravotní péče - Část 4"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Health_Care_Privacy_-_Part_4",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Health_Care_Privacy_-_Part_4",
         "exp": 10200,
         "unlocks": [],
         "reputation": [
@@ -1478,7 +1478,7 @@
             "ru": "Врачебная тайна. Часть 5",
             "cs": "Soukromá zdravotní péče - Část 5"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Health_Care_Privacy_-_Part_5",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Health_Care_Privacy_-_Part_5",
         "exp": 7300,
         "unlocks": [],
         "reputation": [
@@ -1515,7 +1515,7 @@
             "ru": "Служба дезинфекции",
             "cs": "Dekontaminační služby"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Decontamination_service",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Decontamination_service",
         "exp": 7400,
         "unlocks": [],
         "reputation": [
@@ -1555,7 +1555,7 @@
             "ru": "Частная клиника",
             "cs": "Soukromá klinika"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Private_clinic",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Private_clinic",
         "exp": 30600,
         "unlocks": [],
         "reputation": [
@@ -1598,7 +1598,7 @@
             "ru": "Физкультурник",
             "cs": "Sportovec"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Athlete",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Athlete",
         "exp": 19600,
         "unlocks": [
             "5c10c8fd86f7743d7d706df3"
@@ -1634,7 +1634,7 @@
             "ru": "Снабженец",
             "cs": "Dodavatel"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Supplier",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Supplier",
         "exp": 3300,
         "unlocks": [
             "59f9cabd86f7743a10721f46"
@@ -1679,7 +1679,7 @@
             "ru": "Вымогатель",
             "cs": "Vyděrač"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/The_Extortionist",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/The_Extortionist",
         "exp": 3200,
         "unlocks": [],
         "reputation": [
@@ -1722,7 +1722,7 @@
             "ru": "Что на флешке?",
             "cs": "Co je na tom flash disku?"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/What%27s_on_the_flash_drive%3F",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/What%27s_on_the_flash_drive%3F",
         "exp": 4500,
         "unlocks": [],
         "reputation": [
@@ -1762,7 +1762,7 @@
             "ru": "Золотые понты",
             "cs": "Zlatý lup"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Golden_swag",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Golden_swag",
         "exp": 4500,
         "unlocks": [
             "584984812459776a704a82a6"
@@ -1821,7 +1821,7 @@
             "ru": "Реагент. Часть 1",
             "cs": "Chemikálie - Část 1"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Chemical_-_Part_1",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Chemical_-_Part_1",
         "exp": 4800,
         "unlocks": [],
         "reputation": [
@@ -1864,7 +1864,7 @@
             "ru": "Реагент. Часть 2",
             "cs": "Chemikálie - Část 2"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Chemical_-_Part_2",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Chemical_-_Part_2",
         "exp": 4800,
         "unlocks": [
             "5a966f51a2750c00156aacf6"
@@ -1916,7 +1916,7 @@
             "ru": "Реагент. Часть 3",
             "cs": "Chemikálie - Část 3"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Chemical_-_Part_3",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Chemical_-_Part_3",
         "exp": 5400,
         "unlocks": [],
         "reputation": [
@@ -1956,7 +1956,7 @@
             "ru": "Реагент. Часть 4",
             "cs": "Chemikálie - Část 4"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Chemical_-_Part_4",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Chemical_-_Part_4",
         "exp": 6500,
         "unlocks": [
             "5aa7e4a4e5b5b000137b76f2"
@@ -2124,7 +2124,7 @@
             "ru": "Друг с запада. Часть 1",
             "cs": "Přítel ze západu - Část 1"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Friend_from_the_West_-_Part_1",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Friend_from_the_West_-_Part_1",
         "exp": 7400,
         "unlocks": [],
         "reputation": [
@@ -2170,7 +2170,7 @@
             "ru": "Друг с запада. Часть 2",
             "cs": "Přítel ze západu - Část 2"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Friend_from_the_West_-_Part_2",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Friend_from_the_West_-_Part_2",
         "exp": 9200,
         "unlocks": [],
         "reputation": [
@@ -2206,7 +2206,7 @@
             "ru": "Лэндлиз",
             "cs": "Pronájem pozemku - Část 1"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Lend_lease_-_Part_1",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Lend_lease_-_Part_1",
         "exp": 17500,
         "unlocks": [
             "5df24cf80dee1b22f862e9bc"
@@ -2294,7 +2294,7 @@
             "ru": "Лэндлиз. Часть 2",
             "cs": "Pronájem pozemku - Část 2"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Lend_lease_-_Part_2",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Lend_lease_-_Part_2",
         "exp": 21000,
         "unlocks": [],
         "reputation": [
@@ -2337,7 +2337,7 @@
             "ru": "Миротворческая миссия",
             "cs": "Mírová mise"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Peacekeeping_mission",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Peacekeeping_mission",
         "exp": 25500,
         "nokappa": true,
         "unlocks": [
@@ -2417,7 +2417,7 @@
             "ru": "Осведомлён значит вооружён",
             "cs": "Informace jsou zbraň"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Informed_means_armed",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Informed_means_armed",
         "exp": 14000,
         "unlocks": [
             "5b4391a586f7745321235ab2"
@@ -2472,7 +2472,7 @@
             "ru": "Прикормка",
             "cs": "Přátelení"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Chumming",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Chumming",
         "exp": 19100,
         "unlocks": [],
         "reputation": [
@@ -2532,7 +2532,7 @@
             "ru": "Тихий калибр",
             "cs": "Tichý kalibr"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Silent_caliber",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Silent_caliber",
         "exp": 18000,
         "unlocks": [],
         "reputation": [
@@ -2581,7 +2581,7 @@
             "ru": "Кремень",
             "cs": "Flint"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Flint",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Flint",
         "exp": 25100,
         "unlocks": [
             "5bffdd7e0db834001b734a1a"
@@ -2619,7 +2619,7 @@
             "ru": "Деза",
             "cs": "Hovadina"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Bullshit",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Bullshit",
         "exp": 29900,
         "unlocks": [
             "5c1127d0d174af29be75cf68"
@@ -2685,7 +2685,7 @@
             "ru": "Подстава",
             "cs": "Situace"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Setup",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Setup",
         "exp": 21900,
         "unlocks": [
             "5c1127bdd174af44217ab8b9"
@@ -2728,7 +2728,7 @@
             "ru": "Рыболовные снасти",
             "cs": "Rybářské vybavení"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Fishing_Gear",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Fishing_Gear",
         "exp": 4800,
         "unlocks": [
             "5b3116595acfc40019476364"
@@ -2773,7 +2773,7 @@
             "ru": "Сафари на тигра",
             "cs": "Tygří safari"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Tigr_Safari",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Tigr_Safari",
         "exp": 5900,
         "unlocks": [],
         "reputation": [
@@ -2833,7 +2833,7 @@
             "ru": "Металлолом",
             "cs": "Kovošrot"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Scrap_Metal",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Scrap_Metal",
         "exp": 5900,
         "unlocks": [
             "59411abb86f77478f702b5d2"
@@ -2895,7 +2895,7 @@
             "ru": "Глаз орла",
             "cs": "Orlí oko"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Eagle_Eye",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Eagle_Eye",
         "exp": 6600,
         "unlocks": [],
         "reputation": [
@@ -2940,7 +2940,7 @@
             "ru": "Гуманитарка",
             "cs": "Humanitární zásoby"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Humanitarian_Supplies",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Humanitarian_Supplies",
         "exp": 6700,
         "unlocks": [
             "593d493f86f7745e6b2ceb22"
@@ -3005,7 +3005,7 @@
             "ru": "Секта. Часть 1",
             "cs": "Kult - Část 1"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/The_Cult_-_Part_1",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/The_Cult_-_Part_1",
         "exp": 6200,
         "unlocks": [
             "59e6906286f7746c9f75e847"
@@ -3043,7 +3043,7 @@
             "ru": "Секта. Часть 2",
             "cs": "Kult - Část 2"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/The_Cult_-_Part_2",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/The_Cult_-_Part_2",
         "exp": 7500,
         "unlocks": [],
         "reputation": [
@@ -3113,7 +3113,7 @@
             "ru": "Путевка в санаторий. Часть 1",
             "cs": "Lázně - Část 1"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Spa_Tour_-_Part_1",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Spa_Tour_-_Part_1",
         "exp": 7400,
         "unlocks": [],
         "reputation": [
@@ -3152,7 +3152,7 @@
             "ru": "Путевка в санаторий. Часть 2",
             "cs": "Lázně - Část 2"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Spa_Tour_-_Part_2",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Spa_Tour_-_Part_2",
         "exp": 6300,
         "unlocks": [
             "58d3db5386f77426186285a0"
@@ -3199,7 +3199,7 @@
             "ru": "Путевка в санаторий. Часть 3",
             "cs": "Lázně - Část 3"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Spa_Tour_-_Part_3",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Spa_Tour_-_Part_3",
         "exp": 7600,
         "unlocks": [],
         "reputation": [
@@ -3256,7 +3256,7 @@
             "ru": "Путевка в санаторий. Часть 4",
             "cs": "Lázně - Část 4"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Spa_Tour_-_Part_4",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Spa_Tour_-_Part_4",
         "exp": 7700,
         "unlocks": [],
         "reputation": [
@@ -3309,7 +3309,7 @@
             "ru": "Путевка в санаторий. Часть 5",
             "cs": "Lázně - Část 5"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Spa_Tour_-_Part_5",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Spa_Tour_-_Part_5",
         "exp": 6500,
         "unlocks": [],
         "reputation": [
@@ -3340,7 +3340,7 @@
         "giver": 3,
         "turnin": 3,
         "title": "Spa Tour - Part 6",
-        "wiki": "https://escapefromtarkov.gamepedia.com/Spa_Tour_-_Part_5",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Spa_Tour_-_Part_5",
         "locales": {
             "en": "Spa Tour - Part 6",
             "ru": "Путевка в санаторий. Часть 6",
@@ -3383,7 +3383,7 @@
             "ru": "Путевка в санаторий. Часть 7",
             "cs": "Lázně - Část 7"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Spa_Tour_-_Part_7",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Spa_Tour_-_Part_7",
         "exp": 9700,
         "unlocks": [],
         "reputation": [
@@ -3444,7 +3444,7 @@
             "ru": "Груз X. Часть 1",
             "cs": "Náklad X - Část 1"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Cargo_X_-_Part_1",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Cargo_X_-_Part_1",
         "exp": 8200,
         "unlocks": [],
         "reputation": [
@@ -3490,7 +3490,7 @@
             "ru": "Груз X. Часть 2",
             "cs": "Náklad X - Část 2"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Cargo_X_-_Part_2",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Cargo_X_-_Part_2",
         "exp": 8300,
         "unlocks": [
             "57da93632459771cb65bf83f"
@@ -3529,7 +3529,7 @@
             "ru": "Груз X. Часть 3",
             "cs": "Náklad X - Část 3"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Cargo_X_-_Part_3",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Cargo_X_-_Part_3",
         "exp": 8400,
         "unlocks": [],
         "reputation": [
@@ -3565,7 +3565,7 @@
             "ru": "Мокрое дело. Часть 1",
             "cs": "Mokrá práce - Část 1"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Wet_Job_-_Part_1",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Wet_Job_-_Part_1",
         "exp": 11400,
         "unlocks": [],
         "reputation": [
@@ -3608,7 +3608,7 @@
             "ru": "Мокрое дело. Часть 2",
             "cs": "Mokrá práce - Část 2"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Wet_Job_-_Part_2",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Wet_Job_-_Part_2",
         "exp": 9700,
         "unlocks": [
             "59c1383d86f774290a37e0ca"
@@ -3647,7 +3647,7 @@
             "ru": "Мокрое дело. Часть 3",
             "cs": "Mokrá práce - Část 3"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Wet_Job_-_Part_3",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Wet_Job_-_Part_3",
         "exp": 8200,
         "unlocks": [],
         "reputation": [
@@ -3683,7 +3683,7 @@
             "ru": "Мокрое дело. Часть 4",
             "cs": "Mokrá práce - Část 4"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Wet_Job_-_Part_4",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Wet_Job_-_Part_4",
         "exp": 8300,
         "unlocks": [],
         "reputation": [
@@ -3719,7 +3719,7 @@
             "ru": "Мокрое дело. Часть 5",
             "cs": "Mokrá práce - Část 5"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Wet_Job_-_Part_5",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Wet_Job_-_Part_5",
         "exp": 8400,
         "unlocks": [
             "5a367e5dc4a282000e49738f"
@@ -3767,7 +3767,7 @@
             "ru": "Мокрое дело. Часть 6",
             "cs": "Mokrá práce - Část 6"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Wet_Job_-_Part_6",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Wet_Job_-_Part_6",
         "exp": 10400,
         "unlocks": [
             "5a6086ea4f39f99cd479502f"
@@ -3809,7 +3809,7 @@
             "ru": "Снайпер-психопат",
             "cs": "Šílený odstřelovač"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Psycho_Sniper",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Psycho_Sniper",
         "exp": 32400,
         "unlocks": [],
         "reputation": [],
@@ -3840,7 +3840,7 @@
             "ru": "Проводник",
             "cs": "Průvodce"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/The_guide",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/The_guide",
         "exp": 35100,
         "unlocks": [
             "5c0a2cec0db834001b7ce47d",
@@ -3870,7 +3870,7 @@
             "ru": "Оружейник. Часть 1",
             "cs": "Puškař - Část 1"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Gunsmith_-_Part_1",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Gunsmith_-_Part_1",
         "exp": 5400,
         "unlocks": [],
         "reputation": [
@@ -3898,7 +3898,7 @@
             "ru": "Оружейник. Часть 2",
             "cs": "Puškař - Část 2"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Gunsmith_-_Part_2",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Gunsmith_-_Part_2",
         "exp": 6000,
         "unlocks": [],
         "reputation": [
@@ -3926,7 +3926,7 @@
             "ru": "Оружейник. Часть 3",
             "cs": "Puškař - Část 3"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Gunsmith_-_Part_3",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Gunsmith_-_Part_3",
         "exp": 7900,
         "unlocks": [],
         "reputation": [
@@ -3954,7 +3954,7 @@
             "ru": "Оружейник. Часть 4",
             "cs": "Puškař - Část 4"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Gunsmith_-_Part_4",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Gunsmith_-_Part_4",
         "exp": 10000,
         "unlocks": [],
         "reputation": [
@@ -3982,7 +3982,7 @@
             "ru": "Оружейник. Часть 5",
             "cs": "Puškař - Část 5"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Gunsmith_-_Part_5",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Gunsmith_-_Part_5",
         "exp": 13700,
         "unlocks": [],
         "reputation": [
@@ -4010,7 +4010,7 @@
             "ru": "Оружейник. Часть 6",
             "cs": "Puškař - Část 6"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Gunsmith_-_Part_6",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Gunsmith_-_Part_6",
         "exp": 14700,
         "unlocks": [],
         "reputation": [
@@ -4038,7 +4038,7 @@
             "ru": "Оружейник. Часть 7",
             "cs": "Puškař - Část 7"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Gunsmith_-_Part_7",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Gunsmith_-_Part_7",
         "exp": 16000,
         "unlocks": [],
         "reputation": [
@@ -4066,7 +4066,7 @@
             "ru": "Оружейник. Часть 8",
             "cs": "Puškař - Část 8"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Gunsmith_-_Part_8",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Gunsmith_-_Part_8",
         "exp": 16000,
         "unlocks": [],
         "reputation": [
@@ -4094,7 +4094,7 @@
             "ru": "Оружейник. Часть 9",
             "cs": "Puškař - Část 9"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Gunsmith_-_Part_9",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Gunsmith_-_Part_9",
         "exp": 17000,
         "unlocks": [],
         "reputation": [
@@ -4122,7 +4122,7 @@
             "ru": "Оружейник. Часть 10",
             "cs": "Puškař - Část 10"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Gunsmith_-_Part_10",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Gunsmith_-_Part_10",
         "exp": 17300,
         "unlocks": [
             "5af08cc686f77424a61595f2"
@@ -4152,7 +4152,7 @@
             "ru": "Оружейник. Часть 11",
             "cs": "Puškař - Část 11"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Gunsmith_-_Part_11",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Gunsmith_-_Part_11",
         "exp": 18400,
         "unlocks": [],
         "reputation": [
@@ -4180,7 +4180,7 @@
             "ru": "Оружейник. Часть 12",
             "cs": "Puškař - Část 12"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Gunsmith_-_Part_12",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Gunsmith_-_Part_12",
         "exp": 14200,
         "unlocks": [
             "588226ef24597767af46e39c",
@@ -4211,7 +4211,7 @@
             "ru": "Оружейник. Часть 13",
             "cs": "Puškař - Část 13"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Gunsmith_-_Part_13",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Gunsmith_-_Part_13",
         "exp": 18700,
         "unlocks": [
             "5b07db875acfc40dc528a5f6"
@@ -4241,7 +4241,7 @@
             "ru": "Оружейник. Часть 14",
             "cs": "Puškař - Část 14"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Gunsmith_-_Part_14",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Gunsmith_-_Part_14",
         "exp": 20500,
         "unlocks": [
             "5b07dd285acfc4001754240d"
@@ -4271,7 +4271,7 @@
             "ru": "Оружейник. Часть 15",
             "cs": "Puškař - Část 15"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Gunsmith_-_Part_15",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Gunsmith_-_Part_15",
         "exp": 22300,
         "unlocks": [],
         "reputation": [
@@ -4299,7 +4299,7 @@
             "ru": "Оружейник. Часть 16",
             "cs": "Puškař - Část 16"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Gunsmith_-_Part_16",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Gunsmith_-_Part_16",
         "exp": 32800,
         "unlocks": [],
         "reputation": [
@@ -4327,7 +4327,7 @@
             "ru": "Сигнал. Часть 1",
             "cs": "Signál - Část 1"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Signal_-_Part_1",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Signal_-_Part_1",
         "exp": 6700,
         "unlocks": [],
         "reputation": [
@@ -4370,7 +4370,7 @@
             "ru": "Сигнал. Часть 2",
             "cs": "Signál - Část 2"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Signal_-_Part_2",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Signal_-_Part_2",
         "exp": 6700,
         "unlocks": [],
         "reputation": [
@@ -4427,7 +4427,7 @@
             "ru": "Сигнал. Часть 3",
             "cs": "Signál - Část 3"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Signal_-_Part_3",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Signal_-_Part_3",
         "exp": 8500,
         "unlocks": [
             "5ac78a9b86f7741cca0bbd8d"
@@ -4485,7 +4485,7 @@
             "ru": "Сигнал. Часть 4",
             "cs": "Signál - Část 4"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Signal_-_Part_4",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Signal_-_Part_4",
         "exp": 8600,
         "unlocks": [],
         "reputation": [
@@ -4521,7 +4521,7 @@
             "ru": "Скаут",
             "cs": "Průzkumník"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Scout",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Scout",
         "exp": 6800,
         "unlocks": [],
         "reputation": [
@@ -4575,7 +4575,7 @@
             "ru": "Свой человек",
             "cs": "Špión"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Insider",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Insider",
         "exp": 9300,
         "unlocks": [],
         "reputation": [
@@ -4611,7 +4611,7 @@
             "ru": "Садоводство. Часть 1",
             "cs": "Sběrač - Část 1"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Farming_-_Part_1",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Farming_-_Part_1",
         "exp": 6600,
         "unlocks": [],
         "reputation": [
@@ -4656,7 +4656,7 @@
             "ru": "Садоводство. Часть 2",
             "cs": "Sběrač - Část 2"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Farming_-_Part_2",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Farming_-_Part_2",
         "exp": 5500,
         "unlocks": [],
         "reputation": [
@@ -4706,7 +4706,7 @@
             "ru": "Садоводство. Часть 3",
             "cs": "Sběrač - Část 3"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Farming_-_Part_3",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Farming_-_Part_3",
         "exp": 6500,
         "unlocks": [],
         "reputation": [
@@ -4749,7 +4749,7 @@
             "ru": "Садоводство. Часть 4",
             "cs": "Sběrač - Část 4"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Farming_-_Part_4",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Farming_-_Part_4",
         "exp": 8000,
         "unlocks": [],
         "reputation": [
@@ -4792,7 +4792,7 @@
             "ru": "Импорт",
             "cs": "Dovoz"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Import",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Import",
         "exp": 29000,
         "nokappa": true,
         "unlocks": [],
@@ -4840,7 +4840,7 @@
             "ru": "Удобрения",
             "cs": "Hnojiva"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Fertilizers",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Fertilizers",
         "exp": 17200,
         "unlocks": [],
         "reputation": [
@@ -4883,7 +4883,7 @@
             "ru": "Стрелок от бога",
             "cs": "Střelec zrozený v nebi"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/A_Shooter_Born_in_Heaven",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/A_Shooter_Born_in_Heaven",
         "exp": 11600,
         "unlocks": [
             "5c127c4486f7745625356c13"
@@ -4952,7 +4952,7 @@
             "ru": "Только бизнес",
             "cs": "Jen obchod"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Only_business",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Only_business",
         "exp": 6700,
         "unlocks": [],
         "reputation": [
@@ -4988,7 +4988,7 @@
             "ru": "Распродажа",
             "cs": "Velký výprodej"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Big_sale",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Big_sale",
         "exp": 8200,
         "unlocks": [],
         "reputation": [
@@ -5052,7 +5052,7 @@
             "ru": "Кровь войны",
             "cs": "Krev války - Část 1"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/The_Blood_of_War_-_Part_1",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/The_Blood_of_War_-_Part_1",
         "exp": 7500,
         "unlocks": [],
         "reputation": [
@@ -5108,7 +5108,7 @@
             "ru": "Модный приговор",
             "cs": "Oblečený k zabijení"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Dressed_to_kill",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Dressed_to_kill",
         "exp": 8400,
         "unlocks": [],
         "reputation": [
@@ -5151,7 +5151,7 @@
             "ru": "Картотека. Часть 1",
             "cs": "Databáze - Část 1"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Database_-_Part_1",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Database_-_Part_1",
         "exp": 8400,
         "unlocks": [],
         "reputation": [
@@ -5201,7 +5201,7 @@
             "ru": "Картотека. Часть 2",
             "cs": "Databáze - Část 2"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Database_-_Part_2",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Database_-_Part_2",
         "exp": 8500,
         "unlocks": [],
         "reputation": [
@@ -5244,7 +5244,7 @@
             "ru": "Благодарность",
             "cs": "Vděčnost"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Gratitude",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Gratitude",
         "exp": 14400,
         "unlocks": [],
         "reputation": [
@@ -5301,7 +5301,7 @@
             "ru": "Ночь распродаж",
             "cs": "Noc slev"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Sales_Night",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Sales_Night",
         "exp": 17500,
         "unlocks": [
             "5b40e2bc5acfc40016388216"
@@ -5339,7 +5339,7 @@
             "ru": "Супервайзер",
             "cs": "Dozorce"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Supervisor",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Supervisor",
         "exp": 24100,
         "unlocks": [
             "5ab8e79e86f7742d8b372e78"
@@ -5377,7 +5377,7 @@
             "ru": "Горячая доставка",
             "cs": "Horký zboží"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Hot_delivery",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Hot_delivery",
         "exp": 20300,
         "unlocks": [
             "5b44cd8b86f774503d30cba2"
@@ -5432,7 +5432,7 @@
             "ru": "Скавенжер",
             "cs": "Mrchožrout"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Scavenger",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Scavenger",
         "exp": 17700,
         "unlocks": [
             "5bffe7930db834001b734a39"
@@ -5470,7 +5470,7 @@
             "ru": "Вернем Ультре былое величие",
             "cs": "Udělat ULTRA opět nejlepší"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Make_ULTRA_Great_Again",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Make_ULTRA_Great_Again",
         "exp": 9800,
         "unlocks": [],
         "reputation": [
@@ -5506,7 +5506,7 @@
             "ru": "Маршрутка",
             "cs": "Minibus"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Minibus",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Minibus",
         "exp": 13800,
         "unlocks": [],
         "reputation": [
@@ -5562,7 +5562,7 @@
             "ru": "Шить - не тужить. Часть 1",
             "cs": "Ušíj to dobře - Část 1"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Sew_it_good_-_Part_1",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Sew_it_good_-_Part_1",
         "exp": 12300,
         "unlocks": [],
         "reputation": [
@@ -5605,7 +5605,7 @@
             "ru": "Шить - не тужить. Часть 2",
             "cs": "Ušíj to dobře - Část 2"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Sew_it_good_-_Part_2",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Sew_it_good_-_Part_2",
         "exp": 17500,
         "unlocks": [],
         "reputation": [
@@ -5650,7 +5650,7 @@
             "ru": "Шить - не тужить. Часть 3",
             "cs": "Ušíj to dobře - Část 3"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Sew_it_good_-_Part_3",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Sew_it_good_-_Part_3",
         "exp": 18200,
         "unlocks": [],
         "reputation": [
@@ -5695,7 +5695,7 @@
             "ru": "Шить - не тужить. Часть 4",
             "cs": "Ušíj to dobře - Část 4"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Sew_it_good_-_Part_4",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Sew_it_good_-_Part_4",
         "exp": 18500,
         "unlocks": [],
         "reputation": [
@@ -5738,7 +5738,7 @@
             "ru": "Харизма города берет",
             "cs": "Charisma přináší úspěch"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Charisma_brings_success",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Charisma_brings_success",
         "exp": 15600,
         "nokappa": true,
         "unlocks": [],
@@ -5775,7 +5775,7 @@
             "ru": "Борода не нужна",
             "cs": "Není třeba tropit povyk"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/No_fuss_needed",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/No_fuss_needed",
         "exp": 15800,
         "unlocks": [
             "5b40e1525acfc4771e1c6611"
@@ -5813,7 +5813,7 @@
             "ru": "Кровь войны. Часть 2",
             "cs": "Krev války - Část 2"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/The_Blood_of_War_-_Part_2",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/The_Blood_of_War_-_Part_2",
         "exp": 14600,
         "unlocks": [],
         "reputation": [
@@ -5849,7 +5849,7 @@
             "ru": "Кровь войны. Часть 3",
             "cs": "Krev války - Část 3"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/The_Blood_of_War_-_Part_3",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/The_Blood_of_War_-_Part_3",
         "exp": 21300,
         "unlocks": [
             "60a283193cb70855c43a381d"
@@ -5907,7 +5907,7 @@
             "ru": "Красиво жить не запретишь",
             "cs": "Žít blaze, není zločin - Část 1"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Living_high_is_not_a_crime_-_Part_1",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Living_high_is_not_a_crime_-_Part_1",
         "exp": 19900,
         "nokappa": true,
         "unlocks": [],
@@ -5965,7 +5965,7 @@
             "ru": "Красиво жить не запретишь. Часть 2",
             "cs": "Žít blaze, není zločin - Část 2"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Living_high_is_not_a_crime_-_Part_2",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Living_high_is_not_a_crime_-_Part_2",
         "exp": 25900,
         "unlocks": [
             "5d5d87f786f77427997cfaef"
@@ -6008,7 +6008,7 @@
             "ru": "Поручение",
             "cs": "Představení"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Introduction",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Introduction",
         "exp": 4500,
         "unlocks": [],
         "reputation": [
@@ -6044,7 +6044,7 @@
             "ru": "Знакомство",
             "cs": "Známost"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Acquaintance",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Acquaintance",
         "exp": 3900,
         "unlocks": [],
         "reputation": [
@@ -6094,7 +6094,7 @@
             "ru": "Путь выживальщика. Беззащитен, но опасен",
             "cs": "Cesta přeživšího. Nechráněný, ale nebezpečný"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/The_survivalist_path_-_Unprotected,_but_dangerous",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/The_survivalist_path_-_Unprotected,_but_dangerous",
         "exp": 5600,
         "unlocks": [],
         "reputation": [
@@ -6133,7 +6133,7 @@
             "ru": "Путь выживальщика. Запасливый",
             "cs": "Cesta přeživšího. Poctivý"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/The_survivalist_path_-_Thrifty",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/The_survivalist_path_-_Thrifty",
         "exp": 4700,
         "unlocks": [],
         "reputation": [
@@ -6194,7 +6194,7 @@
             "ru": "Путь выживальщика. Живчик",
             "cs": "Cesta přeživšího. Zhivchik"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/The_survivalist_path_-_Zhivchik",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/The_survivalist_path_-_Zhivchik",
         "exp": 5700,
         "unlocks": [],
         "reputation": [
@@ -6230,7 +6230,7 @@
             "ru": "Путь выживальщика. Раненый зверь",
             "cs": "Cesta přeživšího. Zraněná bestie"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/The_survivalist_path_-_Wounded_beast",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/The_survivalist_path_-_Wounded_beast",
         "exp": 5800,
         "unlocks": [],
         "reputation": [
@@ -6269,7 +6269,7 @@
             "ru": "Путь выживальщика. Крепыш",
             "cs": "Cesta přeživšího. Tvrďák"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/The_survivalist_path_-_Tough_guy",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/The_survivalist_path_-_Tough_guy",
         "exp": 7000,
         "unlocks": [],
         "reputation": [
@@ -6309,7 +6309,7 @@
             "ru": "Визит вежливости",
             "cs": "Zdvořilostní návštěva"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Courtesy_visit",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Courtesy_visit",
         "exp": 11800,
         "unlocks": [],
         "reputation": [
@@ -6359,7 +6359,7 @@
             "ru": "Ностальгия",
             "cs": "Nostalgie"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Nostalgia",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Nostalgia",
         "exp": 16800,
         "unlocks": [],
         "reputation": [
@@ -6698,7 +6698,7 @@
             "ru": "Тарковский стрелок. Часть 8",
             "cs": "\"Střelec z Tarkova\" - Část 8"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/%22The_Tarkov_shooter%22_-_Part_8",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/%22The_Tarkov_shooter%22_-_Part_8",
         "exp": 25200,
         "unlocks": [
             "5bae13bad4351e00320204af",
@@ -6741,7 +6741,7 @@
             "ru": "Путь выживальщика. Хладнокровный",
             "cs": "Cesta přeživšího. Chladnokrevný"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/The_survivalist_path_-_Cold_blooded",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/The_survivalist_path_-_Cold_blooded",
         "exp": 5900,
         "unlocks": [],
         "reputation": [
@@ -6781,7 +6781,7 @@
             "ru": "Коллеги. Часть 2",
             "cs": "Kolegové - Část 2"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Colleagues_-_Part_2",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Colleagues_-_Part_2",
         "exp": 12300,
         "nokappa": true,
         "unlocks": [],
@@ -6834,7 +6834,7 @@
             "ru": "Коллеги. Часть 3",
             "cs": "Kolegové - Část 3"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Colleagues_-_Part_3",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Colleagues_-_Part_3",
         "exp": 15800,
         "nokappa": true,
         "unlocks": [],
@@ -6906,7 +6906,7 @@
             "ru": "Путь выживальщика. Боевой медик",
             "cs": "Cesta přeživšího. Bojový medik"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/The_survivalist_path_-_Combat_medic",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/The_survivalist_path_-_Combat_medic",
         "exp": 5900,
         "unlocks": [],
         "reputation": [
@@ -6942,7 +6942,7 @@
             "ru": "Скорая помощь",
             "cs": "Sanitka"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Ambulance",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Ambulance",
         "exp": 14800,
         "unlocks": [
             "5d02797c86f774203f38e30a"
@@ -6987,7 +6987,7 @@
             "ru": "Путь охотника. Охранка",
             "cs": "Cesta lovce. Zajištěný perimetr"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Huntsman_path_-_Secured_perimeter",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Huntsman_path_-_Secured_perimeter",
         "exp": 5900,
         "unlocks": [],
         "reputation": [
@@ -7062,7 +7062,7 @@
             "ru": "Путь охотника. Очистка леса",
             "cs": "Cesta lovce. Čistění lesa"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Huntsman_path_-_Woods_cleaning",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Huntsman_path_-_Woods_cleaning",
         "exp": 5900,
         "unlocks": [],
         "reputation": [
@@ -7098,7 +7098,7 @@
             "ru": "Путь охотника. Контролёр",
             "cs": "Cesta lovce. Dohled"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Huntsman_path_-_Controller",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Huntsman_path_-_Controller",
         "exp": 7200,
         "nokappa": true,
         "unlocks": [],
@@ -7138,7 +7138,7 @@
             "ru": "Путь охотника. Злой вахтёр",
             "cs": "Cesta lovce. Zlý hlídač"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Huntsman_path_-_Evil_watchman",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Huntsman_path_-_Evil_watchman",
         "exp": 6000,
         "nokappa": true,
         "unlocks": [],
@@ -7178,7 +7178,7 @@
             "ru": "Рыбное место",
             "cs": "Rybářské místo"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Fishing_place",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Fishing_place",
         "exp": 18000,
         "unlocks": [],
         "reputation": [
@@ -7214,7 +7214,7 @@
             "ru": "Путь охотника. Трофей",
             "cs": "Cesta lovce. Trofej"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Huntsman_path_-_The_trophy",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Huntsman_path_-_The_trophy",
         "exp": 7100,
         "unlocks": [],
         "reputation": [
@@ -7257,7 +7257,7 @@
             "ru": "Путь охотника. Справедливость",
             "cs": "Cesta lovce. Spravedlnost"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Huntsman_path_-_Justice",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Huntsman_path_-_Justice",
         "exp": 7200,
         "nokappa": true,
         "unlocks": [],
@@ -7340,7 +7340,7 @@
             "ru": "Путь охотника. Санитар леса",
             "cs": "Cesta lovce. Lesník"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Huntsman_path_-_Woods_keeper",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Huntsman_path_-_Woods_keeper",
         "exp": 7300,
         "unlocks": [],
         "reputation": [
@@ -7383,7 +7383,7 @@
             "ru": "Путь охотника. Стиратель",
             "cs": "Cesta lovce. Čistič - Část 1"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Huntsman_path_-_Eraser_-_Part_1",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Huntsman_path_-_Eraser_-_Part_1",
         "exp": 8900,
         "unlocks": [],
         "reputation": [
@@ -7419,7 +7419,7 @@
             "ru": "Путь охотника. Стиратель 2",
             "cs": "Cesta lovce. Čistič - Část 2"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Huntsman_path_-_Eraser_-_Part_2",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Huntsman_path_-_Eraser_-_Part_2",
         "exp": 17000,
         "unlocks": [],
         "reputation": [
@@ -7455,7 +7455,7 @@
             "ru": "На охоту",
             "cs": "Lov"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Hunting_trip",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Hunting_trip",
         "exp": 22200,
         "nokappa": true,
         "unlocks": [
@@ -7501,7 +7501,7 @@
             "ru": "Операция «Водолей»",
             "cs": "Operace Vodnář - Část 1"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Operation_Aquarius_-_Part_1",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Operation_Aquarius_-_Part_1",
         "exp": 3300,
         "unlocks": [],
         "reputation": [
@@ -7548,7 +7548,7 @@
             "ru": "Операция «Водолей». Часть 2",
             "cs": "Operace Vodnář - Část 2"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Operation_Aquarius_-_Part_2",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Operation_Aquarius_-_Part_2",
         "exp": 3400,
         "unlocks": [
             "5751a25924597722c463c472"
@@ -7590,7 +7590,7 @@
             "ru": "Бомж с Полихима",
             "cs": "Polikhimský tulák"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Polikhim_hobo",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Polikhim_hobo",
         "exp": 5900,
         "unlocks": [],
         "reputation": [
@@ -7626,7 +7626,7 @@
             "ru": "Поставщик",
             "cs": "Regulované materiály"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Regulated_materials",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Regulated_materials",
         "exp": 14800,
         "nokappa": true,
         "unlocks": [
@@ -7672,7 +7672,7 @@
             "ru": "Движуха",
             "cs": "Zmatek"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Stirrup",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Stirrup",
         "exp": 5300,
         "unlocks": [
             "59e6687d86f77411d949b251"
@@ -7721,7 +7721,7 @@
             "ru": "Наставник",
             "cs": "Mentor"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Mentor",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Mentor",
         "exp": 4700,
         "nokappa": true,
         "unlocks": [],
@@ -7753,7 +7753,7 @@
             "ru": "Вредная привычка",
             "cs": "Zlozvyk"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Bad_habit",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Bad_habit",
         "exp": 6700,
         "unlocks": [],
         "reputation": [
@@ -7803,7 +7803,7 @@
             "ru": "Секрет успеха",
             "cs": "Klíč k úspěchu"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/The_key_to_success",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/The_key_to_success",
         "exp": 15600,
         "unlocks": [
             "6034d2d697633951dc245ea6"
@@ -7850,7 +7850,7 @@
             "ru": "Мутное дело",
             "cs": "Pochybný obchod"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Shady_business",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Shady_business",
         "exp": 11400,
         "unlocks": [],
         "reputation": [
@@ -7886,7 +7886,7 @@
             "ru": "Почтальон Печкин. Часть 2",
             "cs": "Pošťák Pat - Část 2"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Postman_Pat_-_Part_2",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Postman_Pat_-_Part_2",
         "exp": 3500,
         "unlocks": [],
         "reputation": [
@@ -7922,7 +7922,7 @@
             "ru": "Простое любопытство",
             "cs": "Ze zvědavosti"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Out_of_curiosity",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Out_of_curiosity",
         "exp": 7700,
         "unlocks": [],
         "reputation": [
@@ -7969,7 +7969,7 @@
             "ru": "Большой заказчик",
             "cs": "Velký zákazník"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Big_customer",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Big_customer",
         "exp": 8100,
         "unlocks": [],
         "reputation": [
@@ -8019,7 +8019,7 @@
             "ru": "Путь выживальщика. Торчок",
             "cs": "Cesta přeživšího. Feťák"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/The_survivalist_path_-_Junkie",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/The_survivalist_path_-_Junkie",
         "exp": 5900,
         "unlocks": [],
         "reputation": [
@@ -8058,7 +8058,7 @@
             "ru": "Текстиль. Часть 1",
             "cs": "Textil - Část 1"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Textile_-_Part_1",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Textile_-_Part_1",
         "exp": 0,
         "nokappa": true,
         "unlocks": [],
@@ -8104,7 +8104,7 @@
             "ru": "Текстиль. Часть 2",
             "cs": "Textil - Část 2"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Textile_-_Part_2",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Textile_-_Part_2",
         "exp": 0,
         "nokappa": true,
         "unlocks": [],
@@ -8150,7 +8150,7 @@
             "ru": "Анестезия",
             "cs": "Anestézie"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Anesthesia",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Anesthesia",
         "exp": 18100,
         "nokappa": true,
         "unlocks": [],
@@ -8207,7 +8207,7 @@
             "ru": "Коллеги. Часть 1",
             "cs": "Kolegové - Část 1"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Colleagues_-_Part_1",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Colleagues_-_Part_1",
         "exp": 12300,
         "nokappa": true,
         "unlocks": [],
@@ -8258,7 +8258,7 @@
             "ru": "Игра на верняк",
             "cs": "Zmanipulovaná hra"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Rigged_game",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Rigged_game",
         "exp": 12900,
         "nokappa": true,
         "unlocks": [],
@@ -8313,7 +8313,7 @@
             "ru": "Кабинет химии",
             "cs": "Skříňka s chemikáliemi"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Chemistry_closet",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Chemistry_closet",
         "exp": 13400,
         "nokappa": true,
         "unlocks": [],
@@ -8357,7 +8357,7 @@
             "ru": "Образцы",
             "cs": "Vzorky"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Samples",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Samples",
         "exp": 15300,
         "nokappa": true,
         "unlocks": [
@@ -8440,7 +8440,7 @@
             "ru": "Сотрудник Terragroup",
             "cs": "TerraGroup zaměstnanec"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/TerraGroup_employee",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/TerraGroup_employee",
         "exp": 17000,
         "nokappa": true,
         "unlocks": [],
@@ -8493,7 +8493,7 @@
             "ru": "Путь охотника. Садист",
             "cs": "Cesta lovce. Sadista"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Huntsman_path_-_Sadist",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Huntsman_path_-_Sadist",
         "exp": 16300,
         "nokappa": true,
         "unlocks": [],
@@ -8537,7 +8537,7 @@
             "ru": "Бункер. Часть 1",
             "cs": "Bunkr - Část 1"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/The_bunker_-_Part_1",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/The_bunker_-_Part_1",
         "exp": 5700,
         "nokappa": true,
         "unlocks": [],
@@ -8581,7 +8581,7 @@
             "ru": "Бункер. Часть 2",
             "cs": "Bunkr - Část 2"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/The_bunker_-_Part_2",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/The_bunker_-_Part_2",
         "exp": 9200,
         "nokappa": true,
         "unlocks": [],
@@ -8646,7 +8646,7 @@
             "ru": "Поисковая миссия",
             "cs": "Záchranná mise"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Search_mission",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Search_mission",
         "exp": 2800,
         "unlocks": [],
         "reputation": [
@@ -8689,7 +8689,7 @@
             "ru": "Модник",
             "cs": "Stylový"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/The_stylish_one",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/The_stylish_one",
         "exp": 0,
         "nokappa": true,
         "unlocks": [],
@@ -8720,7 +8720,7 @@
             "ru": "Путь выживальщика. Филин",
             "cs": "Cesta přeživšího. Výr"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/The_survivalist_path_-_Eagle-owl",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/The_survivalist_path_-_Eagle-owl",
         "exp": 5900,
         "unlocks": [],
         "reputation": [
@@ -8814,7 +8814,7 @@
             "ru": "Коллекционер",
             "cs": "Kolektor"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Collector",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Collector",
         "exp": 0,
         "unlocks": [],
         "reputation": [],
@@ -8998,7 +8998,7 @@
             "ru": "В здоровом теле - здоровый дух",
             "cs": "Jablko denně, u lékaře méně"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/An_apple_a_day_-_keeps_the_doctor_away",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/An_Apple_a_day_keeps_the_Doctor_away",
         "exp": 0,
         "unlocks": [],
         "reputation": [],
@@ -9206,13 +9206,13 @@
         },
         "giver": 1,
         "turnin": 1,
-        "title": "Hippocratic Vow",
+        "title": "Hippocratic Oath",
         "locales": {
-            "en": "Hippocratic Vow",
+            "en": "Hippocratic Oath",
             "ru": "Клятва Гиппократу",
             "cs": "Hypokratova přísaha"
         },
-        "wiki": "https://escapefromtarkov.fandom.com/wiki/Hippocratic_Vow",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Hippocratic_Oath",
         "exp": 0,
         "unlocks": [],
         "reputation": [
@@ -9523,13 +9523,13 @@
         },
         "giver": 3,
         "turnin": 3,
-        "title": "Experience exchange",
+        "title": "Classified technologies",
         "locales": {
-            "en": "Experience exchange",
+            "en": "Classified technologies",
             "ru": "Секретные разработки",
             "cs": "Výměna zkušeností"
         },
-        "wiki": "https://escapefromtarkov.fandom.com/wiki/Experience_exchange",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Classified_technologies",
         "exp": 7200,
         "unlocks": [],
         "reputation": [
