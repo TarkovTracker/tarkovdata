@@ -1,3 +1,18 @@
+<p align="center">
+    <a href="https://github.com/TarkovTracker/tarkovdata/issues" alt="Issues">
+      <img src="https://img.shields.io/github/issues/TarkovTracker/tarkovdata" />
+    </a>
+    <a href="https://github.com/TarkovTracker/tarkovdata/discussions" alt="Discussions">
+        <img src="https://img.shields.io/github/discussions/TarkovTracker/tarkovdata" />
+    </a>
+    <a href="https://github.com/TarkovTracker/tarkovdata/commits/master" alt="Commits">
+        <img src="https://img.shields.io/github/last-commit/TarkovTracker/tarkovdata" />
+    </a>
+    <a href="https://img.shields.io/github/contributors/TarkovTracker/tarkovdata" alt="Contributors">
+        <img src="https://img.shields.io/github/contributors/TarkovTracker/tarkovdata" />
+    </a>
+</p>
+
 # tarkovdata
 tarkovdata is game information for [Escape From Tarkov](https://www.escapefromtarkov.com/) in easy to use formats to enable developing tools for assisting players. Everything here is contributed by the community (like you!) and maintained by developers of community tools like [Tarkov Tracker](https://tarkovtracker.io/), [Tarkov Tools](https://tarkov-tools.com/), and [Tarkov Guru](https://tarkov.guru/)
 
