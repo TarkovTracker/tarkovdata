@@ -2296,7 +2296,9 @@
         },
         "wiki": "https://escapefromtarkov.fandom.com/wiki/Lend_lease_-_Part_2",
         "exp": 21000,
-        "unlocks": [],
+        "unlocks": [
+            "5c17a7ed2e2216152142459c"
+        ],
         "reputation": [
             {
                 "trader": 3,
@@ -3649,7 +3651,9 @@
         },
         "wiki": "https://escapefromtarkov.fandom.com/wiki/Wet_Job_-_Part_3",
         "exp": 8200,
-        "unlocks": [],
+        "unlocks": [
+            "5bb2475ed4351e00853264e3"
+        ],
         "reputation": [
             {
                 "trader": 3,
@@ -3685,7 +3689,9 @@
         },
         "wiki": "https://escapefromtarkov.fandom.com/wiki/Wet_Job_-_Part_4",
         "exp": 8300,
-        "unlocks": [],
+        "unlocks": [
+            "5dcbd56fdbd3d91b3e5468d5"
+        ],
         "reputation": [
             {
                 "trader": 3,
@@ -3722,7 +3728,8 @@
         "wiki": "https://escapefromtarkov.fandom.com/wiki/Wet_Job_-_Part_5",
         "exp": 8400,
         "unlocks": [
-            "5a367e5dc4a282000e49738f"
+            "5a367e5dc4a282000e49738f",
+            "60098ad7c2240c0fe85c570a"
         ],
         "reputation": [
             {
@@ -3770,7 +3777,8 @@
         "wiki": "https://escapefromtarkov.fandom.com/wiki/Wet_Job_-_Part_6",
         "exp": 10400,
         "unlocks": [
-            "5a6086ea4f39f99cd479502f"
+            "5a6086ea4f39f99cd479502f",
+            "5e81ebcd8e146c7080625e15"
         ],
         "reputation": [
             {
