@@ -4133,7 +4133,8 @@
         "wiki": "https://escapefromtarkov.fandom.com/wiki/Gunsmith_-_Part_10",
         "exp": 17300,
         "unlocks": [
-            "5af08cc686f77424a61595f2"
+            "5af08cc686f77424a61595f2",
+            "5cc86832d7f00c000d3a6e6c"
         ],
         "reputation": [
             {
@@ -8452,7 +8453,9 @@
         "wiki": "https://escapefromtarkov.fandom.com/wiki/TerraGroup_employee",
         "exp": 17000,
         "nokappa": true,
-        "unlocks": [],
+        "unlocks": [
+            "5e01ef6886f77445f643baa4"
+        ],
         "reputation": [
             {
                 "trader": 3,
