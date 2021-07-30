@@ -4310,7 +4310,9 @@
         },
         "wiki": "https://escapefromtarkov.fandom.com/wiki/Gunsmith_-_Part_16",
         "exp": 32800,
-        "unlocks": [],
+        "unlocks": [
+            "5a1eaa87fcdbcb001865f75e"
+        ],
         "reputation": [
             {
                 "trader": 4,
