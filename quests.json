@@ -80,6 +80,11 @@
                 "target": "bronze pocket watch",
                 "number": 1,
                 "location": 1,
+                "gps": {
+                    "leftPercent": 51.86,
+                    "topPercent": 55.71,
+                    "floor": "Ground_Level"
+                },
                 "id": 2
             }
         ],
@@ -161,6 +166,11 @@
                 "target": "Secure case for documents 0022",
                 "number": 1,
                 "location": 1,
+                "gps": {
+                    "leftPercent": 85.91,
+                    "topPercent": 35.65,
+                    "floor": "Ground_Level"
+                },
                 "id": 4
             },
             {
@@ -210,6 +220,11 @@
                 "hint": "Gas station",
                 "number": 1,
                 "location": 1,
+                "gps": {
+                    "leftPercent": 24.02,
+                    "topPercent": 56.82,
+                    "floor": "Ground_Level"
+                },
                 "id": 6
             },
             {
@@ -219,6 +234,11 @@
                 "hint": "Old Gas Station",
                 "number": 1,
                 "location": 1,
+                "gps": {
+                    "leftPercent": 34.7,
+                    "topPercent": 15.88,
+                    "floor": "Ground_Level"
+                },
                 "id": 7
             },
             {
@@ -228,6 +248,11 @@
                 "hint": "Construction",
                 "number": 1,
                 "location": 1,
+                "gps": {
+                    "leftPercent": 51.59,
+                    "topPercent": 53.48,
+                    "floor": "Ground_Level"
+                },
                 "id": 8
             },
             {
@@ -237,6 +262,11 @@
                 "hint": "Garages",
                 "number": 1,
                 "location": 1,
+                "gps": {
+                    "leftPercent": 98.75,
+                    "topPercent": 30.64,
+                    "floor": "Ground_Level"
+                },
                 "id": 9
             }
         ],
@@ -282,6 +312,11 @@
                 "target": "Secure case for documents 0031",
                 "number": 1,
                 "location": 1,
+                "gps": {
+                    "leftPercent": 48.48,
+                    "topPercent": 57.66,
+                    "floor": "Ground_Level"
+                },
                 "id": 11
             }
         ],
@@ -415,6 +450,11 @@
                 "target": "Bank case",
                 "number": 1,
                 "location": 1,
+                "gps": {
+                    "leftPercent": 47.97,
+                    "topPercent": 84.03,
+                    "floor": "Ground_Level"
+                },
                 "id": 15
             }
         ],
@@ -1111,6 +1151,11 @@
                 "target": "Carbon case",
                 "number": 1,
                 "location": 1,
+                "gps": {
+                    "leftPercent": 42.9,
+                    "topPercent": 85.29,
+                    "floor": "Ground_Level"
+                },
                 "id": 44
             }
         ],
@@ -1701,6 +1746,11 @@
                 "target": "Docs 0048",
                 "number": 1,
                 "location": 1,
+                "gps": {
+                    "leftPercent": 30.32,
+                    "topPercent": 45.38,
+                    "floor": "Ground_Level"
+                },
                 "id": 65
             }
         ],
@@ -1793,6 +1843,11 @@
                 "target": "Gilded Zibbo lighter",
                 "number": 1,
                 "location": 1,
+                "gps": {
+                    "leftPercent": 48.28,
+                    "topPercent": 84.66,
+                    "floor": "Ground_Level"
+                },
                 "id": 69
             },
             {
@@ -1800,6 +1855,11 @@
                 "target": "Gilded Zibbo lighter",
                 "number": 1,
                 "location": 1,
+                "gps": {
+                    "leftPercent": 86.31,
+                    "topPercent": 14.5,
+                    "floor": "Ground_Level"
+                },
                 "id": 70
             }
         ],
@@ -1843,6 +1903,11 @@
                 "target": "Docs 0013",
                 "number": 1,
                 "location": 1,
+                "gps": {
+                    "leftPercent": 18.56,
+                    "topPercent": 22.9,
+                    "floor": "Ground_Level"
+                },
                 "id": 72
             }
         ],
@@ -1888,6 +1953,11 @@
                 "target": "Sealed letter (TerraGroup)",
                 "number": 1,
                 "location": 1,
+                "gps": {
+                    "leftPercent": 46.25,
+                    "topPercent": 88.03,
+                    "floor": "Ground_Level"
+                },
                 "id": 74
             },
             {
@@ -1895,6 +1965,11 @@
                 "target": "Sliderkey Secure Flash drive",
                 "number": 1,
                 "location": 1,
+                "gps": {
+                    "leftPercent": 46.25,
+                    "topPercent": 88.03,
+                    "floor": "Ground_Level"
+                },
                 "id": 75
             }
         ],
@@ -1984,6 +2059,11 @@
                 "target": "Transport van",
                 "number": 1,
                 "location": 1,
+                "gps": {
+                    "leftPercent": 19.68,
+                    "topPercent": 39.29,
+                    "floor": "Ground_Level"
+                },
                 "id": 77
             }
         ],
@@ -2453,6 +2533,11 @@
                 "target": "Roadblock",
                 "number": 1,
                 "location": 1,
+                "gps": {
+                    "leftPercent": 63.49,
+                    "topPercent": 74.37,
+                    "floor": "Ground_Level"
+                },
                 "id": 103
             }
         ],
@@ -2503,6 +2588,11 @@
                 "target": "5734758f24597738025ee253",
                 "number": 3,
                 "location": 1,
+                "gps": {
+                    "leftPercent": 48.78,
+                    "topPercent": 87.61,
+                    "floor": "Ground_Level"
+                },
                 "id": 106
             },
             {
@@ -2645,6 +2735,11 @@
                 "target": "False flash drive",
                 "number": 1,
                 "location": 1,
+                "gps": {
+                    "leftPercent": 73.23,
+                    "topPercent": 56.93,
+                    "floor": "Ground_Level"
+                },
                 "id": 111
             },
             {
@@ -2652,6 +2747,11 @@
                 "target": "False flash drive",
                 "number": 1,
                 "location": 1,
+                "gps": {
+                    "leftPercent": 47.97,
+                    "topPercent": 86.13,
+                    "floor": "Ground_Level"
+                },
                 "id": 112
             },
             {
@@ -2659,6 +2759,11 @@
                 "target": "59faf7ca86f7740dbe19f6c2",
                 "number": 1,
                 "location": 1,
+                "gps": {
+                    "leftPercent": 47.97,
+                    "topPercent": 86.13,
+                    "floor": "Ground_Level"
+                },
                 "id": 113
             },
             {
@@ -2666,6 +2771,11 @@
                 "target": "55801eed4bdc2d89578b4588",
                 "number": 1,
                 "location": 1,
+                "gps": {
+                    "leftPercent": 47.97,
+                    "topPercent": 86.13,
+                    "floor": "Ground_Level"
+                },
                 "id": 114
             }
         ],
@@ -2796,6 +2906,11 @@
                 "hint": "Checkpoint",
                 "number": 1,
                 "location": 1,
+                "gps": {
+                    "leftPercent": 13.29,
+                    "topPercent": 46.64,
+                    "floor": "Ground_Level"
+                },
                 "id": 118
             },
             {
@@ -2805,6 +2920,11 @@
                 "hint": "Gas station",
                 "number": 1,
                 "location": 1,
+                "gps": {
+                    "leftPercent": 17.55,
+                    "topPercent": 49.16,
+                    "floor": "Ground_Level"
+                },
                 "id": 119
             },
             {
@@ -2814,6 +2934,11 @@
                 "hint": "Bridge",
                 "number": 1,
                 "location": 1,
+                "gps": {
+                    "leftPercent": 64.3,
+                    "topPercent": 57.14,
+                    "floor": "Ground_Level"
+                },
                 "id": 120
             }
         ],
@@ -3094,6 +3219,11 @@
                 "target": "Ritual spot",
                 "number": 1,
                 "location": 1,
+                "gps": {
+                    "leftPercent": 47.77,
+                    "topPercent": 91.18,
+                    "floor": "Ground_Level"
+                },
                 "id": 134
             }
         ],
@@ -4737,6 +4867,11 @@
                 "target": "Package with graphics cards",
                 "number": 1,
                 "location": 1,
+                "gps": {
+                    "leftPercent": 85.5,
+                    "topPercent": 37.18,
+                    "floor": "Ground_Level"
+                },
                 "id": 183
             }
         ],
@@ -7537,6 +7672,11 @@
                 "target": "The hidden water in 2-story dorms, room 206",
                 "number": 1,
                 "location": 1,
+                "gps": {
+                    "leftPercent": 42.8,
+                    "topPercent": 81.3,
+                    "floor": "Ground_Level"
+                },
                 "id": 290
             }
         ],
@@ -7954,6 +8094,11 @@
                 "target": "Transport van",
                 "number": 1,
                 "location": 1,
+                "gps": {
+                    "leftPercent": 19.68,
+                    "topPercent": 39.29,
+                    "floor": "Ground_Level"
+                },
                 "id": 77
             }
         ],
@@ -8005,6 +8150,11 @@
                 "target": "Transport van",
                 "number": 1,
                 "location": 1,
+                "gps": {
+                    "leftPercent": 19.68,
+                    "topPercent": 39.29,
+                    "floor": "Ground_Level"
+                },
                 "id": 77
             }
         ],
