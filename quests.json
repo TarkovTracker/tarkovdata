@@ -2155,6 +2155,11 @@
                 "hint": "Mantis",
                 "number": 1,
                 "location": 4,
+                "gps": {
+                    "leftPercent": 55.9,
+                    "topPercent": 53.86,
+                    "floor": "First_Floor"
+                },
                 "id": 81
             },
             {
@@ -2163,6 +2168,11 @@
                 "hint": "Emercom",
                 "number": 1,
                 "location": 4,
+                "gps": {
+                    "leftPercent": 59.86,
+                    "topPercent": 52.62,
+                    "floor": "First_Floor"
+                },
                 "id": 82
             }
         ],
@@ -2557,6 +2567,11 @@
                 "target": "Brutal",
                 "number": 1,
                 "location": 4,
+                "gps": {
+                    "leftPercent": 51.15,
+                    "topPercent": 54.27,
+                    "floor": "First_Floor"
+                },
                 "id": 101
             },
             {
@@ -2614,6 +2629,11 @@
                 "target": "5734758f24597738025ee253",
                 "number": 3,
                 "location": 4,
+                "gps": {
+                    "leftPercent": 46.8,
+                    "topPercent": 59.64,
+                    "floor": "First_Floor"
+                },
                 "id": 104
             },
             {
@@ -5327,6 +5347,11 @@
                 "target": "AVOKADO",
                 "number": 1,
                 "location": 4,
+                "gps": {
+                    "leftPercent": 44.16,
+                    "topPercent": 59.78,
+                    "floor": "First_Floor"
+                },
                 "id": 195
             },
             {
@@ -5334,6 +5359,11 @@
                 "target": "KOSTIN",
                 "number": 1,
                 "location": 4,
+                "gps": {
+                    "leftPercent": 59.99,
+                    "topPercent": 59.09,
+                    "floor": "First_Floor"
+                },
                 "id": 196
             },
             {
@@ -5341,6 +5371,11 @@
                 "target": "tRend",
                 "number": 1,
                 "location": 4,
+                "gps": {
+                    "leftPercent": 65.53,
+                    "topPercent": 47.66,
+                    "floor": "First_Floor"
+                },
                 "id": 197
             },
             {
@@ -5348,6 +5383,11 @@
                 "target": "DINO CLOTHES",
                 "number": 1,
                 "location": 4,
+                "gps": {
+                    "leftPercent": 59.6,
+                    "topPercent": 44.49,
+                    "floor": "First_Floor"
+                },
                 "id": 198
             },
             {
@@ -5355,6 +5395,11 @@
                 "target": "TOP BRAND",
                 "number": 1,
                 "location": 4,
+                "gps": {
+                    "leftPercent": 46.01,
+                    "topPercent": 44.63,
+                    "floor": "First_Floor"
+                },
                 "id": 199
             }
         ],
@@ -5393,6 +5438,11 @@
                 "hint": "Behind Goshan",
                 "number": 1,
                 "location": 4,
+                "gps": {
+                    "leftPercent": 53.66,
+                    "topPercent": 77.27,
+                    "floor": "Ground_Level"
+                },
                 "id": 200
             },
             {
@@ -5402,6 +5452,11 @@
                 "hint": "Highway Checkpoint",
                 "number": 1,
                 "location": 4,
+                "gps": {
+                    "leftPercent": 48.78,
+                    "topPercent": 24.38,
+                    "floor": "Ground_Level"
+                },
                 "id": 201
             },
             {
@@ -5411,6 +5466,11 @@
                 "hint": "Power Station",
                 "number": 1,
                 "location": 4,
+                "gps": {
+                    "leftPercent": 88.36,
+                    "topPercent": 73.14,
+                    "floor": "Ground_Level"
+                },
                 "id": 202
             }
         ],
@@ -5490,6 +5550,11 @@
                 "target": "Goshan cargo manifest",
                 "number": 1,
                 "location": 4,
+                "gps": {
+                    "leftPercent": 66.72,
+                    "topPercent": 64.88,
+                    "floor": "First_Floor"
+                },
                 "id": 205
             },
             {
@@ -5497,6 +5562,11 @@
                 "target": "OLI cargo manifest",
                 "number": 1,
                 "location": 4,
+                "gps": {
+                    "leftPercent": 29.78,
+                    "topPercent": 48.35,
+                    "floor": "First_Floor"
+                },
                 "id": 206
             },
             {
@@ -5504,6 +5574,11 @@
                 "target": "IDEA cargo manifest",
                 "number": 1,
                 "location": 4,
+                "gps": {
+                    "leftPercent": 81.5,
+                    "topPercent": 53.31,
+                    "floor": "First_Floor"
+                },
                 "id": 207
             }
         ],
@@ -5547,6 +5622,11 @@
                 "target": "OLI cargo route documents",
                 "number": 1,
                 "location": 4,
+                "gps": {
+                    "leftPercent": 31.89,
+                    "topPercent": 45.04,
+                    "floor": "First_Floor"
+                },
                 "id": 209
             }
         ],
@@ -5720,6 +5800,11 @@
                 "hint": "AVOKADO",
                 "number": 2,
                 "location": 4,
+                "gps": {
+                    "leftPercent": 43.9,
+                    "topPercent": 61.57,
+                    "floor": "First_Floor"
+                },
                 "id": 215
             },
             {
@@ -5728,6 +5813,11 @@
                 "hint": "AVOKADO",
                 "number": 2,
                 "location": 4,
+                "gps": {
+                    "leftPercent": 43.9,
+                    "topPercent": 61.57,
+                    "floor": "First_Floor"
+                },
                 "id": 216
             },
             {
@@ -5736,6 +5826,11 @@
                 "hint": "Front Stage",
                 "number": 2,
                 "location": 4,
+                "gps": {
+                    "leftPercent": 48.65,
+                    "topPercent": 34.85,
+                    "floor": "Ground_Level"
+                },
                 "id": 217
             }
         ],
@@ -5848,6 +5943,11 @@
                 "hint": "Safe Room",
                 "number": 1,
                 "location": 4,
+                "gps": {
+                    "leftPercent": 40.07,
+                    "topPercent": 57.58,
+                    "floor": "Ground_Level"
+                },
                 "id": 220
             },
             {
@@ -5857,6 +5957,11 @@
                 "hint": "Beside Ramp",
                 "number": 1,
                 "location": 4,
+                "gps": {
+                    "leftPercent": 45.09,
+                    "topPercent": 52.2,
+                    "floor": "Ground_Level"
+                },
                 "id": 221
             },
             {
@@ -5866,6 +5971,11 @@
                 "hint": "Oli Containers",
                 "number": 1,
                 "location": 4,
+                "gps": {
+                    "leftPercent": 14.48,
+                    "topPercent": 42.29,
+                    "floor": "Ground_Level"
+                },
                 "id": 222
             }
         ],
@@ -8181,6 +8291,11 @@
                 "hint": "Oli side 2F",
                 "number": 1,
                 "location": 4,
+                "gps": {
+                    "leftPercent": 47.06,
+                    "topPercent": 52.75,
+                    "floor": "Second_Floor"
+                },
                 "id": 300
             },
             {
@@ -8189,6 +8304,11 @@
                 "hint": "Idea side 1F",
                 "number": 1,
                 "location": 4,
+                "gps": {
+                    "leftPercent": 63.03,
+                    "topPercent": 59.64,
+                    "floor": "First_Floor"
+                },
                 "id": 301
             }
         ],
