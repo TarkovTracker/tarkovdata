@@ -1366,6 +1366,11 @@
                 "target": "Ambulance 1",
                 "hint": "Resort",
                 "number": 1,
+                "gps": {
+                    "leftPercent": 48.61,
+                    "topPercent": 31.5,
+                    "floor": "Ground_Level"
+                },
                 "location": 3,
                 "id": 50
             },
@@ -1376,6 +1381,11 @@
                 "hint": "Tunnel close",
                 "number": 1,
                 "location": 3,
+                "gps": {
+                    "leftPercent": 8.22,
+                    "topPercent": 69.99,
+                    "floor": "Ground_Level"
+                },
                 "id": 51
             },
             {
@@ -1385,6 +1395,11 @@
                 "hint": "Tunnel far",
                 "number": 1,
                 "location": 3,
+                "gps": {
+                    "leftPercent": 10.69,
+                    "topPercent": 69.99,
+                    "floor": "Ground_Level"
+                },
                 "id": 52
             }
         ],
@@ -1428,6 +1443,11 @@
                 "target": "Secure case for documents 0060",
                 "number": 1,
                 "location": 3,
+                "gps": {
+                    "leftPercent": 46.34,
+                    "topPercent": 29.87,
+                    "floor": "Ground_Level"
+                },
                 "id": 54
             }
         ],
@@ -2122,6 +2142,11 @@
                 "target": "Chemical container",
                 "number": 1,
                 "location": 3,
+                "gps": {
+                    "leftPercent": 43.86,
+                    "topPercent": 30.01,
+                    "floor": "Ground_Level"
+                },
                 "id": 80
             },
             {
@@ -2329,6 +2354,11 @@
                 "hint": "By Eastern drone",
                 "number": 1,
                 "location": 3,
+                "gps": {
+                    "leftPercent": 81.39,
+                    "topPercent": 58.25,
+                    "floor": "Ground_Level"
+                },
                 "id": 91
             },
             {
@@ -2337,6 +2367,11 @@
                 "hint": "East 306/308",
                 "number": 1,
                 "location": 3,
+                "gps": {
+                    "leftPercent": 50.2,
+                    "topPercent": 30.31,
+                    "floor": "Ground_Level"
+                },
                 "id": 92
             },
             {
@@ -2345,6 +2380,11 @@
                 "hint": "West 216",
                 "number": 1,
                 "location": 3,
+                "gps": {
+                    "leftPercent": 42.77,
+                    "topPercent": 31.65,
+                    "floor": "Ground_Level"
+                },
                 "id": 93
             },
             {
@@ -2857,6 +2897,11 @@
                 "target": "55801eed4bdc2d89578b4588",
                 "number": 1,
                 "location": 3,
+                "gps": {
+                    "leftPercent": 43.47,
+                    "topPercent": 84.7,
+                    "floor": "Ground_Level"
+                },
                 "id": 116
             },
             {
@@ -2864,6 +2909,11 @@
                 "target": "544fb5454bdc2df8738b456a",
                 "number": 1,
                 "location": 3,
+                "gps": {
+                    "leftPercent": 43.47,
+                    "topPercent": 84.7,
+                    "floor": "Ground_Level"
+                },
                 "id": 117
             }
         ],
@@ -2983,6 +3033,11 @@
                 "hint": "Bunker",
                 "number": 1,
                 "location": 3,
+                "gps": {
+                    "leftPercent": 40.79,
+                    "topPercent": 11,
+                    "floor": "Ground_Level"
+                },
                 "id": 121
             },
             {
@@ -2992,6 +3047,11 @@
                 "hint": "Town",
                 "number": 1,
                 "location": 3,
+                "gps": {
+                    "leftPercent": 6.44,
+                    "topPercent": 54.38,
+                    "floor": "Ground_Level"
+                },
                 "id": 122
             },
             {
@@ -3001,6 +3061,11 @@
                 "hint": "Weather station",
                 "number": 1,
                 "location": 3,
+                "gps": {
+                    "leftPercent": 56.73,
+                    "topPercent": 58.4,
+                    "floor": "Ground_Level"
+                },
                 "id": 123
             }
         ],
@@ -3038,6 +3103,11 @@
                 "hint": "East Drone",
                 "number": 1,
                 "location": 3,
+                "gps": {
+                    "leftPercent": 80.69,
+                    "topPercent": 61.96,
+                    "floor": "Ground_Level"
+                },
                 "id": 124
             },
             {
@@ -3046,6 +3116,11 @@
                 "hint": "North Drone",
                 "number": 1,
                 "location": 3,
+                "gps": {
+                    "leftPercent": 31.58,
+                    "topPercent": 7.43,
+                    "floor": "Ground_Level"
+                },
                 "id": 125
             }
         ],
@@ -3085,6 +3160,11 @@
                 "target": "Un cargo truck 1",
                 "number": 1,
                 "location": 3,
+                "gps": {
+                    "leftPercent": 46.04,
+                    "topPercent": 23.03,
+                    "floor": "Ground_Level"
+                },
                 "id": 126
             },
             {
@@ -3093,6 +3173,11 @@
                 "target": "Un cargo truck 2",
                 "number": 1,
                 "location": 3,
+                "gps": {
+                    "leftPercent": 71.19,
+                    "topPercent": 87.37,
+                    "floor": "Ground_Level"
+                },
                 "id": 127
             },
             {
@@ -3149,6 +3234,11 @@
                 "target": "The missing informant",
                 "number": 1,
                 "location": 3,
+                "gps": {
+                    "leftPercent": 12.57,
+                    "topPercent": 34.62,
+                    "floor": "Ground_Level"
+                },
                 "id": 130
             }
         ],
@@ -3193,6 +3283,11 @@
                 "target": "Ritual spot",
                 "number": 1,
                 "location": 3,
+                "gps": {
+                    "leftPercent": 54.36,
+                    "topPercent": 29.72,
+                    "floor": "Ground_Level"
+                },
                 "id": 132
             },
             {
@@ -3302,6 +3397,11 @@
                 "target": "Helicopter",
                 "number": 1,
                 "location": 3,
+                "gps": {
+                    "leftPercent": 48.51,
+                    "topPercent": 34.03,
+                    "floor": "Ground_Level"
+                },
                 "id": 136
             },
             {
@@ -3310,6 +3410,11 @@
                 "target": "Safe road",
                 "number": 1,
                 "location": 3,
+                "gps": {
+                    "leftPercent": 50.89,
+                    "topPercent": 34.18,
+                    "floor": "Ground_Level"
+                },
                 "id": 137
             }
         ],
@@ -3413,6 +3518,11 @@
                 "target": "Generator 1",
                 "number": 1,
                 "location": 3,
+                "gps": {
+                    "leftPercent": 42.77,
+                    "topPercent": 31.8,
+                    "floor": "Ground_Level"
+                },
                 "id": 143
             },
             {
@@ -3420,6 +3530,11 @@
                 "target": "Generator 2",
                 "number": 1,
                 "location": 3,
+                "gps": {
+                    "leftPercent": 54.16,
+                    "topPercent": 31.8,
+                    "floor": "Ground_Level"
+                },
                 "id": 144
             }
         ],
@@ -3456,6 +3571,11 @@
                 "target": "The key to the closed premises of the sanatorium",
                 "number": 1,
                 "location": 3,
+                "gps": {
+                    "leftPercent": 41.98,
+                    "topPercent": 8.62,
+                    "floor": "Ground_Level"
+                },
                 "id": 145
             }
         ],
@@ -3601,6 +3721,11 @@
                 "target": "Toughbook reinforced laptop",
                 "number": 1,
                 "location": 3,
+                "gps": {
+                    "leftPercent": 50.4,
+                    "topPercent": 30.16,
+                    "floor": "Ground_Level"
+                },
                 "id": 152
             }
         ],
@@ -3640,6 +3765,11 @@
                 "hint": "East 108",
                 "number": 1,
                 "location": 3,
+                "gps": {
+                    "leftPercent": 54.75,
+                    "topPercent": 29.72,
+                    "floor": "Ground_Level"
+                },
                 "id": 153
             }
         ],
@@ -3676,6 +3806,11 @@
                 "target": "Hidden Terragroup cargo",
                 "number": 1,
                 "location": 3,
+                "gps": {
+                    "leftPercent": 49.01,
+                    "topPercent": 31.05,
+                    "floor": "Ground_Level"
+                },
                 "id": 154
             }
         ],
@@ -3758,6 +3893,11 @@
                 "target": "Fisher's dwelling",
                 "number": 1,
                 "location": 3,
+                "gps": {
+                    "leftPercent": 15.45,
+                    "topPercent": 82.47,
+                    "floor": "Ground_Level"
+                },
                 "id": 156
             }
         ],
@@ -3796,6 +3936,11 @@
                 "target": "Artyom's car",
                 "number": 1,
                 "location": 3,
+                "gps": {
+                    "leftPercent": 28.22,
+                    "topPercent": 73.7,
+                    "floor": "Ground_Level"
+                },
                 "id": 157
             }
         ],
@@ -3834,6 +3979,11 @@
                 "target": "Sliderkey Flash drive",
                 "number": 1,
                 "location": 3,
+                "gps": {
+                    "leftPercent": 49.6,
+                    "topPercent": 24.52,
+                    "floor": "Ground_Level"
+                },
                 "id": 158
             }
         ],
@@ -3883,6 +4033,11 @@
                 "target": "Working hard drive",
                 "number": 1,
                 "location": 3,
+                "gps": {
+                    "leftPercent": 55.94,
+                    "topPercent": 31.8,
+                    "floor": "Ground_Level"
+                },
                 "id": 160
             }
         ],
@@ -4481,6 +4636,11 @@
                 "target": "First signal source",
                 "number": 1,
                 "location": 3,
+                "gps": {
+                    "leftPercent": 44.46,
+                    "topPercent": 30.61,
+                    "floor": "Ground_Level"
+                },
                 "id": 163
             },
             {
@@ -4488,6 +4648,11 @@
                 "target": "Second signal source",
                 "number": 1,
                 "location": 3,
+                "gps": {
+                    "leftPercent": 63.96,
+                    "topPercent": 64.19,
+                    "floor": "Ground_Level"
+                },
                 "id": 164
             }
         ],
@@ -4585,6 +4750,11 @@
                 "hint": "Weather Station",
                 "number": 1,
                 "location": 3,
+                "gps": {
+                    "leftPercent": 64.26,
+                    "topPercent": 64.19,
+                    "floor": "Ground_Level"
+                },
                 "id": 169
             },
             {
@@ -4594,6 +4764,11 @@
                 "hint": "Radio tower",
                 "number": 1,
                 "location": 3,
+                "gps": {
+                    "leftPercent": 78.81,
+                    "topPercent": 48.44,
+                    "floor": "Ground_Level"
+                },
                 "id": 170
             },
             {
@@ -4603,6 +4778,11 @@
                 "hint": "West Resort Roof",
                 "number": 1,
                 "location": 3,
+                "gps": {
+                    "leftPercent": 44.26,
+                    "topPercent": 30.76,
+                    "floor": "Ground_Level"
+                },
                 "id": 171
             }
         ],
@@ -6469,6 +6649,11 @@
                 "target": "Priest house",
                 "number": 1,
                 "location": 3,
+                "gps": {
+                    "leftPercent": 12.48,
+                    "topPercent": 34.32,
+                    "floor": "Ground_Level"
+                },
                 "id": 254
             },
             {
@@ -6476,6 +6661,11 @@
                 "target": "Fisherman house",
                 "number": 1,
                 "location": 3,
+                "gps": {
+                    "leftPercent": 6.24,
+                    "topPercent": 26.45,
+                    "floor": "Ground_Level"
+                },
                 "id": 255
             },
             {
@@ -6483,6 +6673,11 @@
                 "target": "Chairman house",
                 "number": 1,
                 "location": 3,
+                "gps": {
+                    "leftPercent": 4.95,
+                    "topPercent": 34.92,
+                    "floor": "Ground_Level"
+                },
                 "id": 256
             }
         ],
@@ -6519,6 +6714,11 @@
                 "target": "Jaeger's photo album",
                 "number": 1,
                 "location": 3,
+                "gps": {
+                    "leftPercent": 46.93,
+                    "topPercent": 30.31,
+                    "floor": "Ground_Level"
+                },
                 "id": 257
             }
         ],
@@ -6949,6 +7149,11 @@
                 "target": "Sanitar's surgery kit",
                 "number": 1,
                 "location": 3,
+                "gps": {
+                    "leftPercent": 52.77,
+                    "topPercent": 87.22,
+                    "floor": "Ground_Level"
+                },
                 "id": 318
             },
             {
@@ -6956,6 +7161,11 @@
                 "target": "Sanitar's ophthalmoscope",
                 "number": 1,
                 "location": 3,
+                "gps": {
+                    "leftPercent": 25.25,
+                    "topPercent": 50.07,
+                    "floor": "Ground_Level"
+                },
                 "id": 319
             }
         ],
@@ -8328,6 +8538,11 @@
                 "hint": "Cottages",
                 "number": 1,
                 "location": 3,
+                "gps": {
+                    "leftPercent": 25.54,
+                    "topPercent": 47.99,
+                    "floor": "Ground_Level"
+                },
                 "id": 312
             },
             {
@@ -8337,6 +8552,11 @@
                 "hint": "Pier",
                 "number": 1,
                 "location": 3,
+                "gps": {
+                    "leftPercent": 51.88,
+                    "topPercent": 88.26,
+                    "floor": "Ground_Level"
+                },
                 "id": 313
             },
             {
@@ -8346,6 +8566,11 @@
                 "hint": "Resort",
                 "number": 1,
                 "location": 3,
+                "gps": {
+                    "leftPercent": 49.01,
+                    "topPercent": 31.05,
+                    "floor": "Ground_Level"
+                },
                 "id": 314
             }
         ],
@@ -8383,6 +8608,11 @@
                 "target": "Health resort group",
                 "number": 1,
                 "location": 3,
+                "gps": {
+                    "leftPercent": 48.61,
+                    "topPercent": 33.58,
+                    "floor": "Ground_Level"
+                },
                 "id": 315
             },
             {
@@ -8390,6 +8620,11 @@
                 "target": "Pier group",
                 "number": 1,
                 "location": 3,
+                "gps": {
+                    "leftPercent": 52.48,
+                    "topPercent": 89.15,
+                    "floor": "Ground_Level"
+                },
                 "id": 316
             },
             {
@@ -8397,6 +8632,11 @@
                 "target": "Cottage group",
                 "number": 1,
                 "location": 3,
+                "gps": {
+                    "leftPercent": 25.35,
+                    "topPercent": 45.77,
+                    "floor": "Ground_Level"
+                },
                 "id": 317
             }
         ],
@@ -8435,6 +8675,11 @@
                 "target": "Health resort Medical container",
                 "number": 1,
                 "location": 3,
+                "gps": {
+                    "leftPercent": 48.81,
+                    "topPercent": 30.91,
+                    "floor": "Ground_Level"
+                },
                 "id": 326
             },
             {
@@ -8443,6 +8688,11 @@
                 "target": "Cottages Medical container",
                 "number": 1,
                 "location": 3,
+                "gps": {
+                    "leftPercent": 25.64,
+                    "topPercent": 47.85,
+                    "floor": "Ground_Level"
+                },
                 "id": 327
             },
             {
@@ -8451,6 +8701,11 @@
                 "target": "Pier Medical container",
                 "number": 1,
                 "location": 3,
+                "gps": {
+                    "leftPercent": 51.98,
+                    "topPercent": 88.41,
+                    "floor": "Ground_Level"
+                },
                 "id": 328
             }
         ],
@@ -8496,6 +8751,11 @@
                 "target": "Sanitar's office",
                 "number": 1,
                 "location": 3,
+                "gps": {
+                    "leftPercent": 52.97,
+                    "topPercent": 31.05,
+                    "floor": "Ground_Level"
+                },
                 "id": 330
             }
         ],
