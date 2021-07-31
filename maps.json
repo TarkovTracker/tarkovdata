@@ -19,7 +19,7 @@
         "enemies": ["Scavs", "Cultists", "Reshala"],
         "raidDuration": { "day": 45, "night": 45 },
         "svg": {
-            "file": "maps/Customs.svg",
+            "file": "Customs.svg",
             "floors": [ "Ground_Level" ]
         }
     },
@@ -43,7 +43,7 @@
         "enemies": ["Scavs", "Cultists", "Sanitar"],
         "raidDuration": { "day": 50, "night": 50 },
         "svg": {
-            "file": "maps/Shoreline.svg",
+            "file": "Shoreline.svg",
             "floors": [ "Ground_Level" ]
         }
     },
@@ -57,7 +57,7 @@
         "enemies": ["Scavs", "Killa"],
         "raidDuration": { "day": 45, "night": 45 },
         "svg": {
-            "file": "maps/Interchange.svg",
+            "file": "Interchange.svg",
             "floors": [ "Ground_Level", "First_Floor", "Second_Floor" ]
         }
     },
