@@ -3887,7 +3887,44 @@
                 "rep": 0.02
             }
         ],
-        "objectives": [],
+        "objectives": [
+            {
+                "type": "build",
+                "target": "54491c4f4bdc2db1078b4568",
+                "number": 1,
+                "with": [
+                    {
+                        "type": "stat",
+                        "name": "durability",
+                        "value": ">=60"
+                    },
+                    {
+                        "type": "stat",
+                        "name": "ergonomics",
+                        "value": ">=47"
+                    },
+                    {
+                        "type": "stat",
+                        "name": "recoil",
+                        "value": "<=950"
+                    },
+                    {
+                        "type": "cells",
+                        "value": "<=4"
+                    },
+                    {
+                        "type": "attachment",
+                        "name": "Extended magazine",
+                        "value": 6
+                    },
+                    {
+                        "type": "attachment",
+                        "name": "Tactical device"
+                    }
+                ],
+                "id": 422
+            }
+        ],
         "gameId": "5ac23c6186f7741247042bad"
     },
     {
@@ -3915,7 +3952,50 @@
                 "rep": 0.02
             }
         ],
-        "objectives": [],
+        "objectives": [
+            {
+                "type": "build",
+                "target": "57dc2fa62459775949412633",
+                "number": 1,
+                "with": [
+                    {
+                        "type": "stat",
+                        "name": "durability",
+                        "value": ">=60"
+                    },
+                    {
+                        "type": "stat",
+                        "name": "ergonomics",
+                        "value": ">=56"
+                    },
+                    {
+                        "type": "stat",
+                        "name": "recoil",
+                        "value": "<600"
+                    },
+                    {
+                        "type": "stat",
+                        "name": "sighting range",
+                        "value": ">=100"
+                    },
+                    {
+                        "type": "stat",
+                        "name": "weight",
+                        "value": "<=3.5kg"
+                    },
+                    {
+                        "type": "cells",
+                        "value": "<=6"
+                    },
+                    {
+                        "type": "attachment",
+                        "name": "Extended magazine",
+                        "value": 60
+                    }
+                ],
+                "id": 423
+            }
+        ],
         "gameId": "5ac2426c86f774138762edfe"
     },
     {
@@ -3943,7 +4023,54 @@
                 "rep": 0.03
             }
         ],
-        "objectives": [],
+        "objectives": [
+            {
+                "type": "build",
+                "target": "5926bb2186f7744b1c6c6e60",
+                "number": 1,
+                "with": [
+                    {
+                        "type": "stat",
+                        "name": "durability",
+                        "value": ">=60"
+                    },
+                    {
+                        "type": "stat",
+                        "name": "ergonomics",
+                        "value": ">=45"
+                    },
+                    {
+                        "type": "stat",
+                        "name": "recoil",
+                        "value": "<=250"
+                    },
+                    {
+                        "type": "stat",
+                        "name": "sighting range",
+                        "value": ">=200"
+                    },
+                    {
+                        "type": "stat",
+                        "name": "weight",
+                        "value": "<=3.8kg"
+                    },
+                    {
+                        "type": "attachment",
+                        "name": "Tactical device"
+                    },
+                    {
+                        "type": "attachment",
+                        "name": "Extended magazine",
+                        "value": 50
+                    },
+                    {
+                        "type": "attachment",
+                        "name": "Suppressor"
+                    }
+                ],
+                "id": 424
+            }
+        ],
         "gameId": "5ac2428686f77412450b42bf"
     },
     {
@@ -3971,7 +4098,50 @@
                 "rep": 0.03
             }
         ],
-        "objectives": [],
+        "objectives": [
+            {
+                "type": "build",
+                "target": "5447a9cd4bdc2dbd208b4567",
+                "number": 1,
+                "with": [
+                    {
+                        "type": "stat",
+                        "name": "durability",
+                        "value": ">=60"
+                    },
+                    {
+                        "type": "stat",
+                        "name": "ergonomics",
+                        "value": ">=51"
+                    },
+                    {
+                        "type": "stat",
+                        "name": "recoil",
+                        "value": "<=250"
+                    },
+                    {
+                        "type": "stat",
+                        "name": "sighting range",
+                        "value": ">=800"
+                    },
+                    {
+                        "type": "stat",
+                        "name": "weight",
+                        "value": "<=3.8kg"
+                    },
+                    {
+                        "type": "attachment",
+                        "name": "Extended magazine",
+                        "value": 60
+                    },
+                    {
+                        "type": "attachment",
+                        "name": "Suppressor"
+                    }
+                ],
+                "id": 425
+            }
+        ],
         "gameId": "5ac244eb86f7741356335af1"
     },
     {
@@ -3999,7 +4169,45 @@
                 "rep": 0.03
             }
         ],
-        "objectives": [],
+        "objectives": [
+            {
+                "type": "build",
+                "target": "588892092459774ac91d4b11",
+                "number": 1,
+                "with": [
+                    {
+                        "type": "stat",
+                        "name": "durability",
+                        "value": ">=60"
+                    },
+                    {
+                        "type": "stat",
+                        "name": "ergonomics",
+                        "value": ">=35"
+                    },
+                    {
+                        "type": "stat",
+                        "name": "recoil",
+                        "value": "<=400"
+                    },
+                    {
+                        "type": "stat",
+                        "name": "sighting range",
+                        "value": ">=2000"
+                    },
+                    {
+                        "type": "stat",
+                        "name": "weight",
+                        "value": "<=6.6kg"
+                    },
+                    {
+                        "type": "attachment",
+                        "name": "Tactical device"
+                    }
+                ],
+                "id": 426
+            }
+        ],
         "gameId": "5ac242ab86f77412464f68b4"
     },
     {
@@ -4027,7 +4235,45 @@
                 "rep": 0.03
             }
         ],
-        "objectives": [],
+        "objectives": [
+            {
+                "type": "build",
+                "target": "5a367e5dc4a282000e49738f",
+                "number": 1,
+                "with": [
+                    {
+                        "type": "stat",
+                        "name": "durability",
+                        "value": ">=60"
+                    },
+                    {
+                        "type": "stat",
+                        "name": "ergonomics",
+                        "value": ">=21"
+                    },
+                    {
+                        "type": "stat",
+                        "name": "recoil",
+                        "value": "<=350"
+                    },
+                    {
+                        "type": "stat",
+                        "name": "sighting range",
+                        "value": ">=1500"
+                    },
+                    {
+                        "type": "stat",
+                        "name": "weight",
+                        "value": "<=6.5kg"
+                    },
+                    {
+                        "type": "attachment",
+                        "name": "Suppressor"
+                    }
+                ],
+                "id": 427
+            }
+        ],
         "gameId": "5ac244c486f77413e12cf945"
     },
     {
@@ -4055,7 +4301,44 @@
                 "rep": 0.03
             }
         ],
-        "objectives": [],
+        "objectives": [
+            {
+                "type": "build",
+                "target": "5a7828548dc32e5a9c28b516",
+                "number": 1,
+                "with": [
+                    {
+                        "type": "stat",
+                        "name": "durability",
+                        "value": ">=60"
+                    },
+                    {
+                        "type": "stat",
+                        "name": "ergonomics",
+                        "value": ">=58"
+                    },
+                    {
+                        "type": "stat",
+                        "name": "recoil",
+                        "value": "<=550"
+                    },
+                    {
+                        "type": "attachment",
+                        "name": "Tactical device"
+                    },
+                    {
+                        "type": "attachment",
+                        "name": "Foregrip"
+                    },
+                    {
+                        "type": "attachment",
+                        "name": "Magpul MOE M870 forestock",
+                        "id": ""
+                    }
+                ],
+                "id": 428
+            }
+        ],
         "gameId": "5ae3267986f7742a413592fe"
     },
     {
@@ -4083,7 +4366,51 @@
                 "rep": 0.03
             }
         ],
-        "objectives": [],
+        "objectives": [
+            {
+                "type": "build",
+                "target": "59d6088586f774275f37482f",
+                "number": 1,
+                "with": [
+                    {
+                        "type": "stat",
+                        "name": "durability",
+                        "value": ">=60"
+                    },
+                    {
+                        "type": "stat",
+                        "name": "ergonomics",
+                        "value": ">=45"
+                    },
+                    {
+                        "type": "stat",
+                        "name": "recoil",
+                        "value": "<=350"
+                    },
+                    {
+                        "type": "stat",
+                        "name": "sighting range",
+                        "value": ">=800"
+                    },
+                    {
+                        "type": "attachment",
+                        "name": "Suppressor"
+                    },
+                    {
+                        "type": "attachment",
+                        "name": "Fortis Shift tactical grip",
+                        "id": "59f8a37386f7747af3328f06"
+                    },
+                    {
+                        "type": "attachment",
+                        "name": "AK 7.62x39 Magpul PMAG 30 GEN M3 30-round magazine",
+                        "id": "59d6272486f77466146386ff"
+                    }
+
+                ],
+                "id": 429
+            }
+        ],
         "gameId": "5ae3270f86f77445ba41d4dd"
     },
     {
