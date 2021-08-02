@@ -4396,13 +4396,11 @@
                         "name": "Suppressor"
                     },
                     {
-                        "type": "attachment",
-                        "name": "Fortis Shift tactical grip",
+                        "type": "part",
                         "id": "59f8a37386f7747af3328f06"
                     },
                     {
-                        "type": "attachment",
-                        "name": "AK 7.62x39 Magpul PMAG 30 GEN M3 30-round magazine",
+                        "type": "part",
                         "id": "59d6272486f77466146386ff"
                     }
 
