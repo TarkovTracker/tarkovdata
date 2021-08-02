@@ -4331,9 +4331,8 @@
                         "name": "Foregrip"
                     },
                     {
-                        "type": "attachment",
-                        "name": "Magpul MOE M870 forestock",
-                        "id": ""
+                        "type": "part",
+                        "id": "5a788068c5856700137e4c8f"
                     }
                 ],
                 "id": 428
