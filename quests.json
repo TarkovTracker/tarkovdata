@@ -4435,7 +4435,55 @@
                 "rep": 0.03
             }
         ],
-        "objectives": [],
+        "objectives": [
+            {
+                "type": "build",
+                "target": "5ab8e9fcd8ce870019439434",
+                "number": 1,
+                "with": [
+                    {
+                        "type": "stat",
+                        "name": "durability",
+                        "value": ">=60"
+                    },
+                    {
+                        "type": "stat",
+                        "name": "ergonomics",
+                        "value": ">=55"
+                    },
+                    {
+                        "type": "stat",
+                        "name": "recoil",
+                        "value": "<=500"
+                    },
+                    {
+                        "type": "cells",
+                        "value": "<=8"
+                    },
+                    {
+                        "type": "part",
+                        "id": "5649ae4a4bdc2d1b2b8b4588"
+                    },
+                    {
+                        "type": "part",
+                        "id": "59ecc3dd86f7746dc827481c"
+                    },
+                    {
+                        "type": "part",
+                        "id": "5649af884bdc2d1b2b8b4589"
+                    },
+                    {
+                        "type": "part",
+                        "id": "5648b4534bdc2d3d1c8b4580"
+                    },
+                    {
+                        "type": "part",
+                        "id": "5649ab884bdc2ded0b8b457f"
+                    }
+                ],
+                "id": 430
+            }
+        ],
         "gameId": "5ae3277186f7745973054106"
     },
     {
@@ -4466,7 +4514,54 @@
                 "rep": 0.03
             }
         ],
-        "objectives": [],
+        "objectives": [
+            {
+                "type": "build",
+                "target": "5ac66d9b5acfc4001633997a",
+                "number": 1,
+                "with": [
+                    {
+                        "type": "stat",
+                        "name": "durability",
+                        "value": ">=60"
+                    },
+                    {
+                        "type": "stat",
+                        "name": "ergonomics",
+                        "value": ">=48"
+                    },
+                    {
+                        "type": "stat",
+                        "name": "recoil",
+                        "value": "<=550"
+                    },
+                    {
+                        "type": "stat",
+                        "name": "sighting range",
+                        "value": ">=800"
+                    },
+                    {
+                        "type": "stat",
+                        "name": "weight",
+                        "value": "<=4.8kg"
+                    },
+                    {
+                        "type": "cells",
+                        "value": "<=8"
+                    },
+                    {
+                        "type": "attachment",
+                        "name": "Suppressor"
+                    },
+                    {
+                        "type": "attachment",
+                        "name": "Extended magazine",
+                        "value": 60
+                    }
+                ],
+                "id": 431
+            }
+        ],
         "gameId": "5ae327c886f7745c7b3f2f3f"
     },
     {
@@ -4494,7 +4589,48 @@
                 "rep": 0.03
             }
         ],
-        "objectives": [],
+        "objectives": [
+            {
+                "type": "build",
+                "target": "57c44b372459772d2b39b8ce",
+                "number": 1,
+                "with": [
+                    {
+                        "type": "stat",
+                        "name": "durability",
+                        "value": ">=60"
+                    },
+                    {
+                        "type": "stat",
+                        "name": "ergonomics",
+                        "value": ">=34"
+                    },
+                    {
+                        "type": "stat",
+                        "name": "recoil",
+                        "value": "<=250"
+                    },
+                    {
+                        "type": "attachment",
+                        "name": "Extended magazine",
+                        "value": 30
+                    },
+                    {
+                        "type": "part",
+                        "id": "5a9eb32da2750c00171b3f9c"
+                    },
+                    {
+                        "type": "part",
+                        "id": "544909bb4bdc2d6f028b4577"
+                    },
+                    {
+                        "type": "part",
+                        "id": "5a7c74b3e899ef0014332c29"
+                    }
+                ],
+                "id": 432
+            }
+        ],
         "gameId": "5ae3280386f7742a41359364"
     },
     {
@@ -4525,7 +4661,52 @@
                 "rep": 0.02
             }
         ],
-        "objectives": [],
+        "objectives": [
+            {
+                "type": "build",
+                "target": "5ac66d015acfc400180ae6e4",
+                "number": 1,
+                "with": [
+                    {
+                        "type": "stat",
+                        "name": "durability",
+                        "value": ">=60"
+                    },
+                    {
+                        "type": "stat",
+                        "name": "ergonomics",
+                        "value": ">=50"
+                    },
+                    {
+                        "type": "stat",
+                        "name": "recoil",
+                        "value": "<=500"
+                    },
+                    {
+                        "type": "stat",
+                        "name": "sighting range",
+                        "value": ">=500"
+                    },
+                    {
+                        "type": "cells",
+                        "value": "<=8"
+                    },
+                    {
+                        "type": "part",
+                        "id": "5a9fbb84a2750c00137fa685"
+                    },
+                    {
+                        "type": "part",
+                        "id": "588226ef24597767af46e39c"
+                    },
+                    {
+                        "type": "part",
+                        "id": "5b3a337e5acfc4704b4a19a0"
+                    }
+                ],
+                "id": 433
+            }
+        ],
         "gameId": "5b47749f86f7746c5d6a5fd4"
     },
     {
@@ -4555,7 +4736,53 @@
                 "rep": 0.03
             }
         ],
-        "objectives": [],
+        "objectives": [
+            {
+                "type": "build",
+                "target": "58948c8e86f77409493f7266",
+                "number": 1,
+                "with": [
+                    {
+                        "type": "stat",
+                        "name": "durability",
+                        "value": ">=60"
+                    },
+                    {
+                        "type": "stat",
+                        "name": "ergonomics",
+                        "value": ">=52"
+                    },
+                    {
+                        "type": "stat",
+                        "name": "recoil",
+                        "value": "<=250"
+                    },
+                    {
+                        "type": "stat",
+                        "name": "sighting range",
+                        "value": ">=300"
+                    },
+                    {
+                        "type": "stat",
+                        "name": "weight",
+                        "value": "<=4kg"
+                    },
+                    {
+                        "type": "part",
+                        "id": "5b07db875acfc40dc528a5f6"
+                    },
+                    {
+                        "type": "part",
+                        "id": "5b3a16655acfc40016387a2a"
+                    },
+                    {
+                        "type": "part",
+                        "id": "5b07dd285acfc4001754240d"
+                    }
+                ],
+                "id": 434
+            }
+        ],
         "gameId": "5b47799d86f7746c5d6a5fd8"
     },
     {
@@ -4585,7 +4812,65 @@
                 "rep": 0.03
             }
         ],
-        "objectives": [],
+        "objectives": [
+            {
+                "type": "build",
+                "target": "5a0ec13bfcdbcb00165aa685",
+                "number": 1,
+                "with": [
+                    {
+                        "type": "stat",
+                        "name": "durability",
+                        "value": ">=60"
+                    },
+                    {
+                        "type": "stat",
+                        "name": "ergonomics",
+                        "value": ">=47"
+                    },
+                    {
+                        "type": "stat",
+                        "name": "recoil",
+                        "value": "<=350"
+                    },
+                    {
+                        "type": "stat",
+                        "name": "sighting range",
+                        "value": ">=500"
+                    },
+                    {
+                        "type": "stat",
+                        "name": "weight",
+                        "value": "<=5kg"
+                    },
+                    {
+                        "type": "part",
+                        "id": "57cff947245977638e6f2a19"
+                    },
+                    {
+                        "type": "part",
+                        "id": "56eabf3bd2720b75698b4569"
+                    },
+                    {
+                        "type": "part",
+                        "id": "5b30ac585acfc433000eb79c"
+                    },
+                    {
+                        "type": "part",
+                        "id": "59d6272486f77466146386ff"
+                    },
+                    {
+                        "type": "part",
+                        "id": "57cffb66245977632f391a99"
+                    },
+                    {
+                        "type": "part",
+                        "id": "5a9fbacda2750c00141e080f"
+                    }
+                ],
+                "id": 435
+            }
+        ],
         "gameId": "5b477b6f86f7747290681823"
     },
     {
@@ -4613,7 +4898,52 @@
                 "rep": 0.03
             }
         ],
-        "objectives": [],
+        "objectives": [
+            {
+                "type": "build",
+                "target": "5aafa857e5b5b00018480968",
+                "number": 1,
+                "with": [
+                    {
+                        "type": "stat",
+                        "name": "durability",
+                        "value": ">=60"
+                    },
+                    {
+                        "type": "stat",
+                        "name": "ergonomics",
+                        "value": ">=20"
+                    },
+                    {
+                        "type": "stat",
+                        "name": "recoil",
+                        "value": "<=400"
+                    },
+                    {
+                        "type": "stat",
+                        "name": "weight",
+                        "value": "<=7.3kg"
+                    },
+                    {
+                        "type": "part",
+                        "id": "5addbfbb5acfc400194dbcf7"
+                    },
+                    {
+                        "type": "part",
+                        "id": "5aa66be6e5b5b0214e506e97"
+                    },
+                    {
+                        "type": "part",
+                        "id": "58d399e486f77442e0016fe7"
+                    },
+                    {
+                        "type": "part",
+                        "id": "57fd23e32459772d0805bcf1"
+                    }
+                ],
+                "id": 436
+            }
+        ],
         "gameId": "5b477f7686f7744d1b23c4d2"
     },
     {
@@ -4641,7 +4971,60 @@
                 "rep": 0.04
             }
         ],
-        "objectives": [],
+        "objectives": [
+            {
+                "type": "build",
+                "target": "5447a9cd4bdc2dbd208b4567",
+                "number": 1,
+                "with": [
+                    {
+                        "type": "stat",
+                        "name": "durability",
+                        "value": ">=60"
+                    },
+                    {
+                        "type": "stat",
+                        "name": "ergonomics",
+                        "value": ">=44"
+                    },
+                    {
+                        "type": "stat",
+                        "name": "recoil",
+                        "value": "<=230"
+                    },
+                    {
+                        "type": "stat",
+                        "name": "weight",
+                        "value": "<=5kg"
+                    },
+                    {
+                        "type": "attachment",
+                        "name": "Extended magazine",
+                        "value": 60
+                    },
+                    {
+                        "type": "part",
+                        "id": [
+                            {
+                                "id": "57da93632459771cb65bf83f"
+                            },
+                            {
+                                "id": "5a0e813bfcdbcb00165aa685"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "part",
+                        "id": "5b2cfa535acfc432ff4db7a0"
+                    },
+                    {
+                        "type": "part",
+                        "id": "5a1eaa87fcdbcb001865f75e"
+                    }
+                ],
+                "id": 437
+            }
+        ],
         "gameId": "5b47825886f77468074618d3"
     },
     {
