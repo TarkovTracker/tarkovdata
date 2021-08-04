@@ -584,7 +584,9 @@
         },
         "wiki": "https://escapefromtarkov.fandom.com/wiki/Test_drive_-_Part_1",
         "exp": 18200,
-        "unlocks": [],
+        "unlocks": [
+            "5c0d668f86f7747ccb7f13b2"
+        ],
         "reputation": [
             {
                 "trader": 0,
@@ -4964,7 +4966,9 @@
         },
         "wiki": "https://escapefromtarkov.fandom.com/wiki/Gunsmith_-_Part_16",
         "exp": 32800,
-        "unlocks": [],
+        "unlocks": [
+            "5a1eaa87fcdbcb001865f75e"
+        ],
         "reputation": [
             {
                 "trader": 4,
@@ -5511,7 +5515,9 @@
         "wiki": "https://escapefromtarkov.fandom.com/wiki/Import",
         "exp": 29000,
         "nokappa": true,
-        "unlocks": [],
+        "unlocks": [
+            "5fc382b6d6fa9c00c571bbc3"
+        ],
         "reputation": [
             {
                 "trader": 4,
@@ -9033,7 +9039,9 @@
         "wiki": "https://escapefromtarkov.fandom.com/wiki/Chemistry_closet",
         "exp": 13400,
         "nokappa": true,
-        "unlocks": [],
+        "unlocks": [
+            "5b6d9ce188a4501afc1b2b25"
+        ],
         "reputation": [
             {
                 "trader": 4,
@@ -9161,7 +9169,8 @@
         "exp": 17000,
         "nokappa": true,
         "unlocks": [
-            "5e01ef6886f77445f643baa4"
+            "5e01ef6886f77445f643baa4",
+            "5ef1ba28c64c5d0dfc0571a5"
         ],
         "reputation": [
             {
