@@ -3121,7 +3121,7 @@
       "fragmentationChance": 0.3,
       "ricochetChance": 0.3,
       "penetrationChance": 0.3,
-      "penetrationPower": 28,
+      "penetrationPower": 29,
       "accuracy": 0,
       "recoil": 0,
       "initialSpeed": 605
@@ -3140,11 +3140,11 @@
     "projectileCount": 1,
     "ballistics": {
       "damage": 55,
-      "armorDamage": 60,
+      "armorDamage": 65,
       "fragmentationChance": 0.1,
       "ricochetChance": 0.3,
       "penetrationChance": 0.36,
-      "penetrationPower": 44,
+      "penetrationPower": 45,
       "accuracy": 5,
       "recoil": 5,
       "initialSpeed": 720
