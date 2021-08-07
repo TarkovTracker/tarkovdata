@@ -2158,8 +2158,8 @@
                 "number": 1,
                 "location": 4,
                 "gps": {
-                    "leftPercent": 55.9,
-                    "topPercent": 53.86,
+                    "leftPercent": 53.86,
+                    "topPercent": 44.1,
                     "floor": "First_Floor"
                 },
                 "id": 81
@@ -2171,8 +2171,8 @@
                 "number": 1,
                 "location": 4,
                 "gps": {
-                    "leftPercent": 59.86,
-                    "topPercent": 52.62,
+                    "leftPercent": 52.62,
+                    "topPercent": 40.14,
                     "floor": "First_Floor"
                 },
                 "id": 82
@@ -2570,8 +2570,8 @@
                 "number": 1,
                 "location": 4,
                 "gps": {
-                    "leftPercent": 51.15,
-                    "topPercent": 54.27,
+                    "leftPercent": 54.27,
+                    "topPercent": 48.85,
                     "floor": "First_Floor"
                 },
                 "id": 101
@@ -2632,8 +2632,8 @@
                 "number": 3,
                 "location": 4,
                 "gps": {
-                    "leftPercent": 46.8,
-                    "topPercent": 59.64,
+                    "leftPercent": 59.64,
+                    "topPercent": 53.2,
                     "floor": "First_Floor"
                 },
                 "id": 104
@@ -6061,8 +6061,8 @@
                 "number": 1,
                 "location": 4,
                 "gps": {
-                    "leftPercent": 44.16,
-                    "topPercent": 59.78,
+                    "leftPercent": 59.78,
+                    "topPercent": 55.84,
                     "floor": "First_Floor"
                 },
                 "id": 195
@@ -6073,8 +6073,8 @@
                 "number": 1,
                 "location": 4,
                 "gps": {
-                    "leftPercent": 59.99,
-                    "topPercent": 59.09,
+                    "leftPercent": 59.09,
+                    "topPercent": 40.01,
                     "floor": "First_Floor"
                 },
                 "id": 196
@@ -6085,8 +6085,8 @@
                 "number": 1,
                 "location": 4,
                 "gps": {
-                    "leftPercent": 65.53,
-                    "topPercent": 47.66,
+                    "leftPercent": 47.66,
+                    "topPercent": 34.47,
                     "floor": "First_Floor"
                 },
                 "id": 197
@@ -6097,8 +6097,8 @@
                 "number": 1,
                 "location": 4,
                 "gps": {
-                    "leftPercent": 59.6,
-                    "topPercent": 44.49,
+                    "leftPercent": 44.49,
+                    "topPercent": 40.4,
                     "floor": "First_Floor"
                 },
                 "id": 198
@@ -6109,8 +6109,8 @@
                 "number": 1,
                 "location": 4,
                 "gps": {
-                    "leftPercent": 46.01,
-                    "topPercent": 44.63,
+                    "leftPercent": 44.63,
+                    "topPercent": 53.99,
                     "floor": "First_Floor"
                 },
                 "id": 199
@@ -6152,8 +6152,8 @@
                 "number": 1,
                 "location": 4,
                 "gps": {
-                    "leftPercent": 53.66,
-                    "topPercent": 77.27,
+                    "leftPercent": 77.27,
+                    "topPercent": 46.34,
                     "floor": "Ground_Level"
                 },
                 "id": 200
@@ -6166,8 +6166,8 @@
                 "number": 1,
                 "location": 4,
                 "gps": {
-                    "leftPercent": 48.78,
-                    "topPercent": 24.38,
+                    "leftPercent": 24.38,
+                    "topPercent": 51.22,
                     "floor": "Ground_Level"
                 },
                 "id": 201
@@ -6180,8 +6180,8 @@
                 "number": 1,
                 "location": 4,
                 "gps": {
-                    "leftPercent": 88.36,
-                    "topPercent": 73.14,
+                    "leftPercent": 73.14,
+                    "topPercent": 11.64,
                     "floor": "Ground_Level"
                 },
                 "id": 202
@@ -6264,8 +6264,8 @@
                 "number": 1,
                 "location": 4,
                 "gps": {
-                    "leftPercent": 66.72,
-                    "topPercent": 64.88,
+                    "leftPercent": 64.88,
+                    "topPercent": 33.28,
                     "floor": "First_Floor"
                 },
                 "id": 205
@@ -6276,8 +6276,8 @@
                 "number": 1,
                 "location": 4,
                 "gps": {
-                    "leftPercent": 29.78,
-                    "topPercent": 48.35,
+                    "leftPercent": 48.35,
+                    "topPercent": 70.22,
                     "floor": "First_Floor"
                 },
                 "id": 206
@@ -6288,8 +6288,8 @@
                 "number": 1,
                 "location": 4,
                 "gps": {
-                    "leftPercent": 81.5,
-                    "topPercent": 53.31,
+                    "leftPercent": 53.31,
+                    "topPercent": 18.5,
                     "floor": "First_Floor"
                 },
                 "id": 207
@@ -6336,8 +6336,8 @@
                 "number": 1,
                 "location": 4,
                 "gps": {
-                    "leftPercent": 31.89,
-                    "topPercent": 45.04,
+                    "leftPercent": 45.04,
+                    "topPercent": 68.11,
                     "floor": "First_Floor"
                 },
                 "id": 209
@@ -6514,8 +6514,8 @@
                 "number": 2,
                 "location": 4,
                 "gps": {
-                    "leftPercent": 43.9,
-                    "topPercent": 61.57,
+                    "leftPercent": 61.57,
+                    "topPercent": 56.1,
                     "floor": "First_Floor"
                 },
                 "id": 215
@@ -6527,8 +6527,8 @@
                 "number": 2,
                 "location": 4,
                 "gps": {
-                    "leftPercent": 43.9,
-                    "topPercent": 61.57,
+                    "leftPercent": 61.57,
+                    "topPercent": 56.1,
                     "floor": "First_Floor"
                 },
                 "id": 216
@@ -6540,8 +6540,8 @@
                 "number": 2,
                 "location": 4,
                 "gps": {
-                    "leftPercent": 48.65,
-                    "topPercent": 34.85,
+                    "leftPercent": 34.85,
+                    "topPercent": 51.35,
                     "floor": "Ground_Level"
                 },
                 "id": 217
@@ -6657,8 +6657,8 @@
                 "number": 1,
                 "location": 4,
                 "gps": {
-                    "leftPercent": 40.07,
-                    "topPercent": 57.58,
+                    "leftPercent": 57.58,
+                    "topPercent": 59.93,
                     "floor": "Ground_Level"
                 },
                 "id": 220
@@ -6671,8 +6671,8 @@
                 "number": 1,
                 "location": 4,
                 "gps": {
-                    "leftPercent": 45.09,
-                    "topPercent": 52.2,
+                    "leftPercent": 52.2,
+                    "topPercent": 54.91,
                     "floor": "Ground_Level"
                 },
                 "id": 221
@@ -6685,8 +6685,8 @@
                 "number": 1,
                 "location": 4,
                 "gps": {
-                    "leftPercent": 14.48,
-                    "topPercent": 42.29,
+                    "leftPercent": 42.29,
+                    "topPercent": 85.52,
                     "floor": "Ground_Level"
                 },
                 "id": 222
@@ -9005,8 +9005,8 @@
                 "number": 1,
                 "location": 4,
                 "gps": {
-                    "leftPercent": 47.06,
-                    "topPercent": 52.75,
+                    "leftPercent": 52.75,
+                    "topPercent": 52.94,
                     "floor": "Second_Floor"
                 },
                 "id": 300
@@ -9018,8 +9018,8 @@
                 "number": 1,
                 "location": 4,
                 "gps": {
-                    "leftPercent": 63.03,
-                    "topPercent": 59.64,
+                    "leftPercent": 59.64,
+                    "topPercent": 36.97,
                     "floor": "First_Floor"
                 },
                 "id": 301
