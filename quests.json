@@ -1210,6 +1210,11 @@
                 "target": "Secure case for documents 0052",
                 "number": 1,
                 "location": 2,
+                "gps": {
+                    "leftPercent": 44.95,
+                    "topPercent": 61.52,
+                    "floor": "Ground_Level"
+                },
                 "id": 45
             }
         ],
@@ -1255,6 +1260,11 @@
                 "target": "Secure case for documents 0052",
                 "number": 1,
                 "location": 2,
+                "gps": {
+                    "leftPercent": 44.95,
+                    "topPercent": 61.52,
+                    "floor": "Ground_Level"
+                },
                 "id": 46
             }
         ],
@@ -1498,6 +1508,11 @@
                 "target": "Blood sample",
                 "number": 1,
                 "location": 2,
+                "gps": {
+                    "leftPercent": 52.18,
+                    "topPercent": 84.04,
+                    "floor": "Ground_Level"
+                },
                 "id": 55
             }
         ],
@@ -2378,6 +2393,11 @@
                 "hint": "SUV",
                 "number": 1,
                 "location": 2,
+                "gps": {
+                    "leftPercent": 26.34,
+                    "topPercent": 62.15,
+                    "floor": "Ground_Level"
+                },
                 "id": 90
             },
             {
@@ -2425,6 +2445,11 @@
                 "hint": "Truck bed",
                 "number": 1,
                 "location": 2,
+                "gps": {
+                    "leftPercent": 40.1,
+                    "topPercent": 64.04,
+                    "floor": "Ground_Level"
+                },
                 "id": 94
             }
         ],
@@ -2602,6 +2627,11 @@
                 "target": "Pier",
                 "number": 1,
                 "location": 2,
+                "gps": {
+                    "leftPercent": 42.38,
+                    "topPercent": 73,
+                    "floor": "Ground_Level"
+                },
                 "id": 102
             },
             {
@@ -2663,6 +2693,11 @@
                 "target": "5734758f24597738025ee253",
                 "number": 3,
                 "location": 2,
+                "gps": {
+                    "leftPercent": 44.85,
+                    "topPercent": 62.06,
+                    "floor": "Ground_Level"
+                },
                 "id": 105
             },
             {
@@ -3339,6 +3374,11 @@
                 "hint": "Cabins",
                 "number": 1,
                 "location": 2,
+                "gps": {
+                    "leftPercent": 50.89,
+                    "topPercent": 15.7,
+                    "floor": "Ground_Level"
+                },
                 "id": 133
             },
             {
@@ -3348,6 +3388,11 @@
                 "hint": "Checkpoint",
                 "number": 1,
                 "location": 2,
+                "gps": {
+                    "leftPercent": 27.92,
+                    "topPercent": 64.84,
+                    "floor": "Ground_Level"
+                },
                 "id": 268
             },
             {
@@ -6422,6 +6467,11 @@
                 "target": "5ab8f4ff86f77431c60d91ba",
                 "number": 1,
                 "location": 2,
+                "gps": {
+                    "leftPercent": 42.57,
+                    "topPercent": 74.35,
+                    "floor": "Ground_Level"
+                },
                 "id": 210
             },
             {
@@ -6429,6 +6479,11 @@
                 "target": "5ab8f85d86f7745cd93a1cf5",
                 "number": 1,
                 "location": 2,
+                "gps": {
+                    "leftPercent": 42.57,
+                    "topPercent": 74.35,
+                    "floor": "Ground_Level"
+                },
                 "id": 211
             },
             {
@@ -6436,6 +6491,11 @@
                 "target": "5aa2b9aee5b5b00015693121",
                 "number": 1,
                 "location": 2,
+                "gps": {
+                    "leftPercent": 42.57,
+                    "topPercent": 74.35,
+                    "floor": "Ground_Level"
+                },
                 "id": 212
             },
             {
@@ -6443,6 +6503,11 @@
                 "target": "5aa2b923e5b5b000137b7589",
                 "number": 1,
                 "location": 2,
+                "gps": {
+                    "leftPercent": 42.57,
+                    "topPercent": 74.35,
+                    "floor": "Ground_Level"
+                },
                 "id": 213
             }
         ],
@@ -7061,6 +7126,11 @@
                 "hint": "Outskirts side",
                 "number": 1,
                 "location": 2,
+                "gps": {
+                    "leftPercent": 16.73,
+                    "topPercent": 60.81,
+                    "floor": "Ground_Level"
+                },
                 "id": 234
             },
             {
@@ -7070,6 +7140,11 @@
                 "hint": "Sniper rock",
                 "number": 1,
                 "location": 2,
+                "gps": {
+                    "leftPercent": 58.32,
+                    "topPercent": 52.29,
+                    "floor": "Ground_Level"
+                },
                 "id": 235
             },
             {
@@ -7079,6 +7154,11 @@
                 "hint": "Jaeger camp",
                 "number": 1,
                 "location": 2,
+                "gps": {
+                    "leftPercent": 70.69,
+                    "topPercent": 68.88,
+                    "floor": "Ground_Level"
+                },
                 "id": 236
             }
         ],
@@ -7216,6 +7296,11 @@
                 "target": "Jaeger's message",
                 "number": 1,
                 "location": 2,
+                "gps": {
+                    "leftPercent": 65.35,
+                    "topPercent": 68.07,
+                    "floor": "Ground_Level"
+                },
                 "id": 243
             }
         ],
@@ -7342,6 +7427,11 @@
                 "hint": "ZB-014",
                 "number": 1,
                 "location": 2,
+                "gps": {
+                    "leftPercent": 9.21,
+                    "topPercent": 71.84,
+                    "floor": "Ground_Level"
+                },
                 "id": 248
             },
             {
@@ -7350,6 +7440,11 @@
                 "hint": "ZB-014",
                 "number": 1,
                 "location": 2,
+                "gps": {
+                    "leftPercent": 9.21,
+                    "topPercent": 71.84,
+                    "floor": "Ground_Level"
+                },
                 "id": 249
             },
             {
@@ -7358,6 +7453,11 @@
                 "hint": "ZB-016",
                 "number": 1,
                 "location": 2,
+                "gps": {
+                    "leftPercent": 75.35,
+                    "topPercent": 68.43,
+                    "floor": "Ground_Level"
+                },
                 "id": 250
             },
             {
@@ -7366,6 +7466,11 @@
                 "hint": "ZB-016",
                 "number": 1,
                 "location": 2,
+                "gps": {
+                    "leftPercent": 75.35,
+                    "topPercent": 68.43,
+                    "floor": "Ground_Level"
+                },
                 "id": 251
             }
         ],
@@ -9969,6 +10074,11 @@
                 "target": "Missing convoy",
                 "number": 1,
                 "location": 2,
+                "gps": {
+                    "leftPercent": 28.91,
+                    "topPercent": 24.84,
+                    "floor": "Ground_Level"
+                },
                 "id": 349
             },
             {
@@ -9976,6 +10086,11 @@
                 "target": "Temporary USEC camp",
                 "number": 1,
                 "location": 2,
+                "gps": {
+                    "leftPercent": 20.5,
+                    "topPercent": 34.8,
+                    "floor": "Ground_Level"
+                },
                 "id": 350
             }
         ],
