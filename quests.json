@@ -178,6 +178,11 @@
                 "target": "Secure case for documents 0022",
                 "number": 1,
                 "location": 0,
+                "gps": {
+                    "leftPercent": 20.42,
+                    "topPercent": 23.83,
+                    "floor": "First_Floor"
+                },
                 "id": 5
             }
         ],
@@ -394,6 +399,11 @@
                 "target": "Sealed letter",
                 "number": 1,
                 "location": 0,
+                "gps": {
+                    "leftPercent": 34.14,
+                    "topPercent": 66.83,
+                    "floor": "Ground_Floor"
+                },
                 "id": 13
             }
         ],
@@ -1560,6 +1570,11 @@
                 "target": "590c5a7286f7747884343aea",
                 "number": 3,
                 "location": 0,
+                "gps": {
+                    "leftPercent": 22,
+                    "topPercent": 35.87,
+                    "floor": "Second_Floor"
+                },
                 "id": 57
             }
         ],
@@ -2032,6 +2047,11 @@
                 "target": "Syringe with a chemical",
                 "number": 1,
                 "location": 0,
+                "gps": {
+                    "leftPercent": 21.73,
+                    "topPercent": 36.49,
+                    "floor": "Second_Floor"
+                },
                 "id": 76
             }
         ],
@@ -5587,14 +5607,24 @@
                 "hint": "Main",
                 "number": 1,
                 "location": 0,
+                "gps": {
+                    "leftPercent": 3.27,
+                    "topPercent": 12.16,
+                    "floor": "Second_Floor"
+                },
                 "id": 173
             },
             {
                 "type": "locate",
                 "target": "Factory exit 2",
-                "hint": "Forlifts",
+                "hint": "Forklifts",
                 "number": 1,
                 "location": 0,
+                "gps": {
+                    "leftPercent": 72.66,
+                    "topPercent": 1.6,
+                    "floor": "Basement"
+                },
                 "id": 174
             },
             {
@@ -5603,6 +5633,11 @@
                 "hint": "Staging side",
                 "number": 1,
                 "location": 0,
+                "gps": {
+                    "leftPercent": 8.67,
+                    "topPercent": 97.54,
+                    "floor": "Ground_Floor"
+                },
                 "id": 175
             }
         ],
@@ -5677,6 +5712,11 @@
                 "hint": "Forklifts",
                 "number": 1,
                 "location": 0,
+                "gps": {
+                    "leftPercent": 86.64,
+                    "topPercent": 11.43,
+                    "floor": "Ground_Floor"
+                },
                 "id": 177
             },
             {
@@ -5685,6 +5725,11 @@
                 "hint": "Glass hallway",
                 "number": 1,
                 "location": 0,
+                "gps": {
+                    "leftPercent": 58.54,
+                    "topPercent": 5.53,
+                    "floor": "Ground_Floor"
+                },
                 "id": 178
             }
         ],
@@ -9094,6 +9139,11 @@
                 "target": "Sealed letter",
                 "number": 1,
                 "location": 0,
+                "gps": {
+                    "leftPercent": 34.14,
+                    "topPercent": 66.83,
+                    "floor": "Ground_Floor"
+                },
                 "id": 13
             }
         ],
