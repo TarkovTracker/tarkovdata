@@ -7,7 +7,12 @@
         "wiki": "https://escapefromtarkov.gamepedia.com/Factory",
         "description": "",
         "enemies": ["Scavs"],
-        "raidDuration": { "day": 20, "night": 25 }
+        "raidDuration": { "day": 20, "night": 25 },
+        "svg": {
+            "file": "Factory.svg",
+            "floors": [ "Basement", "Ground_Floor", "First_Floor", "Second_Floor" ],
+            "defaultFloor": "Ground_Floor"
+        }
     },
     "customs": {
         "id": 1,
@@ -20,7 +25,8 @@
         "raidDuration": { "day": 45, "night": 45 },
         "svg": {
             "file": "Customs.svg",
-            "floors": [ "Ground_Level" ]
+            "floors": [ "Ground_Level" ],
+            "defaultFloor": "Ground_Level"
         }
     },
     "woods": {
@@ -31,7 +37,12 @@
         "wiki": "https://escapefromtarkov.gamepedia.com/Woods",
         "description": "",
         "enemies": ["Scavs", "Cultists", "Shturman"],
-        "raidDuration": { "day": 50, "night": 50 }
+        "raidDuration": { "day": 50, "night": 50 },
+        "svg": {
+            "file": "Woods.svg",
+            "floors": [ "Ground_Level" ],
+            "defaultFloor": "Ground_Level"
+        }
     },
     "shoreline": {
         "id": 3,
@@ -44,7 +55,8 @@
         "raidDuration": { "day": 50, "night": 50 },
         "svg": {
             "file": "Shoreline.svg",
-            "floors": [ "Ground_Level" ]
+            "floors": [ "Ground_Level" ],
+            "defaultFloor": "Ground_Level"
         }
     },
     "interchange": {
@@ -58,7 +70,8 @@
         "raidDuration": { "day": 45, "night": 45 },
         "svg": {
             "file": "Interchange.svg",
-            "floors": [ "Ground_Level", "First_Floor", "Second_Floor" ]
+            "floors": [ "Ground_Level", "First_Floor", "Second_Floor" ],
+            "defaultFloor": "Ground_Level"
         }
     },
     "lab": {
@@ -79,6 +92,11 @@
         "wiki": "https://escapefromtarkov.gamepedia.com/Reserve",
         "description": "The secret Federal State Reserve Agency base that, according to urban legends, contains enough supplies to last for years: food, medications and other resources, enough to survive an all-out nuclear war.",
         "enemies": ["Scavs", "Raiders", "Glukhar"],
-        "raidDuration": { "day": 50, "night": 50 }
+        "raidDuration": { "day": 50, "night": 50 },
+        "svg": {
+            "file": "Reserve.svg",
+            "floors": [ "Bunkers", "Ground_Level" ],
+            "defaultFloor": "Ground_Level"
+        }
     }
 }
