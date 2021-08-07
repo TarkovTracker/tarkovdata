@@ -77,6 +77,36 @@ vorpal
 		callback();
 	});
 
+vorpal
+	.command('rotate-interchange-map', 'Fixes interchange gps coords')
+	.action(function(args, callback) {
+		rotateInterchangeMap(args)
+		callback();
+	});
+
+function rotateInterchangeMap(args) {
+	var newQuests = require('./quests.json')
+	var fs = require('fs')
+	
+	newQuests.forEach((quest, id) => {
+		quest.objectives.forEach((objective) => {
+			if (objective.location == 4 && 'gps' in objective) {
+				const topPercent = 100 - objective.gps.leftPercent
+				const leftPercent = objective.gps.topPercent
+				objective.gps.topPercent = topPercent
+				objective.gps.leftPercent = leftPercent
+			}
+		}, this)
+	}, this)
+
+	var questString = JSON.stringify(newQuests, null, 4)
+
+	console.log(questString)
+
+	fs.writeFileSync('quests.json', questString);
+}
+
+
 function migrateHideoutItems(args) {
 	var fs = require('fs')
 	var hideoutData = require('./hideout.json')
