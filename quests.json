@@ -8369,6 +8369,11 @@
                 "target": "Food storage",
                 "number": 1,
                 "location": 6,
+                "gps": {
+                    "leftPercent": 23.19,
+                    "topPercent": 16.53,
+                    "floor": "Bunkers"
+                },
                 "id": 274
             }
         ],
@@ -9966,6 +9971,11 @@
                 "target": "Underground bunker",
                 "number": 1,
                 "location": 6,
+                "gps": {
+                    "leftPercent": 71.87,
+                    "topPercent": 47.28,
+                    "floor": "Bunkers"
+                },
                 "id": 342
             },
             {
@@ -9973,6 +9983,11 @@
                 "target": "Bunker control room",
                 "number": 1,
                 "location": 6,
+                "gps": {
+                    "leftPercent": 70.28,
+                    "topPercent": 50.63,
+                    "floor": "Bunkers"
+                },
                 "id": 343
             }
         ],
@@ -10010,6 +10025,11 @@
                 "target": "White Bishop hermetic door",
                 "number": 1,
                 "location": 6,
+                "gps": {
+                    "leftPercent": 61.71,
+                    "topPercent": 35.98,
+                    "floor": "Bunkers"
+                },
                 "id": 344
             },
             {
@@ -10017,6 +10037,11 @@
                 "target": "Black Bishop hermetic door",
                 "number": 1,
                 "location": 6,
+                "gps": {
+                    "leftPercent": 78.33,
+                    "topPercent": 37.03,
+                    "floor": "Bunkers"
+                },
                 "id": 345
             },
             {
@@ -10024,6 +10049,11 @@
                 "target": "Black Pawn hermetic door",
                 "number": 1,
                 "location": 6,
+                "gps": {
+                    "leftPercent": 80.18,
+                    "topPercent": 43.51,
+                    "floor": "Bunkers"
+                },
                 "id": 346
             },
             {
@@ -10031,6 +10061,11 @@
                 "target": "White Pawn hermetic door",
                 "number": 1,
                 "location": 6,
+                "gps": {
+                    "leftPercent": 73.58,
+                    "topPercent": 53.77,
+                    "floor": "Bunkers"
+                },
                 "id": 347
             },
             {
@@ -10038,6 +10073,11 @@
                 "target": "White King hermetic door",
                 "number": 1,
                 "location": 6,
+                "gps": {
+                    "leftPercent": 63.56,
+                    "topPercent": 48.74,
+                    "floor": "Bunkers"
+                },
                 "id": 348
             }
         ],
@@ -10709,6 +10749,11 @@
                 "target": "Medical Journal No.1",
                 "number": 1,
                 "location": 6,
+                "gps": {
+                    "leftPercent": 59.99,
+                    "topPercent": 32.43,
+                    "floor": "Ground_Level"
+                },
                 "id": 383
             },
             {
@@ -10716,6 +10761,11 @@
                 "target": "Medical Journal No.2",
                 "number": 1,
                 "location": 6,
+                "gps": {
+                    "leftPercent": 59.99,
+                    "topPercent": 32.43,
+                    "floor": "Ground_Level"
+                },
                 "id": 384
             }
         ],
@@ -10754,6 +10804,11 @@
                 "target": "Fuel Tanks 1",
                 "number": 1,
                 "location": 6,
+                "gps": {
+                    "leftPercent": 51.81,
+                    "topPercent": 60.04,
+                    "floor": "Ground_Level"
+                },
                 "id": 385
             },
             {
@@ -10762,6 +10817,11 @@
                 "target": "Fuel Tanks 2",
                 "number": 1,
                 "location": 6,
+                "gps": {
+                    "leftPercent": 15.27,
+                    "topPercent": 33.47,
+                    "floor": "Ground_Level"
+                },
                 "id": 386
             }
         ],
@@ -10805,6 +10865,11 @@
                 "target": "MBT navigation complex",
                 "number": 1,
                 "location": 6,
+                "gps": {
+                    "leftPercent": 32.42,
+                    "topPercent": 59.62,
+                    "floor": "Ground_Level"
+                },
                 "id": 388
             }
         ],
@@ -10841,6 +10906,11 @@
                 "target": "Unpowered secret exit",
                 "number": 1,
                 "location": 6,
+                "gps": {
+                    "leftPercent": 75.3,
+                    "topPercent": 72.18,
+                    "floor": "Bunkers"
+                },
                 "id": 389
             }
         ],
@@ -10885,6 +10955,11 @@
                 "target": "BMP-2 1",
                 "number": 1,
                 "location": 6,
+                "gps": {
+                    "leftPercent": 60.92,
+                    "topPercent": 5.86,
+                    "floor": "Ground_Level"
+                },
                 "id": 391
             },
             {
@@ -10893,6 +10968,11 @@
                 "target": "BMP-2 2",
                 "number": 1,
                 "location": 6,
+                "gps": {
+                    "leftPercent": 49.7,
+                    "topPercent": 72.38,
+                    "floor": "Ground_Level"
+                },
                 "id": 392
             },
             {
@@ -10901,6 +10981,11 @@
                 "target": "BMP-2 3",
                 "number": 1,
                 "location": 6,
+                "gps": {
+                    "leftPercent": 32.55,
+                    "topPercent": 60.46,
+                    "floor": "Ground_Level"
+                },
                 "id": 393
             },
             {
@@ -10909,6 +10994,11 @@
                 "target": "BMP-2 4",
                 "number": 1,
                 "location": 6,
+                "gps": {
+                    "leftPercent": 32.55,
+                    "topPercent": 42.47,
+                    "floor": "Ground_Level"
+                },
                 "id": 394
             },
             {
@@ -10917,6 +11007,11 @@
                 "target": "IFV LAV III 1",
                 "number": 1,
                 "location": 6,
+                "gps": {
+                    "leftPercent": 32.82,
+                    "topPercent": 9,
+                    "floor": "Ground_Level"
+                },
                 "id": 395
             },
             {
@@ -10924,6 +11019,11 @@
                 "target": "IFV LAV III 2",
                 "number": 1,
                 "location": 6,
+                "gps": {
+                    "leftPercent": 64.74,
+                    "topPercent": 26.57,
+                    "floor": "Ground_Level"
+                },
                 "id": 396
             },
             {
@@ -10931,6 +11031,11 @@
                 "target": "T-90",
                 "number": 1,
                 "location": 6,
+                "gps": {
+                    "leftPercent": 70.42,
+                    "topPercent": 9.62,
+                    "floor": "Ground_Level"
+                },
                 "id": 397
             }
         ],
@@ -10967,6 +11072,11 @@
                 "target": "T-90M Commander control panel",
                 "number": 1,
                 "location": 6,
+                "gps": {
+                    "leftPercent": 73.45,
+                    "topPercent": 71.13,
+                    "floor": "Bunkers"
+                },
                 "id": 398
             }
         ],
@@ -11024,6 +11134,11 @@
                 "target": "Western Barracks arsenal 1",
                 "number": 1,
                 "location": 6,
+                "gps": {
+                    "leftPercent": 82.82,
+                    "topPercent": 42.89,
+                    "floor": "Ground_Level"
+                },
                 "id": 407
             },
             {
@@ -11031,6 +11146,11 @@
                 "target": "Western Barracks arsenal 2",
                 "number": 1,
                 "location": 6,
+                "gps": {
+                    "leftPercent": 82.82,
+                    "topPercent": 42.89,
+                    "floor": "Ground_Level"
+                },
                 "id": 408
             },
             {
@@ -11038,6 +11158,11 @@
                 "target": "Western Barracks duty room",
                 "number": 1,
                 "location": 6,
+                "gps": {
+                    "leftPercent": 82.82,
+                    "topPercent": 42.89,
+                    "floor": "Ground_Level"
+                },
                 "id": 409
             },
             {
@@ -11045,6 +11170,11 @@
                 "target": "Northern Barracks arsenal 1",
                 "number": 1,
                 "location": 6,
+                "gps": {
+                    "leftPercent": 76.35,
+                    "topPercent": 59,
+                    "floor": "Ground_Level"
+                },
                 "id": 410
             },
             {
@@ -11052,6 +11182,11 @@
                 "target": "Northern Barracks arsenal 1",
                 "number": 1,
                 "location": 6,
+                "gps": {
+                    "leftPercent": 76.35,
+                    "topPercent": 59,
+                    "floor": "Ground_Level"
+                },
                 "id": 411
             }
         ],
@@ -11127,6 +11262,11 @@
                 "target": "Military documents No.1",
                 "number": 1,
                 "location": 6,
+                "gps": {
+                    "leftPercent": 71.21,
+                    "topPercent": 49.58,
+                    "floor": "Bunkers"
+                },
                 "id": 413
             },
             {
@@ -11134,6 +11274,11 @@
                 "target": "Military documents No.2",
                 "number": 1,
                 "location": 6,
+                "gps": {
+                    "leftPercent": 71.47,
+                    "topPercent": 49.58,
+                    "floor": "Bunkers"
+                },
                 "id": 414
             },
             {
@@ -11141,6 +11286,11 @@
                 "target": "Military documents No.3",
                 "number": 1,
                 "location": 6,
+                "gps": {
+                    "leftPercent": 72.13,
+                    "topPercent": 43.31,
+                    "floor": "Bunkers"
+                },
                 "id": 415
             }
         ],
