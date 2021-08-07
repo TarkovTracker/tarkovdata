@@ -1777,55 +1777,37 @@
                 {
                     "type": "module",
                     "name": "Heating",
-                    "quantity": 3,
+                    "quantity": 2,
                     "id": 145
                 },
                 {
                     "type": "module",
-                    "name": "Generator",
-                    "quantity": 3,
+                    "name": "Vents",
+                    "quantity": 2,
                     "id": 146
                 },
                 {
-                    "type": "module",
-                    "name": "Workbench",
-                    "quantity": 3,
-                    "id": 269
-                },
-                {
-                    "type": "module",
-                    "name": "Intelligence center",
-                    "quantity": 2,
-                    "id": 270
-                },
-                {
                     "type": "item",
-                    "name": "60391afc25aff57af81f7085",
+                    "name": "59e35de086f7741778269d84",
                     "quantity": 2,
                     "id": 147
                 },
                 {
                     "type": "item",
-                    "name": "57347c77245977448d35f6e2",
-                    "quantity": 10,
+                    "name": "59e35ef086f7741777737012",
+                    "quantity": 15,
                     "id": 148
                 },
                 {
                     "type": "item",
-                    "name": "57347c5b245977448d35f6e1",
-                    "quantity": 10,
+                    "name": "590c31c586f774245e3141b2",
+                    "quantity": 7,
                     "id": 271
                 },
                 {
                     "type": "item",
-                    "name": "590c35a486f774273531c822",
-                    "quantity": 5,
-                    "id": 272
-                },
-                {
-                    "type": "item",
-                    "name": "569668774bdc2da2298b4568",
-                    "quantity": 200000,
+                    "name": "5449016a4bdc2d6f028b456f",
+                    "quantity": 8500000,
                     "id": 209
                 },
                 {
