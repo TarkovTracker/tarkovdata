@@ -11416,5 +11416,480 @@
             }
         ],
         "gameId": "608a768d82e40b3c727fd17d"
+    },
+    {
+        "id": 215,
+        "require": {
+            "level": 45,
+            "quests": [
+            ]
+        },
+        "giver": 0,
+        "turnin": 0,
+        "title": "Capturing Outposts",
+        "locales": {
+            "en": "Capturing Outposts"
+        },
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Capturing_Outposts",
+        "exp": 84000,
+        "nokappa": true,
+        "unlocks": [],
+        "reputation": [],
+        "objectives": [
+            {
+                "type": "kill",
+                "target": "Scavs",
+                "number": 15,
+                "location": 1,
+                "with": [
+                    "in the scav base"
+                ],
+                "id": 438
+            },
+            {
+                "type": "kill",
+                "target": "Scavs",
+                "number": 15,
+                "location": 2,
+                "with": [
+                    "in the scav base"
+                ],
+                "id": 439
+            },
+            {
+                "type": "kill",
+                "target": "Scavs",
+                "number": 15,
+                "location": 3,
+                "with": [
+                    "in the pier"
+                ],
+                "id": 440
+            }
+        ],
+        "gameId": "unknown"
+    },
+    {
+        "id": 216,
+        "require": {
+            "level": 45,
+            "quests": [
+            ]
+        },
+        "giver": 0,
+        "turnin": 0,
+        "title": "Intimidator",
+        "locales": {
+            "en": "Intimidator"
+        },
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Intimidator",
+        "exp": 84000,
+        "nokappa": true,
+        "unlocks": [],
+        "reputation": [],
+        "objectives": [
+            {
+                "type": "kill",
+                "target": "Scavs",
+                "number": 40,
+                "location": -1,
+                "with": [
+                    "headshots"
+                ],
+                "id": 441
+            }
+        ],
+        "gameId": "unknown"
+    },
+    {
+        "id": 217,
+        "require": {
+            "level": 47,
+            "quests": [
+            ]
+        },
+        "giver": 4,
+        "turnin": 4,
+        "title": "Calibration",
+        "locales": {
+            "en": "Calibration"
+        },
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Calibration",
+        "exp": 93000,
+        "nokappa": true,
+        "unlocks": [],
+        "reputation": [],
+        "objectives": [
+            {
+                "type": "kill",
+                "target": "PMCs",
+                "number": 20,
+                "location": -1,
+                "with": [
+                    "100 meters distance"
+                ],
+                "id": 442
+            }
+        ],
+        "gameId": "unknown"
+    },
+    {
+        "id": 218,
+        "require": {
+            "level": 50,
+            "quests": [
+            ]
+        },
+        "giver": 2,
+        "turnin": 2,
+        "title": "Night Sweep",
+        "locales": {
+            "en": "Night Sweep"
+        },
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Night_Sweep",
+        "exp": 107000,
+        "nokappa": true,
+        "unlocks": [],
+        "reputation": [],
+        "objectives": [
+            {
+                "type": "find",
+                "target": "5fc64ea372b0dd78d51159dc",
+                "number": 12,
+                "location": -1,
+                "id": 443
+            }
+        ],
+        "gameId": "unknown"
+    },
+    {
+        "id": 219,
+        "require": {
+            "level": 50,
+            "quests": [
+            ]
+        },
+        "giver": 6,
+        "turnin": 6,
+        "title": "Swift One",
+        "locales": {
+            "en": "Swift One"
+        },
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Swift_One",
+        "exp": 107000,
+        "nokappa": true,
+        "unlocks": [],
+        "reputation": [],
+        "objectives": [
+            {
+                "type": "kill",
+                "target": "PMCs",
+                "number": 20,
+                "location": 2,
+                "with": [
+                    "no body armor",
+                    "no helmet"
+                ],
+                "id": 444
+            }
+        ],
+        "gameId": "unknown"
+    },
+    {
+        "id": 220,
+        "require": {
+            "level": 55,
+            "quests": [
+            ]
+        },
+        "giver": 1,
+        "turnin": 1,
+        "title": "Crisis",
+        "locales": {
+            "en": "Crisis"
+        },
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Crisis",
+        "exp": 137000,
+        "nokappa": true,
+        "unlocks": [],
+        "reputation": [],
+        "objectives": [
+            {
+                "type": "find",
+                "target": "5c052e6986f7746b207bc3c9",
+                "number": 5,
+                "location": -1,
+                "id": 445
+            },
+            {
+                "type": "find",
+                "target": "5af0534a86f7743b6f354284",
+                "number": 5,
+                "location": -1,
+                "id": 446
+            },
+            {
+                "type": "find",
+                "target": "5c0530ee86f774697952d952",
+                "number": 5,
+                "location": -1,
+                "id": 447
+            },
+            {
+                "type": "find",
+                "target": "5d1b3a5d86f774252167ba22",
+                "number": 20,
+                "location": -1,
+                "id": 448
+            }
+        ],
+        "gameId": "unknown"
+    },
+    {
+        "id": 221,
+        "require": {
+            "level": 60,
+            "quests": [
+            ]
+        },
+        "giver": 0,
+        "turnin": 0,
+        "title": "Escort",
+        "locales": {
+            "en": "Escort"
+        },
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Escort",
+        "exp": 760000,
+        "nokappa": true,
+        "unlocks": [],
+        "reputation": [],
+        "objectives": [
+            {
+                "type": "warning",
+                "target": "You must achieve a 'Survived' or 'Run Through' status on every raid while on this quest",
+                "number": 1,
+                "location": -1,
+                "id": 449
+            },
+            {
+                "type": "kill",
+                "target": "PMCs",
+                "number": 4,
+                "location": 1,
+                "id": 450
+            },
+            {
+                "type": "kill",
+                "target": "PMCs",
+                "number": 4,
+                "location": 2,
+                "id": 451
+            },
+            {
+                "type": "kill",
+                "target": "PMCs",
+                "number": 4,
+                "location": 3,
+                "id": 452
+            },
+            {
+                "type": "kill",
+                "target": "PMCs",
+                "number": 4,
+                "location": 4,
+                "id": 453
+            },
+            {
+                "type": "kill",
+                "target": "PMCs",
+                "number": 4,
+                "location": 5,
+                "id": 454
+            },
+            {
+                "type": "kill",
+                "target": "PMCs",
+                "number": 4,
+                "location": 6,
+                "id": 455
+            },
+            {
+                "type": "kill",
+                "target": "PMCs",
+                "number": 4,
+                "hint": "Nighttime",
+                "location": 0,
+                "id": 456
+            }
+        ],
+        "gameId": "unknown"
+    },
+    {
+        "id": 222,
+        "require": {
+            "level": 68,
+            "quests": [
+            ]
+        },
+        "giver": 7,
+        "turnin": 7,
+        "title": "The Choice",
+        "locales": {
+            "en": "The Choice"
+        },
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/The_Choice",
+        "exp": 777777,
+        "nokappa": true,
+        "unlocks": [],
+        "reputation": [
+            {
+                "trader": 7,
+                "rep": 2.2
+            }
+        ],
+        "objectives": [
+            {
+                "type": "collect",
+                "target": "59db794186f77448bc595262",
+                "number": 1,
+                "location": -1,
+                "id": 457
+            }
+        ],
+        "gameId": "unknown"
+    },
+    {
+        "id": 223,
+        "require": {
+            "level": 45,
+            "quests": [
+            ]
+        },
+        "giver": 3,
+        "turnin": 3,
+        "title": "Mutual Interest",
+        "locales": {
+            "en": "Mutual Interest"
+        },
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Mutual_Interest",
+        "exp": 84000,
+        "unlocks": [],
+        "reputation": [
+        ],
+        "objectives": [
+            {
+                "type": "kill",
+                "target": "Raiders",
+                "number": 50,
+                "location": 6,
+                "id": 458
+            }
+        ],
+        "gameId": "unknown"
+    },
+    {
+        "id": 224,
+        "require": {
+            "level": 45,
+            "quests": [
+            ]
+        },
+        "giver": 3,
+        "turnin": 3,
+        "title": "Long Line",
+        "locales": {
+            "en": "Long Line"
+        },
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Long_Line",
+        "exp": 84000,
+        "nokappa": true,
+        "unlocks": [],
+        "reputation": [
+        ],
+        "objectives": [
+            {
+                "type": "kill",
+                "target": "PMCs",
+                "number": 30,
+                "with": [
+                    "inside the ULTRA mall"
+                ],
+                "location": 4,
+                "id": 459
+            }
+        ],
+        "gameId": "unknown"
+    },
+    {
+        "id": 225,
+        "require": {
+            "level": 60,
+            "quests": [
+            ]
+        },
+        "giver": 6,
+        "turnin": 6,
+        "title": "Huntsman Path - Relentless",
+        "locales": {
+            "en": "Huntsman Path - Relentless"
+        },
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Huntsman_Path_-_Relentless",
+        "exp": 0,
+        "nokappa": true,
+        "unlocks": [],
+        "reputation": [
+        ],
+        "objectives": [
+            {
+                "type": "warning",
+                "target": "You must achieve a 'Survived' status on every raid while on this quest",
+                "number": 1,
+                "location": -1,
+                "id": 460
+            },
+            {
+                "type": "kill",
+                "target": "Reshala",
+                "number": 1,
+                "location": 1,
+                "id": 461
+            },
+            {
+                "type": "kill",
+                "target": "Shturman",
+                "number": 1,
+                "location": 2,
+                "id": 462
+            },
+            {
+                "type": "kill",
+                "target": "Sanitar",
+                "number": 1,
+                "location": 3,
+                "id": 463
+            },
+            {
+                "type": "kill",
+                "target": "Killa",
+                "number": 1,
+                "location": 4,
+                "id": 464
+            },
+            {
+                "type": "kill",
+                "target": "Glukhar",
+                "number": 1,
+                "location": 6,
+                "id": 465
+            },
+            {
+                "type": "kill",
+                "target": "Tagilla",
+                "number": 1,
+                "location": 0,
+                "id": 466
+            }
+        ],
+        "gameId": "unknown"
     }
 ]
