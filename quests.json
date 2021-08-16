@@ -11794,8 +11794,8 @@
             "quests": [
             ]
         },
-        "giver": 3,
-        "turnin": 3,
+        "giver": 5,
+        "turnin": 5,
         "title": "Long Line",
         "locales": {
             "en": "Long Line"
