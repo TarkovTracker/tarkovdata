@@ -666,12 +666,6 @@
                     "name": "5c06779c86f77426e00dd782",
                     "quantity": 5,
                     "id": 54
-                },
-                {
-                    "type": "trader",
-                    "name": 4,
-                    "quantity": 2,
-                    "id": 278
                 }
             ],
             "id": 13,
@@ -722,6 +716,12 @@
                     "name": "5449016a4bdc2d6f028b456f",
                     "quantity": 50000,
                     "id": 194
+                },
+                {
+                    "type": "trader",
+                    "name": 4,
+                    "quantity": 2,
+                    "id": 278
                 }
             ],
             "id": 14,
