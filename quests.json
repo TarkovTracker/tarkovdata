@@ -11438,7 +11438,7 @@
         "objectives": [
             {
                 "type": "kill",
-                "target": "Scavs",
+                "target": "PMCs",
                 "number": 15,
                 "location": 1,
                 "with": [
@@ -11448,7 +11448,7 @@
             },
             {
                 "type": "kill",
-                "target": "Scavs",
+                "target": "PMCs",
                 "number": 15,
                 "location": 2,
                 "with": [
@@ -11458,7 +11458,7 @@
             },
             {
                 "type": "kill",
-                "target": "Scavs",
+                "target": "PMCs",
                 "number": 15,
                 "location": 3,
                 "with": [
