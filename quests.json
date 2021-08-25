@@ -11913,21 +11913,21 @@
         ],
         "objectives": [
             {
-                "type": "collect",
+                "type": "find",
                 "target": "5d40407c86f774318526545a",
                 "number": 10,
                 "location": -1,
                 "id": 467
             },
             {
-                "type": "collect",
+                "type": "find",
                 "target": "5d403f9186f7743cac3f229b",
                 "number": 10,
                 "location": -1,
                 "id": 468
             },
             {
-                "type": "collect",
+                "type": "find",
                 "target": "5d1b33a686f7742523398398",
                 "number": 3,
                 "location": -1,
