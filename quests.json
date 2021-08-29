@@ -11773,6 +11773,7 @@
         },
         "wiki": "https://escapefromtarkov.fandom.com/wiki/Mutual_Interest",
         "exp": 84000,
+        "nokappa": true,
         "unlocks": [],
         "reputation": [
         ],
