@@ -11936,5 +11936,54 @@
             }
         ],
         "gameId": "unknown"
+    },
+    {
+        "id": 227,
+        "require": {
+            "level": 55,
+            "quests": [
+            ]
+        },
+        "giver": 4,
+        "turnin": 4,
+        "title": "The Courier",
+        "locales": {
+            "en": "The Courier"
+        },
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/The_Courier",
+        "exp": 137000,
+        "nokappa": true,
+        "unlocks": [],
+        "reputation": [
+        ],
+        "objectives": [
+            {
+                "type": "place",
+                "target": "5a1eaa87fcdbcb001865f75e",
+                "hint": "yellow crane at construction",
+                "number": 1,
+                "location": 1,
+                "gps": {
+                    "leftPercent": 51.59,
+                    "topPercent": 34.03,
+                    "floor": "Ground_Level"
+                },
+                "id": 470
+            },
+            {
+                "type": "place",
+                "target": "5a1eaa87fcdbcb001865f75e",
+                "hint": "trash containers gas gtation",
+                "number": 1,
+                "location": 1,
+                "gps": {
+                    "leftPercent": 25.5,
+                    "topPercent": 56.82,
+                    "floor": "Ground_Level"
+                },
+                "id": 471
+            }
+        ],
+        "gameId": "unknown"
     }
 ]
