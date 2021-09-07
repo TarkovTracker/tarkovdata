@@ -253,7 +253,7 @@
                 "quantity": 1
             }
         ],
-        "default": false
+        "default": true
     },
     "5c0e93cb86f77432297fdfc8": {
         "id": "5c0e93cb86f77432297fdfc8",
