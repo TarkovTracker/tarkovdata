@@ -2449,12 +2449,12 @@
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
-      "damage": 69,
+      "damage": 76,
       "armorDamage": 36,
       "fragmentationChance": 0.01,
       "ricochetChance": 0.065,
       "penetrationChance": 0.16,
-      "penetrationPower": 23,
+      "penetrationPower": 25,
       "accuracy": 0,
       "recoil": 0,
       "initialSpeed": 285
@@ -2610,13 +2610,13 @@
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
-      "damage": 74,
+      "damage": 80,
       "armorDamage": 37,
       "fragmentationChance": 0.01,
       "ricochetChance": 0.065,
       "penetrationChance": 0.16,
       "penetrationPower": 19,
-      "accuracy": 5,
+      "accuracy": 10,
       "recoil": 0,
       "initialSpeed": 290
     }
@@ -2910,11 +2910,11 @@
     "projectileCount": 1,
     "ballistics": {
       "damage": 70,
-      "armorDamage": 43,
+      "armorDamage": 48,
       "fragmentationChance": 0.01,
       "ricochetChance": 0.1,
-      "penetrationChance": 0.26,
-      "penetrationPower": 36,
+      "penetrationChance": 0.29,
+      "penetrationPower": 38,
       "accuracy": -5,
       "recoil": 7,
       "initialSpeed": 299
@@ -2932,7 +2932,7 @@
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
-      "damage": 95,
+      "damage": 105,
       "armorDamage": 30,
       "fragmentationChance": 0.5,
       "ricochetChance": 0.065,
@@ -2955,13 +2955,13 @@
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
-      "damage": 127,
+      "damage": 137,
       "armorDamage": 12,
       "fragmentationChance": 1,
       "ricochetChance": 0.002,
       "penetrationChance": 0.02,
       "penetrationPower": 3,
-      "accuracy": 0,
+      "accuracy": -5,
       "recoil": 0,
       "initialSpeed": 293
     }
