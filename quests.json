@@ -1864,7 +1864,7 @@
             "ru": "Золотые понты",
             "cs": "Zlatý lup"
         },
-        "wiki": "https://escapefromtarkov.fandom.com/wiki/Golden_swag",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Golden_Swag",
         "exp": 4500,
         "unlocks": [
             "584984812459776a704a82a6"
@@ -11824,7 +11824,7 @@
     {
         "id": 225,
         "require": {
-            "level": 60,
+            "level": 65,
             "quests": [
             ]
         },
@@ -11982,6 +11982,55 @@
                     "floor": "Ground_Level"
                 },
                 "id": 471
+            }
+        ],
+        "gameId": "unknown"
+    },
+    {
+        "id": 228,
+        "require": {
+            "level": 60,
+            "quests": [
+            ]
+        },
+        "giver": 3,
+        "turnin": 3,
+        "title": "Special Equipment",
+        "locales": {
+            "en": "Special Equipment"
+        },
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Special_Equipment",
+        "exp": 177000,
+        "unlocks": [],
+        "reputation": [],
+        "objectives": [
+            {
+                "type": "find",
+                "target": "5c05300686f7746dce784e5d",
+                "number": 5,
+                "location": -1,
+                "id": 472
+            },
+            {
+                "type": "find",
+                "target": "5c052fb986f7746b2101e909",
+                "number": 5,
+                "location": -1,
+                "id": 473
+            },
+            {
+                "type": "find",
+                "target": "5c05308086f7746b2101e90b",
+                "number": 5,
+                "location": -1,
+                "id": 474
+            },
+            {
+                "type": "find",
+                "target": "5c052f6886f7746b1e3db148",
+                "number": 5,
+                "location": -1,
+                "id": 475
             }
         ],
         "gameId": "unknown"
