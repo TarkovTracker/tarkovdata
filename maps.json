@@ -98,5 +98,15 @@
             "floors": [ "Bunkers", "Ground_Level" ],
             "defaultFloor": "Ground_Level"
         }
+    },
+    "lighthouse": {
+        "id": 7,
+        "locale": {
+            "en": "Lighthouse"
+        },
+        "wiki": "https://escapefromtarkov.gamepedia.com/Lighthouse",
+        "description": "",
+        "enemies": ["Scavs"],
+        "raidDuration": { "day": 0, "night": 0 }
     }
 }
