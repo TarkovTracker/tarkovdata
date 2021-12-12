@@ -47,7 +47,7 @@
   },
   "5a608bf24f39f98ffc77720e": {
     "id": "5a608bf24f39f98ffc77720e",
-    "name": "7.62x51mm M62",
+    "name": "7.62x51mm M62 Tracer",
     "shortName": "M62",
     "weight": 0.024,
     "caliber": "Caliber762x51",
@@ -438,8 +438,8 @@
   },
   "560d61e84bdc2da74d8b4571": {
     "id": "560d61e84bdc2da74d8b4571",
-    "name": "7.62x54R SNB",
-    "shortName": "SNB",
+    "name": "7.62x54mm R SNB gzh",
+    "shortName": "SNB gzh",
     "weight": 0.024,
     "caliber": "Caliber762x54R",
     "stackMaxSize": 40,
@@ -553,7 +553,7 @@
   },
   "5887431f2459777e1612938f": {
     "id": "5887431f2459777e1612938f",
-    "name": "7.62x54R LPS gzh",
+    "name": "7.62x54mm R LPS gzh",
     "shortName": "LPS gzh",
     "weight": 0.024,
     "caliber": "Caliber762x54R",
@@ -967,8 +967,8 @@
   },
   "59e655cb86f77411dc52a77b": {
     "id": "59e655cb86f77411dc52a77b",
-    "name": ".366 TKM Eko",
-    "shortName": "Eko",
+    "name": ".366 TKM EKO",
+    "shortName": "EKO",
     "weight": 0.01,
     "caliber": "Caliber366TKM",
     "stackMaxSize": 50,
@@ -1027,7 +1027,7 @@
       "armorDamage": 52,
       "fragmentationChance": 0.25,
       "ricochetChance": 0.35,
-      "penetrationChance": 0.8,
+      "penetrationChance": 0.4,
       "penetrationPower": 32,
       "accuracy": 0,
       "recoil": 0,
@@ -1096,7 +1096,7 @@
       "armorDamage": 35,
       "fragmentationChance": 0.2625,
       "ricochetChance": 0.175,
-      "penetrationChance": 0.56,
+      "penetrationChance": 0.26,
       "penetrationPower": 15,
       "accuracy": -5,
       "recoil": 0,
@@ -1234,7 +1234,7 @@
       "armorDamage": 46,
       "fragmentationChance": 0.12,
       "ricochetChance": 0.35,
-      "penetrationChance": 0.63,
+      "penetrationChance": 0.33,
       "penetrationPower": 30,
       "accuracy": -4,
       "recoil": -6,
@@ -1303,7 +1303,7 @@
       "armorDamage": 63,
       "fragmentationChance": 0.12,
       "ricochetChance": 0.315,
-      "penetrationChance": 0.84,
+      "penetrationChance": 0.6,
       "penetrationPower": 47,
       "accuracy": -3,
       "recoil": 5,
@@ -1381,8 +1381,8 @@
   },
   "59e77a2386f7742ee578960a": {
     "id": "59e77a2386f7742ee578960a",
-    "name": "7.62x54R PS",
-    "shortName": "PS",
+    "name": "7.62x54mm R PS gzh",
+    "shortName": "PS gzh",
     "weight": 0.024,
     "caliber": "Caliber762x54R",
     "stackMaxSize": 40,
@@ -1451,7 +1451,7 @@
   "5c0d5ae286f7741e46554302": {
     "id": "5c0d5ae286f7741e46554302",
     "name": "5.56x45mm Warmageddon",
-    "shortName": "Warmageddon",
+    "shortName": "Warmage",
     "weight": 0.011,
     "caliber": "Caliber556x45NATO",
     "stackMaxSize": 60,
@@ -1468,7 +1468,7 @@
       "penetrationPower": 3,
       "accuracy": 10,
       "recoil": 10,
-      "initialSpeed": 910
+      "initialSpeed": 936
     }
   },
   "56dff2ced2720bb4668b4567": {
@@ -1496,8 +1496,8 @@
   },
   "5cde8864d7f00c0010373be1": {
     "id": "5cde8864d7f00c0010373be1",
-    "name": "12.7x108 mm B-32 gl",
-    "shortName": "B-32",
+    "name": "12.7x108mm B-32 gl",
+    "shortName": "B-32 gl",
     "weight": 0.133,
     "caliber": "Caliber127x108",
     "stackMaxSize": 20,
@@ -1680,8 +1680,8 @@
   },
   "5c0d688c86f77413ae3407b2": {
     "id": "5c0d688c86f77413ae3407b2",
-    "name": "9x39mm BP gs",
-    "shortName": "BP gs",
+    "name": "9x39mm BP",
+    "shortName": "BP",
     "weight": 0.023,
     "caliber": "Caliber9x39",
     "stackMaxSize": 50,
@@ -1726,8 +1726,8 @@
   },
   "5c0d668f86f7747ccb7f13b2": {
     "id": "5c0d668f86f7747ccb7f13b2",
-    "name": "9x39mm SPP gs",
-    "shortName": "SPP gs",
+    "name": "9x39mm SPP",
+    "shortName": "SPP",
     "weight": 0.023,
     "caliber": "Caliber9x39",
     "stackMaxSize": 50,
@@ -1749,8 +1749,8 @@
   },
   "57a0dfb82459774d3078b56c": {
     "id": "57a0dfb82459774d3078b56c",
-    "name": "9x39 mm SP5 gs",
-    "shortName": "SP5",
+    "name": "9x39mm SP-5",
+    "shortName": "SP-5",
     "weight": 0.023,
     "caliber": "Caliber9x39",
     "stackMaxSize": 50,
@@ -1772,8 +1772,8 @@
   },
   "57a0e5022459774d1673f889": {
     "id": "57a0e5022459774d1673f889",
-    "name": "9x39 mm SP6 gs",
-    "shortName": "SP6",
+    "name": "9x39mm SP-6",
+    "shortName": "SP-6",
     "weight": 0.023,
     "caliber": "Caliber9x39",
     "stackMaxSize": 50,
@@ -1813,12 +1813,12 @@
       "penetrationPower": 39,
       "accuracy": -4,
       "recoil": -4,
-      "initialSpeed": 397
+      "initialSpeed": 410
     }
   },
   "5cadf6ddae9215051e1c23b2": {
     "id": "5cadf6ddae9215051e1c23b2",
-    "name": "12.7x55 mm PS12",
+    "name": "12.7x55mm PS12",
     "shortName": "PS12",
     "weight": 0.07,
     "caliber": "Caliber127x55",
@@ -1841,7 +1841,7 @@
   },
   "5d2f2ab648f03550091993ca": {
     "id": "5d2f2ab648f03550091993ca",
-    "name": "12.7x108 mm BZT-44M gzh",
+    "name": "12.7x108mm BZT-44M gzh",
     "shortName": "BZT-44M",
     "weight": 0.128,
     "caliber": "Caliber127x108",
@@ -1864,7 +1864,7 @@
   },
   "5cadf6e5ae921500113bb973": {
     "id": "5cadf6e5ae921500113bb973",
-    "name": "12.7x55 mm PS12A",
+    "name": "12.7x55mm PS12A",
     "shortName": "PS12A",
     "weight": 0.044,
     "caliber": "Caliber127x55",
@@ -1887,7 +1887,7 @@
   },
   "5d6e6806a4b936088465b17e": {
     "id": "5d6e6806a4b936088465b17e",
-    "name": "12/70 8.5mm \"Magnum\" Buckshot",
+    "name": "12/70 8.5mm Magnum buckshot",
     "shortName": "Magnum",
     "weight": 0.059,
     "caliber": "Caliber12g",
@@ -1956,7 +1956,7 @@
   },
   "5cadf6eeae921500134b2799": {
     "id": "5cadf6eeae921500134b2799",
-    "name": "12.7x55 mm PS12B",
+    "name": "12.7x55mm PS12B",
     "shortName": "PS12B",
     "weight": 0.055,
     "caliber": "Caliber127x55",
@@ -2164,7 +2164,7 @@
   "5d6e6869a4b9361c140bcfde": {
     "id": "5d6e6869a4b9361c140bcfde",
     "name": "12/70 Grizzly 40 Slug",
-    "shortName": "Grizzly",
+    "shortName": "Grizzly 40",
     "weight": 0.055,
     "caliber": "Caliber12g",
     "stackMaxSize": 20,
@@ -2204,7 +2204,7 @@
       "penetrationPower": 33,
       "accuracy": -4,
       "recoil": 0,
-      "initialSpeed": 716
+      "initialSpeed": 922
     }
   },
   "5cc80f79e4a949033c7343b2": {
@@ -2227,13 +2227,13 @@
       "penetrationPower": 10,
       "accuracy": 0,
       "recoil": 0,
-      "initialSpeed": 792
+      "initialSpeed": 922
     }
   },
   "5d6e68c4a4b9361b93413f79": {
     "id": "5d6e68c4a4b9361b93413f79",
-    "name": "12/70 shell with .50 BMG bullet",
-    "shortName": 0.5,
+    "name": "12/70 makeshift .50 BMG slug",
+    "shortName": ".50 BMG",
     "weight": 0.055,
     "caliber": "Caliber12g",
     "stackMaxSize": 20,
@@ -2273,7 +2273,7 @@
       "penetrationPower": 20,
       "accuracy": 0,
       "recoil": 0,
-      "initialSpeed": 594
+      "initialSpeed": 922
     }
   },
   "5d6e689ca4b9361bc8618956": {
@@ -2434,7 +2434,7 @@
       "penetrationPower": 37,
       "accuracy": 0,
       "recoil": 0,
-      "initialSpeed": 716
+      "initialSpeed": 922
     }
   },
   "5e81f423763d9f754677bf2e": {
@@ -2457,7 +2457,7 @@
       "penetrationPower": 25,
       "accuracy": 0,
       "recoil": 0,
-      "initialSpeed": 285
+      "initialSpeed": 340
     }
   },
   "5cc80f67e4a949035e43bbba": {
@@ -2480,7 +2480,7 @@
       "penetrationPower": 35,
       "accuracy": 0,
       "recoil": -20,
-      "initialSpeed": 305
+      "initialSpeed": 922
     }
   },
   "5e023e53d4353e3302577c4c": {
@@ -2531,8 +2531,8 @@
   },
   "5e023d34e8a400319a28ed44": {
     "id": "5e023d34e8a400319a28ed44",
-    "name": "7.62x54R BT gzh",
-    "shortName": "BT",
+    "name": "7.62x54mm R BT gzh",
+    "shortName": "BT gzh",
     "weight": 0.024,
     "caliber": "Caliber762x54R",
     "stackMaxSize": 40,
@@ -2549,13 +2549,13 @@
       "penetrationPower": 59,
       "accuracy": -2,
       "recoil": -4,
-      "initialSpeed": 820
+      "initialSpeed": 875
     }
   },
   "5e023d48186a883be655e551": {
     "id": "5e023d48186a883be655e551",
-    "name": "7.62x54R BS",
-    "shortName": "BS",
+    "name": "7.62x54mm R BS gs",
+    "shortName": "BS gs",
     "weight": 0.025,
     "caliber": "Caliber762x54R",
     "stackMaxSize": 40,
@@ -2577,8 +2577,8 @@
   },
   "5e023cf8186a883be655e54f": {
     "id": "5e023cf8186a883be655e54f",
-    "name": "7.62x54R T-46M",
-    "shortName": "T-46M",
+    "name": "7.62x54mm R T-46M gzh",
+    "shortName": "T-46M gzh",
     "weight": 0.025,
     "caliber": "Caliber762x54R",
     "stackMaxSize": 40,
@@ -2601,7 +2601,7 @@
   "5efb0d4f4bc50b58e81710f3": {
     "id": "5efb0d4f4bc50b58e81710f3",
     "name": ".45 ACP Lasermatch FMJ",
-    "shortName": "LM",
+    "shortName": "Lasermatch",
     "weight": 0.015,
     "caliber": "Caliber1143x23ACP",
     "stackMaxSize": 50,
@@ -2738,8 +2738,8 @@
   },
   "5f647f31b6238e5dd066e196": {
     "id": "5f647f31b6238e5dd066e196",
-    "name": "23x75mm Shrapnel-25 buckshot",
-    "shortName": "Shrapnel-25",
+    "name": "23x75mm \"Shrapnel-25\" buckshot",
+    "shortName": "Shrap-25",
     "weight": 0.08,
     "caliber": "Caliber23x75",
     "stackMaxSize": 15,
@@ -2761,7 +2761,7 @@
   },
   "5ede474b0c226a66f5402622": {
     "id": "5ede474b0c226a66f5402622",
-    "name": "40x46mm M381(HE) grenade",
+    "name": "40x46mm M381 (HE) grenade",
     "shortName": "M381",
     "weight": 0.23,
     "caliber": "Caliber40x46",
@@ -2779,7 +2779,7 @@
       "penetrationPower": 1,
       "accuracy": 0,
       "recoil": 0,
-      "initialSpeed": 76
+      "initialSpeed": 185
     }
   },
   "5ede475b549eed7c6d5c18fb": {
@@ -2802,7 +2802,7 @@
       "penetrationPower": 1,
       "accuracy": 0,
       "recoil": 0,
-      "initialSpeed": 76
+      "initialSpeed": 185
     }
   },
   "5ede4739e0350d05467f73e8": {
@@ -2825,7 +2825,7 @@
       "penetrationPower": 1,
       "accuracy": 15,
       "recoil": -10,
-      "initialSpeed": 76
+      "initialSpeed": 185
     }
   },
   "5f0c892565703e5c461894e9": {
@@ -2848,12 +2848,12 @@
       "penetrationPower": 1,
       "accuracy": 0,
       "recoil": 0,
-      "initialSpeed": 76
+      "initialSpeed": 185
     }
   },
   "5ede47405b097655935d7d16": {
     "id": "5ede47405b097655935d7d16",
-    "name": "40x46mm M441(HE) grenade",
+    "name": "40x46mm M441 (HE) grenade",
     "shortName": "M441",
     "weight": 0.23,
     "caliber": "Caliber40x46",
@@ -2871,7 +2871,7 @@
       "penetrationPower": 1,
       "accuracy": 0,
       "recoil": 0,
-      "initialSpeed": 76
+      "initialSpeed": 185
     }
   },
   "5ede475339ee016e8c534742": {
@@ -2894,7 +2894,7 @@
       "penetrationPower": 5,
       "accuracy": 100,
       "recoil": 0,
-      "initialSpeed": 269
+      "initialSpeed": 185
     }
   },
   "5efb0cabfb3e451d70735af5": {
@@ -2923,7 +2923,7 @@
   "5efb0fc6aeb21837e749c801": {
     "id": "5efb0fc6aeb21837e749c801",
     "name": ".45 ACP Hydra-Shok",
-    "shortName": "HS",
+    "shortName": "HydraShok",
     "weight": 0.017,
     "caliber": "Caliber1143x23ACP",
     "stackMaxSize": 50,
@@ -3055,7 +3055,7 @@
       "penetrationPower": 0,
       "accuracy": 0,
       "recoil": 20,
-      "initialSpeed": 0
+      "initialSpeed": 80
     }
   },
   "5cc86832d7f00c000d3a6e6c": {
@@ -3120,7 +3120,7 @@
       "armorDamage": 36,
       "fragmentationChance": 0.3,
       "ricochetChance": 0.3,
-      "penetrationChance": 0.3,
+      "penetrationChance": 0.34,
       "penetrationPower": 29,
       "accuracy": 0,
       "recoil": 0,
@@ -3139,15 +3139,15 @@
     "ammoType": "bullet",
     "projectileCount": 1,
     "ballistics": {
-      "damage": 55,
+      "damage": 51,
       "armorDamage": 65,
       "fragmentationChance": 0.1,
       "ricochetChance": 0.3,
-      "penetrationChance": 0.36,
+      "penetrationChance": 0.46,
       "penetrationPower": 45,
-      "accuracy": 5,
-      "recoil": 5,
-      "initialSpeed": 720
+      "accuracy": 0,
+      "recoil": 10,
+      "initialSpeed": 605
     }
   },
   "5e023e88277cce2b522ff2b1": {
@@ -3221,8 +3221,8 @@
   },
   "5fc382c1016cce60e8341b20": {
     "id": "5fc382c1016cce60e8341b20",
-    "name": ".338 Lapua Magnum UPZ",
-    "shortName": "UPZ",
+    "name": ".338 Lapua Magnum UCW",
+    "shortName": "UCW",
     "weight": 0.045,
     "caliber": "Caliber86x70",
     "stackMaxSize": 30,
@@ -3331,7 +3331,7 @@
       "penetrationPower": 56,
       "accuracy": -6,
       "recoil": 6,
-      "initialSpeed": 1050
+      "initialSpeed": 1013
     }
   },
   "601aa3d2b2bcb34913271e6d": {
@@ -3350,11 +3350,11 @@
       "armorDamage": 76,
       "fragmentationChance": 0.05,
       "ricochetChance": 0.435,
-      "penetrationChance": 0.88,
+      "penetrationChance": 0.65,
       "penetrationPower": 58,
       "accuracy": -5,
       "recoil": 10,
-      "initialSpeed": 875
+      "initialSpeed": 730
     }
   },
   "5485a8684bdc2da71d8b4567": {
