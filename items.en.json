@@ -171,7 +171,7 @@
     },
     "545cdb794bdc2d3a198b456a": {
         "id": "545cdb794bdc2d3a198b456a",
-        "name": "6B43 Zabralo-Sh 6A Armor",
+        "name": "6B43 Zabralo-Sh 6A body armor",
         "shortName": "6B43 6A"
     },
     "557ff21e4bdc2d89578b4586": {
@@ -606,7 +606,7 @@
     },
     "5649ed104bdc2d3d1c8b458b": {
         "id": "5649ed104bdc2d3d1c8b458b",
-        "name": "7.62x39 PS 30 pcs. ammo pack",
+        "name": "7.62x39 PS gzh 30 pcs. ammo pack",
         "shortName": "7.62x39 PS 30"
     },
     "564ca99c4bdc2d16268b4589": {
@@ -683,6 +683,11 @@
         "id": "56742c324bdc2d150f8b456d",
         "name": "Broken GPhone",
         "shortName": "GPhone"
+    },
+    "5675838d4bdc2d95058b456e": {
+        "id": "5675838d4bdc2d95058b456e",
+        "name": "Drawer",
+        "shortName": "Drawer"
     },
     "5696686a4bdc2da3298b456a": {
         "id": "5696686a4bdc2da3298b456a",
@@ -936,7 +941,7 @@
     },
     "571a282c2459771fb2755a69": {
         "id": "571a282c2459771fb2755a69",
-        "name": "TT standard side grips",
+        "name": "TT side grips",
         "shortName": "TT grips"
     },
     "571a28e524597720b4066567": {
@@ -1076,8 +1081,8 @@
     },
     "57347c77245977448d35f6e2": {
         "id": "57347c77245977448d35f6e2",
-        "name": "Screw nut",
-        "shortName": "Screw nut"
+        "name": "Screw nuts",
+        "shortName": "Nuts"
     },
     "57347c93245977448d35f6e3": {
         "id": "57347c93245977448d35f6e3",
@@ -1466,7 +1471,7 @@
     },
     "574db213245977459a2f3f5d": {
         "id": "574db213245977459a2f3f5d",
-        "name": "SKS standard rear sight",
+        "name": "SKS rear sight",
         "shortName": "SKS RS"
     },
     "574eb85c245977648157eec3": {
@@ -1487,7 +1492,7 @@
     "57513f07245977207e26a311": {
         "id": "57513f07245977207e26a311",
         "name": "Apple juice",
-        "shortName": "Aple"
+        "shortName": "Apple"
     },
     "57513f9324597720a7128161": {
         "id": "57513f9324597720a7128161",
@@ -1538,6 +1543,11 @@
         "id": "5751916f24597720a27126df",
         "name": "Key 2",
         "shortName": "Key 2"
+    },
+    "5751961824597720a31c09ac": {
+        "id": "5751961824597720a31c09ac",
+        "name": "Black Keycard",
+        "shortName": "Black Keycard"
     },
     "5751a25924597722c463c472": {
         "id": "5751a25924597722c463c472",
@@ -1606,7 +1616,7 @@
     },
     "576a7c512459771e796e0e17": {
         "id": "576a7c512459771e796e0e17",
-        "name": "MP-443 B-8 mount",
+        "name": "MP-443 Zenit B-8 mount",
         "shortName": "B-8"
     },
     "576fd4ec2459777f0b518431": {
@@ -1647,7 +1657,7 @@
     "5780cf7f2459777de4559322": {
         "id": "5780cf7f2459777de4559322",
         "name": "Dorm room 314 marked key",
-        "shortName": "Dorm mark."
+        "shortName": "Dorm mrk."
     },
     "5780cf942459777df90dcb72": {
         "id": "5780cf942459777df90dcb72",
@@ -1741,7 +1751,7 @@
     },
     "57a3459f245977764a01f703": {
         "id": "57a3459f245977764a01f703",
-        "name": "VSS/VAL B-3 ring mount",
+        "name": "VSS/VAL Zenit B-3 ring mount",
         "shortName": "B-3"
     },
     "57a349b2245977762b199ec7": {
@@ -2197,7 +2207,7 @@
     "5887431f2459777e1612938f": {
         "id": "5887431f2459777e1612938f",
         "name": "7.62x54R LPS gzh",
-        "shortName": "LPS"
+        "shortName": "LPS gzh"
     },
     "588892092459774ac91d4b11": {
         "id": "588892092459774ac91d4b11",
@@ -2316,7 +2326,7 @@
     },
     "58a5c12e86f7745d585a2b9e": {
         "id": "58a5c12e86f7745d585a2b9e",
-        "name": "MPX GEN1 handguard 4 inch rail adapter",
+        "name": "MPX GEN1 handguard 4 inch rail",
         "shortName": "MPX 4\""
     },
     "58ac1bf086f77420ed183f9f": {
@@ -2589,11 +2599,6 @@
         "name": "Car key",
         "shortName": "Key"
     },
-    "590de52486f774226a0c24c2": {
-        "id": "590de52486f774226a0c24c2",
-        "name": "Machinery key",
-        "shortName": "Key"
-    },
     "590de71386f774347051a052": {
         "id": "590de71386f774347051a052",
         "name": "Antique teapot",
@@ -2791,7 +2796,7 @@
     },
     "592c2d1a86f7746dbe2af32a": {
         "id": "592c2d1a86f7746dbe2af32a",
-        "name": "Ana Tactical Alpha chest rig",
+        "name": "ANA Tactical Alpha chest rig",
         "shortName": "Alpha"
     },
     "5937ee6486f77408994ba448": {
@@ -5472,7 +5477,7 @@
     "5b3f7c005acfc4704b4a1de8": {
         "id": "5b3f7c005acfc4704b4a1de8",
         "name": "PU 3.5x ring mount",
-        "shortName": "PU ring"
+        "shortName": "PU rings"
     },
     "5b3f7c1c5acfc40dc5296b1d": {
         "id": "5b3f7c1c5acfc40dc5296b1d",
@@ -5591,7 +5596,7 @@
     },
     "5b44c6ae86f7742d1627baea": {
         "id": "5b44c6ae86f7742d1627baea",
-        "name": "Ana Tactical Beta 2 Battle backpack",
+        "name": "ANA Tactical Beta 2 Battle backpack",
         "shortName": "Beta2"
     },
     "5b44c8ea86f7742d1627baf1": {
@@ -5828,6 +5833,11 @@
         "id": "5b86a0e586f7745b600ccb23",
         "name": "Mosin 7.62x54R Bramit sound suppressor",
         "shortName": "Bramit"
+    },
+    "5b9b9020e7ef6f5716480215": {
+        "id": "5b9b9020e7ef6f5716480215",
+        "name": "Dog tag",
+        "shortName": "Dog tag"
     },
     "5ba26383d4351e00334c93d9": {
         "id": "5ba26383d4351e00334c93d9",
@@ -6131,7 +6141,7 @@
     },
     "5bd704e7209c4d00d7167c31": {
         "id": "5bd704e7209c4d00d7167c31",
-        "name": "MP7A2 standard stock",
+        "name": "MP7A2 stock",
         "shortName": "A2"
     },
     "5be4038986f774527d3fae60": {
@@ -6654,6 +6664,11 @@
         "name": "EOTech HHS-1 hybrid sight (Tan)",
         "shortName": "HHS-1 Tan"
     },
+    "5c0a5f6c86f774753654890e": {
+        "id": "5c0a5f6c86f774753654890e",
+        "name": "DEVELOPER junkbox",
+        "shortName": "DEVELOPER junkbox"
+    },
     "5c0a840b86f7742ffa4f2482": {
         "id": "5c0a840b86f7742ffa4f2482",
         "name": "T H I C C Items case",
@@ -6742,12 +6757,12 @@
     "5c0e531286f7747fa54205c2": {
         "id": "5c0e531286f7747fa54205c2",
         "name": "SJ1 TGLabs combat stimulant injector",
-        "shortName": "SJ1 TGLabs"
+        "shortName": "SJ1"
     },
     "5c0e531d86f7747fa23f4d42": {
         "id": "5c0e531d86f7747fa23f4d42",
         "name": "SJ6 TGLabs combat stimulant injector",
-        "shortName": "SJ6 TGLabs"
+        "shortName": "SJ6"
     },
     "5c0e533786f7747fa23f4d47": {
         "id": "5c0e533786f7747fa23f4d47",
@@ -6982,12 +6997,12 @@
     "5c18b90d2e2216152142466b": {
         "id": "5c18b90d2e2216152142466b",
         "name": "Magpul MBUS Gen2 front flip-up sight (Flat Dark Earth)",
-        "shortName": "MBUS FS FDE"
+        "shortName": "MBUS FS"
     },
     "5c18b9192e2216398b5a8104": {
         "id": "5c18b9192e2216398b5a8104",
         "name": "Magpul MBUS Gen2 rear flip-up sight (Flat Dark Earth)",
-        "shortName": "MBUS RS FDE"
+        "shortName": "MBUS RS"
     },
     "5c1a1cc52e221602b3136e3d": {
         "id": "5c1a1cc52e221602b3136e3d",
@@ -7221,7 +7236,7 @@
     },
     "5c503af12e221602b177ca02": {
         "id": "5c503af12e221602b177ca02",
-        "name": "VPO-101 Vepr Hunter standard stock",
+        "name": "VPO-101 Vepr Hunter stock",
         "shortName": "VPO101"
     },
     "5c503b1c2e221602b21d6e9d": {
@@ -7667,7 +7682,7 @@
     "5cadc431ae921500113bb8d5": {
         "id": "5cadc431ae921500113bb8d5",
         "name": "M9A3 polymer pistol grip",
-        "shortName": "M9A3 PGrip"
+        "shortName": "M9A3"
     },
     "5cadc55cae921500103bb3be": {
         "id": "5cadc55cae921500103bb3be",
@@ -8316,7 +8331,7 @@
     },
     "5d1340b3d7ad1a0b52682ed7": {
         "id": "5d1340b3d7ad1a0b52682ed7",
-        "name": "5.56x45 Magpul PMAG GEN M3 30 STANAG 30-round magazine (Black)",
+        "name": "5.56x45 Magpul PMAG GEN M3 30 STANAG 30-round magazine (Flat Dark Earth)",
         "shortName": "GEN M3"
     },
     "5d1340bdd7ad1a0e8d245aab": {
@@ -8957,12 +8972,12 @@
     "5d80c60f86f77440373c4ece": {
         "id": "5d80c60f86f77440373c4ece",
         "name": "RB-BK marked key",
-        "shortName": "RB-BK mark."
+        "shortName": "RB-BK mrk."
     },
     "5d80c62a86f7744036212b3f": {
         "id": "5d80c62a86f7744036212b3f",
         "name": "RB-VO marked key",
-        "shortName": "RB-VO mark."
+        "shortName": "RB-VO mrk."
     },
     "5d80c66d86f774405611c7d6": {
         "id": "5d80c66d86f774405611c7d6",
@@ -9021,8 +9036,8 @@
     },
     "5d80cb5686f77440545d1286": {
         "id": "5d80cb5686f77440545d1286",
-        "name": "RB-PS81 key",
-        "shortName": "RB-PS81"
+        "name": "RB-PSV1 key",
+        "shortName": "RB-PSV1"
     },
     "5d80cb8786f774405611c7d9": {
         "id": "5d80cb8786f774405611c7d9",
@@ -9081,8 +9096,8 @@
     },
     "5d95d6be86f77424444eb3a7": {
         "id": "5d95d6be86f77424444eb3a7",
-        "name": "RB-PS82 key",
-        "shortName": "RB-PS82"
+        "name": "RB-PSV2 key",
+        "shortName": "RB-PSV2"
     },
     "5d95d6fa86f77424484aa5e9": {
         "id": "5d95d6fa86f77424484aa5e9",
@@ -9506,13 +9521,13 @@
     },
     "5e023e53d4353e3302577c4c": {
         "id": "5e023e53d4353e3302577c4c",
-        "name": "7.62x51mm FMJ",
-        "shortName": "FMJ"
+        "name": "7.62x51mm BCP FMJ",
+        "shortName": "BCP FMJ"
     },
     "5e023e6e34d52a55c3304f71": {
         "id": "5e023e6e34d52a55c3304f71",
-        "name": "7.62x51mm SP",
-        "shortName": "SP"
+        "name": "7.62x51mm TCW SP",
+        "shortName": "TCW SP"
     },
     "5e023e88277cce2b522ff2b1": {
         "id": "5e023e88277cce2b522ff2b1",
@@ -9859,6 +9874,11 @@
         "name": "23x75mm \"Barrikada\" slug",
         "shortName": "Barrikada"
     },
+    "5e85aac65505fa48730d8af2": {
+        "id": "5e85aac65505fa48730d8af2",
+        "name": "patron_12,7x55_ps12",
+        "shortName": "patron_12,7x55_ps12"
+    },
     "5e870397991fd70db46995c8": {
         "id": "5e870397991fd70db46995c8",
         "name": "Mossberg 590A1 12ga pump-action shotgun",
@@ -9887,7 +9907,7 @@
     "5e87114fe2db31558c75a120": {
         "id": "5e87114fe2db31558c75a120",
         "name": "M590 ghost ring rear sight",
-        "shortName": "GR RS"
+        "shortName": "590 GR RS"
     },
     "5e87116b81c4ed43e83cefdd": {
         "id": "5e87116b81c4ed43e83cefdd",
@@ -10069,10 +10089,15 @@
         "name": "40x46mm M386 (HE) grenade",
         "shortName": "M386"
     },
+    "5ede47641cf3836a88318df1": {
+        "id": "5ede47641cf3836a88318df1",
+        "name": "patron_30x29_vog_30",
+        "shortName": "patron_30x29_vog_30"
+    },
     "5ede7a8229445733cb4c18e2": {
         "id": "5ede7a8229445733cb4c18e2",
         "name": "RB-PKPM marked key",
-        "shortName": "RB-PKPM mark."
+        "shortName": "RB-PKPM mrk."
     },
     "5ede7b0c6d23e5473e6e8c66": {
         "id": "5ede7b0c6d23e5473e6e8c66",
@@ -10442,7 +10467,7 @@
     "5f6372e2865db925d54f3869": {
         "id": "5f6372e2865db925d54f3869",
         "name": "Ferfrans CQB 5.56x45 muzzle brake",
-        "shortName": "FF CQB 556"
+        "shortName": "CQB 556"
     },
     "5f647d9f8499b57dc40ddb93": {
         "id": "5f647d9f8499b57dc40ddb93",
@@ -10453,6 +10478,11 @@
         "id": "5f647f31b6238e5dd066e196",
         "name": "23x75mm Shrapnel-25 buckshot",
         "shortName": "Shrapnel-25"
+    },
+    "5f647fd3f6e4ab66c82faed6": {
+        "id": "5f647fd3f6e4ab66c82faed6",
+        "name": "patron_23x75_shrapnel_10",
+        "shortName": "patron_23x75_shrapnel_10"
     },
     "5f745ee30acaeb0d490d8c5b": {
         "id": "5f745ee30acaeb0d490d8c5b",
@@ -10791,7 +10821,7 @@
     },
     "5fc64ea372b0dd78d51159dc": {
         "id": "5fc64ea372b0dd78d51159dc",
-        "name": "Cultist's knife",
+        "name": "Cultist knife",
         "shortName": "Knife"
     },
     "5fca138c2a7b221b2852a5c6": {
@@ -10802,7 +10832,7 @@
     "5fca13ca637ee0341a484f46": {
         "id": "5fca13ca637ee0341a484f46",
         "name": "SJ9 TGLabs combat stimulant injector",
-        "shortName": "SJ9 TGLabs"
+        "shortName": "SJ9"
     },
     "5fce0cf655375d18a253eff0": {
         "id": "5fce0cf655375d18a253eff0",
@@ -11172,7 +11202,7 @@
     "6065dc8a132d4d12c81fd8e3": {
         "id": "6065dc8a132d4d12c81fd8e3",
         "name": "CMMG Low Profile gas block",
-        "shortName": "CMMG block"
+        "shortName": "CMMG"
     },
     "606dae0ab0e443224b421bb7": {
         "id": "606dae0ab0e443224b421bb7",
@@ -11288,6 +11318,11 @@
         "id": "6087e2a5232e5a31c233d552",
         "name": "AKM/AK-74 ProMag Archangel OPFOR AA47 buttstock",
         "shortName": "OPFOR AA47"
+    },
+    "6087e570b998180e9f76dc24": {
+        "id": "6087e570b998180e9f76dc24",
+        "name": "Superfors DB 2020 Dead Blow Hammer",
+        "shortName": "Dead Blow"
     },
     "6087e663132d4d12c81fd96b": {
         "id": "6087e663132d4d12c81fd96b",
@@ -11423,5 +11458,895 @@
         "id": "60bf74184a63fc79b60c57f6",
         "name": "Bomber Beanie",
         "shortName": "Bomber"
+    },
+    "60db29ce99594040e04c4a27": {
+        "id": "60db29ce99594040e04c4a27",
+        "name": "MTs-255-12 12ga shotgun",
+        "shortName": "MTs-255-12"
+    },
+    "60dc519adf4c47305f6d410d": {
+        "id": "60dc519adf4c47305f6d410d",
+        "name": "MTs-255-12 cylinder",
+        "shortName": "255 cyl."
+    },
+    "6113c3586c780c1e710c90bc": {
+        "id": "6113c3586c780c1e710c90bc",
+        "name": "AR-15 F1 Firearms Skeletonized Style 1 pistol grip",
+        "shortName": "F1 St1"
+    },
+    "6113cc78d3a39d50044c065a": {
+        "id": "6113cc78d3a39d50044c065a",
+        "name": "AR-15 F1 Firearms Skeletonized Style 2 PC pistol grip",
+        "shortName": "F1 St2 PC"
+    },
+    "6113cce3d92c473c770200c7": {
+        "id": "6113cce3d92c473c770200c7",
+        "name": "AR-15 F1 Firearms Skeletonized Style 2 pistol grip",
+        "shortName": "F1 St2"
+    },
+    "6113d6c3290d254f5e6b27db": {
+        "id": "6113d6c3290d254f5e6b27db",
+        "name": "BelOMO PK-AA reflex sight",
+        "shortName": "PK-AA"
+    },
+    "611a30addbdd8440277441dc": {
+        "id": "611a30addbdd8440277441dc",
+        "name": "MP-43 12ga 750mm barrel",
+        "shortName": "MP-43 750mm"
+    },
+    "611a31ce5b7ffe001b4649d1": {
+        "id": "611a31ce5b7ffe001b4649d1",
+        "name": "MP-43 buttpad",
+        "shortName": "43-1C butt"
+    },
+    "6123649463849f3d843da7c4": {
+        "id": "6123649463849f3d843da7c4",
+        "name": "MTs-255-12 beechwood forestock",
+        "shortName": "MTs-255 beech"
+    },
+    "612368f58b401f4f51239b33": {
+        "id": "612368f58b401f4f51239b33",
+        "name": "МTs-255-12 12ga 755mm barrel with rib",
+        "shortName": "МTs-255 755mm rib"
+    },
+    "612781056f3d944a17348d60": {
+        "id": "612781056f3d944a17348d60",
+        "name": "MTs-255-12 wooden stock",
+        "shortName": "MTs-255 wood"
+    },
+    "612e0cfc8004cc50514c2d9e": {
+        "id": "612e0cfc8004cc50514c2d9e",
+        "name": "AWC PSR 5.56x45 muzzle brake",
+        "shortName": "PSR 556"
+    },
+    "612e0d3767085e45ef14057f": {
+        "id": "612e0d3767085e45ef14057f",
+        "name": "AWC PSR 7.62x51 muzzle brake",
+        "shortName": "PSR 762"
+    },
+    "612e0d81290d254f5e6b291a": {
+        "id": "612e0d81290d254f5e6b291a",
+        "name": "AWC PSR .338 LM muzzle brake",
+        "shortName": "PSR 338"
+    },
+    "612e0e04568c120fdd294258": {
+        "id": "612e0e04568c120fdd294258",
+        "name": "AWC PSR muzzle brake protector",
+        "shortName": "PSR prot"
+    },
+    "612e0e3c290d254f5e6b291d": {
+        "id": "612e0e3c290d254f5e6b291d",
+        "name": "TAA ZK-38 7.62x51 muzzle brake",
+        "shortName": "ZK-38 762"
+    },
+    "612e0e55a112697a4b3a66e7": {
+        "id": "612e0e55a112697a4b3a66e7",
+        "name": "TAA ZK-23 5.56x45 muzzle brake",
+        "shortName": "ZK-23 556"
+    },
+    "6130c3dffaa1272e43151c7d": {
+        "id": "6130c3dffaa1272e43151c7d",
+        "name": "HK UMP .45 ACP 8 inch threaded barrel",
+        "shortName": "UMP-45 8\" thr."
+    },
+    "6130c43c67085e45ef1405a1": {
+        "id": "6130c43c67085e45ef1405a1",
+        "name": "KAC QDC 7.62x51 muzzle brake kit",
+        "shortName": "QDC 762"
+    },
+    "6130c4d51cb55961fa0fd49f": {
+        "id": "6130c4d51cb55961fa0fd49f",
+        "name": "HK UMP B&T OEM .45 ACP sound suppressor",
+        "shortName": "UMP OEM"
+    },
+    "6130ca3fd92c473c77020dbd": {
+        "id": "6130ca3fd92c473c77020dbd",
+        "name": "AK CSS knurled charging handle",
+        "shortName": "CSS AK"
+    },
+    "614451b71e5874611e2c7ae5": {
+        "id": "614451b71e5874611e2c7ae5",
+        "name": "Bottle of Tarkovskaya vodka",
+        "shortName": "Vodka"
+    },
+    "615d8d878004cc50514c3233": {
+        "id": "615d8d878004cc50514c3233",
+        "name": "B&T QD NAR mount for Aimpoint ACRO",
+        "shortName": "NAR"
+    },
+    "615d8da4d3a39d50044c10e8": {
+        "id": "615d8da4d3a39d50044c10e8",
+        "name": "Glock TangoDown AAM-01 ACRO mount base",
+        "shortName": "G TD"
+    },
+    "615d8dbd290d254f5e6b2ed6": {
+        "id": "615d8dbd290d254f5e6b2ed6",
+        "name": "Glock 9x19 MOS slide",
+        "shortName": "G MOS"
+    },
+    "615d8df08004cc50514c3236": {
+        "id": "615d8df08004cc50514c3236",
+        "name": "HK MP5 B&T QD Muzzle Brake",
+        "shortName": "QD MP5"
+    },
+    "615d8e2f1cb55961fa0fd9a4": {
+        "id": "615d8e2f1cb55961fa0fd9a4",
+        "name": "BLITZ 5.56x45 flash hider",
+        "shortName": "BLITZ 556"
+    },
+    "615d8e9867085e45ef1409c6": {
+        "id": "615d8e9867085e45ef1409c6",
+        "name": "AK Kiba Arms .308 muzzle device adapter",
+        "shortName": "AK 308"
+    },
+    "615d8eb350224f204c1da1cf": {
+        "id": "615d8eb350224f204c1da1cf",
+        "name": "AR-10 SureFire Warden 7.62x51 blast regulator",
+        "shortName": "Warden 762"
+    },
+    "615d8f5dd92c473c770212ef": {
+        "id": "615d8f5dd92c473c770212ef",
+        "name": "AK Hexagon \"Reactor\" 5.45x39 muzzle brake",
+        "shortName": "Reactor"
+    },
+    "615d8f8567085e45ef1409ca": {
+        "id": "615d8f8567085e45ef1409ca",
+        "name": "AK Hexagon \"Wafflemaker\" 5.45x39 sound suppressor",
+        "shortName": "Waffle"
+    },
+    "615d8faecabb9b7ad90f4d5d": {
+        "id": "615d8faecabb9b7ad90f4d5d",
+        "name": "AR-15 Tactical Dynamics Hexgrip pistol grip",
+        "shortName": "TD Hex"
+    },
+    "615d8fd3290d254f5e6b2edc": {
+        "id": "615d8fd3290d254f5e6b2edc",
+        "name": "Monstrum Tactical Vertical Fore Grip KeyMod",
+        "shortName": "MT VFG"
+    },
+    "61605d88ffa6e502ac5e7eeb": {
+        "id": "61605d88ffa6e502ac5e7eeb",
+        "name": "Wilcox RAPTAR ES Tactical Rangefinder",
+        "shortName": "RAPTAR"
+    },
+    "61605e13ffa6e502ac5e7eef": {
+        "id": "61605e13ffa6e502ac5e7eef",
+        "name": "Vortex Ranger 1500 rangefinder",
+        "shortName": "R1500"
+    },
+    "616442e4faa1272e43152193": {
+        "id": "616442e4faa1272e43152193",
+        "name": "Aimpoint ACRO P-1 reflex sight",
+        "shortName": "ACRO P-1"
+    },
+    "616554fe50224f204c1da2aa": {
+        "id": "616554fe50224f204c1da2aa",
+        "name": "Aimpoint Micro H-2 Standard Mount",
+        "shortName": "H-2"
+    },
+    "61657230d92c473c770213d7": {
+        "id": "61657230d92c473c770213d7",
+        "name": "Aimpoint Micro H-2 reflex sight",
+        "shortName": "H-2"
+    },
+    "616584766ef05c2ce828ef57": {
+        "id": "616584766ef05c2ce828ef57",
+        "name": "Aimpoint QRP2 mount for CompM4/PRO reflex sights",
+        "shortName": "QRP2"
+    },
+    "61659f79d92c473c770213ee": {
+        "id": "61659f79d92c473c770213ee",
+        "name": "Aimpoint PRO reflex sight",
+        "shortName": "PRO"
+    },
+    "6165ac306ef05c2ce828ef74": {
+        "id": "6165ac306ef05c2ce828ef74",
+        "name": "FN SCAR-H 7.62x51 assault rifle (FDE)",
+        "shortName": "Mk 17"
+    },
+    "6165ac8c290d254f5e6b2f6c": {
+        "id": "6165ac8c290d254f5e6b2f6c",
+        "name": "Leapers UTG reflex sight",
+        "shortName": "UTG"
+    },
+    "6165adcdd3a39d50044c120f": {
+        "id": "6165adcdd3a39d50044c120f",
+        "name": "FN SCAR-H 7.62x51 upper receiver",
+        "shortName": "Mk17"
+    },
+    "6165aeedfaa1272e431521e3": {
+        "id": "6165aeedfaa1272e431521e3",
+        "name": "FN SCAR-H 7.62x51 upper receiver (FDE)",
+        "shortName": "Mk17"
+    },
+    "61695095d92c473c7702147a": {
+        "id": "61695095d92c473c7702147a",
+        "name": "SKS 7.62x39 KCI 75-round drum magazine",
+        "shortName": "KCI SKS"
+    },
+    "61702be9faa1272e431522c3": {
+        "id": "61702be9faa1272e431522c3",
+        "name": "HK417 7.62x51 16.5 inch barrel",
+        "shortName": "417 16.5\""
+    },
+    "61702d8a67085e45ef140b24": {
+        "id": "61702d8a67085e45ef140b24",
+        "name": "HK417 extended charging handle",
+        "shortName": "417"
+    },
+    "61702f1b67085e45ef140b26": {
+        "id": "61702f1b67085e45ef140b26",
+        "name": "HK417 low profile gas block",
+        "shortName": "417"
+    },
+    "61703001d92c473c77021497": {
+        "id": "61703001d92c473c77021497",
+        "name": "HK417 Extended Free Float handguard with flip up front sight",
+        "shortName": "417 Ext. FF"
+    },
+    "61712eae6c780c1e710c9a1d": {
+        "id": "61712eae6c780c1e710c9a1d",
+        "name": "HK417 Patrol handguard with flip up front sight",
+        "shortName": "417 Patrol"
+    },
+    "617130016c780c1e710c9a24": {
+        "id": "617130016c780c1e710c9a24",
+        "name": "HK417/G28 7.62x51 10-round magazine",
+        "shortName": "417 7.62"
+    },
+    "617131a4568c120fdd29482d": {
+        "id": "617131a4568c120fdd29482d",
+        "name": "HK417/G28 7.62x51 20-round magazine",
+        "shortName": "417 7.62"
+    },
+    "61713308d92c473c770214a0": {
+        "id": "61713308d92c473c770214a0",
+        "name": "HK Prolonged 7.62x51 flash hider",
+        "shortName": "Prolong"
+    },
+    "6171367e1cb55961fa0fdb36": {
+        "id": "6171367e1cb55961fa0fdb36",
+        "name": "HK G28 B&T QD 7.62x51 sound suppressor",
+        "shortName": "G28 QD"
+    },
+    "61713a8fd92c473c770214a4": {
+        "id": "61713a8fd92c473c770214a4",
+        "name": "HK G28 7.62x51 upper receiver",
+        "shortName": "G28"
+    },
+    "61713cc4d8e3106d9806c109": {
+        "id": "61713cc4d8e3106d9806c109",
+        "name": "Recknagel Era-Tac 34mm ring scope mount",
+        "shortName": "RN 34mm ET"
+    },
+    "6171407e50224f204c1da3c5": {
+        "id": "6171407e50224f204c1da3c5",
+        "name": "Recknagel Era-Tac 30mm ring scope mount",
+        "shortName": "RN 30mm ET"
+    },
+    "61714b2467085e45ef140b2c": {
+        "id": "61714b2467085e45ef140b2c",
+        "name": "Recknagel Era-Tac Sunshade mount for Aimpoint T-1",
+        "shortName": "T1 Sun"
+    },
+    "61714eec290d254f5e6b2ffc": {
+        "id": "61714eec290d254f5e6b2ffc",
+        "name": "Schmidt & Bender PM II 3-12x50 scope",
+        "shortName": "PM II 3-12x50"
+    },
+    "617151c1d92c473c770214ab": {
+        "id": "617151c1d92c473c770214ab",
+        "name": "Schmidt & Bender PM II 1-8x24 scope",
+        "shortName": "PM II 1-8x24"
+    },
+    "617153016c780c1e710c9a2f": {
+        "id": "617153016c780c1e710c9a2f",
+        "name": "HK G28 buffer tube",
+        "shortName": "G28/417"
+    },
+    "617154aa1cb55961fa0fdb3b": {
+        "id": "617154aa1cb55961fa0fdb3b",
+        "name": "HK417 E2 buttstock",
+        "shortName": "HK E2"
+    },
+    "617155ee50224f204c1da3cd": {
+        "id": "617155ee50224f204c1da3cd",
+        "name": "HK Adjustable Buttstock",
+        "shortName": "HK Adj."
+    },
+    "61715e7e67085e45ef140b33": {
+        "id": "61715e7e67085e45ef140b33",
+        "name": "HK Adjustable Buttstock cheek",
+        "shortName": "HK Cheek"
+    },
+    "6176a40f0b8c0312ac75a3d3": {
+        "id": "6176a40f0b8c0312ac75a3d3",
+        "name": "Ghoul mask",
+        "shortName": "Ghoul"
+    },
+    "6176a48d732a664031271438": {
+        "id": "6176a48d732a664031271438",
+        "name": "Faceless mask",
+        "shortName": "Faceless"
+    },
+    "6176aca650224f204c1da3fb": {
+        "id": "6176aca650224f204c1da3fb",
+        "name": "HK G28 7.62x51 marksman rifle",
+        "shortName": "G28"
+    },
+    "617aa4dd8166f034d57de9c5": {
+        "id": "617aa4dd8166f034d57de9c5",
+        "name": "M18 smoke grenade (green)",
+        "shortName": "M18"
+    },
+    "617fd91e5539a84ec44ce155": {
+        "id": "617fd91e5539a84ec44ce155",
+        "name": "RGN hand grenade",
+        "shortName": "RGN"
+    },
+    "61816734d8e3106d9806c1f3": {
+        "id": "61816734d8e3106d9806c1f3",
+        "name": "FN SCAR folding polymer stock",
+        "shortName": "SCAR fold."
+    },
+    "618167441cb55961fa0fdc71": {
+        "id": "618167441cb55961fa0fdc71",
+        "name": "FN SCAR cheek rest",
+        "shortName": "SCAR"
+    },
+    "618167528004cc50514c34f9": {
+        "id": "618167528004cc50514c34f9",
+        "name": "FN SCAR retractable polymer stock",
+        "shortName": "SCAR retr."
+    },
+    "618167616ef05c2ce828f1a8": {
+        "id": "618167616ef05c2ce828f1a8",
+        "name": "FN SCAR rubber buttpad",
+        "shortName": "SCAR rbp"
+    },
+    "6181688c6c780c1e710c9b04": {
+        "id": "6181688c6c780c1e710c9b04",
+        "name": "FN SCAR charging handle",
+        "shortName": "SCAR CH"
+    },
+    "618168b350224f204c1da4d8": {
+        "id": "618168b350224f204c1da4d8",
+        "name": "FN SCAR-H 7.62x51 13 inch barrel",
+        "shortName": "Mk17 13\""
+    },
+    "618168dc8004cc50514c34fc": {
+        "id": "618168dc8004cc50514c34fc",
+        "name": "FN SCAR-H 7.62x51 20-round magazine",
+        "shortName": "Mk17"
+    },
+    "61816df1d3a39d50044c139e": {
+        "id": "61816df1d3a39d50044c139e",
+        "name": "FN SCAR bottom rail",
+        "shortName": "SCAR bott."
+    },
+    "61816dfa6ef05c2ce828f1ad": {
+        "id": "61816dfa6ef05c2ce828f1ad",
+        "name": "FN SCAR side rail",
+        "shortName": "SCAR side"
+    },
+    "61816fcad92c473c770215cc": {
+        "id": "61816fcad92c473c770215cc",
+        "name": "FN SCAR front flip-up sight",
+        "shortName": "SCAR FS"
+    },
+    "61817865d3a39d50044c13a4": {
+        "id": "61817865d3a39d50044c13a4",
+        "name": "FN SCAR rear flip-up sight",
+        "shortName": "SCAR RS"
+    },
+    "618178aa1cb55961fa0fdc80": {
+        "id": "618178aa1cb55961fa0fdc80",
+        "name": "AAC SCAR-SD 51T 7.62x51 flash hider",
+        "shortName": "SCAR-SD 762"
+    },
+    "61825d06d92c473c770215de": {
+        "id": "61825d06d92c473c770215de",
+        "name": "FN SCAR folding polymer stock (FDE)",
+        "shortName": "SCAR fold."
+    },
+    "61825d136ef05c2ce828f1cc": {
+        "id": "61825d136ef05c2ce828f1cc",
+        "name": "FN SCAR retractable polymer stock (FDE)",
+        "shortName": "SCAR retr."
+    },
+    "61825d24d3a39d50044c13af": {
+        "id": "61825d24d3a39d50044c13af",
+        "name": "FN SCAR cheek rest (FDE)",
+        "shortName": "SCAR"
+    },
+    "6183afd850224f204c1da514": {
+        "id": "6183afd850224f204c1da514",
+        "name": "FN SCAR-H 7.62x51 assault rifle",
+        "shortName": "Mk 17"
+    },
+    "6183b0711cb55961fa0fdcad": {
+        "id": "6183b0711cb55961fa0fdcad",
+        "name": "FN SCAR-H 7.62x51 16 inch barrel",
+        "shortName": "Mk17 16\""
+    },
+    "6183b084a112697a4b3a6e6c": {
+        "id": "6183b084a112697a4b3a6e6c",
+        "name": "FN SCAR-H 7.62x51 20 inch barrel",
+        "shortName": "Mk17 20\""
+    },
+    "6183d53f1cb55961fa0fdcda": {
+        "id": "6183d53f1cb55961fa0fdcda",
+        "name": "FN SCAR-H 7.62x51 20-round magazine (FDE)",
+        "shortName": "Mk17"
+    },
+    "6183fc15d3a39d50044c13e9": {
+        "id": "6183fc15d3a39d50044c13e9",
+        "name": "FN SCAR-L 5.56x45 10 inch barrel",
+        "shortName": "Mk16 10\""
+    },
+    "6183fd911cb55961fa0fdce9": {
+        "id": "6183fd911cb55961fa0fdce9",
+        "name": "FN SCAR-L 5.56x45 14 inch barrel",
+        "shortName": "Mk16 14\""
+    },
+    "6183fd9e8004cc50514c358f": {
+        "id": "6183fd9e8004cc50514c358f",
+        "name": "FN SCAR-L 5.56x45 18 inch barrel",
+        "shortName": "Mk16 18\""
+    },
+    "618405198004cc50514c3594": {
+        "id": "618405198004cc50514c3594",
+        "name": "FN SCAR-L 5.56x45 upper receiver",
+        "shortName": "Mk16"
+    },
+    "6184055050224f204c1da540": {
+        "id": "6184055050224f204c1da540",
+        "name": "FN SCAR-L 5.56x45 assault rifle",
+        "shortName": "Mk 16"
+    },
+    "618407a850224f204c1da549": {
+        "id": "618407a850224f204c1da549",
+        "name": "FN SCAR-L 5.56x45 flash hider",
+        "shortName": "Mk16 556"
+    },
+    "61840bedd92c473c77021635": {
+        "id": "61840bedd92c473c77021635",
+        "name": "FN SCAR-L 5.56x45 30-round magazine",
+        "shortName": "Mk16"
+    },
+    "61840d85568c120fdd2962a5": {
+        "id": "61840d85568c120fdd2962a5",
+        "name": "FN SCAR-L 5.56x45 30-round magazine (FDE)",
+        "shortName": "Mk16"
+    },
+    "618426d96c780c1e710c9b9f": {
+        "id": "618426d96c780c1e710c9b9f",
+        "name": "FN SCAR-L 5.56x45 upper receiver (FDE)",
+        "shortName": "Mk16"
+    },
+    "618428466ef05c2ce828f218": {
+        "id": "618428466ef05c2ce828f218",
+        "name": "FN SCAR-L 5.56x45 assault rifle (FDE)",
+        "shortName": "Mk 16"
+    },
+    "618a431df1eb8e24b8741deb": {
+        "id": "618a431df1eb8e24b8741deb",
+        "name": "RGO hand grenade",
+        "shortName": "RGO"
+    },
+    "618a5d5852ecee1505530b2a": {
+        "id": "618a5d5852ecee1505530b2a",
+        "name": "NPZ PK1 \"Obzor\" reflex sight",
+        "shortName": "\"Obzor\""
+    },
+    "618a75c9a3884f56c957ca1b": {
+        "id": "618a75c9a3884f56c957ca1b",
+        "name": "NPZ 1P78-1 dovetail mount",
+        "shortName": "1P78 dove"
+    },
+    "618a75f0bd321d49084cd399": {
+        "id": "618a75f0bd321d49084cd399",
+        "name": "NPZ 1P78-1 2.8x scope",
+        "shortName": "1P78-1"
+    },
+    "618a760e526131765025aae3": {
+        "id": "618a760e526131765025aae3",
+        "name": "NPZ 1P78 scope eyecup",
+        "shortName": "1P78 cup"
+    },
+    "618aef6d0a5a59657e5f55ee": {
+        "id": "618aef6d0a5a59657e5f55ee",
+        "name": "Jack Pyke Hunting LLCS boonie hat",
+        "shortName": "LLCS"
+    },
+    "618b9643526131765025ab35": {
+        "id": "618b9643526131765025ab35",
+        "name": "Geissele Super Precision 30mm ring scope mount",
+        "shortName": "Geis 30mm"
+    },
+    "618b9671d14d6d5ab879c5ea": {
+        "id": "618b9671d14d6d5ab879c5ea",
+        "name": "Geissele Super Precision top ring cap",
+        "shortName": "Geis top"
+    },
+    "618b9682a3884f56c957ca78": {
+        "id": "618b9682a3884f56c957ca78",
+        "name": "Reptilia ROF-90 RMR mount for Geissele scope mounts",
+        "shortName": "ROF-90 RMR"
+    },
+    "618ba27d9008e4636a67f61d": {
+        "id": "618ba27d9008e4636a67f61d",
+        "name": "Vortex Razor HD Gen.2 1-6x24 riflescope",
+        "shortName": "Razor HD Gen.2"
+    },
+    "618ba91477b82356f91ae0e8": {
+        "id": "618ba91477b82356f91ae0e8",
+        "name": "Geissele Super Precision top ring cap (DDC)",
+        "shortName": "Geis top"
+    },
+    "618ba92152ecee1505530bd3": {
+        "id": "618ba92152ecee1505530bd3",
+        "name": "Reptilia ROF-90 RMR mount for Geissele scope mounts (DDC)",
+        "shortName": "ROF-90 RMR"
+    },
+    "618bab21526131765025ab3f": {
+        "id": "618bab21526131765025ab3f",
+        "name": "Geissele Super Precision 30mm ring scope mount (DDC)",
+        "shortName": "Geis 30mm"
+    },
+    "618bb76513f5097c8d5aa2d5": {
+        "id": "618bb76513f5097c8d5aa2d5",
+        "name": "Gruppa 99 T20 backpack",
+        "shortName": "T20"
+    },
+    "618cfae774bb2d036a049e7c": {
+        "id": "618cfae774bb2d036a049e7c",
+        "name": "LBT-1476A 3Day Pack (Woodland)",
+        "shortName": "LBT-1476A"
+    },
+    "619256e5f8af2c1a4e1f5d92": {
+        "id": "619256e5f8af2c1a4e1f5d92",
+        "name": "Model 7290 Flash Bang grenade",
+        "shortName": "M7290"
+    },
+    "619386379fb0c665d5490dbe": {
+        "id": "619386379fb0c665d5490dbe",
+        "name": "HK Sturmgriff foregrip",
+        "shortName": "Sturmgriff"
+    },
+    "6193a720f8ee7e52e42109ed": {
+        "id": "6193a720f8ee7e52e42109ed",
+        "name": "HK USP .45 ACP pistol",
+        "shortName": "USP .45"
+    },
+    "6193d3149fb0c665d5490e32": {
+        "id": "6193d3149fb0c665d5490e32",
+        "name": "HK USP Tactical .45 ACP 12-round magazine",
+        "shortName": "USP45T"
+    },
+    "6193d338de3cdf1d2614a6fc": {
+        "id": "6193d338de3cdf1d2614a6fc",
+        "name": "HK USP .45 ACP 12-round magazine",
+        "shortName": "USP45"
+    },
+    "6193d382ed0429009f543e65": {
+        "id": "6193d382ed0429009f543e65",
+        "name": "HK USP .45 ACP pistol slide",
+        "shortName": "USP45"
+    },
+    "6193d3be7c6c7b169525f0da": {
+        "id": "6193d3be7c6c7b169525f0da",
+        "name": "HK USP hammer",
+        "shortName": "USP ham."
+    },
+    "6193d3cded0429009f543e6a": {
+        "id": "6193d3cded0429009f543e6a",
+        "name": "HK USP trigger",
+        "shortName": "USP trig."
+    },
+    "6193d5d4f8ee7e52e4210a1b": {
+        "id": "6193d5d4f8ee7e52e4210a1b",
+        "name": "HK USP slide lock",
+        "shortName": "USP SLock"
+    },
+    "6193dcd0f8ee7e52e4210a28": {
+        "id": "6193dcd0f8ee7e52e4210a28",
+        "name": "AR-15 HK Battle Grip Beavertail pistol grip (RAL-8000)",
+        "shortName": "Battle Grip"
+    },
+    "6194ef39de3cdf1d2614a768": {
+        "id": "6194ef39de3cdf1d2614a768",
+        "name": "HK USP .45 ACP standard barrel",
+        "shortName": "USP45 std"
+    },
+    "6194efe07c6c7b169525f11b": {
+        "id": "6194efe07c6c7b169525f11b",
+        "name": "HK USP Tactical .45 ACP threaded barrel",
+        "shortName": "USP45T"
+    },
+    "6194eff92d2c397d6600348b": {
+        "id": "6194eff92d2c397d6600348b",
+        "name": "HK USP Expert .45 ACP barrel",
+        "shortName": "USP45EX"
+    },
+    "6194f017ed0429009f543eaa": {
+        "id": "6194f017ed0429009f543eaa",
+        "name": "HK USP Elite .45 ACP barrel",
+        "shortName": "USP45EL"
+    },
+    "6194f02d9bb3d20b0946d2f0": {
+        "id": "6194f02d9bb3d20b0946d2f0",
+        "name": "HK USP Match .45 ACP barrel",
+        "shortName": "USP45M"
+    },
+    "6194f1f918a3974e5e7421e4": {
+        "id": "6194f1f918a3974e5e7421e4",
+        "name": "HK USP Tactical thread protector",
+        "shortName": "USP45T"
+    },
+    "6194f2912d2c397d6600348d": {
+        "id": "6194f2912d2c397d6600348d",
+        "name": "HK USP rear sight",
+        "shortName": "USP RS"
+    },
+    "6194f2df645b5d229654ad77": {
+        "id": "6194f2df645b5d229654ad77",
+        "name": "HK USP Tactical rear sight",
+        "shortName": "USPT RS"
+    },
+    "6194f3286db0f2477964e67d": {
+        "id": "6194f3286db0f2477964e67d",
+        "name": "HK USP Tactical front sight",
+        "shortName": "USPT FS"
+    },
+    "6194f35c18a3974e5e7421e6": {
+        "id": "6194f35c18a3974e5e7421e6",
+        "name": "HK USP front sight",
+        "shortName": "USP FS"
+    },
+    "6194f41f9fb0c665d5490e75": {
+        "id": "6194f41f9fb0c665d5490e75",
+        "name": "HK USP Tactical .45 ACP pistol slide",
+        "shortName": "USP45T"
+    },
+    "6194f5722d2c397d6600348f": {
+        "id": "6194f5722d2c397d6600348f",
+        "name": "HK USP Expert .45 ACP pistol slide",
+        "shortName": "USP45EX"
+    },
+    "6194f5a318a3974e5e7421eb": {
+        "id": "6194f5a318a3974e5e7421eb",
+        "name": "HK USP Match .45 ACP pistol slide",
+        "shortName": "USP45M"
+    },
+    "6194f5d418a3974e5e7421ef": {
+        "id": "6194f5d418a3974e5e7421ef",
+        "name": "HK USP Elite .45 ACP pistol slide",
+        "shortName": "USP45EL"
+    },
+    "619621a4de3cdf1d2614a7a7": {
+        "id": "619621a4de3cdf1d2614a7a7",
+        "name": "HK USP .45 ACP Elite compensator",
+        "shortName": "USP45EL"
+    },
+    "619624b26db0f2477964e6b0": {
+        "id": "619624b26db0f2477964e6b0",
+        "name": "HK USP .45 ACP Match compensator",
+        "shortName": "USP45M"
+    },
+    "6196255558ef8c428c287d1c": {
+        "id": "6196255558ef8c428c287d1c",
+        "name": "HK USP rail adapter",
+        "shortName": "USP rail"
+    },
+    "61962b617c6c7b169525f168": {
+        "id": "61962b617c6c7b169525f168",
+        "name": "5.45x39mm 7N40",
+        "shortName": "7N40"
+    },
+    "61962d879bb3d20b0946d385": {
+        "id": "61962d879bb3d20b0946d385",
+        "name": "9x39mm PAB-9",
+        "shortName": "PAB-9"
+    },
+    "6196364158ef8c428c287d9f": {
+        "id": "6196364158ef8c428c287d9f",
+        "name": ".300 AAC Blackout V-Max",
+        "shortName": "V-Max"
+    },
+    "6196365d58ef8c428c287da1": {
+        "id": "6196365d58ef8c428c287da1",
+        "name": ".300 Whisper",
+        "shortName": "Whisper"
+    },
+    "619636be6db0f2477964e710": {
+        "id": "619636be6db0f2477964e710",
+        "name": ".300 AAC Blackout M62 Tracer",
+        "shortName": "M62"
+    },
+    "61963a852d2c397d660036ad": {
+        "id": "61963a852d2c397d660036ad",
+        "name": "HK USP Red Dot sight mount",
+        "shortName": "USP RD"
+    },
+    "61965d9058ef8c428c287e0d": {
+        "id": "61965d9058ef8c428c287e0d",
+        "name": "FN SCAR PWS SRX rail extension",
+        "shortName": "SRX SCAR"
+    },
+    "619666f4af1f5202c57a952d": {
+        "id": "619666f4af1f5202c57a952d",
+        "name": "FN SCAR Kinetic MREX 6.5 M-LOK rail",
+        "shortName": "MREX 6.5 M-LOK"
+    },
+    "6197b229af1f5202c57a9bea": {
+        "id": "6197b229af1f5202c57a9bea",
+        "name": "SVDS Lynx Arms Hinge buffer tube adapter",
+        "shortName": "SVDS adpt."
+    },
+    "619b5db699fb192e7430664f": {
+        "id": "619b5db699fb192e7430664f",
+        "name": "AR-15 Aeroknox AX-15 10.5 inch M-LOK handguard",
+        "shortName": "AX-15 10.5\""
+    },
+    "619b69037b9de8162902673e": {
+        "id": "619b69037b9de8162902673e",
+        "name": "AKM/AK-74 Hera Arms CQR pistol grip/buttstock",
+        "shortName": "CQR AK"
+    },
+    "619bc61e86e01e16f839a999": {
+        "id": "619bc61e86e01e16f839a999",
+        "name": "\"Alpha\" armband",
+        "shortName": "Alpha"
+    },
+    "619bdd8886e01e16f839a99c": {
+        "id": "619bdd8886e01e16f839a99c",
+        "name": "\"BEAR\" armband",
+        "shortName": "BEAR"
+    },
+    "619bddc6c9546643a67df6ee": {
+        "id": "619bddc6c9546643a67df6ee",
+        "name": "\"DEADSKUL\" armband",
+        "shortName": "DEADSKUL"
+    },
+    "619bddffc9546643a67df6f0": {
+        "id": "619bddffc9546643a67df6f0",
+        "name": "\"Train Hard\" armband",
+        "shortName": "THGP"
+    },
+    "619bde3dc9546643a67df6f2": {
+        "id": "619bde3dc9546643a67df6f2",
+        "name": "\"Kiba Arms\" armband",
+        "shortName": "Kiba"
+    },
+    "619bde7fc9546643a67df6f4": {
+        "id": "619bde7fc9546643a67df6f4",
+        "name": "\"Labs\" armband",
+        "shortName": "Labs"
+    },
+    "619bdeb986e01e16f839a99e": {
+        "id": "619bdeb986e01e16f839a99e",
+        "name": "\"RFARMY\" armband",
+        "shortName": "RFARMY"
+    },
+    "619bdef8c9546643a67df6f6": {
+        "id": "619bdef8c9546643a67df6f6",
+        "name": "\"TerraGroup\" armband",
+        "shortName": "TG"
+    },
+    "619bdf9cc9546643a67df6f8": {
+        "id": "619bdf9cc9546643a67df6f8",
+        "name": "\"UNTAR\" armband",
+        "shortName": "UNTAR"
+    },
+    "619bdfd4c9546643a67df6fa": {
+        "id": "619bdfd4c9546643a67df6fa",
+        "name": "\"USEC\" armband",
+        "shortName": "USEC"
+    },
+    "619cbf476b8a1b37a54eebf8": {
+        "id": "619cbf476b8a1b37a54eebf8",
+        "name": "Military corrugated tube",
+        "shortName": "MTube"
+    },
+    "619cbf7d23893217ec30b689": {
+        "id": "619cbf7d23893217ec30b689",
+        "name": "Injector case",
+        "shortName": "Injectors"
+    },
+    "619cbf9e0a7c3a1a2731940a": {
+        "id": "619cbf9e0a7c3a1a2731940a",
+        "name": "Keycard holder case",
+        "shortName": "Keycards"
+    },
+    "619cbfccbedcde2f5b3f7bdd": {
+        "id": "619cbfccbedcde2f5b3f7bdd",
+        "name": "Pipe grip wrench",
+        "shortName": "PGW"
+    },
+    "619cbfeb6b8a1b37a54eebfa": {
+        "id": "619cbfeb6b8a1b37a54eebfa",
+        "name": "Bulbex cable cutter",
+        "shortName": "Bulbex"
+    },
+    "619cc01e0a7c3a1a2731940c": {
+        "id": "619cc01e0a7c3a1a2731940c",
+        "name": "Medical tools",
+        "shortName": "MedTools"
+    },
+    "619cf0335771dd3c390269ae": {
+        "id": "619cf0335771dd3c390269ae",
+        "name": "Gruppa 99 T20 backpack (Multicam)",
+        "shortName": "T20"
+    },
+    "619d36da53b4d42ee724fae4": {
+        "id": "619d36da53b4d42ee724fae4",
+        "name": "MTs-255-12 12ga choke",
+        "shortName": "MTs choke"
+    },
+    "61a64428a8c6aa1b795f0ba1": {
+        "id": "61a64428a8c6aa1b795f0ba1",
+        "name": "Lighthouse convenience store storage room",
+        "shortName": "Store"
+    },
+    "61a6444b8c141d68246e2d2f": {
+        "id": "61a6444b8c141d68246e2d2f",
+        "name": "Hillside house key",
+        "shortName": "House"
+    },
+    "61a6446f4b5f8b70f451b166": {
+        "id": "61a6446f4b5f8b70f451b166",
+        "name": "Cold storage room key",
+        "shortName": "Cold"
+    },
+    "61a64492ba05ef10d62adcc1": {
+        "id": "61a64492ba05ef10d62adcc1",
+        "name": "Rogue USEC stash key",
+        "shortName": "Stash"
+    },
+    "61aa5aed32a4743c3453d319": {
+        "id": "61aa5aed32a4743c3453d319",
+        "name": "Police truck cabin key",
+        "shortName": "Police"
+    },
+    "61aa5b518f5e7a39b41416e2": {
+        "id": "61aa5b518f5e7a39b41416e2",
+        "name": "Merin car trunk key",
+        "shortName": "Merin"
+    },
+    "61aa5b7db225ac1ead7957c1": {
+        "id": "61aa5b7db225ac1ead7957c1",
+        "name": "USEC first safe key",
+        "shortName": "USEC 1"
+    },
+    "61aa5ba8018e9821b7368da9": {
+        "id": "61aa5ba8018e9821b7368da9",
+        "name": "USEC second safe key",
+        "shortName": "USEC 2"
+    },
+    "61aa81fcb225ac1ead7957c3": {
+        "id": "61aa81fcb225ac1ead7957c3",
+        "name": "Rogue USEC workshop key",
+        "shortName": "Workshop"
     }
 }
