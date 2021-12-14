@@ -4278,7 +4278,7 @@
                     {
                         "type": "stat",
                         "name": "recoil",
-                        "value": "<=950"
+                        "value": "<=850"
                     },
                     {
                         "type": "cells",
