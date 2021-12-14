@@ -4338,12 +4338,12 @@
                     {
                         "type": "stat",
                         "name": "ergonomics",
-                        "value": ">=56"
+                        "value": ">=58"
                     },
                     {
                         "type": "stat",
                         "name": "recoil",
-                        "value": "<600"
+                        "value": "<550"
                     },
                     {
                         "type": "stat",
