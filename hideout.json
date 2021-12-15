@@ -600,6 +600,12 @@
                     "name": "5e2af2bc86f7746d3f3c33fc",
                     "quantity": 2,
                     "id": 233
+                },
+                {
+                    "type": "item",
+                    "name": "56742c284bdc2d98058b456d",
+                    "quantity": 3,
+                    "id": 311
                 }
             ],
             "id": 10,
