@@ -3393,7 +3393,7 @@
     },
     "5c0c1ce886f77401c119d014": {
         "id": "5c0c1ce886f77401c119d014",
-        "name": "АK-74",
+        "name": "AK-74",
         "baseId": "5bf3e03b0db834001d2c4a9c",
         "parts": [
             {
@@ -4121,7 +4121,7 @@
     },
     "5c0c1d2b86f77401c119d01f": {
         "id": "5c0c1d2b86f77401c119d01f",
-        "name": "АKS-74",
+        "name": "AKS-74",
         "baseId": "5bf3e0490db83400196199af",
         "parts": [
             {
@@ -5705,7 +5705,7 @@
     },
     "5dd7f8c524e5d7504a4e3077": {
         "id": "5dd7f8c524e5d7504a4e3077",
-        "name": "АK-74 Plum",
+        "name": "AK-74 Plum",
         "baseId": "5bf3e03b0db834001d2c4a9c",
         "parts": [
             {
@@ -6614,5 +6614,773 @@
             }
         ],
         "default": true
+    },
+    "6197d1f3585c515a052ad88f": {
+        "id": "6197d1f3585c515a052ad88f",
+        "name": "MP-43",
+        "baseId": "5580223e4bdc2d1c128b457f",
+        "parts": [
+            {
+                "id": "5580223e4bdc2d1c128b457f",
+                "quantity": 1
+            },
+            {
+                "id": "55d447bb4bdc2d892f8b456f",
+                "quantity": 1
+            },
+            {
+                "id": "611a31ce5b7ffe001b4649d1",
+                "quantity": 1
+            }
+        ],
+        "default": true
+    },
+    "6193e4fae693542ea37d11c6": {
+        "id": "6193e4fae693542ea37d11c6",
+        "name": "Mk 17 (FDE)",
+        "baseId": "6165ac306ef05c2ce828ef74",
+        "parts": [
+            {
+                "id": "6165ac306ef05c2ce828ef74",
+                "quantity": 1
+            },
+            {
+                "id": "571659bb2459771fb2755a12",
+                "quantity": 1
+            },
+            {
+                "id": "6183d53f1cb55961fa0fdcda",
+                "quantity": 1
+            },
+            {
+                "id": "6165aeedfaa1272e431521e3",
+                "quantity": 1
+            },
+            {
+                "id": "6183b0711cb55961fa0fdcad",
+                "quantity": 1
+            },
+            {
+                "id": "618178aa1cb55961fa0fdc80",
+                "quantity": 1
+            },
+            {
+                "id": "61816fcad92c473c770215cc",
+                "quantity": 1
+            },
+            {
+                "id": "61817865d3a39d50044c13a4",
+                "quantity": 1
+            },
+            {
+                "id": "61816df1d3a39d50044c139e",
+                "quantity": 1
+            },
+            {
+                "id": "61816dfa6ef05c2ce828f1ad",
+                "quantity": 1
+            },
+            {
+                "id": "61825d06d92c473c770215de",
+                "quantity": 1
+            },
+            {
+                "id": "61825d136ef05c2ce828f1cc",
+                "quantity": 1
+            },
+            {
+                "id": "61825d24d3a39d50044c13af",
+                "quantity": 1
+            },
+            {
+                "id": "6181688c6c780c1e710c9b04",
+                "quantity": 1
+            }
+        ],
+        "default": true
+    },
+    "6193e590069d61205d490dd8": {
+        "id": "6193e590069d61205d490dd8",
+        "name": "G28",
+        "baseId": "6176aca650224f204c1da3fb",
+        "parts": [
+            {
+                "id": "6176aca650224f204c1da3fb",
+                "quantity": 1
+            },
+            {
+                "id": "6193dcd0f8ee7e52e4210a28",
+                "quantity": 1
+            },
+            {
+                "id": "617131a4568c120fdd29482d",
+                "quantity": 1
+            },
+            {
+                "id": "617153016c780c1e710c9a2f",
+                "quantity": 1
+            },
+            {
+                "id": "617155ee50224f204c1da3cd",
+                "quantity": 1
+            },
+            {
+                "id": "61715e7e67085e45ef140b33",
+                "quantity": 1
+            },
+            {
+                "id": "61713a8fd92c473c770214a4",
+                "quantity": 1
+            },
+            {
+                "id": "61713cc4d8e3106d9806c109",
+                "quantity": 1
+            },
+            {
+                "id": "61714eec290d254f5e6b2ffc",
+                "quantity": 1
+            },
+            {
+                "id": "61714b2467085e45ef140b2c",
+                "quantity": 1
+            },
+            {
+                "id": "58d399e486f77442e0016fe7",
+                "quantity": 1
+            },
+            {
+                "id": "61702be9faa1272e431522c3",
+                "quantity": 1
+            },
+            {
+                "id": "61713308d92c473c770214a0",
+                "quantity": 1
+            },
+            {
+                "id": "6171367e1cb55961fa0fdb36",
+                "quantity": 1
+            },
+            {
+                "id": "61702f1b67085e45ef140b26",
+                "quantity": 1
+            },
+            {
+                "id": "61703001d92c473c77021497",
+                "quantity": 1
+            },
+            {
+                "id": "619386379fb0c665d5490dbe",
+                "quantity": 1
+            },
+            {
+                "id": "5bb20e49d4351e3bac1212de",
+                "quantity": 1
+            },
+            {
+                "id": "61702d8a67085e45ef140b24",
+                "quantity": 1
+            }
+        ],
+        "default": true
+    },
+    "6193e4a46bb904059c382295": {
+        "id": "6193e4a46bb904059c382295",
+        "name": "Mk 17",
+        "baseId": "6183afd850224f204c1da514",
+        "parts": [
+            {
+                "id": "6183afd850224f204c1da514",
+                "quantity": 1
+            },
+            {
+                "id": "55d4b9964bdc2d1d4e8b456e",
+                "quantity": 1
+            },
+            {
+                "id": "618168dc8004cc50514c34fc",
+                "quantity": 1
+            },
+            {
+                "id": "6165adcdd3a39d50044c120f",
+                "quantity": 1
+            },
+            {
+                "id": "6183b084a112697a4b3a6e6c",
+                "quantity": 1
+            },
+            {
+                "id": "618178aa1cb55961fa0fdc80",
+                "quantity": 1
+            },
+            {
+                "id": "61816fcad92c473c770215cc",
+                "quantity": 1
+            },
+            {
+                "id": "61817865d3a39d50044c13a4",
+                "quantity": 1
+            },
+            {
+                "id": "61816df1d3a39d50044c139e",
+                "quantity": 1
+            },
+            {
+                "id": "61816dfa6ef05c2ce828f1ad",
+                "quantity": 1
+            },
+            {
+                "id": "61816734d8e3106d9806c1f3",
+                "quantity": 1
+            },
+            {
+                "id": "618167528004cc50514c34f9",
+                "quantity": 1
+            },
+            {
+                "id": "618167616ef05c2ce828f1a8",
+                "quantity": 1
+            },
+            {
+                "id": "618167441cb55961fa0fdc71",
+                "quantity": 1
+            },
+            {
+                "id": "6181688c6c780c1e710c9b04",
+                "quantity": 1
+            }
+        ],
+        "default": true
+    },
+    "6193e18de693542ea37d11b3": {
+        "id": "6193e18de693542ea37d11b3",
+        "name": "Mk 16",
+        "baseId": "6184055050224f204c1da540",
+        "parts": [
+            {
+                "id": "6184055050224f204c1da540",
+                "quantity": 1
+            },
+            {
+                "id": "55d4b9964bdc2d1d4e8b456e",
+                "quantity": 1
+            },
+            {
+                "id": "61840bedd92c473c77021635",
+                "quantity": 1
+            },
+            {
+                "id": "618405198004cc50514c3594",
+                "quantity": 1
+            },
+            {
+                "id": "6183fd9e8004cc50514c358f",
+                "quantity": 1
+            },
+            {
+                "id": "618407a850224f204c1da549",
+                "quantity": 1
+            },
+            {
+                "id": "61816fcad92c473c770215cc",
+                "quantity": 1
+            },
+            {
+                "id": "61817865d3a39d50044c13a4",
+                "quantity": 1
+            },
+            {
+                "id": "61816df1d3a39d50044c139e",
+                "quantity": 1
+            },
+            {
+                "id": "61816dfa6ef05c2ce828f1ad",
+                "quantity": 1
+            },
+            {
+                "id": "61816734d8e3106d9806c1f3",
+                "quantity": 1
+            },
+            {
+                "id": "618167528004cc50514c34f9",
+                "quantity": 1
+            },
+            {
+                "id": "618167616ef05c2ce828f1a8",
+                "quantity": 1
+            },
+            {
+                "id": "618167441cb55961fa0fdc71",
+                "quantity": 1
+            },
+            {
+                "id": "6181688c6c780c1e710c9b04",
+                "quantity": 1
+            }
+        ],
+        "default": true
+    },
+    "6193e226449ec003d9127fa6": {
+        "id": "6193e226449ec003d9127fa6",
+        "name": "Mk 16 (FDE)",
+        "baseId": "618428466ef05c2ce828f218",
+        "parts": [
+            {
+                "id": "618428466ef05c2ce828f218",
+                "quantity": 1
+            },
+            {
+                "id": "571659bb2459771fb2755a12",
+                "quantity": 1
+            },
+            {
+                "id": "61840d85568c120fdd2962a5",
+                "quantity": 1
+            },
+            {
+                "id": "618426d96c780c1e710c9b9f",
+                "quantity": 1
+            },
+            {
+                "id": "6183fd911cb55961fa0fdce9",
+                "quantity": 1
+            },
+            {
+                "id": "618407a850224f204c1da549",
+                "quantity": 1
+            },
+            {
+                "id": "61816fcad92c473c770215cc",
+                "quantity": 1
+            },
+            {
+                "id": "61817865d3a39d50044c13a4",
+                "quantity": 1
+            },
+            {
+                "id": "61816df1d3a39d50044c139e",
+                "quantity": 1
+            },
+            {
+                "id": "61816dfa6ef05c2ce828f1ad",
+                "quantity": 1
+            },
+            {
+                "id": "61825d06d92c473c770215de",
+                "quantity": 1
+            },
+            {
+                "id": "61825d136ef05c2ce828f1cc",
+                "quantity": 1
+            },
+            {
+                "id": "618167616ef05c2ce828f1a8",
+                "quantity": 1
+            },
+            {
+                "id": "61825d24d3a39d50044c13af",
+                "quantity": 1
+            },
+            {
+                "id": "6181688c6c780c1e710c9b04",
+                "quantity": 1
+            }
+        ],
+        "default": true
+    },
+    "6193e108c1982475fa2a7f16": {
+        "id": "6193e108c1982475fa2a7f16",
+        "name": "Mk 16 (FDE) CQC",
+        "baseId": "618428466ef05c2ce828f218",
+        "parts": [
+            {
+                "id": "618428466ef05c2ce828f218",
+                "quantity": 1
+            },
+            {
+                "id": "571659bb2459771fb2755a12",
+                "quantity": 1
+            },
+            {
+                "id": "61840d85568c120fdd2962a5",
+                "quantity": 1
+            },
+            {
+                "id": "618426d96c780c1e710c9b9f",
+                "quantity": 1
+            },
+            {
+                "id": "6183fc15d3a39d50044c13e9",
+                "quantity": 1
+            },
+            {
+                "id": "618407a850224f204c1da549",
+                "quantity": 1
+            },
+            {
+                "id": "61816fcad92c473c770215cc",
+                "quantity": 1
+            },
+            {
+                "id": "61817865d3a39d50044c13a4",
+                "quantity": 1
+            },
+            {
+                "id": "61816df1d3a39d50044c139e",
+                "quantity": 1
+            },
+            {
+                "id": "61816dfa6ef05c2ce828f1ad",
+                "quantity": 1
+            },
+            {
+                "id": "61825d06d92c473c770215de",
+                "quantity": 1
+            },
+            {
+                "id": "61825d136ef05c2ce828f1cc",
+                "quantity": 1
+            },
+            {
+                "id": "618167616ef05c2ce828f1a8",
+                "quantity": 1
+            },
+            {
+                "id": "61825d24d3a39d50044c13af",
+                "quantity": 1
+            },
+            {
+                "id": "6181688c6c780c1e710c9b04",
+                "quantity": 1
+            }
+        ],
+        "default": false
+    },
+    "619e61e70459e93c12392ba7": {
+        "id": "619e61e70459e93c12392ba7",
+        "name": "Mk 16 (FDE) CW",
+        "baseId": "618428466ef05c2ce828f218",
+        "parts": [
+            {
+                "id": "618428466ef05c2ce828f218",
+                "quantity": 1
+            },
+            {
+                "id": "55802f5d4bdc2dac148b458f",
+                "quantity": 1
+            },
+            {
+                "id": "5aaa5dfee5b5b000140293d3",
+                "quantity": 1
+            },
+            {
+                "id": "618405198004cc50514c3594",
+                "quantity": 1
+            },
+            {
+                "id": "544a3a774bdc2d3a388b4567",
+                "quantity": 1
+            },
+            {
+                "id": "58d268fc86f774111273f8c2",
+                "quantity": 1
+            },
+            {
+                "id": "6183fd911cb55961fa0fdce9",
+                "quantity": 1
+            },
+            {
+                "id": "56ea6fafd2720b844b8b4593",
+                "quantity": 1
+            },
+            {
+                "id": "61816fcad92c473c770215cc",
+                "quantity": 1
+            },
+            {
+                "id": "61817865d3a39d50044c13a4",
+                "quantity": 1
+            },
+            {
+                "id": "61816df1d3a39d50044c139e",
+                "quantity": 1
+            },
+            {
+                "id": "5c1bc5612e221602b5429350",
+                "quantity": 1
+            },
+            {
+                "id": "61965d9058ef8c428c287e0d",
+                "quantity": 1
+            },
+            {
+                "id": "61816dfa6ef05c2ce828f1ad",
+                "quantity": 1
+            },
+            {
+                "id": "61825d06d92c473c770215de",
+                "quantity": 1
+            },
+            {
+                "id": "61825d136ef05c2ce828f1cc",
+                "quantity": 1
+            },
+            {
+                "id": "618167616ef05c2ce828f1a8",
+                "quantity": 1
+            },
+            {
+                "id": "618167441cb55961fa0fdc71",
+                "quantity": 1
+            },
+            {
+                "id": "6181688c6c780c1e710c9b04",
+                "quantity": 1
+            }
+        ],
+        "default": false
+    },
+    "619d267f36b5be1f3236f9ba": {
+        "id": "619d267f36b5be1f3236f9ba",
+        "name": "USP .45",
+        "baseId": "6193a720f8ee7e52e42109ed",
+        "parts": [
+            {
+                "id": "6193a720f8ee7e52e42109ed",
+                "quantity": 1
+            },
+            {
+                "id": "6194ef39de3cdf1d2614a768",
+                "quantity": 1
+            },
+            {
+                "id": "6193d382ed0429009f543e65",
+                "quantity": 1
+            },
+            {
+                "id": "6194f2912d2c397d6600348d",
+                "quantity": 1
+            },
+            {
+                "id": "6194f35c18a3974e5e7421e6",
+                "quantity": 1
+            },
+            {
+                "id": "6193d338de3cdf1d2614a6fc",
+                "quantity": 1
+            },
+            {
+                "id": "6193d3cded0429009f543e6a",
+                "quantity": 1
+            },
+            {
+                "id": "6193d3be7c6c7b169525f0da",
+                "quantity": 1
+            },
+            {
+                "id": "6193d5d4f8ee7e52e4210a1b",
+                "quantity": 1
+            }
+        ],
+        "default": true
+    },
+    "619d26ccc7791e3af27ae3cd": {
+        "id": "619d26ccc7791e3af27ae3cd",
+        "name": "USP .45 Match",
+        "baseId": "6193a720f8ee7e52e42109ed",
+        "parts": [
+            {
+                "id": "6193a720f8ee7e52e42109ed",
+                "quantity": 1
+            },
+            {
+                "id": "6194f02d9bb3d20b0946d2f0",
+                "quantity": 1
+            },
+            {
+                "id": "6194f5a318a3974e5e7421eb",
+                "quantity": 1
+            },
+            {
+                "id": "6194f2df645b5d229654ad77",
+                "quantity": 1
+            },
+            {
+                "id": "6194f3286db0f2477964e67d",
+                "quantity": 1
+            },
+            {
+                "id": "6193d3149fb0c665d5490e32",
+                "quantity": 1
+            },
+            {
+                "id": "6193d3cded0429009f543e6a",
+                "quantity": 1
+            },
+            {
+                "id": "6193d3be7c6c7b169525f0da",
+                "quantity": 1
+            },
+            {
+                "id": "6193d5d4f8ee7e52e4210a1b",
+                "quantity": 1
+            },
+            {
+                "id": "619624b26db0f2477964e6b0",
+                "quantity": 1
+            }
+        ],
+        "default": false
+    },
+    "619d270836b5be1f3236f9c5": {
+        "id": "619d270836b5be1f3236f9c5",
+        "name": "USP .45 Tactical",
+        "baseId": "6193a720f8ee7e52e42109ed",
+        "parts": [
+            {
+                "id": "6193a720f8ee7e52e42109ed",
+                "quantity": 1
+            },
+            {
+                "id": "6194efe07c6c7b169525f11b",
+                "quantity": 1
+            },
+            {
+                "id": "6194f1f918a3974e5e7421e4",
+                "quantity": 1
+            },
+            {
+                "id": "6194f41f9fb0c665d5490e75",
+                "quantity": 1
+            },
+            {
+                "id": "6194f2df645b5d229654ad77",
+                "quantity": 1
+            },
+            {
+                "id": "6194f3286db0f2477964e67d",
+                "quantity": 1
+            },
+            {
+                "id": "6193d3149fb0c665d5490e32",
+                "quantity": 1
+            },
+            {
+                "id": "6193d3cded0429009f543e6a",
+                "quantity": 1
+            },
+            {
+                "id": "6193d3be7c6c7b169525f0da",
+                "quantity": 1
+            },
+            {
+                "id": "6193d5d4f8ee7e52e4210a1b",
+                "quantity": 1
+            },
+            {
+                "id": "6196255558ef8c428c287d1c",
+                "quantity": 1
+            },
+            {
+                "id": "",
+                "quantity": 1
+            },
+            {
+                "id": "",
+                "quantity": 1
+            }
+        ],
+        "default": false
+    },
+    "619d272b0f9e4513744e7699": {
+        "id": "619d272b0f9e4513744e7699",
+        "name": "USP .45 Elite",
+        "baseId": "6193a720f8ee7e52e42109ed",
+        "parts": [
+            {
+                "id": "6193a720f8ee7e52e42109ed",
+                "quantity": 1
+            },
+            {
+                "id": "6194f017ed0429009f543eaa",
+                "quantity": 1
+            },
+            {
+                "id": "6194f5d418a3974e5e7421ef",
+                "quantity": 1
+            },
+            {
+                "id": "6194f2df645b5d229654ad77",
+                "quantity": 1
+            },
+            {
+                "id": "6194f3286db0f2477964e67d",
+                "quantity": 1
+            },
+            {
+                "id": "6193d3149fb0c665d5490e32",
+                "quantity": 1
+            },
+            {
+                "id": "6193d3cded0429009f543e6a",
+                "quantity": 1
+            },
+            {
+                "id": "6193d3be7c6c7b169525f0da",
+                "quantity": 1
+            },
+            {
+                "id": "6193d5d4f8ee7e52e4210a1b",
+                "quantity": 1
+            },
+            {
+                "id": "619621a4de3cdf1d2614a7a7",
+                "quantity": 1
+            }
+        ],
+        "default": false
+    },
+    "619d276ca4712949ff3159b9": {
+        "id": "619d276ca4712949ff3159b9",
+        "name": "USP .45 Expert",
+        "baseId": "6193a720f8ee7e52e42109ed",
+        "parts": [
+            {
+                "id": "6193a720f8ee7e52e42109ed",
+                "quantity": 1
+            },
+            {
+                "id": "6194eff92d2c397d6600348b",
+                "quantity": 1
+            },
+            {
+                "id": "6194f5722d2c397d6600348f",
+                "quantity": 1
+            },
+            {
+                "id": "6194f2df645b5d229654ad77",
+                "quantity": 1
+            },
+            {
+                "id": "6194f3286db0f2477964e67d",
+                "quantity": 1
+            },
+            {
+                "id": "6193d3149fb0c665d5490e32",
+                "quantity": 1
+            },
+            {
+                "id": "6193d3cded0429009f543e6a",
+                "quantity": 1
+            },
+            {
+                "id": "6193d3be7c6c7b169525f0da",
+                "quantity": 1
+            },
+            {
+                "id": "6193d5d4f8ee7e52e4210a1b",
+                "quantity": 1
+            }
+        ],
+        "default": false
     }
 }
