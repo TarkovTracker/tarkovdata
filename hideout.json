@@ -1754,6 +1754,12 @@
                     "name": "57347c1124597737fb1379e3",
                     "quantity": 3,
                     "id": 134
+                },
+                {
+                    "type": "item",
+                    "name": "59e35ef086f7741777737012",
+                    "quantity": 2,
+                    "id": 313
                 }
             ],
             "id": 35,
@@ -1798,6 +1804,12 @@
                     "name": "569668774bdc2da2298b4568",
                     "quantity": 75000,
                     "id": 207
+                },
+                {
+                    "type": "item",
+                    "name": "5d1b304286f774253763a528",
+                    "quantity": 3,
+                    "id": 312
                 },
                 {
                     "type": "trader",
