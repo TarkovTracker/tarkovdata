@@ -12033,5 +12033,81 @@
             }
         ],
         "gameId": "unknown"
+    },
+    {
+        "id": 229,
+        "require": {
+            "level": 1,
+            "quests": [
+                203
+            ]
+        },
+        "giver": 1,
+        "turnin": 1,
+        "title": "Seaside Vacation",
+        "locales": {
+            "en": "Seaside Vacation"
+        },
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Seaside_Vacation",
+        "exp": 8000,
+        "unlocks": [],
+        "reputation": [
+            {
+                "trader": 1,
+                "rep": 0.02
+            }
+        ],
+        "objectives": [
+            {
+                "type": "pickup",
+                "target": "Infromant's Briefcase",
+                "number": 1,
+                "location": 7,
+                "gps": {},
+                "id": 476
+            }
+        ],
+        "gameId": "Unknown"
+    },
+    {
+        "id": 230,
+        "require": {
+            "level": 1,
+            "quests": []
+        },
+        "giver": 6,
+        "turnin": 6,
+        "title": "The Hermit",
+        "locales": {
+            "en": "The Hermit"
+        },
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/The_Hermit",
+        "exp": 12000,
+        "unlocks": [],
+        "reputation": [
+            {
+                "trader": 6,
+                "rep": 0.02
+            }
+        ],
+        "objectives": [
+            {
+                "type": "locate",
+                "target": "the hideout of Jaeger's friend on Lighthhouse",
+                "number": 1,
+                "location": 7,
+                "gps": {},
+                "id": 477
+            },
+            {
+                "type": "pickup",
+                "target": "message for Jaeger",
+                "number": 1,
+                "location": 7,
+                "gps": {},
+                "id": 478
+            }
+        ],
+        "gameId": "Unknown"
     }
 ]
