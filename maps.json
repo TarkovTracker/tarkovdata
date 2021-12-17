@@ -98,5 +98,15 @@
             "floors": [ "Bunkers", "Ground_Level" ],
             "defaultFloor": "Ground_Level"
         }
+    },
+    "lighthouse": {
+        "id": 7,
+        "locale": {
+            "en": "Lighthouse"
+        },
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Lighthouse",
+        "description": "The lighthouse at Cape Dalniy was an important strategic object on the way to Tarkov. During Contract Wars, it was the main entry point for USEC units and served as their base of operations. After the conflict, Scavs took a fancy to this place, until the old owners returned, who decided to stay in Tarkov and establish their own order.",
+        "enemies": ["Scavs", "Rogues"],
+        "raidDuration": { "day": 45, "night": 45 }
     }
 }
