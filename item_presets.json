@@ -7382,5 +7382,37 @@
             }
         ],
         "default": false
+    },
+    "6198e2ddef80673cae5d1c87": {
+        "id": "6198e2ddef80673cae5d1c87",
+        "name": "MTs-255-12",
+        "baseId": "60db29ce99594040e04c4a27",
+        "parts": [
+            {
+                "id": "60db29ce99594040e04c4a27",
+                "quantity": 1
+            },
+            {
+                "id": "60dc519adf4c47305f6d410d",
+                "quantity": 1
+            },
+            {
+                "id": "612368f58b401f4f51239b33",
+                "quantity": 1
+            },
+            {
+                "id": "619d36da53b4d42ee724fae4",
+                "quantity": 1
+            },
+            {
+                "id": "612781056f3d944a17348d60",
+                "quantity": 1
+            },
+            {
+                "id": "6123649463849f3d843da7c4",
+                "quantity": 1
+            }
+        ],
+        "default": true
     }
 }
