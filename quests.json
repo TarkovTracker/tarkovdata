@@ -11426,6 +11426,7 @@
         "require": {
             "level": 45,
             "quests": [
+                18
             ]
         },
         "giver": 0,
@@ -11478,6 +11479,7 @@
         "require": {
             "level": 45,
             "quests": [
+                18
             ]
         },
         "giver": 0,
@@ -11571,6 +11573,7 @@
         "require": {
             "level": 50,
             "quests": [
+                190
             ]
         },
         "giver": 6,
@@ -11654,6 +11657,7 @@
         "require": {
             "level": 60,
             "quests": [
+                18
             ]
         },
         "giver": 0,
@@ -11733,6 +11737,7 @@
         "require": {
             "level": 68,
             "quests": [
+                18
             ]
         },
         "giver": 7,
@@ -11767,15 +11772,16 @@
         "require": {
             "level": 45,
             "quests": [
+                81
             ]
         },
         "giver": 3,
         "turnin": 3,
-        "title": "Mutual Interest",
+        "title": "Cleaner",
         "locales": {
-            "en": "Mutual Interest"
+            "en": "Cleaner"
         },
-        "wiki": "https://escapefromtarkov.fandom.com/wiki/Mutual_Interest",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Cleaner",
         "exp": 84000,
         "nokappa": true,
         "unlocks": [],
@@ -11797,6 +11803,7 @@
         "require": {
             "level": 45,
             "quests": [
+                119
             ]
         },
         "giver": 5,
@@ -11902,6 +11909,7 @@
         "require": {
             "level": 50,
             "quests": [
+                224
             ]
         },
         "giver": 5,
@@ -11946,6 +11954,7 @@
         "require": {
             "level": 55,
             "quests": [
+                217
             ]
         },
         "giver": 4,
@@ -11995,6 +12004,7 @@
         "require": {
             "level": 60,
             "quests": [
+                223
             ]
         },
         "giver": 3,
@@ -12035,6 +12045,115 @@
                 "number": 5,
                 "location": -1,
                 "id": 475
+            }
+        ],
+        "gameId": "unknown"
+    },
+    {
+        "id": 229,
+        "require": {
+            "level": 20,
+            "quests": [
+            ]
+        },
+        "giver": 2,
+        "turnin": 2,
+        "title": "Long Road",
+        "locales": {
+            "en": "Long Road"
+        },
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Long_Road",
+        "exp": 8300,
+        "unlocks": [],
+        "reputation": [
+            {
+                "trader": 2,
+                "rep": 0.02
+            }
+        ],
+        "objectives": [
+            {
+                "type": "kill",
+                "target": "Scavs",
+                "number": 15,
+                "location": 7,
+                "with": [
+                    "on the main road"
+                ],
+                "id": 476
+            }
+        ],
+        "gameId": "unknown"
+    },
+    {
+        "id": 230,
+        "require": {
+            "level": 17,
+            "quests": [
+            ]
+        },
+        "giver": 4,
+        "turnin": 4,
+        "title": "Corporate Secrets",
+        "locales": {
+            "en": "Corporate Secrets"
+        },
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Corporate_Secrets",
+        "exp": 8000,
+        "unlocks": [],
+        "reputation": [
+            {
+                "trader": 4,
+                "rep": 0.02
+            }
+        ],
+        "objectives": [
+            {
+                "type": "pickup",
+                "target": "Water pump operation data",
+                "number": 1,
+                "location": 7,
+                "id": 477
+            },
+            {
+                "type": "pickup",
+                "target": "Pumping station operation report",
+                "number": 1,
+                "location": 7,
+                "id": 478
+            }
+        ],
+        "gameId": "unknown"
+    },
+    {
+        "id": 231,
+        "require": {
+            "level": 20,
+            "quests": [
+            ]
+        },
+        "giver": 1,
+        "turnin": 1,
+        "title": "Seaside Vacation",
+        "locales": {
+            "en": "Seaside Vacation"
+        },
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Seaside_Vacation",
+        "exp": 8000,
+        "unlocks": [],
+        "reputation": [
+            {
+                "trader": 1,
+                "rep": 0.02
+            }
+        ],
+        "objectives": [
+            {
+                "type": "pickup",
+                "target": "Informant's briefcase",
+                "number": 1,
+                "location": 7,
+                "id": 479
             }
         ],
         "gameId": "unknown"
