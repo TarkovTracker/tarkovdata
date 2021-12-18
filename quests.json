@@ -4363,6 +4363,10 @@
                         "type": "attachment",
                         "name": "Extended magazine",
                         "value": 60
+                    },
+                    {
+                        "type": "part",
+                        "id": "57ffa9f4245977728561e844"
                     }
                 ],
                 "id": 423
