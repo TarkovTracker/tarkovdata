@@ -4418,7 +4418,7 @@
                     {
                         "type": "stat",
                         "name": "recoil",
-                        "value": "<=250"
+                        "value": "<=200"
                     },
                     {
                         "type": "stat",
