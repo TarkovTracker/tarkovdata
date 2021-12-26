@@ -594,7 +594,7 @@
       "penetrationPower": 14,
       "accuracy": 0,
       "recoil": -5,
-      "initialSpeed": 890
+      "initialSpeed": 866
     }
   },
   "56dff061d2720bb5668b4567": {
@@ -1491,7 +1491,7 @@
       "penetrationPower": 33,
       "accuracy": 0,
       "recoil": 0,
-      "initialSpeed": 890
+      "initialSpeed": 886
     }
   },
   "5cde8864d7f00c0010373be1": {
@@ -2064,7 +2064,7 @@
       "ricochetChance": 0.1,
       "penetrationChance": 0.36,
       "penetrationPower": 37,
-      "accuracy": 125,
+      "accuracy": 80,
       "recoil": 50,
       "initialSpeed": 510
     }
@@ -2227,7 +2227,7 @@
       "penetrationPower": 10,
       "accuracy": 0,
       "recoil": 0,
-      "initialSpeed": 922
+      "initialSpeed": 792
     }
   },
   "5d6e68c4a4b9361b93413f79": {
@@ -2273,7 +2273,7 @@
       "penetrationPower": 20,
       "accuracy": 0,
       "recoil": 0,
-      "initialSpeed": 922
+      "initialSpeed": 594
     }
   },
   "5d6e689ca4b9361bc8618956": {
@@ -2434,7 +2434,7 @@
       "penetrationPower": 37,
       "accuracy": 0,
       "recoil": 0,
-      "initialSpeed": 922
+      "initialSpeed": 715
     }
   },
   "5e81f423763d9f754677bf2e": {
@@ -2478,9 +2478,9 @@
       "ricochetChance": 0.3,
       "penetrationChance": 0.5,
       "penetrationPower": 35,
-      "accuracy": 0,
-      "recoil": -20,
-      "initialSpeed": 922
+      "accuracy": 5,
+      "recoil": -24,
+      "initialSpeed": 299
     }
   },
   "5e023e53d4353e3302577c4c": {
@@ -3147,7 +3147,7 @@
       "penetrationPower": 45,
       "accuracy": 0,
       "recoil": 10,
-      "initialSpeed": 605
+      "initialSpeed": 635
     }
   },
   "5e023e88277cce2b522ff2b1": {
@@ -3376,6 +3376,121 @@
       "accuracy": 0,
       "recoil": 0,
       "initialSpeed": 0
+    }
+  },
+  "61962b617c6c7b169525f168": {
+    "id": "61962b617c6c7b169525f168",
+    "name": "5.45x39mm 7N40",
+    "shortName": "7N40",
+    "weight": 0.011,
+    "caliber": "Caliber545x39",
+    "stackMaxSize": 60,
+    "tracer": false,
+    "tracerColor": "red",
+    "ammoType": "bullet",
+    "projectileCount": 1,
+    "ballistics": {
+      "damage": 52,
+      "armorDamage": 50,
+      "fragmentationChance": 0.02,
+      "ricochetChance": 0.3,
+      "penetrationChance": 0.65,
+      "penetrationPower": 44,
+      "accuracy": 50,
+      "recoil": -20,
+      "initialSpeed": 915
+    }
+  },
+  "61962d879bb3d20b0946d385": {
+    "id": "61962d879bb3d20b0946d385",
+    "name": "9x39mm PAB-9 gs",
+    "shortName": "PAB-9",
+    "weight": 0.024,
+    "caliber": "Caliber9x39",
+    "stackMaxSize": 50,
+    "tracer": false,
+    "tracerColor": "red",
+    "ammoType": "bullet",
+    "projectileCount": 1,
+    "ballistics": {
+      "damage": 62,
+      "armorDamage": 72,
+      "fragmentationChance": 0.1,
+      "ricochetChance": 0.48,
+      "penetrationChance": 0.78,
+      "penetrationPower": 48,
+      "accuracy": -15,
+      "recoil": 10,
+      "initialSpeed": 320
+    }
+  },
+  "6196364158ef8c428c287d9f": {
+    "id": "6196364158ef8c428c287d9f",
+    "name": ".300 Blackout V-Max",
+    "shortName": "V-Max",
+    "weight": 0.015,
+    "caliber": "Caliber762x35",
+    "stackMaxSize": 60,
+    "tracer": false,
+    "tracerColor": "red",
+    "ammoType": "bullet",
+    "projectileCount": 1,
+    "ballistics": {
+      "damage": 72,
+      "armorDamage": 25,
+      "fragmentationChance": 0.25,
+      "ricochetChance": 0.1,
+      "penetrationChance": 0.2,
+      "penetrationPower": 20,
+      "accuracy": 30,
+      "recoil": -10,
+      "initialSpeed": 723
+    }
+  },
+  "6196365d58ef8c428c287da1": {
+    "id": "6196365d58ef8c428c287da1",
+    "name": ".300 Blackout Whisper",
+    "shortName": "Whisper",
+    "weight": 0.015,
+    "caliber": "Caliber762x35",
+    "stackMaxSize": 60,
+    "tracer": false,
+    "tracerColor": "red",
+    "ammoType": "bullet",
+    "projectileCount": 1,
+    "ballistics": {
+      "damage": 90,
+      "armorDamage": 18,
+      "fragmentationChance": 0.35,
+      "ricochetChance": 0.1,
+      "penetrationChance": 0.1,
+      "penetrationPower": 14,
+      "accuracy": 5,
+      "recoil": -5,
+      "initialSpeed": 853
+    }
+  },
+  "619636be6db0f2477964e710": {
+    "id": "619636be6db0f2477964e710",
+    "name": ".300 Blackout M62 Tracer",
+    "shortName": "M62",
+    "weight": 0.016,
+    "caliber": "Caliber762x35",
+    "stackMaxSize": 60,
+    "tracer": true,
+    "tracerColor": "red",
+    "ammoType": "bullet",
+    "projectileCount": 1,
+    "ballistics": {
+      "damage": 54,
+      "armorDamage": 40,
+      "fragmentationChance": 0.2,
+      "ricochetChance": 0.37,
+      "penetrationChance": 0.4,
+      "penetrationPower": 34,
+      "accuracy": 0,
+      "recoil": 5,
+      "initialSpeed": 442
     }
   }
 }
