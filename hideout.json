@@ -410,6 +410,12 @@
                     "name": "619cbfccbedcde2f5b3f7bdd",
                     "quantity": 1,
                     "id": 306
+                },
+                {
+                    "type": "item",
+                    "name": "61bf7b6302b3924be92fa8c3f",
+                    "quantity": 2,
+                    "id": 272
                 }
             ],
             "id": 4,
@@ -536,6 +542,12 @@
                     "name": "57347c2e24597744902c94a1",
                     "quantity": 5,
                     "id": 44
+                },
+                {
+                    "type": "item",
+                    "name": "61bf7b6302b3924be92fa8c3",
+                    "quantity": 7,
+                    "id": 316
                 },
                 {
                     "type": "trader",
@@ -1772,6 +1784,12 @@
                     "name": "59e35ef086f7741777737012",
                     "quantity": 2,
                     "id": 313
+                },
+                {
+                    "type": "item",
+                    "name": "61bf7b6302b3924be92fa8c3",
+                    "quantity": 2,
+                    "id": 270           
                 }
             ],
             "id": 35,
@@ -2073,6 +2091,12 @@
                     "name": "5734779624597737e04bf329",
                     "quantity": 3,
                     "id": 218
+                },
+                {
+                    "type": "item",
+                    "name": "61bf7b6302b3924be92fa8c3",
+                    "quantity": 2,
+                    "id": 269
                 }
             ],
             "id": 42,
@@ -2123,7 +2147,14 @@
                     "name": "590a3b0486f7743954552bdb",
                     "quantity": 5,
                     "id": 162
+                },
+                {
+                    "type": "item",
+                    "name": "61bf7b6302b3924be92fa8c3",
+                    "quantity": 5,
+                    "id": 317
                 }
+
             ],
             "id": 43,
             "stationId": 16
