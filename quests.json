@@ -12157,5 +12157,74 @@
             }
         ],
         "gameId": "unknown"
+    },
+    {
+        "id": 232,
+        "require": {
+            "quests": [
+                14
+            ]
+        },
+        "giver": 0,
+        "turnin": 0,
+        "title": "Easy Job - Part 1",
+        "locales": {
+            "en": "Easy Job - Part 1"
+        },
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Easy_Job_-_Part_1",
+        "exp": 1500,
+        "unlocks": [
+            233
+        ],
+        "reputation": [
+            {
+                "trader": 0,
+                "rep": 0.02
+            }
+        ],
+        "objectives": [
+            {
+                "type": "mark",
+                "tool": "5991b51486f77447b112d44f",
+                "target": "Helicopter",
+                "number": 1,
+                "location": 7,
+                "id": 480
+            }
+        ],
+        "gameId": "unknown"
+    },
+    {
+        "id": 233,
+        "require": {
+            "quests": [
+                232
+            ]
+        },
+        "giver": 0,
+        "turnin": 0,
+        "title": "Easy Job - Part 2",
+        "locales": {
+            "en": "Easy Job - Part 2"
+        },
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Easy_Job_-_Part_2",
+        "exp": 1800,
+        "unlocks": [],
+        "reputation": [
+            {
+                "trader": 0,
+                "rep": 0.02
+            }
+        ],
+        "objectives": [
+            {
+                "type": "kill",
+                "target": "Scavs",
+                "number": 20,
+                "location": 7,
+                "id": 481
+            }
+        ],
+        "gameId": "unknown"
     }
 ]
