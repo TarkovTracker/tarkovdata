@@ -6941,6 +6941,71 @@
             }
         ]
     },
+    "6193e5f3aa34a3034236bdb3": {
+        "id": "6193e5f3aa34a3034236bdb3",
+        "name": "G28 Patrol",
+        "appendName": "Patrol",
+        "default": false,
+        "baseId": "6176aca650224f204c1da3fb",
+        "parts": [
+            {
+                "id": "6176aca650224f204c1da3fb",
+                "quantity": 1
+            },
+            {
+                "id": "6193dcd0f8ee7e52e4210a28",
+                "quantity": 1
+            },
+            {
+                "id": "617131a4568c120fdd29482d",
+                "quantity": 1
+            },
+            {
+                "id": "617153016c780c1e710c9a2f",
+                "quantity": 1
+            },
+            {
+                "id": "617154aa1cb55961fa0fdb3b",
+                "quantity": 1
+            },
+            {
+                "id": "61713a8fd92c473c770214a4",
+                "quantity": 1
+            },
+            {
+                "id": "6171407e50224f204c1da3c5",
+                "quantity": 1
+            },
+            {
+                "id": "617151c1d92c473c770214ab",
+                "quantity": 1
+            },
+            {
+                "id": "61702be9faa1272e431522c3",
+                "quantity": 1
+            },
+            {
+                "id": "61713308d92c473c770214a0",
+                "quantity": 1
+            },
+            {
+                "id": "61702f1b67085e45ef140b26",
+                "quantity": 1
+            },
+            {
+                "id": "61712eae6c780c1e710c9a1d",
+                "quantity": 1
+            },
+            {
+                "id": "5bb20e49d4351e3bac1212de",
+                "quantity": 1
+            },
+            {
+                "id": "61702d8a67085e45ef140b24",
+                "quantity": 1
+            }
+        ]
+    },
     "6193e4a46bb904059c382295": {
         "id": "6193e4a46bb904059c382295",
         "name": "Mk 17",
