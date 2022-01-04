@@ -12064,7 +12064,9 @@
         },
         "wiki": "https://escapefromtarkov.fandom.com/wiki/Long_Road",
         "exp": 8300,
-        "unlocks": [],
+        "unlocks": [
+            "588892092459774ac91d4b11"
+        ],
         "reputation": [
             {
                 "trader": 2,
@@ -12141,7 +12143,9 @@
         },
         "wiki": "https://escapefromtarkov.fandom.com/wiki/Seaside_Vacation",
         "exp": 8000,
-        "unlocks": [],
+        "unlocks": [
+            "5af0454c86f7746bf20992e8"
+        ],
         "reputation": [
             {
                 "trader": 1,
@@ -12174,9 +12178,7 @@
         },
         "wiki": "https://escapefromtarkov.fandom.com/wiki/Easy_Job_-_Part_1",
         "exp": 1500,
-        "unlocks": [
-            233
-        ],
+        "unlocks": [],
         "reputation": [
             {
                 "trader": 0,
@@ -12210,7 +12212,9 @@
         },
         "wiki": "https://escapefromtarkov.fandom.com/wiki/Easy_Job_-_Part_2",
         "exp": 1800,
-        "unlocks": [],
+        "unlocks": [
+            "5cbdc23eae9215001136a407"
+        ],
         "reputation": [
             {
                 "trader": 0,
@@ -12227,5 +12231,202 @@
             }
         ],
         "gameId": "unknown"
+    },
+    {
+        "id": 234,
+        "require": {
+            "level": null,
+            "quests": [
+                233
+            ]
+        },
+        "giver": 3,
+        "turnin": 3,
+        "title": "Cargo X - Part 4",
+        "locales": {
+            "en": "Cargo X - Part 4",
+            "ru": "Груз X. Часть 4",
+            "cs": "Náklad X - Část 4"
+        },
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Cargo_X_-_Part_4",
+        "exp": 8600,
+        "unlocks": [
+            "5d5e9c74a4b9364855191c40"
+        ],
+        "reputation": [
+            {
+                "trader": 3,
+                "rep": 0.02
+            }
+        ],
+        "objectives": [
+            {
+                "type": "mark",
+                "tool": "5991b51486f77447b112d44f",
+                "target": "TerraGroup cargo",
+                "hint": "Western shore",
+                "number": 1,
+                "location": 7,
+                "gps": {
+                    "leftPercent": null,
+                    "topPercent": null,
+                    "floor": "Ground_Level"
+                },
+                "id": 482
+            }
+        ],
+        "gameId": "61958c366726521dd96828ec"
+    },
+    {
+        "id": 235,
+        "require": {
+            "level": null,
+            "quests": [
+                140
+            ]
+        },
+        "giver": 6,
+        "turnin": 6,
+        "title": "The Hermit",
+        "locales": {
+            "en": "The Hermit",
+            "ru": "Отшельник",
+            "cs": "Poustevník"
+        },
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/The_Hermit",
+        "exp": 12000,
+        "unlocks": [
+            "5b2388675acfc4771e1be0be"
+        ],
+        "reputation": [
+            {
+                "trader": 6,
+                "rep": 0.02
+            }
+        ],
+        "objectives": [
+            {
+                "type": "locate",
+                "target": "The hideout of Jaeger's friend",
+                "number": 1,
+                "location": 7,
+                "gps": {
+                    "leftPercent": null,
+                    "topPercent": null,
+                    "floor": "Ground_Level"
+                },
+                "id": 483
+            },
+            {
+                "type": "pickup",
+                "target": "Message for Jaeger",
+                "number": 1,
+                "location": 7,
+                "gps": {
+                    "leftPercent": null,
+                    "topPercent": null,
+                    "floor": "Ground_Level"
+                },
+                "id": 484
+            }
+        ],
+        "gameId": "61904daa7d0d857927447b9c"
+    },
+    {
+        "id": 236,
+        "require": {
+            "level": null,
+            "quests": [
+                122
+            ]
+        },
+        "giver": 5,
+        "turnin": 5,
+        "title": "Communication Difficulties",
+        "locales": {
+            "en": "Communication Difficulties",
+            "ru": "Трудности в общении",
+            "cs": "Komunikační potíže"
+        },
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Communication_Difficulties",
+        "exp": 9000,
+        "unlocks": [
+            "545cdae64bdc2d39198b4568"
+        ],
+        "reputation": [
+            {
+                "trader": 5,
+                "rep": 0.02
+            }
+        ],
+        "objectives": [
+            {
+                "type": "locate",
+                "target": "The area around the lighthouse",
+                "number": 1,
+                "location": 7,
+                "gps": {
+                    "leftPercent": null,
+                    "topPercent": null,
+                    "floor": "Ground_Level"
+                },
+                "id": 484
+            }
+        ],
+        "gameId": "6179ad74bca27a099552e03a"
+    },
+    {
+        "id": 237,
+        "require": {
+            "level": null,
+            "quests": []
+        },
+        "giver": 2,
+        "turnin": 2,
+        "title": "Missing Cargo",
+        "locales": {
+            "en": "Missing Cargo",
+            "ru": "Пропавший груз",
+            "cs": "Chybějící náklad"
+        },
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Missing_Cargo",
+        "exp": 14000,
+        "unlocks": [
+            "56eabf3bd2720b75698b4569",
+            "5649ae4a4bdc2d1b2b8b4588"
+        ],
+        "reputation": [
+            {
+                "trader": 2,
+                "rep": 0.03
+            }
+        ],
+        "objectives": [
+            {
+                "type": "locate",
+                "target": "The crashed helicopter",
+                "number": 1,
+                "location": 7,
+                "gps": {
+                    "leftPercent": null,
+                    "topPercent": null,
+                    "floor": "Ground_Level"
+                },
+                "id": 485
+            },
+            {
+                "type": "pickup",
+                "target": "The informant's intelligence folder",
+                "number": 1,
+                "location": 1,
+                "gps": {
+                    "leftPercent": null,
+                    "topPercent": null,
+                    "floor": "Ground_Level"
+                },
+                "id": 486
+            }
+        ],
+        "gameId": "6179b4f16e9dd54ac275e407"
     }
 ]
