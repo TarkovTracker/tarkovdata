@@ -2831,7 +2831,7 @@
         "wiki": "https://escapefromtarkov.fandom.com/wiki/Bullshit",
         "exp": 29900,
         "unlocks": [
-            "5c1127d0d174af29be75cf68"
+            "606587252535c57a13424cfd"
         ],
         "reputation": [
             {
@@ -10930,9 +10930,9 @@
         },
         "giver": 3,
         "turnin": 3,
-        "title": "Revision",
+        "title": "Revision - Part 1",
         "locales": {
-            "en": "Revision",
+            "en": "Revision - Part 1",
             "ru": "Ревизия",
             "cs": "Revize"
         },
@@ -11947,7 +11947,7 @@
                 "id": 469
             }
         ],
-        "gameId": "unknown"
+        "gameId": "60e71dc67fcf9c556f325056"
     },
     {
         "id": 227,
@@ -11997,7 +11997,7 @@
                 "id": 471
             }
         ],
-        "gameId": "unknown"
+        "gameId": "60e71d6d7fcf9c556f325055"
     },
     {
         "id": 228,
@@ -12047,7 +12047,7 @@
                 "id": 475
             }
         ],
-        "gameId": "unknown"
+        "gameId": "60e71ce009d7c801eb0c0ec6"
     },
     {
         "id": 229,
@@ -12085,7 +12085,7 @@
                 "id": 476
             }
         ],
-        "gameId": "unknown"
+        "gameId": "6193850f60b34236ee0483de"
     },
     {
         "id": 230,
@@ -12126,7 +12126,7 @@
                 "id": 478
             }
         ],
-        "gameId": "unknown"
+        "gameId": "6179b3bdc7560e13d23eeb8d"
     },
     {
         "id": 231,
@@ -12161,7 +12161,7 @@
                 "id": 479
             }
         ],
-        "gameId": "unknown"
+        "gameId": "6179ad56c760af5ad2053587"
     },
     {
         "id": 232,
@@ -12195,7 +12195,7 @@
                 "id": 480
             }
         ],
-        "gameId": "unknown"
+        "gameId": "6179ac7511973d018217d0b9"
     },
     {
         "id": 233,
@@ -12230,7 +12230,7 @@
                 "id": 481
             }
         ],
-        "gameId": "unknown"
+        "gameId": "6179acbdc760af5ad2053585"
     },
     {
         "id": 234,
@@ -12428,5 +12428,167 @@
             }
         ],
         "gameId": "6179b4f16e9dd54ac275e407"
+    },
+    {
+        "id": 238,
+        "require": {
+            "level": null,
+            "quests": [
+                162
+            ]
+        },
+        "giver": 6,
+        "turnin": 6,
+        "title": "Huntsman path - Outcasts",
+        "locales": {
+            "en": "Huntsman path - Outcasts",
+            "ru": "Путь охотника. Изгои",
+            "cs": "Cesta lovce. Vyděděnci"
+        },
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/The_Huntsman_Path_-_Outcasts",
+        "exp": 9000,
+        "unlocks": [
+            "5b3b99475acfc432ff4dcbee"
+        ],
+        "reputation": [
+            {
+                "trader": 6,
+                "rep": 0.02
+            }
+        ],
+        "objectives": [
+            {
+                "type": "kill",
+                "target": "Rogues",
+                "number": 10,
+                "location": -1,
+                "id": 487
+            }
+        ],
+        "gameId": "6179ad0a6e9dd54ac275e3f2"
+    },
+    {
+        "id": 239,
+        "require": {
+            "level": null,
+            "quests": [
+                60
+            ]
+        },
+        "giver": 3,
+        "turnin": 3,
+        "title": "Revision - Part 2",
+        "locales": {
+            "en": "Revision - Part 2",
+            "ru": "Ревизия. Часть 2",
+            "cs": "Revize. Část 2"
+        },
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Revision_-_Part_2",
+        "exp": 7800,
+        "unlocks": [
+            "5d67abc1a4b93614ec50137f"
+        ],
+        "reputation": [
+            {
+                "trader": 3,
+                "rep": 0.03
+            }
+        ],
+        "objectives": [
+            {
+                "type": "mark",
+                "tool": "5991b51486f77447b112d44f",
+                "target": "BRDM 1",
+                "number": 1,
+                "location": 7,
+                "gps": {
+                    "leftPercent": null,
+                    "topPercent": null,
+                    "floor": "Ground_Level"
+                },
+                "id": 488
+            },
+            {
+                "type": "mark",
+                "tool": "5991b51486f77447b112d44f",
+                "target": "BRDM 2",
+                "number": 1,
+                "location": 7,
+                "gps": {
+                    "leftPercent": null,
+                    "topPercent": null,
+                    "floor": "Ground_Level"
+                },
+                "id": 489
+            },
+            {
+                "type": "mark",
+                "tool": "5991b51486f77447b112d44f",
+                "target": "Stryker 1",
+                "number": 1,
+                "location": 7,
+                "gps": {
+                    "leftPercent": null,
+                    "topPercent": null,
+                    "floor": "Ground_Level"
+                },
+                "id": 490
+            },
+            {
+                "type": "mark",
+                "tool": "5991b51486f77447b112d44f",
+                "target": "Stryker 2",
+                "number": 1,
+                "location": 7,
+                "gps": {
+                    "leftPercent": null,
+                    "topPercent": null,
+                    "floor": "Ground_Level"
+                },
+                "id": 491
+            }
+        ],
+        "gameId": "6179b4d1bca27a099552e04e"
+    },
+    {
+        "id": 240,
+        "require": {
+            "level": null,
+            "quests": []
+        },
+        "giver": 0,
+        "turnin": 0,
+        "title": "Our Own Land",
+        "locales": {
+            "en": "Our Own Land"
+        },
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Our_Own_Land",
+        "exp": 22000,
+        "unlocks": [
+            "5e85a9f4add9fe03027d9bf1"
+        ],
+        "reputation": [
+            {
+                "trader": 0,
+                "rep": 0.02
+            }
+        ],
+        "objectives": [
+            {
+                "type": "kill",
+                "target": "PMCs",
+                "number": 20,
+                "location": 7,
+                "id": 492
+            },
+            {
+                "type": "collect",
+                "target": "59f32c3b86f77472a31742f0",
+                "number": 20,
+                "location": -1,
+                "id": 493
+            }
+        ],
+        "gameId": "6179b5b06e9dd54ac275e409"
     }
 ]
