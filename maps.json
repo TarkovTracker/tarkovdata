@@ -22,7 +22,7 @@
         "wiki": "https://escapefromtarkov.gamepedia.com/Customs",
         "description": "Taking place in an industrial part of Tarkov, Customs features a self-storage lot, a river with a bridge, a two and three story dormitory, gas stations, warehouses, construction zones, and some military checkpoints.",
         "enemies": ["Scavs", "Cultists", "Reshala"],
-        "raidDuration": { "day": 45, "night": 45 },
+        "raidDuration": { "day": 35, "night": 35 },
         "svg": {
             "file": "Customs.svg",
             "floors": [ "Ground_Level" ],
@@ -37,7 +37,7 @@
         "wiki": "https://escapefromtarkov.gamepedia.com/Woods",
         "description": "",
         "enemies": ["Scavs", "Cultists", "Shturman"],
-        "raidDuration": { "day": 50, "night": 50 },
+        "raidDuration": { "day": 40, "night": 40 },
         "svg": {
             "file": "Woods.svg",
             "floors": [ "Ground_Level" ],
@@ -92,7 +92,7 @@
         "wiki": "https://escapefromtarkov.gamepedia.com/Reserve",
         "description": "The secret Federal State Reserve Agency base that, according to urban legends, contains enough supplies to last for years: food, medications and other resources, enough to survive an all-out nuclear war.",
         "enemies": ["Scavs", "Raiders", "Glukhar"],
-        "raidDuration": { "day": 50, "night": 50 },
+        "raidDuration": { "day": 40, "night": 40 },
         "svg": {
             "file": "Reserve.svg",
             "floors": [ "Bunkers", "Ground_Level" ],
@@ -107,6 +107,6 @@
         "wiki": "https://escapefromtarkov.gamepedia.com/Lighthouse",
         "description": "The lighthouse at Cape Dalniy used to be an important strategic position for the city. Upon the outbreak of the conflict, USEC used the Lighthouse area as its landing zone, and in so doing attracted the attention of BEAR forces who were hell bent on reducing the hostile PMCs forces to zero.",
         "enemies": ["Scavs", "Rogues"],
-        "raidDuration": { "day": 45, "night": 45 }
+        "raidDuration": { "day": 40, "night": 40 }
     }
 }
