@@ -12419,7 +12419,7 @@
                 "type": "pickup",
                 "target": "The informant's intelligence folder",
                 "number": 1,
-                "location": 1,
+                "location": 7,
                 "gps": {
                     "leftPercent": null,
                     "topPercent": null,
