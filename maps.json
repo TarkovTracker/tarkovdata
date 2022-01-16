@@ -6,7 +6,7 @@
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Factory",
         "description": "",
-        "enemies": ["Scavs"],
+        "enemies": ["Scavs", "Tagilla", "Cultists"],
         "raidDuration": { "day": 20, "night": 25 },
         "svg": {
             "file": "Factory.svg",
