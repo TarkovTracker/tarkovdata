@@ -12380,7 +12380,9 @@
         "id": 237,
         "require": {
             "level": null,
-            "quests": []
+            "quests": [
+                229
+            ]
         },
         "giver": 2,
         "turnin": 2,
