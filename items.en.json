@@ -12349,9 +12349,14 @@
         "name": "Rogue USEC workshop key",
         "shortName": "Workshop"
     },
-    "61bf7b6302b3924be92fa8c3":{
+    "61bf7b6302b3924be92fa8c3": {
         "id": "61bf7b6302b3924be92fa8c3",
         "name": "Metal spare parts",
         "shortName": "M parts"
+    },
+    "61bf7c024770ee6f9c6b8b53": {
+        "id": "61bf7c024770ee6f9c6b8b53",
+        "name": "Secured magnetic tape cassette",
+        "shortName": "SMT"
     }
 }
