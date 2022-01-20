@@ -8399,7 +8399,7 @@
             "ru": "Путь охотника. Очистка леса",
             "cs": "Cesta lovce. Čistění lesa"
         },
-        "wiki": "https://escapefromtarkov.fandom.com/wiki/Huntsman_path_-_Woods_cleaning",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/The_Huntsman_Path_-_Woods_Cleaning",
         "exp": 5900,
         "unlocks": [],
         "reputation": [
@@ -8435,7 +8435,7 @@
             "ru": "Путь охотника. Контролёр",
             "cs": "Cesta lovce. Dohled"
         },
-        "wiki": "https://escapefromtarkov.fandom.com/wiki/Huntsman_path_-_Controller",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/The_Huntsman_Path_-_Controller",
         "exp": 7200,
         "nokappa": true,
         "unlocks": [],
@@ -8594,7 +8594,7 @@
             "ru": "Путь охотника. Справедливость",
             "cs": "Cesta lovce. Spravedlnost"
         },
-        "wiki": "https://escapefromtarkov.fandom.com/wiki/Huntsman_path_-_Justice",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/The_Huntsman_Path_-_Justice",
         "exp": 7200,
         "nokappa": true,
         "unlocks": [],
@@ -9961,7 +9961,6 @@
         },
         "wiki": "https://escapefromtarkov.fandom.com/wiki/The_bunker_-_Part_1",
         "exp": 5700,
-        "nokappa": true,
         "unlocks": [],
         "reputation": [
             {
@@ -10732,7 +10731,6 @@
                 "rep": 0.03
             }
         ],
-        "nokappa": true,
         "objectives": [
             {
                 "type": "key",
@@ -10936,7 +10934,7 @@
             "ru": "Ревизия",
             "cs": "Revize"
         },
-        "wiki": "https://escapefromtarkov.fandom.com/wiki/Revision",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Revision_-_Part_1",
         "exp": 7300,
         "unlocks": [],
         "reputation": [
@@ -11355,7 +11353,7 @@
             "ru": "Путь охотника. Начальник завода",
             "cs": "Tagilla"
         },
-        "wiki": "https://escapefromtarkov.fandom.com/wiki/Huntsman_Path_-_Factory_Chief",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/The_Huntsman_Path_-_Factory_Chief",
         "exp": 8500,
         "unlocks": [],
         "reputation": [
@@ -11845,7 +11843,7 @@
         "locales": {
             "en": "Huntsman Path - Relentless"
         },
-        "wiki": "https://escapefromtarkov.fandom.com/wiki/Huntsman_Path_-_Relentless",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/The_Huntsman_Path_-_Relentless",
         "exp": 0,
         "nokappa": true,
         "unlocks": [],
@@ -12134,6 +12132,7 @@
         "require": {
             "level": 20,
             "quests": [
+                23
             ]
         },
         "giver": 1,
