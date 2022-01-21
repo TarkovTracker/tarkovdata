@@ -12013,6 +12013,7 @@
         },
         "wiki": "https://escapefromtarkov.fandom.com/wiki/Special_Equipment",
         "exp": 177000,
+        "nokappa": true,
         "unlocks": [],
         "reputation": [],
         "objectives": [
