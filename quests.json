@@ -7376,7 +7376,7 @@
             "ru": "Путь выживальщика. Беззащитен, но опасен",
             "cs": "Cesta přeživšího. Nechráněný, ale nebezpečný"
         },
-        "wiki": "https://escapefromtarkov.fandom.com/wiki/The_survivalist_path_-_Unprotected,_but_dangerous",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/The_Survivalist_Path_-_Unprotected_but_Dangerous",
         "exp": 5600,
         "unlocks": [],
         "reputation": [
@@ -8475,7 +8475,7 @@
             "ru": "Путь охотника. Злой вахтёр",
             "cs": "Cesta lovce. Zlý hlídač"
         },
-        "wiki": "https://escapefromtarkov.fandom.com/wiki/Huntsman_path_-_Evil_watchman",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/The_Huntsman_Path_-_Evil_Watchman",
         "exp": 6000,
         "nokappa": true,
         "unlocks": [],
@@ -8551,7 +8551,7 @@
             "ru": "Путь охотника. Трофей",
             "cs": "Cesta lovce. Trofej"
         },
-        "wiki": "https://escapefromtarkov.fandom.com/wiki/Huntsman_path_-_The_trophy",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/The_Huntsman_Path_-_Trophy",
         "exp": 7100,
         "unlocks": [],
         "reputation": [
@@ -8634,7 +8634,7 @@
             "ru": "Путь охотника. Переучёт",
             "cs": "Cesta lovce. Zaprodanec"
         },
-        "wiki": "https://escapefromtarkov.fandom.com/wiki/Huntsman_path_-_Sellout",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/The_Huntsman_Path_-_Sellout",
         "exp": 7200,
         "unlocks": [],
         "reputation": [
@@ -8677,7 +8677,7 @@
             "ru": "Путь охотника. Санитар леса",
             "cs": "Cesta lovce. Lesník"
         },
-        "wiki": "https://escapefromtarkov.fandom.com/wiki/Huntsman_path_-_Woods_keeper",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/The_Huntsman_Path_-_Woods_Keeper",
         "exp": 7300,
         "unlocks": [],
         "reputation": [
@@ -8720,7 +8720,7 @@
             "ru": "Путь охотника. Стиратель",
             "cs": "Cesta lovce. Čistič - Část 1"
         },
-        "wiki": "https://escapefromtarkov.fandom.com/wiki/Huntsman_path_-_Eraser_-_Part_1",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/The_Huntsman_Path_-_Eraser_-_Part_1",
         "exp": 8900,
         "unlocks": [],
         "reputation": [
@@ -8756,7 +8756,7 @@
             "ru": "Путь охотника. Стиратель 2",
             "cs": "Cesta lovce. Čistič - Část 2"
         },
-        "wiki": "https://escapefromtarkov.fandom.com/wiki/Huntsman_path_-_Eraser_-_Part_2",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/The_Huntsman_Path_-_Eraser_-_Part_2",
         "exp": 17000,
         "unlocks": [],
         "reputation": [
@@ -9915,7 +9915,7 @@
             "ru": "Путь охотника. Садист",
             "cs": "Cesta lovce. Sadista"
         },
-        "wiki": "https://escapefromtarkov.fandom.com/wiki/Huntsman_path_-_Sadist",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/The_Huntsman_Path_-_Sadist",
         "exp": 16300,
         "nokappa": true,
         "unlocks": [],
@@ -11059,7 +11059,7 @@
             "ru": "Секретные разработки",
             "cs": "Výměna zkušeností"
         },
-        "wiki": "https://escapefromtarkov.fandom.com/wiki/Classified_technologies",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Classified_Technologies",
         "exp": 7200,
         "unlocks": [],
         "reputation": [
@@ -11779,7 +11779,7 @@
         "locales": {
             "en": "Cleaner"
         },
-        "wiki": "https://escapefromtarkov.fandom.com/wiki/Cleaner",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/The_Cleaner",
         "exp": 84000,
         "nokappa": true,
         "unlocks": [],
