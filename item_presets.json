@@ -169,7 +169,7 @@
                 "id": "56d59d3ad2720bdb418b4577",
                 "quantity": 15
             }
-        ]        
+        ]
     },
     "5ac4ad3686f774181345c3da": {
         "id": "5ac4ad3686f774181345c3da",
@@ -900,7 +900,7 @@
     },
     "584149ad2459775a7726350e": {
         "id": "584149ad2459775a7726350e",
-        "name": "PP-9 Klin",
+        "name": "PP-9 \"Klin\"",
         "appendName": "",
         "default": true,
         "baseId": "57f4c844245977379d5c14d1",
@@ -921,7 +921,7 @@
     },
     "58dffc5d86f77407c744a847": {
         "id": "58dffc5d86f77407c744a847",
-        "name": "DVL-10 Urbana",
+        "name": "DVL-10",
         "appendName": "Urbana",
         "default": true,
         "baseId": "588892092459774ac91d4b11",
@@ -1035,7 +1035,7 @@
     },
     "59ef24b986f77439987b8762": {
         "id": "59ef24b986f77439987b8762",
-        "name": "VPO-136",
+        "name": "VPO-136 \"Vepr-KM\"",
         "appendName": "",
         "default": true,
         "baseId": "59e6152586f77473dc057aa1",
@@ -1348,7 +1348,7 @@
     },
     "584149ea2459775a6c55e940": {
         "id": "584149ea2459775a6c55e940",
-        "name": "PP-91-01 Kedr-B",
+        "name": "PP-91-01 \"Kedr-B\"",
         "appendName": "",
         "default": true,
         "baseId": "57f3c6bd24597738e730fa2f",
@@ -1802,7 +1802,7 @@
     },
     "58414a052459775a2b6d9f1e": {
         "id": "58414a052459775a2b6d9f1e",
-        "name": "Saiga 12ga v.10",
+        "name": "Saiga-12ga v.10",
         "appendName": "",
         "default": true,
         "baseId": "576165642459773c7a400233",
@@ -2305,7 +2305,7 @@
     },
     "584149c42459775a77263510": {
         "id": "584149c42459775a77263510",
-        "name": "PP-91 Kedr",
+        "name": "PP-91 \"Kedr\"",
         "appendName": "",
         "default": true,
         "baseId": "57d14d2524597714373db789",
@@ -2849,7 +2849,7 @@
     },
     "5c0c1e7486f7744dba7a289b": {
         "id": "5c0c1e7486f7744dba7a289b",
-        "name": "Mosin Infantry",
+        "name": "Mosin (Infantry)",
         "appendName": "",
         "default": true,
         "baseId": "5bfd297f0db834001a669119",
@@ -3305,7 +3305,7 @@
     },
     "5b8683a486f77467f2423114": {
         "id": "5b8683a486f77467f2423114",
-        "name": "Mosin",
+        "name": "Mosin (Sniper)",
         "appendName": "",
         "default": true,
         "baseId": "5ae08f0a5acfc408fb1398a1",
@@ -3548,7 +3548,7 @@
     },
     "5ac4ad7586f7747d14551da3": {
         "id": "5ac4ad7586f7747d14551da3",
-        "name": "M870 12ga",
+        "name": "M870",
         "appendName": "",
         "default": true,
         "baseId": "5a7828548dc32e5a9c28b516",
@@ -4724,7 +4724,7 @@
     },
     "5c98bf9186f7740cf708c509": {
         "id": "5c98bf9186f7740cf708c509",
-        "name": "Vepr Hunter",
+        "name": "VPO-101 \"Vepr-Hunter\"",
         "appendName": "",
         "default": true,
         "baseId": "5c501a4d2e221602b412b540",
@@ -5660,7 +5660,7 @@
     },
     "5e0359bd86f7746b243db876": {
         "id": "5e0359bd86f7746b243db876",
-        "name": "VPO-215",
+        "name": "VPO-215 \"Gornostay\"",
         "appendName": "",
         "default": true,
         "baseId": "5de652c31b7e3716273428be",
@@ -5933,7 +5933,7 @@
     },
     "5eb2963686f7742d3f5ab0f8": {
         "id": "5eb2963686f7742d3f5ab0f8",
-        "name": "PPSh-41",
+        "name": "PPSh41",
         "appendName": "",
         "default": true,
         "baseId": "5ea03f7400685063ec28bfa8",
@@ -6318,7 +6318,7 @@
     },
     "5fd25119dd870108a754a163": {
         "id": "5fd25119dd870108a754a163",
-        "name": "Mk-18",
+        "name": "Mk-18 Mjölnir",
         "appendName": "",
         "default": true,
         "baseId": "5fc22d7c187fea44d52eda44",
@@ -6367,7 +6367,7 @@
     },
     "5fd251a31189a17bcc172662": {
         "id": "5fd251a31189a17bcc172662",
-        "name": "SIG MCX .300 BLK",
+        "name": "MCX .300 BLK",
         "appendName": "",
         "default": true,
         "baseId": "5fbcc1d9016cce60e8341ab3",
@@ -6772,7 +6772,7 @@
     },
     "6197d1f3585c515a052ad88f": {
         "id": "6197d1f3585c515a052ad88f",
-        "name": "MP-43",
+        "name": "MP-43-1C",
         "appendName": "",
         "default": true,
         "baseId": "5580223e4bdc2d1c128b457f",
@@ -6793,7 +6793,7 @@
     },
     "6193e4fae693542ea37d11c6": {
         "id": "6193e4fae693542ea37d11c6",
-        "name": "Mk 17 (FDE)",
+        "name": "Mk 17",
         "appendName": "",
         "default": true,
         "baseId": "6165ac306ef05c2ce828ef74",
@@ -7146,7 +7146,7 @@
     },
     "6193e226449ec003d9127fa6": {
         "id": "6193e226449ec003d9127fa6",
-        "name": "Mk 16 (FDE)",
+        "name": "Mk 16",
         "appendName": "",
         "default": true,
         "baseId": "618428466ef05c2ce828f218",
