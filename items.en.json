@@ -9637,7 +9637,7 @@
     "5e81c4ca763d9f754677befa": {
         "id": "5e81c4ca763d9f754677befa",
         "name": "M1911A1 .45 ACP 7-round magazine",
-        "shortName": 1911
+        "shortName": "1911"
     },
     "5e81c519cb2b95385c177551": {
         "id": "5e81c519cb2b95385c177551",
@@ -9662,7 +9662,7 @@
     "5e81c6bf763d9f754677beff": {
         "id": "5e81c6bf763d9f754677beff",
         "name": "M1911A1 polymer pistol grip",
-        "shortName": 1911
+        "shortName": "1911"
     },
     "5e81ebcd8e146c7080625e15": {
         "id": "5e81ebcd8e146c7080625e15",
@@ -11552,12 +11552,12 @@
     "61702d8a67085e45ef140b24": {
         "id": "61702d8a67085e45ef140b24",
         "name": "HK417 extended charging handle",
-        "shortName": 417
+        "shortName": "417"
     },
     "61702f1b67085e45ef140b26": {
         "id": "61702f1b67085e45ef140b26",
         "name": "HK417 low profile gas block",
-        "shortName": 417
+        "shortName": "417"
     },
     "61703001d92c473c77021497": {
         "id": "61703001d92c473c77021497",
@@ -12248,5 +12248,130 @@
         "id": "61c18db6dfd64163ea78fbb4",
         "name": "Leather cap",
         "shortName": "Cap"
+    },
+    "54490a4d4bdc2dbc018b4573": {
+        "id": "54490a4d4bdc2dbc018b4573",
+        "name": "Глушитель Silencerco Sparrow 22 .22LR",
+        "shortName": "Sparrow 22"
+    },
+    "544a3d0a4bdc2d1b388b4567": {
+        "id": "544a3d0a4bdc2d1b388b4567",
+        "name": "Оптический прицел Nightforce NXS 2.5-10x24",
+        "shortName": "NXS 2.5-10"
+    },
+    "544a3f024bdc2d1d388b4568": {
+        "id": "544a3f024bdc2d1d388b4568",
+        "name": "Оптический прицел ELCAN Specter OS4x",
+        "shortName": "OS4x"
+    },
+    "5580239d4bdc2de7118b4583": {
+        "id": "5580239d4bdc2de7118b4583",
+        "name": "Компенсатор ГК-00",
+        "shortName": "ГК-00"
+    },
+    "55d617094bdc2d89028b4568": {
+        "id": "55d617094bdc2d89028b4568",
+        "name": "Глушитель Knight's Armament Company KAC QDC Suppressor 6.5x35",
+        "shortName": "6.5QDCS"
+    },
+    "5648b2414bdc2d3b4c8b4578": {
+        "id": "5648b2414bdc2d3b4c8b4578",
+        "name": "UltiMAK M1-B handguard for AK",
+        "shortName": "M1-B"
+    },
+    "5648b62b4bdc2d9d488b4585": {
+        "id": "5648b62b4bdc2d9d488b4585",
+        "name": "ГП-34",
+        "shortName": "ГП-34"
+    },
+    "5648b6ff4bdc2d3d1c8b4581": {
+        "id": "5648b6ff4bdc2d3d1c8b4581",
+        "name": "Tactica Tula 10000 mount",
+        "shortName": "ТТ 10000"
+    },
+    "5671446a4bdc2d97058b4569": {
+        "id": "5671446a4bdc2d97058b4569",
+        "name": "Case Key",
+        "shortName": "Case Key"
+    },
+    "57518f7724597720a31c09ab": {
+        "id": "57518f7724597720a31c09ab",
+        "name": "Key 3",
+        "shortName": "Key 3"
+    },
+    "57518fd424597720c85dbaaa": {
+        "id": "57518fd424597720c85dbaaa",
+        "name": "Key 5",
+        "shortName": "Key 5"
+    },
+    "5751916f24597720a27126df": {
+        "id": "5751916f24597720a27126df",
+        "name": "Key 2",
+        "shortName": "Key 2"
+    },
+    "590de4a286f77423d9312a32": {
+        "id": "590de4a286f77423d9312a32",
+        "name": "Autokey",
+        "shortName": "Autokey"
+    },
+    "591094e086f7747caa7bb2ef": {
+        "id": "591094e086f7747caa7bb2ef",
+        "name": "Armor repair",
+        "shortName": "Armor repair"
+    },
+    "5910959486f7747d96753485": {
+        "id": "5910959486f7747d96753485",
+        "name": "Knife repair",
+        "shortName": "Knife repair"
+    },
+    "5910968f86f77425cf569c32": {
+        "id": "5910968f86f77425cf569c32",
+        "name": "Weap repair",
+        "shortName": "Weap repair"
+    },
+    "59984b4286f77445bd2d4a07": {
+        "id": "59984b4286f77445bd2d4a07",
+        "name": "PP-19-01 Polymer handguard",
+        "shortName": "PP-19-01"
+    },
+    "5ae083b25acfc4001a5fc702": {
+        "id": "5ae083b25acfc4001a5fc702",
+        "name": "weapon_test_consumable_items",
+        "shortName": "weapon_test_consumable_items"
+    },
+    "5ae089fb5acfc408fb13989b": {
+        "id": "5ae089fb5acfc408fb13989b",
+        "name": "test_consumable",
+        "shortName": "test_consumable"
+    },
+    "5af056f186f7746da511291f": {
+        "id": "5af056f186f7746da511291f",
+        "name": "minedetector",
+        "shortName": "minedetector"
+    },
+    "5b9b9020e7ef6f5716480215": {
+        "id": "5b9b9020e7ef6f5716480215",
+        "name": "Dog tag",
+        "shortName": "Dog tag"
+    },
+    "5c0a5f6c86f774753654890e": {
+        "id": "5c0a5f6c86f774753654890e",
+        "name": "DEVELOPER junkbox",
+        "shortName": "DEVELOPER junkbox"
+    },
+    "5cd157cfd7f00c0011791f36": {
+        "id": "5cd157cfd7f00c0011791f36",
+        "name": "patron_26x75",
+        "shortName": "patron_26x75"
+    },
+    "5ede47641cf3836a88318df1": {
+        "id": "5ede47641cf3836a88318df1",
+        "name": "patron_30x29_vog_30",
+        "shortName": "patron_30x29_vog_30"
+    },
+    "61a6446f4b5f8b70f451b166": {
+        "id": "61a6446f4b5f8b70f451b166",
+        "name": "Cold storage room key",
+        "shortName": "Cold"
     }
 }
