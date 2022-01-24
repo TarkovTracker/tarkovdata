@@ -12556,7 +12556,7 @@
         "id": 240,
         "require": {
             "level": null,
-            "quests": []
+            "quests": [16]
         },
         "giver": 0,
         "turnin": 0,
