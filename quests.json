@@ -12572,7 +12572,7 @@
         "locales": {
             "en": "Our Own Land"
         },
-        "nokappa": true
+        "nokappa": true,
         "wiki": "https://escapefromtarkov.fandom.com/wiki/Our_Own_Land",
         "exp": 22000,
         "unlocks": [
