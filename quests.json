@@ -11772,14 +11772,14 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Energy_Crisis",
     "exp": 13000,
-    "unlocks": [],
+    "unlocks": ["619e61e70459e93c12392ba7"],
     "reputation": [
       {
         "trader": 4,
         "rep": 0.02
       }
     ],
-    "nokappa": false,
+    "nokappa": true,
     "objectives": [
       {
         "type": "mark",
@@ -11787,11 +11787,6 @@
         "target": "Fuel Tanks",
         "number": 1,
         "location": 7,
-        "gps": {
-          "leftPercent": 51.81,
-          "topPercent": 60.04,
-          "floor": "Ground_Level"
-        },
         "id": 497
       },
       {
@@ -11800,11 +11795,6 @@
         "target": "Tanker Truck 1",
         "number": 1,
         "location": 7,
-        "gps": {
-          "leftPercent": 15.27,
-          "topPercent": 33.47,
-          "floor": "Ground_Level"
-        },
         "id": 498
       },
       {
