@@ -7640,5 +7640,58 @@
                 "quantity": 1
             }
         ]
+    },
+    "618ab04934aa2e47480fba2b": {
+        "id": "618ab04934aa2e47480fba2b",
+        "name": "AK-104 RPKT mod.1",
+        "appendName": "RPKT mod.1",
+        "default": false,
+        "baseId": "5ac66d725acfc43b321d4b60",
+        "parts": [
+            {
+                "id": "5ac66d725acfc43b321d4b60",
+                "quantity": 1
+            },
+            {
+                "id": "59e649f986f77411d949b246",
+                "quantity": 1
+            },
+            {
+                "id": "5efaf417aeb21837e749c7f2",
+                "quantity": 1
+            },
+            {
+                "id": "5c1cd46f2e22164bef5cfedb",
+                "quantity": 1
+            },
+            {
+                "id": "58491f3324597764bc48fa02",
+                "quantity": 1
+            },
+            {
+                "id": "5f633f791b231926f2329f13",
+                "quantity": 1
+            },
+            {
+                "id": "5947fa2486f77425b47c1a9b",
+                "quantity": 1
+            },
+            {
+                "id": "5d2c772c48f0355d95672c25",
+                "quantity": 1
+            },
+            {
+                "id": "5cf50fc5d7f00c056c53f83c",
+                "quantity": 1
+            },
+            {
+                "id": "5b39f8db5acfc40016387a1b",
+                "quantity": 1
+            },
+            {
+                "id": "5cbdc23eae9215001136a407",
+                "quantity": 1
+            }
+        ]
     }
 }
