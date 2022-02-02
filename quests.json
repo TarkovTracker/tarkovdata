@@ -9536,7 +9536,7 @@
         2, 9, 11, 12, 18, 24, 25, 26, 27, 33, 35, 43, 45, 49, 53, 54, 56, 63,
         73, 80, 81, 97, 101, 102, 103, 109, 110, 119, 121, 122, 123, 127, 129,
         133, 136, 142, 150, 154, 155, 157, 161, 167, 170, 171, 173, 175, 177,
-        178, 179, 180, 181, 193, 196, 197, 206
+        178, 179, 180, 181, 193, 196, 197, 206, 229, 230,231,232,233,234, 235,236,237,238,239, 241, 242, 243
       ]
     },
     "giver": 7,
@@ -11779,7 +11779,7 @@
         "rep": 0.02
       }
     ],
-    "nokappa": true,
+    "nokappa": false,
     "objectives": [
       {
         "type": "mark",
@@ -11815,5 +11815,78 @@
       }
     ],
     "gameId": "608974d01a66564e74191fc0"
+  },
+  {
+    "id": 243,
+    "require": {
+      "level": null,
+      "quests": [64]
+    },
+    "giver": 3,
+    "turnin": 3,
+    "title": "Overpopulation",
+    "locales": {
+      "en": "Overpopulation",
+      "ru":"Перенаселение"
+    },
+    "wiki": "https://escapefromtarkov.fandom.com/wiki/Overpopulation",
+    "exp": 8500,
+    "unlocks": ["5b0bbe4e5acfc40dc528a72d"],
+    "reputation": [
+      {
+        "trader": 3,
+        "rep": 0.02
+      }
+    ], 
+    "objectives": [
+      {
+        "type": "kill",
+        "target": "Scavs",
+        "number": 12,
+        "location": 7,
+        "with": ["Secure the cottage area from"],
+        "id": 501
+      }
+    ],
+    "gameId": "608974d01a66564e74191fc0"
+  },  {
+    "id": 240,
+    "require": {
+      "level": null,
+      "quests": [16]
+    },
+    "giver": 3,
+    "turnin": 3,
+    "title": "Counteraction",
+    "locales": {
+      "en": "Counteraction"
+    },
+    "nokappa": true,
+    "wiki": "https://escapefromtarkov.fandom.com/wiki/Counteraction",
+    "exp": 22000,
+    "unlocks": [],
+    "reputation": [
+      {
+        "trader": 3,
+        "rep": 0.03
+      }
+    ],
+    "objectives": [
+      {
+        "type": "kill",
+        "target": "PMCs",
+        "number": 20,
+        "location": 7,
+        "id": 502
+      },
+      {
+        "type": "collect",
+        "target": "59f32bb586f774757e1e8442",
+        "number": 20,
+        "location": -1,
+        "id": 503
+      }
+    ],
+    "gameId": "6179b5b06e9dd54ac275e409"
   }
 ]
