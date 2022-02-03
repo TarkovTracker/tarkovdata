@@ -10929,7 +10929,7 @@
   {
     "id": 222,
     "require": {
-      "level": 68,
+      "level": 60,
       "quests": [18]
     },
     "giver": 7,
