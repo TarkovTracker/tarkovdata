@@ -10368,6 +10368,13 @@
         "id": 406
       },
       {
+        "type": "key",
+        "target": "5d80c6c586f77440351beef1",
+        "number": 1,
+        "location": 6,
+        "id": 504
+      },
+      {
         "type": "locate",
         "target": "Western Barracks arsenal 1",
         "number": 1,
@@ -11850,7 +11857,7 @@
     ],
     "gameId": "608974d01a66564e74191fc0"
   },  {
-    "id": 240,
+    "id": 244,
     "require": {
       "level": null,
       "quests": [16]
