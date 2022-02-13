@@ -11739,8 +11739,8 @@
       "level": null,
       "quests": [29]
     },
-    "giver": 0,
-    "turnin": 0,
+    "giver": 1,
+    "turnin": 1,
     "title": "Lost Contact",
     "locales": {
       "en": "Lost Contact"
@@ -11768,7 +11768,7 @@
   {
     "id": 242,
     "require": {
-      "level": null,
+      "level": 25,
       "quests": []
     },
     "giver": 4,
