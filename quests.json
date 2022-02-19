@@ -9341,7 +9341,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/The_bunker_-_Part_2",
     "exp": 9200,
-    "nokappa": true,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
