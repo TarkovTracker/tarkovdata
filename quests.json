@@ -11608,7 +11608,7 @@
         "type": "kill",
         "target": "Rogues",
         "number": 10,
-        "location": -1,
+        "location": 7,
         "id": 487
       }
     ],
