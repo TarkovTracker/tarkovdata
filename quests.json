@@ -8407,6 +8407,7 @@
       "ru": "Движуха",
       "cs": "Zmatek"
     },
+    "nokappa": true,
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Stirrup",
     "exp": 5300,
     "unlocks": ["59e6687d86f77411d949b251"],
@@ -10549,6 +10550,7 @@
       "ru": "Безопасный коридор",
       "cs": "Bezpečný koridor"
     },
+    "nokappa": true,
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Safe_corridor",
     "exp": 9000,
     "unlocks": [],
