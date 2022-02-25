@@ -3601,8 +3601,8 @@
         "number": 1,
         "location": 3,
         "gps": {
-          "leftPercent": 49.01,
-          "topPercent": 31.05,
+          "leftPercent": 41.30,
+          "topPercent": 32.01,
           "floor": "Ground_Level"
         },
         "id": 154
