@@ -362,7 +362,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Postman_Pat_-_Part_1",
     "exp": 5900,
-    "unlocks": ["544fb45d4bdc2dee738b4568"],
+    "unlocks": [],
     "reputation": [
       {
         "trader": 0,
@@ -8618,7 +8618,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Postman_Pat_-_Part_2",
     "exp": 3500,
-    "unlocks": [],
+    "unlocks": ["544fb45d4bdc2dee738b4568"],
     "reputation": [
       {
         "trader": 1,
@@ -11823,7 +11823,7 @@
         "id": 500
       }
     ],
-    "gameId": "608974d01a66564e74191fc0"
+    "gameId": "6179b3a12153c15e937d52bc"
   },
   {
     "id": 243,
@@ -11857,7 +11857,7 @@
         "id": 501
       }
     ],
-    "gameId": "608974d01a66564e74191fc0"
+    "gameId": "6179aff8f57fb279792c60a1"
   },  {
     "id": 244,
     "require": {
@@ -11896,6 +11896,6 @@
         "id": 503
       }
     ],
-    "gameId": "6179b5b06e9dd54ac275e409"
+    "gameId": "6179b5eabca27a099552e052"
   }
 ]
