@@ -14,7 +14,7 @@
 </p>
 
 # tarkovdata
-tarkovdata is game information for [Escape From Tarkov](https://www.escapefromtarkov.com/) in easy to use formats to enable developing tools for assisting players. Everything here is contributed by the community (like you!) and maintained by developers of community tools like [Tarkov Tracker](https://tarkovtracker.io/), [Tarkov Tools](https://tarkov-tools.com/), and [Tarkov Guru](https://tarkov.guru/)
+tarkovdata is game information for [Escape From Tarkov](https://www.escapefromtarkov.com/) in easy to use formats to enable developing tools for assisting players. Everything here is contributed by the community (like you!) and maintained by developers of community tools like [Tarkov Tracker](https://tarkovtracker.io/), [Tarkov Guru](https://tarkov.guru/), [Tarkov.dev](https://tarkov.dev/), and [Tarkov Tools](https://tarkov-tools.com/) (defunct)
 
 This repository is still growing, with plans for new sets of data including SVG maps, item properties, localization, and more. Some schemas of data will change over time as the data matures, but breaking schemas will be avoided except when needed for added value.
 
