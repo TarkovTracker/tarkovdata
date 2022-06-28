@@ -3492,5 +3492,97 @@
       "recoil": 5,
       "initialSpeed": 442
     }
+  },
+  "62330b3ed4dc74626d570b95": {
+    "id": "62330b3ed4dc74626d570b95",
+    "name": ".357 Magnum FMJ",
+    "shortName": "FMJ",
+    "weight": 0.016,
+    "caliber": "Caliber9x33R",
+    "stackMaxSize": 30,
+    "tracer": false,
+    "tracerColor": "red",
+    "ammoType": "bullet",
+    "projectileCount": 1,
+    "ballistics": {
+      "damage": 70,
+      "armorDamage": 43,
+      "fragmentationChance": 0.01,
+      "ricochetChance": 0.065,
+      "penetrationChance": 0.35,
+      "penetrationPower": 35,
+      "accuracy": 0,
+      "recoil": 12,
+      "initialSpeed": 385
+    }
+  },
+  "62330bfadc5883093563729b": {
+    "id": "62330bfadc5883093563729b",
+    "name": ".357 Magnum Hollow Point",
+    "shortName": ".357 HP",
+    "weight": 0.016,
+    "caliber": "Caliber9x33R",
+    "stackMaxSize": 30,
+    "tracer": false,
+    "tracerColor": "red",
+    "ammoType": "bullet",
+    "projectileCount": 1,
+    "ballistics": {
+      "damage": 99,
+      "armorDamage": 20,
+      "fragmentationChance": 0.6,
+      "ricochetChance": 0.025,
+      "penetrationChance": 0.15,
+      "penetrationPower": 18,
+      "accuracy": 15,
+      "recoil": 15,
+      "initialSpeed": 481
+    }
+  },
+  "62330c18744e5e31df12f516": {
+    "id": "62330c18744e5e31df12f516",
+    "name": ".357 Magnum JHP",
+    "shortName": "JHP",
+    "weight": 0.016,
+    "caliber": "Caliber9x33R",
+    "stackMaxSize": 30,
+    "tracer": false,
+    "tracerColor": "red",
+    "ammoType": "bullet",
+    "projectileCount": 1,
+    "ballistics": {
+      "damage": 88,
+      "armorDamage": 28,
+      "fragmentationChance": 0.6,
+      "ricochetChance": 0.055,
+      "penetrationChance": 0.3,
+      "penetrationPower": 24,
+      "accuracy": 15,
+      "recoil": 8,
+      "initialSpeed": 425
+    }
+  },
+  "62330c40bdd19b369e1e53d1": {
+    "id": "62330c40bdd19b369e1e53d1",
+    "name": ".357 Magnum Soft Point",
+    "shortName": ".357 SP",
+    "weight": 0.015,
+    "caliber": "Caliber9x33R",
+    "stackMaxSize": 30,
+    "tracer": false,
+    "tracerColor": "red",
+    "ammoType": "bullet",
+    "projectileCount": 1,
+    "ballistics": {
+      "damage": 108,
+      "armorDamage": 15,
+      "fragmentationChance": 0.2,
+      "ricochetChance": 0.03,
+      "penetrationChance": 0.2,
+      "penetrationPower": 12,
+      "accuracy": 27,
+      "recoil": -29,
+      "initialSpeed": 455
+    }
   }
 }
