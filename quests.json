@@ -2616,7 +2616,7 @@
     "objectives": [
       {
         "type": "warning",
-        "target": "Do not kill any scavs from quest accept to quest complete",
+        "target": "Do not kill any scavs until the quest is completed",
         "number": 1,
         "location": 1,
         "id": 110
