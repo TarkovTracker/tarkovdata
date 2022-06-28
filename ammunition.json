@@ -3538,5 +3538,28 @@
       "recoil": 15,
       "initialSpeed": 481
     }
+  },
+  "62330bfadc5883093563729b": {
+    "id": "62330bfadc5883093563729b",
+    "name": ".357 Magnum JHP",
+    "shortName": "JHP",
+    "weight": 0.016,
+    "caliber": "Caliber9x33R",
+    "stackMaxSize": 30,
+    "tracer": false,
+    "tracerColor": "red",
+    "ammoType": "bullet",
+    "projectileCount": 1,
+    "ballistics": {
+      "damage": 88,
+      "armorDamage": 28,
+      "fragmentationChance": 0.6,
+      "ricochetChance": 0.055,
+      "penetrationChance": 0.3,
+      "penetrationPower": 24,
+      "accuracy": 15,
+      "recoil": 8,
+      "initialSpeed": 425
+    }
   }
 }
