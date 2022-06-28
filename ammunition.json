@@ -3561,5 +3561,28 @@
       "recoil": 8,
       "initialSpeed": 425
     }
+  },
+  "62330c40bdd19b369e1e53d1": {
+    "id": "62330c40bdd19b369e1e53d1",
+    "name": ".357 Magnum Soft Point",
+    "shortName": ".357 SP",
+    "weight": 0.015,
+    "caliber": "Caliber9x33R",
+    "stackMaxSize": 30,
+    "tracer": false,
+    "tracerColor": "red",
+    "ammoType": "bullet",
+    "projectileCount": 1,
+    "ballistics": {
+      "damage": 108,
+      "armorDamage": 15,
+      "fragmentationChance": 0.2,
+      "ricochetChance": 0.03,
+      "penetrationChance": 0.2,
+      "penetrationPower": 12,
+      "accuracy": 27,
+      "recoil": -29,
+      "initialSpeed": 455
+    }
   }
 }
