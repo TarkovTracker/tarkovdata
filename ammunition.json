@@ -3492,5 +3492,29 @@
       "recoil": 5,
       "initialSpeed": 442
     }
+  },
+  "62330b3ed4dc74626d570b95": {
+    "id": "62330b3ed4dc74626d570b95",
+    "name": ".357 Magnum FMJ",
+    "shortName": "FMJ",
+    "weight": 0.016,
+    "caliber": "Caliber9x33R",
+    "stackMaxSize": 30,
+    "tracer": false,
+    "tracerColor": "red",
+    "ammoType": "bullet",
+    "projectileCount": 1,
+    "ballistics": {
+        "damage": 70,
+        "armorDamage": 43,
+        "fragmentationChance": 0.01,
+        "ricochetChance": 0.065,
+        "penetrationChance": 0.35,
+        "penetrationPower": 35,
+        "accuracy": 0,
+        "recoil": 12,
+        "initialSpeed": 385
+    },
   }
+
 }
