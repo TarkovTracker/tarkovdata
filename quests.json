@@ -27,7 +27,7 @@
         "type": "kill",
         "target": "Scavs",
         "number": 5,
-        "location": 1,
+        "location": -1,
         "id": 0
       },
       {
