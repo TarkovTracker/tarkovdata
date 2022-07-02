@@ -15,7 +15,7 @@ const data = JSON.stringify({
 });
 
 const options = {
-    hostname: 'tarkov-tools.com',
+    hostname: 'api.tarkov.dev',
     port: 443,
     path: '/graphql',
     method: 'POST',

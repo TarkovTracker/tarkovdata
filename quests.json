@@ -27,7 +27,7 @@
         "type": "kill",
         "target": "Scavs",
         "number": 5,
-        "location": 1,
+        "location": -1,
         "id": 0
       },
       {
@@ -5649,7 +5649,7 @@
         "target": "PMCs",
         "number": 3,
         "location": 2,
-        "with": ["Headshot from more than 100 meters"],
+        "with": ["Headshot from more than 125 meters"],
         "id": 190
       },
       {
@@ -5657,7 +5657,7 @@
         "target": "PMCs",
         "number": 3,
         "location": 6,
-        "with": ["Headshot from more than 100 meters"],
+        "with": ["Headshot from more than 125 meters"],
         "id": 191
       },
       {
@@ -5665,7 +5665,7 @@
         "target": "PMCs",
         "number": 3,
         "location": 3,
-        "with": ["Headshot from more than 100 meters"],
+        "with": ["Headshot from more than 125 meters"],
         "id": 192
       },
       {
@@ -5673,8 +5673,16 @@
         "target": "PMCs",
         "number": 3,
         "location": 1,
-        "with": ["Headshot from more than 100 meters"],
+        "with": ["Headshot from more than 125 meters"],
         "id": 193
+      },
+      {
+        "type": "kill",
+        "target": "PMCs",
+        "number": 3,
+        "location": 7,
+        "with": ["Headshot from more than 125 meters"],
+        "id": 505
       }
     ],
     "gameId": "5c0bde0986f77479cf22c2f8"
