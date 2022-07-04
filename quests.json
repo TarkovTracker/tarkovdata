@@ -7220,7 +7220,7 @@
   {
     "id": 143,
     "require": {
-      "level": 17,
+      "level": 2,
       "quests": [136]
     },
     "giver": 6,
@@ -7258,7 +7258,7 @@
   {
     "id": 144,
     "require": {
-      "level": 17,
+      "level": 2,
       "quests": [143]
     },
     "giver": 6,
@@ -7309,7 +7309,7 @@
   {
     "id": 145,
     "require": {
-      "level": 17,
+      "level": 2,
       "quests": [144]
     },
     "giver": 6,
@@ -7344,7 +7344,7 @@
   {
     "id": 146,
     "require": {
-      "level": 17,
+      "level": 2,
       "quests": [145]
     },
     "giver": 6,
@@ -7378,7 +7378,7 @@
   {
     "id": 147,
     "require": {
-      "level": 17,
+      "level": 2,
       "quests": [146]
     },
     "giver": 6,
@@ -7413,7 +7413,7 @@
   {
     "id": 148,
     "require": {
-      "level": 17,
+      "level": 2,
       "quests": [147]
     },
     "giver": 6,
@@ -7448,7 +7448,7 @@
   {
     "id": 149,
     "require": {
-      "level": 17,
+      "level": 2,
       "quests": [148]
     },
     "giver": 6,
@@ -7486,7 +7486,7 @@
   {
     "id": 150,
     "require": {
-      "level": 17,
+      "level": 2,
       "quests": [149]
     },
     "giver": 6,
