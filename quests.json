@@ -6765,6 +6765,13 @@
         "number": 1,
         "location": -1,
         "id": 240
+      },
+      {
+        "type": "find",
+        "target": "62a09cfe4f842e1bd12da3e4",
+        "number": 1,
+        "location": -1,
+        "id": 506
       }
     ],
     "gameId": "5b47891f86f7744d1b23c571"
