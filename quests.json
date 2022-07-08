@@ -7837,13 +7837,13 @@
     },
     "giver": 6,
     "turnin": 6,
-    "title": "The Huntsman path - Woods cleaning",
+    "title": "The Huntsman Path - Forest Cleaning",
     "locales": {
-      "en": "The Huntsman path - Woods cleaning",
+      "en": "The Huntsman Path - Forest Cleaning",
       "ru": "Путь охотника. Очистка леса",
       "cs": "Cesta lovce. Čistění lesa"
     },
-    "wiki": "https://escapefromtarkov.fandom.com/wiki/The_Huntsman_Path_-_Woods_Cleaning",
+    "wiki": "https://escapefromtarkov.fandom.com/wiki/The_Huntsman_Path_-_Forest_Cleaning",
     "exp": 5900,
     "unlocks": [],
     "reputation": [
@@ -7977,9 +7977,9 @@
     },
     "giver": 6,
     "turnin": 6,
-    "title": "The Huntsman path - The trophy",
+    "title": "The Huntsman Path - Trophy",
     "locales": {
-      "en": "The Huntsman path - The trophy",
+      "en": "The Huntsman Path - Trophy",
       "ru": "Путь охотника. Трофей",
       "cs": "Cesta lovce. Trofej"
     },
@@ -8091,13 +8091,13 @@
     "id": 165,
     "require": {
       "level": 17,
-      "quests": [164]
+      "quests": [156]
     },
     "giver": 6,
     "turnin": 6,
-    "title": "The Huntsman path - Woods keeper",
+    "title": "The Huntsman Path - Woods Keeper",
     "locales": {
-      "en": "The Huntsman path - Woods keeper",
+      "en": "The Huntsman Path - Woods Keeper",
       "ru": "Путь охотника. Санитар леса",
       "cs": "Cesta lovce. Lesník"
     },
@@ -10584,13 +10584,13 @@
     "id": 213,
     "require": {
       "level": 17,
-      "quests": [165]
+      "quests": [156]
     },
     "giver": 6,
     "turnin": 6,
-    "title": "The Huntsman path - Factory Chief",
+    "title": "The Huntsman Path - Factory Chief",
     "locales": {
-      "en": "The Huntsman path - Factory Chief",
+      "en": "The Huntsman Path - Factory Chief",
       "ru": "Путь охотника. Начальник завода",
       "cs": "Tagilla"
     },
