@@ -11300,15 +11300,25 @@
         "type": "pickup",
         "target": "Water pump operation data",
         "number": 1,
-        "location": 7,
-        "id": 477
+        "location": 7, 
+        "id": 477,
+        "gps": {
+          "leftPercent": 43.9,
+          "topPercent": 20.53,
+          "floor": "Ground_Level"
+        }
       },
       {
         "type": "pickup",
         "target": "Pumping station operation report",
         "number": 1,
         "location": 7,
-        "id": 478
+        "id": 478,
+        "gps": {
+          "leftPercent": 59.73,
+          "topPercent": 14.23,
+          "floor": "Ground_Level"
+        }
       }
     ],
     "gameId": "6179b3bdc7560e13d23eeb8d"
@@ -11340,7 +11350,12 @@
         "target": "Informant's briefcase",
         "number": 1,
         "location": 7,
-        "id": 479
+        "id": 479,
+        "gps": {
+          "leftPercent": 34.8,
+          "topPercent": 49.88,
+          "floor": "Ground_Level"
+        }
       }
     ],
     "gameId": "6179ad56c760af5ad2053587"
@@ -11372,7 +11387,12 @@
         "target": "Helicopter",
         "number": 1,
         "location": 7,
-        "id": 480
+        "id": 480,
+        "gps": {
+          "leftPercent": 57.88,
+          "topPercent": 25.38,
+          "floor": "Ground_Level"
+        }
       }
     ],
     "gameId": "6179ac7511973d018217d0b9"
@@ -11440,8 +11460,8 @@
         "number": 1,
         "location": 7,
         "gps": {
-          "leftPercent": null,
-          "topPercent": null,
+          "leftPercent": 36.51,
+          "topPercent": 61.03,
           "floor": "Ground_Level"
         },
         "id": 482
@@ -11479,8 +11499,8 @@
         "number": 1,
         "location": 7,
         "gps": {
-          "leftPercent": null,
-          "topPercent": null,
+          "leftPercent": 73.45,
+          "topPercent": 39.05,
           "floor": "Ground_Level"
         },
         "id": 483
@@ -11491,8 +11511,8 @@
         "number": 1,
         "location": 7,
         "gps": {
-          "leftPercent": null,
-          "topPercent": null,
+          "leftPercent": 73.45,
+          "topPercent": 39.05,
           "floor": "Ground_Level"
         },
         "id": 484
@@ -11530,8 +11550,8 @@
         "number": 1,
         "location": 7,
         "gps": {
-          "leftPercent": null,
-          "topPercent": null,
+          "leftPercent": 35.46,
+          "topPercent": 87.79,
           "floor": "Ground_Level"
         },
         "id": 496
@@ -11569,8 +11589,8 @@
         "number": 1,
         "location": 7,
         "gps": {
-          "leftPercent": null,
-          "topPercent": null,
+          "leftPercent": 63.95,
+          "topPercent": 73.73,
           "floor": "Ground_Level"
         },
         "id": 485
@@ -11581,8 +11601,8 @@
         "number": 1,
         "location": 7,
         "gps": {
-          "leftPercent": null,
-          "topPercent": null,
+          "leftPercent": 59.86,
+          "topPercent": 63.14,
           "floor": "Ground_Level"
         },
         "id": 486
@@ -11655,10 +11675,10 @@
         "number": 1,
         "location": 7,
         "gps": {
-          "leftPercent": null,
-          "topPercent": null,
+          "leftPercent": 47.72,
+          "topPercent": 29.18,
           "floor": "Ground_Level"
-        },
+       },
         "id": 488
       },
       {
@@ -11668,8 +11688,8 @@
         "number": 1,
         "location": 7,
         "gps": {
-          "leftPercent": null,
-          "topPercent": null,
+          "leftPercent": 54.58,
+          "topPercent": 16.9,
           "floor": "Ground_Level"
         },
         "id": 489
@@ -11681,8 +11701,8 @@
         "number": 1,
         "location": 7,
         "gps": {
-          "leftPercent": null,
-          "topPercent": null,
+          "leftPercent": 42.18,
+          "topPercent": 88.04,
           "floor": "Ground_Level"
         },
         "id": 490
@@ -11694,8 +11714,8 @@
         "number": 1,
         "location": 7,
         "gps": {
-          "leftPercent": null,
-          "topPercent": null,
+          "leftPercent": 52.08,
+          "topPercent": 58.85,
           "floor": "Ground_Level"
         },
         "id": 491
@@ -11770,7 +11790,12 @@
         "target": "Lost group",
         "number": 1,
         "location": 7,
-        "id": 495
+        "id": 495,
+        "gps": {
+          "leftPercent": 57.09,
+          "topPercent": 64.67,
+          "floor": "Ground_Level"
+        }
       }
     ],
     "gameId": "6179b5b06e9dd54ac275e409"
@@ -11804,7 +11829,12 @@
         "target": "Fuel Tanks",
         "number": 1,
         "location": 7,
-        "id": 497
+        "id": 497,
+        "gps": {
+          "leftPercent": 55.77,
+          "topPercent": 4.04,
+          "floor": "Ground_Level"
+        }
       },
       {
         "type": "mark",
@@ -11812,7 +11842,12 @@
         "target": "Tanker Truck 1",
         "number": 1,
         "location": 7,
-        "id": 498
+        "id": 498,
+        "gps": {
+          "leftPercent": 55.11,
+          "topPercent": 5.98,
+          "floor": "Ground_Level"
+        }
       },
       {
         "type": "mark",
@@ -11820,7 +11855,12 @@
         "target": "Tanker Truck 2",
         "number": 1,
         "location": 7,
-        "id": 499
+        "id": 499,
+        "gps": {
+          "leftPercent": 64.35,
+          "topPercent": 22.15,
+          "floor": "Ground_Level"
+        }
       },
       {
         "type": "mark",
@@ -11828,7 +11868,12 @@
         "target": "Tanker Truck 3",
         "number": 1,
         "location": 7,
-        "id": 500
+        "id": 500,
+        "gps": {
+          "leftPercent": 46.54,
+          "topPercent": 32.74,
+          "floor": "Ground_Level"
+        }
       }
     ],
     "gameId": "6179b3a12153c15e937d52bc"
