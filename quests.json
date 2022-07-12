@@ -2014,6 +2014,7 @@
       {
         "type": "pickup",
         "target": "Chemical container",
+        "hint": "West 112"
         "number": 1,
         "location": 3,
         "gps": {
@@ -7212,6 +7213,7 @@
       {
         "type": "pickup",
         "target": "Jaeger's photo album",
+        "hint": "West 303"
         "number": 1,
         "location": 3,
         "gps": {
@@ -9112,6 +9114,7 @@
       {
         "type": "locate",
         "target": "Sanitar's office",
+        "hint": "East 110"
         "number": 1,
         "location": 3,
         "gps": {
