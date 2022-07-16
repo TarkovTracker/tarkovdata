@@ -3331,6 +3331,7 @@
       {
         "type": "locate",
         "target": "Generator 1",
+		"hint": "West 219",
         "number": 1,
         "location": 3,
         "gps": {
@@ -3343,6 +3344,7 @@
       {
         "type": "locate",
         "target": "Generator 2",
+		"hint": "East 220",
         "number": 1,
         "location": 3,
         "gps": {
