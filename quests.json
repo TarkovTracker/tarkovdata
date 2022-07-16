@@ -3100,6 +3100,7 @@
         "type": "mark",
         "tool": "5991b51486f77447b112d44f",
         "target": "Ritual spot",
+        "hint": "East 321",
         "number": 1,
         "location": 3,
         "gps": {
