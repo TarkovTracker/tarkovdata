@@ -11615,45 +11615,6 @@
     "gameId": "61904daa7d0d857927447b9c"
   },
   {
-    "id": 236,
-    "require": {
-      "level": null,
-      "quests": [122]
-    },
-    "giver": 5,
-    "turnin": 5,
-    "title": "Communication Difficulties",
-    "locales": {
-      "en": "Communication Difficulties",
-      "ru": "Трудности в общении",
-      "cs": "Komunikační potíže"
-    },
-    "wiki": "https://escapefromtarkov.fandom.com/wiki/Communication_Difficulties",
-    "exp": 9000,
-    "unlocks": ["545cdae64bdc2d39198b4568"],
-    "reputation": [
-      {
-        "trader": 5,
-        "rep": 0.02
-      }
-    ],
-    "objectives": [
-      {
-        "type": "locate",
-        "target": "The area around the lighthouse",
-        "number": 1,
-        "location": 7,
-        "gps": {
-          "leftPercent": 35.46,
-          "topPercent": 87.79,
-          "floor": "Ground_Level"
-        },
-        "id": 496
-      }
-    ],
-    "gameId": "6179ad74bca27a099552e03a"
-  },
-  {
     "id": 237,
     "require": {
       "level": null,
