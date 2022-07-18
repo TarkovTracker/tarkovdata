@@ -10544,7 +10544,7 @@
     "id": 210,
     "require": {
       "level": 10,
-      "quests": [192]
+      "quests": [6, 192]
     },
     "giver": 0,
     "turnin": 0,
