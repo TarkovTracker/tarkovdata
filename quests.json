@@ -12074,21 +12074,21 @@
         "target": "62987da96188c076bc0d8c51",
         "number": 1,
         "location": 7,
-        "id": 504
+        "id": 519
       },
       {
         "type": "locate",
         "target": "The hidden recording studio",
         "number": 1,
         "location": 7,
-        "id": 505
+        "id": 520
       },
       {
         "type": "place",
         "target": "5ac78a9b86f7741cca0bbd8d",
         "number": 1,
         "location": 7,
-        "id": 506
+        "id": 521
       }
     ],
     "gameId": "6179b5eabca27a099552e053"
@@ -12121,21 +12121,21 @@
         "target": "62987c658081af308d7558c6",
         "number": 1,
         "location": 7,
-        "id": 507
+        "id": 522
       },
       {
         "type": "locate",
         "target": "Radar station commandant's office",
         "number": 1,
         "location": 7,
-        "id": 508
+        "id": 523
       },
       {
         "type": "pickup",
         "target": "military HDD with archived flight routes",
         "number": 1,
         "location": 7,
-        "id": 509
+        "id": 524
       }
     ],
     "gameId": "6179b5eabca27a099552e054"
