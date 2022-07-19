@@ -12005,7 +12005,8 @@
       }
     ],
     "gameId": "6179aff8f57fb279792c60a1"
-  },  {
+  },
+  {
     "id": 244,
     "require": {
       "level": null,
@@ -12044,5 +12045,99 @@
       }
     ],
     "gameId": "6179b5eabca27a099552e052"
+  },
+  {
+    "id": 245,
+    "require": {
+      "level": null,
+      "quests": [105]
+    },
+    "giver": 4,
+    "turnin": 4,
+    "title": "Broadcast",
+    "locales": {
+      "en": "Broadcast"
+    },
+    "nokappa": true,
+    "wiki": "https://escapefromtarkov.fandom.com/wiki/Broadcast",
+    "exp": 6700,
+    "unlocks": [],
+    "reputation": [
+      {
+        "trader": 4,
+        "rep": 0.03
+      }
+    ],
+    "objectives": [
+      {
+        "type": "key",
+        "target": "62987da96188c076bc0d8c51",
+        "number": 1,
+        "location": 7,
+        "id": 504
+      },
+      {
+        "type": "locate",
+        "target": "The hidden recording studio",
+        "number": 1,
+        "location": 7,
+        "id": 505
+      },
+      {
+        "type": "place",
+        "target": "5ac78a9b86f7741cca0bbd8d",
+        "number": 1,
+        "location": 7,
+        "id": 506
+      }
+    ],
+    "gameId": "6179b5eabca27a099552e053"
+  },
+  {
+    "id": 246,
+    "require": {
+      "level": null,
+      "quests": [47]
+    },
+    "giver": 2,
+    "turnin": 2,
+    "title": "Top Secret",
+    "locales": {
+      "en": "Top Secret"
+    },
+    "nokappa": true,
+    "wiki": "https://escapefromtarkov.fandom.com/wiki/Top_Secret",
+    "exp": 11700,
+    "unlocks": [],
+    "reputation": [
+      {
+        "trader": 2,
+        "rep": 0.03
+      }
+    ],
+    "objectives": [
+      {
+        "type": "key",
+        "target": "62987c658081af308d7558c6",
+        "number": 1,
+        "location": 7,
+        "id": 507
+      },
+      {
+        "type": "locate",
+        "target": "Radar station commandant's office",
+        "number": 1,
+        "location": 7,
+        "id": 508
+      },
+      {
+        "type": "pickup",
+        "target": "military HDD with archived flight routes",
+        "number": 1,
+        "location": 7,
+        "id": 509
+      }
+    ],
+    "gameId": "6179b5eabca27a099552e054"
   }
 ]
