@@ -7802,7 +7802,7 @@
   {
     "id": 157,
     "require": {
-      "level": 17,
+      "level": 20,
       "quests": [156]
     },
     "giver": 6,
@@ -10678,7 +10678,7 @@
     "id": 213,
     "require": {
       "level": 17,
-      "quests": [156]
+      "quests": [156,102]
     },
     "giver": 6,
     "turnin": 6,
@@ -11420,7 +11420,7 @@
   {
     "id": 231,
     "require": {
-      "level": 20,
+      "level": 17,
       "quests": [23]
     },
     "giver": 1,
