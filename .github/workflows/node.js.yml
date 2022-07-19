@@ -20,6 +20,6 @@ jobs:
       uses: actions/setup-node@v3
       with:
         node-version: 16.x
-    - run: npm ci
+    - run: npm install
     - run: node cli.js verify-quest-data
     - run: node cli.js verify-hideout-data
