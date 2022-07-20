@@ -8224,7 +8224,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Hunting_trip",
     "exp": 22200,
-    "nokappa": true,
+    "nokappa": false,
     "unlocks": [
       "5d383ee786f7742a15793860",
       "5d383e1a86f7742a1468ce63",
@@ -10756,7 +10756,7 @@
   {
     "id": 215,
     "require": {
-      "level": 45,
+      "level": 42,
       "quests": [18]
     },
     "giver": 0,
@@ -10767,7 +10767,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Capturing_Outposts",
     "exp": 84000,
-    "nokappa": true,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [],
     "objectives": [
