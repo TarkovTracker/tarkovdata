@@ -6784,7 +6784,7 @@
     "id": 133,
     "require": {
       "level": 27,
-      "quests": [131]
+      "quests": [131, 132]
     },
     "giver": 5,
     "turnin": 5,
