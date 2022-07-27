@@ -10930,7 +10930,7 @@
   {
     "id": 220,
     "require": {
-      "level": 55,
+      "level": 48,
       "quests": []
     },
     "giver": 1,
@@ -10972,6 +10972,13 @@
         "number": 20,
         "location": -1,
         "id": 448
+      },
+      {
+        "type": "find",
+        "target": "62a0a043cf4a99369e2624a5",
+        "number": 10,
+        "location": -1,
+        "id": 527
       }
     ],
     "gameId": "60e71c48c1bfa3050473b8e5"
