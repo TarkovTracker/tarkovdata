@@ -10560,18 +10560,20 @@
   {
     "id": 210,
     "require": {
-      "level": 10,
+      "level": 12,
       "quests": [6, 192]
     },
     "giver": 0,
     "turnin": 0,
-    "title": "No place for renegades",
+    "title": "No Place for Renegades",
     "locales": {
-      "en": "No place for renegades",
+      "en": "No Place for Renegades",
       "ru": "Ренегатам тут не место",
-      "cs": "Pro odpadlíky tu není místo"
+      "cs": "Pro odpadlíky tu není místo",
+      "fr": "Pas de place pour les renégats",
+      "de": "Kein Platz für Deserteure"
     },
-    "wiki": "https://escapefromtarkov.fandom.com/wiki/No_place_for_renegades",
+    "wiki": "https://escapefromtarkov.fandom.com/wiki/No_Place_for_Renegades",
     "exp": 8500,
     "unlocks": [],
     "reputation": [
