@@ -12127,7 +12127,12 @@
         "target": "military HDD with archived flight routes",
         "number": 1,
         "location": 7,
-        "id": 524
+        "id": 524,
+        "gps": {
+          "leftPercent": 93,
+          "topPercent": 15.15,
+          "floor": "Ground_Level"
+        }
       }
     ],
     "gameId": "626bd75d5bef5d7d590bd415"
