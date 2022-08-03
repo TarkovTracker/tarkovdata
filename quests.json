@@ -11540,7 +11540,7 @@
     "objectives": [
       {
         "type": "kill",
-        "target": "Scavs",
+        "target": "Rogues",
         "number": 20,
         "location": 7,
         "id": 481
