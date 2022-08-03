@@ -3,7 +3,8 @@
         {
             "id": 0,
             "locales": {
-                "en": "Generator"
+                "en": "Generator",
+                "ru": "Генератор"
             },
             "function": "Provides power for hideout crafting stations",
             "imgSource": "/img/Generator_Portrait.png"
@@ -11,7 +12,8 @@
         {
             "id": 1,
             "locales": {
-                "en": "Air Filtering Unit"
+                "en": "Air Filtering Unit",
+                "ru": "Воздушный фильтратор"
             },
             "function": "Allows use of absorbers to increase physical skill leveling speed",
             "imgSource": "/img/Air_Filtering_Unit_Portrait.png"
@@ -19,7 +21,8 @@
         {
             "id": 2,
             "locales": {
-                "en": "Bitcoin farm"
+                "en": "Bitcoin farm",
+                "ru": "Биткоин ферма"
             },
             "function": "Allows production of Physical bitcoins",
             "imgSource": "/img/Bitcoin_farm_Portrait.png"
@@ -27,7 +30,8 @@
         {
             "id": 3,
             "locales": {
-                "en": "Booze generator"
+                "en": "Booze generator",
+                "ru": "Самогонный аппарат"
             },
             "function": "Allows production of moonshine",
             "imgSource": "/img/Booze_generator_Portrait.png"
@@ -35,7 +39,8 @@
         {
             "id": 4,
             "locales": {
-                "en": "Heating"
+                "en": "Heating",
+                "ru": "Обогрев"
             },
             "function": "Provides passive out-of-raid energy regen for your PMC",
             "imgSource": "/img/Heating_Portrait.png"
@@ -43,7 +48,8 @@
         {
             "id": 5,
             "locales": {
-                "en": "Illumination"
+                "en": "Illumination",
+                "ru": "Освещение"
             },
             "function": "A resource sink that gates other modules, while also providing 3d visibility",
             "imgSource": "/img/Illumination_Portrait.png"
@@ -51,7 +57,8 @@
         {
             "id": 6,
             "locales": {
-                "en": "Lavatory"
+                "en": "Lavatory",
+                "ru": "Санузел"
             },
             "function": "Produces various trade items, mainly focused on fluid centric products",
             "imgSource": "/img/Lavatory_Portrait.png"
@@ -59,7 +66,8 @@
         {
             "id": 7,
             "locales": {
-                "en": "Library"
+                "en": "Library",
+                "ru": "Библиотека"
             },
             "function": "Provides exp and practical skills boost",
             "imgSource": "/img/Library_Portrait.png"
@@ -67,7 +75,8 @@
         {
             "id": 8,
             "locales": {
-                "en": "Medstation"
+                "en": "Medstation",
+                "ru": "Медпункт"
             },
             "function": "Provides passive healing and produces various healing items",
             "imgSource": "/img/Medstation_Portrait.png"
@@ -75,7 +84,8 @@
         {
             "id": 9,
             "locales": {
-                "en": "Nutrition Unit"
+                "en": "Nutrition Unit",
+                "ru": "Пищеблок"
             },
             "function": "Provides passive out-of-raid energy regen and produces various consumables",
             "imgSource": "/img/Nutrition_unit_Portrait.png"
@@ -83,7 +93,8 @@
         {
             "id": 10,
             "locales": {
-                "en": "Rest space"
+                "en": "Rest space",
+                "ru": "Зона отдыха"
             },
             "function": "Provides passive out-of-raid energy regen and healing",
             "imgSource": "/img/Rest_Space_Portrait.png"
@@ -91,7 +102,8 @@
         {
             "id": 11,
             "locales": {
-                "en": "Scav case"
+                "en": "Scav case",
+                "ru": "Ящик диких"
             },
             "function": "Provides passive income in the form of follower missions",
             "imgSource": "/img/Scav_case_Portrait.png"
@@ -99,7 +111,8 @@
         {
             "id": 12,
             "locales": {
-                "en": "Security"
+                "en": "Security",
+                "ru": "Безопастность"
             },
             "function": "A resource sink to progress gate other hideout modules",
             "imgSource": "/img/Security_Portrait.png"
@@ -107,7 +120,8 @@
         {
             "id": 13,
             "locales": {
-                "en": "Shooting range"
+                "en": "Shooting range",
+                "ru": "Тир"
             },
             "function": "Allows you to test fire your loadout",
             "imgSource": "/img/Shooting_range_Portrait.png"
@@ -115,7 +129,8 @@
         {
             "id": 14,
             "locales": {
-                "en": "Solar power"
+                "en": "Solar power",
+                "ru": "Солнечная батарея"
             },
             "function": "Reduces generator fuel consumption by half",
             "imgSource": "/img/Solar_power_Portrait.png"
@@ -123,7 +138,8 @@
         {
             "id": 15,
             "locales": {
-                "en": "Stash"
+                "en": "Stash",
+                "ru": "Склад"
             },
             "function": "Provides you with permanent item storage",
             "imgSource": "/img/Stash_Portrait.png"
@@ -131,7 +147,8 @@
         {
             "id": 16,
             "locales": {
-                "en": "Vents"
+                "en": "Vents",
+                "ru": "Вентиляция"
             },
             "function": "A resource sink to progress gate other hideout modules",
             "imgSource": "/img/Vents_Portrait.png"
@@ -139,7 +156,8 @@
         {
             "id": 17,
             "locales": {
-                "en": "Water collector"
+                "en": "Water collector",
+                "ru": "Водосборник"
             },
             "function": "Provides passive out-of-raid hydration regen",
             "imgSource": "/img/Water_collector_Portrait.png"
@@ -147,7 +165,8 @@
         {
             "id": 18,
             "locales": {
-                "en": "Workbench"
+                "en": "Workbench",
+                "ru": "Верстак"
             },
             "function": "Provides a wide variety of potential item crafts",
             "imgSource": "/img/Workbench_Portrait.png"
@@ -155,7 +174,8 @@
         {
             "id": 19,
             "locales": {
-                "en": "Christmas Tree"
+                "en": "Christmas Tree",
+                "ru": "Новогодняя ёлка"
             },
             "function": "Provides a wide variety of potential item crafts",
             "imgSource": "/img/Christmas_tree_Portrait.png",
@@ -164,7 +184,8 @@
         {
             "id": 20,
             "locales": {
-                "en": "Intelligence center"
+                "en": "Intelligence center",
+                "ru": "Разведцентр"
             },
             "function": "Provides passive income boosts and produces rare data items",
             "imgSource": "/img/Intelligence_Center_Portrait.png"
