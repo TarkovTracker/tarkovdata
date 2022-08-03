@@ -8052,7 +8052,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/The_Huntsman_Path_-_Justice",
     "exp": 7200,
-    "nokappa": true,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -8076,7 +8076,7 @@
     "id": 164,
     "require": {
       "level": 17,
-      "quests": [162]
+      "quests": [118, 156]
     },
     "giver": 6,
     "turnin": 6,
@@ -8158,7 +8158,7 @@
     "id": 166,
     "require": {
       "level": 17,
-      "quests": [213]
+      "quests": [192, 156]
     },
     "giver": 6,
     "turnin": 6,
@@ -8487,7 +8487,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Mentor",
     "exp": 4700,
-    "nokappa": true,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [],
     "objectives": [
@@ -9571,8 +9571,9 @@
       "quests": [
         2, 9, 11, 12, 18, 24, 25, 26, 27, 33, 35, 43, 45, 49, 53, 54, 56, 63,
         73, 80, 81, 97, 101, 102, 103, 109, 110, 119, 121, 122, 123, 127, 129,
-        133, 136, 142, 150, 154, 155, 157, 161, 167, 170, 171, 173, 175, 177,
-        178, 179, 180, 181, 193, 196, 197, 206, 229, 230,231,232,233,234, 235,237,238,239, 241, 242, 243
+        133, 136, 142, 150, 154, 155, 157, 161, 163, 164, 167, 168, 170, 171, 
+        173, 174, 175, 177, 178, 179, 180, 181, 193, 196, 197, 206, 210, 211, 213, 214, 215, 
+        216, 229, 230, 231, 232, 233, 234, 235, 237, 239, 241, 242, 243, 247
       ]
     },
     "giver": 7,
@@ -9860,7 +9861,7 @@
     "exp": 0,
     "unlocks": [],
     "reputation": [],
-    "nokappa": true,
+    "nokappa": false,
     "objectives": [
       {
         "type": "collect",
@@ -10828,7 +10829,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Intimidator",
     "exp": 84000,
-    "nokappa": true,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [],
     "objectives": [
@@ -12133,6 +12134,53 @@
           "topPercent": 15.15,
           "floor": "Ground_Level"
         }
+      }
+    ],
+    "gameId": "626bd75d5bef5d7d590bd415"
+  },
+  {
+    "id": 247,
+    "require": {
+      "level": null,
+      "quests": [238]
+    },
+    "giver": 6,
+    "turnin": 6,
+    "title": "Stray Dogs",
+    "locales": {
+      "en": "Stray Dogs"
+    },
+    "nokappa": false,
+    "wiki": "https://escapefromtarkov.fandom.com/wiki/Stray_Dogs",
+    "exp": 12000,
+    "unlocks": [],
+    "reputation": [
+      {
+        "trader": 6,
+        "rep": 0.02
+      }
+    ],
+    "objectives": [
+      {
+        "type": "kill",
+        "target": "Death Knight",
+        "number": 1,
+        "location": -1,
+        "id": 525
+      },
+      {
+        "type": "kill",
+        "target": "Big Pipe",
+        "number": 1,
+        "location": -1,
+        "id": 526
+      },
+      {
+        "type": "kill",
+        "target": "Birdeye",
+        "number": 1,
+        "location": -1,
+        "id": 527
       }
     ],
     "gameId": "626bd75d5bef5d7d590bd415"
