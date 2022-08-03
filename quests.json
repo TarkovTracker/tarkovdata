@@ -12075,7 +12075,12 @@
         "target": "5ac78a9b86f7741cca0bbd8d",
         "number": 1,
         "location": 7,
-        "id": 521
+        "id": 521,
+        "gps": {
+          "leftPercent": 20.15,
+          "topPercent": 45.45,
+          "floor": "Ground_Level"
+        }
       }
     ],
     "gameId": "626bd75e47ea7f506e5493c5"
@@ -12122,7 +12127,12 @@
         "target": "military HDD with archived flight routes",
         "number": 1,
         "location": 7,
-        "id": 524
+        "id": 524,
+        "gps": {
+          "leftPercent": 93,
+          "topPercent": 15.15,
+          "floor": "Ground_Level"
+        }
       }
     ],
     "gameId": "626bd75d5bef5d7d590bd415"
