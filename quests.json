@@ -12078,8 +12078,8 @@
         "location": 7,
         "id": 521,
         "gps": {
-          "leftPercent": 20.15,
-          "topPercent": 45.45,
+          "leftPercent": 45.45,
+          "topPercent": 20.15,
           "floor": "Ground_Level"
         }
       }
@@ -12130,8 +12130,8 @@
         "location": 7,
         "id": 524,
         "gps": {
-          "leftPercent": 93,
-          "topPercent": 15.15,
+          "leftPercent": 15.15,
+          "topPercent": 89.5,
           "floor": "Ground_Level"
         }
       }
