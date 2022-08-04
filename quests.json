@@ -12166,21 +12166,21 @@
         "target": "Death Knight",
         "number": 1,
         "location": -1,
-        "id": 525
+        "id": 496
       },
       {
         "type": "kill",
         "target": "Big Pipe",
         "number": 1,
         "location": -1,
-        "id": 526
+        "id": 528
       },
       {
         "type": "kill",
         "target": "Birdeye",
         "number": 1,
         "location": -1,
-        "id": 527
+        "id": 529
       }
     ],
     "gameId": "626bd75d5bef5d7d590bd415"
