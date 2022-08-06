@@ -2333,7 +2333,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Peacekeeping_mission",
     "exp": 25500,
-    "nokappa": true,
+    "nokappa": false,
     "unlocks": ["60a3c68c37ea821725773ef5"],
     "reputation": [
       {
@@ -5553,7 +5553,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Import",
     "exp": 29000,
-    "nokappa": true,
+    "nokappa": false,
     "unlocks": ["5fc382b6d6fa9c00c571bbc3"],
     "reputation": [
       {
@@ -6561,7 +6561,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Charisma_brings_success",
     "exp": 15600,
-    "nokappa": true,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -6733,7 +6733,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Living_High_is_Not_a_Crime_-_Part_1",
     "exp": 19900,
-    "nokappa": true,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -7595,7 +7595,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Colleagues_-_Part_2",
     "exp": 12300,
-    "nokappa": true,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -7654,7 +7654,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Colleagues_-_Part_3",
     "exp": 15800,
-    "nokappa": true,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -7905,7 +7905,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/The_Huntsman_Path_-_Controller",
     "exp": 7200,
-    "nokappa": true,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -7941,7 +7941,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/The_Huntsman_Path_-_Evil_Watchman",
     "exp": 6000,
-    "nokappa": true,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -8401,7 +8401,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Regulated_materials",
     "exp": 14800,
-    "nokappa": true,
+    "nokappa": false,
     "unlocks": ["5cadfbf7ae92152ac412eeef"],
     "reputation": [
       {
@@ -8441,7 +8441,7 @@
       "ru": "Движуха",
       "cs": "Zmatek"
     },
-    "nokappa": true,
+    "nokappa": false,
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Stirrup",
     "exp": 5300,
     "unlocks": ["59e6687d86f77411d949b251"],
@@ -8911,7 +8911,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Anesthesia",
     "exp": 18100,
-    "nokappa": true,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -8981,7 +8981,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Colleagues_-_Part_1",
     "exp": 12300,
-    "nokappa": true,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -9045,7 +9045,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Rigged_game",
     "exp": 12900,
-    "nokappa": true,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -9112,7 +9112,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Chemistry_closet",
     "exp": 13400,
-    "nokappa": true,
+    "nokappa": false,
     "unlocks": ["5b6d9ce188a4501afc1b2b25"],
     "reputation": [
       {
@@ -9160,7 +9160,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Samples",
     "exp": 15300,
-    "nokappa": true,
+    "nokappa": false,
     "unlocks": ["5e00c1ad86f774747333222c", "5a16b7e1fcdbcb00165aa6c9"],
     "reputation": [
       {
@@ -9237,7 +9237,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/TerraGroup_employee",
     "exp": 17000,
-    "nokappa": true,
+    "nokappa": false,
     "unlocks": ["5e01ef6886f77445f643baa4", "5ef1ba28c64c5d0dfc0571a5"],
     "reputation": [
       {
@@ -9286,7 +9286,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/The_Huntsman_Path_-_Sadist",
     "exp": 16300,
-    "nokappa": true,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -10672,7 +10672,7 @@
       "ru": "Безопасный коридор",
       "cs": "Bezpečný koridor"
     },
-    "nokappa": true,
+    "nokappa": false,
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Safe_corridor",
     "exp": 9000,
     "unlocks": [],
@@ -10915,7 +10915,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Swift_One",
     "exp": 107000,
-    "nokappa": true,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [],
     "objectives": [
@@ -11139,7 +11139,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Long_Line",
     "exp": 84000,
-    "nokappa": true,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [],
     "objectives": [
@@ -11238,7 +11238,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Booze",
     "exp": 107000,
-    "nokappa": true,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [],
     "objectives": [
@@ -11675,7 +11675,7 @@
           "topPercent": 87.79,
           "floor": "Ground_Level"
         },
-        "id": 496
+        "id": 530
       }
     ],
     "gameId": "6179ad74bca27a099552e03a",
@@ -12088,7 +12088,7 @@
     "locales": {
       "en": "Broadcast"
     },
-    "nokappa": true,
+    "nokappa": false,
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Broadcast",
     "exp": 6700,
     "unlocks": [],
@@ -12140,7 +12140,7 @@
     "locales": {
       "en": "Top Secret"
     },
-    "nokappa": true,
+    "nokappa": false,
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Top_Secret",
     "exp": 11700,
     "unlocks": [],
