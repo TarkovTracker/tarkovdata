@@ -2333,7 +2333,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Peacekeeping_mission",
     "exp": 25500,
-    "nokappa": true,
+    "nokappa": false,
     "unlocks": ["60a3c68c37ea821725773ef5"],
     "reputation": [
       {
@@ -5553,7 +5553,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Import",
     "exp": 29000,
-    "nokappa": true,
+    "nokappa": false,
     "unlocks": ["5fc382b6d6fa9c00c571bbc3"],
     "reputation": [
       {
@@ -6561,7 +6561,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Charisma_brings_success",
     "exp": 15600,
-    "nokappa": true,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -6733,7 +6733,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Living_High_is_Not_a_Crime_-_Part_1",
     "exp": 19900,
-    "nokappa": true,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -7547,7 +7547,7 @@
   {
     "id": 151,
     "require": {
-      "level": 15,
+      "level": 2,
       "quests": [139]
     },
     "giver": 6,
@@ -7595,7 +7595,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Colleagues_-_Part_2",
     "exp": 12300,
-    "nokappa": true,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -7654,7 +7654,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Colleagues_-_Part_3",
     "exp": 15800,
-    "nokappa": true,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -7905,7 +7905,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/The_Huntsman_Path_-_Controller",
     "exp": 7200,
-    "nokappa": true,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -7941,7 +7941,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/The_Huntsman_Path_-_Evil_Watchman",
     "exp": 6000,
-    "nokappa": true,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -8401,7 +8401,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Regulated_materials",
     "exp": 14800,
-    "nokappa": true,
+    "nokappa": false,
     "unlocks": ["5cadfbf7ae92152ac412eeef"],
     "reputation": [
       {
@@ -8441,7 +8441,7 @@
       "ru": "Движуха",
       "cs": "Zmatek"
     },
-    "nokappa": true,
+    "nokappa": false,
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Stirrup",
     "exp": 5300,
     "unlocks": ["59e6687d86f77411d949b251"],
@@ -8911,7 +8911,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Anesthesia",
     "exp": 18100,
-    "nokappa": true,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -8981,7 +8981,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Colleagues_-_Part_1",
     "exp": 12300,
-    "nokappa": true,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -9045,7 +9045,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Rigged_game",
     "exp": 12900,
-    "nokappa": true,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -9112,7 +9112,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Chemistry_closet",
     "exp": 13400,
-    "nokappa": true,
+    "nokappa": false,
     "unlocks": ["5b6d9ce188a4501afc1b2b25"],
     "reputation": [
       {
@@ -9160,7 +9160,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Samples",
     "exp": 15300,
-    "nokappa": true,
+    "nokappa": false,
     "unlocks": ["5e00c1ad86f774747333222c", "5a16b7e1fcdbcb00165aa6c9"],
     "reputation": [
       {
@@ -9237,7 +9237,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/TerraGroup_employee",
     "exp": 17000,
-    "nokappa": true,
+    "nokappa": false,
     "unlocks": ["5e01ef6886f77445f643baa4", "5ef1ba28c64c5d0dfc0571a5"],
     "reputation": [
       {
@@ -9286,7 +9286,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/The_Huntsman_Path_-_Sadist",
     "exp": 16300,
-    "nokappa": true,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -9569,11 +9569,13 @@
     "require": {
       "level": 40,
       "quests": [
-        2, 9, 11, 12, 24, 25, 26, 27, 33, 35, 43, 45, 49, 53, 54, 56, 63,
-        80, 81, 97, 101, 103, 109, 110, 119, 121, 122, 123, 127, 129,
-        133, 142, 150, 154, 155, 157, 161, 163, 164, 167, 168, 170, 171, 
-        173, 174, 175, 177, 178, 179, 180, 181, 193, 196, 197, 206, 211, 213, 214, 215, 
-        216, 230, 231, 233, 234, 235, 237, 239, 241, 242, 243, 247
+          2,   7,   9,  11,  12,  24,  25,  27,  33,  35,  45,  50,
+        53,  54,  56,  63,  80,  81,  97, 101, 103, 108, 109, 110,
+        121, 122, 123, 128, 129, 133, 142, 150, 153, 154, 155, 157,
+        159, 160, 161, 163, 164, 167, 168, 170, 172, 173, 174, 175,
+        177, 178, 179, 180, 181, 189, 193, 196, 197, 203, 206, 208,
+        209, 211, 212, 213, 214, 215, 216, 219, 226, 230, 231, 233,
+        234, 235, 237, 239, 242, 243, 245, 246, 247, 248, 249
       ]
     },
     "giver": 7,
@@ -10672,7 +10674,7 @@
       "ru": "Безопасный коридор",
       "cs": "Bezpečný koridor"
     },
-    "nokappa": true,
+    "nokappa": false,
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Safe_corridor",
     "exp": 9000,
     "unlocks": [],
@@ -10915,7 +10917,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Swift_One",
     "exp": 107000,
-    "nokappa": true,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [],
     "objectives": [
@@ -11139,7 +11141,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Long_Line",
     "exp": 84000,
-    "nokappa": true,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [],
     "objectives": [
@@ -11238,7 +11240,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Booze",
     "exp": 107000,
-    "nokappa": true,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [],
     "objectives": [
@@ -11675,7 +11677,7 @@
           "topPercent": 87.79,
           "floor": "Ground_Level"
         },
-        "id": 496
+        "id": 530
       }
     ],
     "gameId": "6179ad74bca27a099552e03a",
@@ -12088,7 +12090,7 @@
     "locales": {
       "en": "Broadcast"
     },
-    "nokappa": true,
+    "nokappa": false,
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Broadcast",
     "exp": 6700,
     "unlocks": [],
@@ -12140,7 +12142,7 @@
     "locales": {
       "en": "Top Secret"
     },
-    "nokappa": true,
+    "nokappa": false,
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Top_Secret",
     "exp": 11700,
     "unlocks": [],
@@ -12226,5 +12228,118 @@
       }
     ],
     "gameId": "626bd75d5bef5d7d590bd415"
+  },
+  {
+    "id": 248,
+    "require": {
+      "level": null,
+      "quests": [241]
+    },
+    "giver": 1,
+    "turnin": 1,
+    "title": "Drug Trafficking",
+    "locales": {
+      "en": "Drug Trafficking"
+    },
+    "nokappa": false,
+    "wiki": "https://escapefromtarkov.fandom.com/wiki/Drug_Trafficking",
+    "exp": 7500,
+    "unlocks": [],
+    "reputation": [
+      {
+        "trader": 1,
+        "rep": 0.03
+      }
+    ],
+    "objectives": [
+      {
+        "type": "locate",
+        "target": "Drug Lab",
+        "number": 1,
+        "location": 7,
+        "id": 531,
+        "gps": {
+          "leftPercent": 58.15,
+          "topPercent": 8.65,
+          "floor": "Ground_Level"
+        }
+      },
+      {
+        "type": "mark",
+        "tool": "5b4391a586f7745321235ab2",
+        "target": "Drug Lab",
+        "number": 1,
+        "location": 7,
+        "gps": {
+          "leftPercent": 58.15,
+          "topPercent": 8.65,
+          "floor": "Ground_Level"
+        },
+        "id": 532
+      }
+    ],
+    "gameId": "626bd75b05f287031503c7f6"
+  },
+  {
+    "id": 249,
+    "require": {
+      "level": null,
+      "quests": [232]
+    },
+    "giver": 0,
+    "turnin": 0,
+    "title": "Reconnaissance",
+    "locales": {
+      "en": "Reconnaissance"
+    },
+    "nokappa": false,
+    "wiki": "https://escapefromtarkov.fandom.com/wiki/Reconnaissance",
+    "exp": 18000,
+    "unlocks": [],
+    "reputation": [
+      {
+        "trader": 0,
+        "rep": 0.03
+      }
+    ],
+    "objectives": [
+      {
+        "type": "locate",
+        "target": "first office building roof",
+        "number": 1,
+        "location": 7,
+        "id": 533,
+        "gps": {
+          "leftPercent": 44.56,
+          "topPercent": 21.75,
+          "floor": "Ground_Level"
+        }
+      },
+      {
+        "type": "locate",
+        "target": "second office building roof",
+        "number": 1,
+        "location": 7,
+        "id": 534,
+        "gps": {
+          "leftPercent": 57.49,
+          "topPercent": 14.47,
+          "floor": "Ground_Level"
+        }
+      },
+      {
+        "type": "locate",
+        "target": "third office building roof",
+        "number": 1,
+        "location": 7,
+        "id": 535,
+        "gps": {
+          "leftPercent": 65.67,
+          "topPercent": 19.08,
+          "floor": "Ground_Level"
+        }
+      }
+    ],
+    "gameId": "626bd75c71bd851e971b82a5"
   }
 ]
