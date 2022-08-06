@@ -9569,11 +9569,11 @@
     "require": {
       "level": 40,
       "quests": [
-        2, 9, 11, 12, 18, 24, 25, 26, 27, 33, 35, 43, 45, 49, 53, 54, 56, 63,
-        73, 80, 81, 97, 101, 102, 103, 109, 110, 119, 121, 122, 123, 127, 129,
-        133, 136, 142, 150, 154, 155, 157, 161, 163, 164, 167, 168, 170, 171, 
-        173, 174, 175, 177, 178, 179, 180, 181, 193, 196, 197, 206, 210, 211, 213, 214, 215, 
-        216, 229, 230, 231, 232, 233, 234, 235, 237, 239, 241, 242, 243, 247
+        2, 9, 11, 12, 24, 25, 26, 27, 33, 35, 43, 45, 49, 53, 54, 56, 63,
+        80, 81, 97, 101, 103, 109, 110, 119, 121, 122, 123, 127, 129,
+        133, 142, 150, 154, 155, 157, 161, 163, 164, 167, 168, 170, 171, 
+        173, 174, 175, 177, 178, 179, 180, 181, 193, 196, 197, 206, 211, 213, 214, 215, 
+        216, 230, 231, 233, 234, 235, 237, 239, 241, 242, 243, 247
       ]
     },
     "giver": 7,
@@ -9913,7 +9913,7 @@
     "id": 199,
     "require": {
       "level": 11,
-      "quests": [[43, 179]]
+      "quests": [43, 179]
     },
     "giver": 0,
     "turnin": 0,
@@ -9948,7 +9948,7 @@
     "id": 200,
     "require": {
       "level": 11,
-      "quests": [[43, 180]]
+      "quests": [43, 180]
     },
     "giver": 1,
     "turnin": 1,
@@ -10004,7 +10004,7 @@
     "id": 201,
     "require": {
       "level": 11,
-      "quests": [[179, 180]]
+      "quests": [179, 180]
     },
     "giver": 2,
     "turnin": 2,
@@ -11640,6 +11640,46 @@
       }
     ],
     "gameId": "61904daa7d0d857927447b9c"
+  },
+  {
+    "id": 236,
+    "require": {
+      "level": null,
+      "quests": [122]
+    },
+    "giver": 5,
+    "turnin": 5,
+    "title": "Communication Difficulties",
+    "locales": {
+      "en": "Communication Difficulties",
+      "ru": "Трудности в общении",
+      "cs": "Komunikační potíže"
+    },
+    "wiki": "https://escapefromtarkov.fandom.com/wiki/Communication_Difficulties",
+    "exp": 9000,
+    "unlocks": ["545cdae64bdc2d39198b4568"],
+    "reputation": [
+      {
+        "trader": 5,
+        "rep": 0.02
+      }
+    ],
+    "objectives": [
+      {
+        "type": "locate",
+        "target": "The area around the lighthouse",
+        "number": 1,
+        "location": 7,
+        "gps": {
+          "leftPercent": 35.46,
+          "topPercent": 87.79,
+          "floor": "Ground_Level"
+        },
+        "id": 496
+      }
+    ],
+    "gameId": "6179ad74bca27a099552e03a",
+    "deprecated": true
   },
   {
     "id": 237,
