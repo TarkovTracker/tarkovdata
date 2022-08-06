@@ -242,7 +242,7 @@ function checkCollectorRequirements(args) {
 	var highestCollectorLevel = Math.max(...allQuestsButCollector.filter(x => x.require.level).reduce((acc, x) => acc.concat(x.require.level), []))
 	console.log(`The highest level quest required for Collector is ${highestCollectorLevel}`)
 
-	console.log('Collector Required Quests:')
+	console.log('Collector Required Leaf Quests:')
 	console.log(finalQuests.reduce((acc, x) => acc.concat(x.title), []))
 
 	// Select the quest with id 195 from debug quests (collector)
