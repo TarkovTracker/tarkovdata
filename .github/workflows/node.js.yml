@@ -23,3 +23,4 @@ jobs:
     - run: npm install
     - run: node cli.js verify-quest-data
     - run: node cli.js verify-hideout-data
+    - run: node cli.js check-collector
