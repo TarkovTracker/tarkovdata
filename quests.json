@@ -11830,7 +11830,7 @@
     "objectives": [
       {
         "type": "kill",
-        "target": "PMCs",
+        "target": "USECs",
         "number": 20,
         "location": 7,
         "id": 492
@@ -11843,6 +11843,7 @@
         "id": 493
       }
     ],
+    "alternatives": [244],
     "gameId": "6179b5b06e9dd54ac275e409"
   },
   {
@@ -12019,7 +12020,7 @@
     "objectives": [
       {
         "type": "kill",
-        "target": "PMCs",
+        "target": "BEARs",
         "number": 20,
         "location": 7,
         "id": 502
@@ -12032,6 +12033,7 @@
         "id": 503
       }
     ],
+    "alternatives": [240],
     "gameId": "6179b5eabca27a099552e052"
   },
   {
