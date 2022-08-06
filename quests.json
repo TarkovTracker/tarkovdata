@@ -3111,6 +3111,7 @@
                 "type": "mark",
                 "tool": "5991b51486f77447b112d44f",
                 "target": "Ritual spot",
+                "hint": "East 321",
                 "number": 1,
                 "location": 3,
                 "gps": {
@@ -3344,6 +3345,7 @@
             {
                 "type": "locate",
                 "target": "Generator 1",
+                "hint": "West 219",
                 "number": 1,
                 "location": 3,
                 "gps": {
@@ -3356,6 +3358,7 @@
             {
                 "type": "locate",
                 "target": "Generator 2",
+                "hint": "East 220",
                 "number": 1,
                 "location": 3,
                 "gps": {
@@ -6801,7 +6804,7 @@
         "id": 133,
         "require": {
             "level": 27,
-            "quests": [131]
+            "quests": [131, 132]
         },
         "giver": 5,
         "turnin": 5,
@@ -6834,6 +6837,20 @@
                 "number": 2,
                 "location": -1,
                 "id": 242
+            },
+            {
+                "type": "find",
+                "target": "62a091170b9d3c46de5b6cf2",
+                "number": 1,
+                "location": -1,
+                "id": 525
+            },
+            {
+                "type": "find",
+                "target": "5e54f62086f774219b0f1937",
+                "number": 2,
+                "location": -1,
+                "id": 526
             }
         ],
         "gameId": "5c1141f386f77430ff393792"
@@ -7828,7 +7845,7 @@
     {
         "id": 157,
         "require": {
-            "level": 17,
+            "level": 20,
             "quests": [156]
         },
         "giver": 6,
@@ -8061,7 +8078,7 @@
         },
         "wiki": "https://escapefromtarkov.fandom.com/wiki/The_Huntsman_Path_-_Justice",
         "exp": 7200,
-        "nokappa": true,
+        "nokappa": false,
         "unlocks": [],
         "reputation": [
             {
@@ -8085,7 +8102,7 @@
         "id": 164,
         "require": {
             "level": 17,
-            "quests": [162]
+            "quests": [118, 156]
         },
         "giver": 6,
         "turnin": 6,
@@ -8167,7 +8184,7 @@
         "id": 166,
         "require": {
             "level": 17,
-            "quests": [213]
+            "quests": [192, 156]
         },
         "giver": 6,
         "turnin": 6,
@@ -8247,7 +8264,7 @@
         },
         "wiki": "https://escapefromtarkov.fandom.com/wiki/Hunting_trip",
         "exp": 22200,
-        "nokappa": true,
+        "nokappa": false,
         "unlocks": [
             "5d383ee786f7742a15793860",
             "5d383e1a86f7742a1468ce63",
@@ -8496,7 +8513,7 @@
         },
         "wiki": "https://escapefromtarkov.fandom.com/wiki/Mentor",
         "exp": 4700,
-        "nokappa": true,
+        "nokappa": false,
         "unlocks": [],
         "reputation": [],
         "objectives": [
@@ -9580,9 +9597,10 @@
             "quests": [
                 2, 9, 11, 12, 18, 24, 25, 26, 27, 33, 35, 43, 45, 49, 53, 54,
                 56, 63, 73, 80, 81, 97, 101, 102, 103, 109, 110, 119, 121, 122,
-                123, 127, 129, 133, 136, 142, 150, 154, 155, 157, 161, 167, 170,
-                171, 173, 175, 177, 178, 179, 180, 181, 193, 196, 197, 206, 229,
-                230, 231, 232, 233, 234, 235, 236, 237, 238, 239, 241, 242, 243
+                123, 127, 129, 133, 136, 142, 150, 154, 155, 157, 161, 163, 164,
+                167, 168, 170, 171, 173, 174, 175, 177, 178, 179, 180, 181, 193,
+                196, 197, 206, 210, 211, 213, 214, 215, 216, 229, 230, 231, 232,
+                233, 234, 235, 237, 239, 241, 242, 243, 247
             ]
         },
         "giver": 7,
@@ -9870,7 +9888,7 @@
         "exp": 0,
         "unlocks": [],
         "reputation": [],
-        "nokappa": true,
+        "nokappa": false,
         "objectives": [
             {
                 "type": "collect",
@@ -10570,18 +10588,20 @@
     {
         "id": 210,
         "require": {
-            "level": 10,
-            "quests": [192]
+            "level": 12,
+            "quests": [6, 192]
         },
         "giver": 0,
         "turnin": 0,
-        "title": "No place for renegades",
+        "title": "No Place for Renegades",
         "locales": {
-            "en": "No place for renegades",
+            "en": "No Place for Renegades",
             "ru": "Ренегатам тут не место",
-            "cs": "Pro odpadlíky tu není místo"
+            "cs": "Pro odpadlíky tu není místo",
+            "fr": "Pas de place pour les renégats",
+            "de": "Kein Platz für Deserteure"
         },
-        "wiki": "https://escapefromtarkov.fandom.com/wiki/No_place_for_renegades",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/No_Place_for_Renegades",
         "exp": 8500,
         "unlocks": [],
         "reputation": [
@@ -10705,7 +10725,7 @@
         "id": 213,
         "require": {
             "level": 17,
-            "quests": [156]
+            "quests": [156, 102]
         },
         "giver": 6,
         "turnin": 6,
@@ -10780,7 +10800,7 @@
     {
         "id": 215,
         "require": {
-            "level": 45,
+            "level": 42,
             "quests": [18]
         },
         "giver": 0,
@@ -10791,7 +10811,7 @@
         },
         "wiki": "https://escapefromtarkov.fandom.com/wiki/Capturing_Outposts",
         "exp": 84000,
-        "nokappa": true,
+        "nokappa": false,
         "unlocks": [],
         "reputation": [],
         "objectives": [
@@ -10836,7 +10856,7 @@
         },
         "wiki": "https://escapefromtarkov.fandom.com/wiki/Intimidator",
         "exp": 84000,
-        "nokappa": true,
+        "nokappa": false,
         "unlocks": [],
         "reputation": [],
         "objectives": [
@@ -10940,7 +10960,7 @@
     {
         "id": 220,
         "require": {
-            "level": 55,
+            "level": 48,
             "quests": []
         },
         "giver": 1,
@@ -10982,6 +11002,13 @@
                 "number": 20,
                 "location": -1,
                 "id": 448
+            },
+            {
+                "type": "find",
+                "target": "62a0a043cf4a99369e2624a5",
+                "number": 10,
+                "location": -1,
+                "id": 527
             }
         ],
         "gameId": "60e71c48c1bfa3050473b8e5"
@@ -11447,7 +11474,7 @@
     {
         "id": 231,
         "require": {
-            "level": 20,
+            "level": 17,
             "quests": [23]
         },
         "giver": 1,
@@ -11541,7 +11568,7 @@
         "objectives": [
             {
                 "type": "kill",
-                "target": "Scavs",
+                "target": "Rogues",
                 "number": 20,
                 "location": 7,
                 "id": 481
@@ -11640,45 +11667,6 @@
             }
         ],
         "gameId": "61904daa7d0d857927447b9c"
-    },
-    {
-        "id": 236,
-        "require": {
-            "level": null,
-            "quests": [122]
-        },
-        "giver": 5,
-        "turnin": 5,
-        "title": "Communication Difficulties",
-        "locales": {
-            "en": "Communication Difficulties",
-            "ru": "Трудности в общении",
-            "cs": "Komunikační potíže"
-        },
-        "wiki": "https://escapefromtarkov.fandom.com/wiki/Communication_Difficulties",
-        "exp": 9000,
-        "unlocks": ["545cdae64bdc2d39198b4568"],
-        "reputation": [
-            {
-                "trader": 5,
-                "rep": 0.02
-            }
-        ],
-        "objectives": [
-            {
-                "type": "locate",
-                "target": "The area around the lighthouse",
-                "number": 1,
-                "location": 7,
-                "gps": {
-                    "leftPercent": 35.46,
-                    "topPercent": 87.79,
-                    "floor": "Ground_Level"
-                },
-                "id": 496
-            }
-        ],
-        "gameId": "6179ad74bca27a099552e03a"
     },
     {
         "id": 237,
@@ -12072,5 +12060,156 @@
             }
         ],
         "gameId": "6179b5eabca27a099552e052"
+    },
+    {
+        "id": 245,
+        "require": {
+            "level": null,
+            "quests": [105]
+        },
+        "giver": 4,
+        "turnin": 4,
+        "title": "Broadcast",
+        "locales": {
+            "en": "Broadcast"
+        },
+        "nokappa": true,
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Broadcast",
+        "exp": 6700,
+        "unlocks": [],
+        "reputation": [
+            {
+                "trader": 4,
+                "rep": 0.03
+            }
+        ],
+        "objectives": [
+            {
+                "type": "key",
+                "target": "62987da96188c076bc0d8c51",
+                "number": 1,
+                "location": 7,
+                "id": 519
+            },
+            {
+                "type": "locate",
+                "target": "The hidden recording studio",
+                "number": 1,
+                "location": 7,
+                "id": 520
+            },
+            {
+                "type": "place",
+                "target": "5ac78a9b86f7741cca0bbd8d",
+                "number": 1,
+                "location": 7,
+                "id": 521,
+                "gps": {
+                    "leftPercent": 20.15,
+                    "topPercent": 45.45,
+                    "floor": "Ground_Level"
+                }
+            }
+        ],
+        "gameId": "626bd75e47ea7f506e5493c5"
+    },
+    {
+        "id": 246,
+        "require": {
+            "level": null,
+            "quests": [47]
+        },
+        "giver": 2,
+        "turnin": 2,
+        "title": "Top Secret",
+        "locales": {
+            "en": "Top Secret"
+        },
+        "nokappa": true,
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Top_Secret",
+        "exp": 11700,
+        "unlocks": [],
+        "reputation": [
+            {
+                "trader": 2,
+                "rep": 0.03
+            }
+        ],
+        "objectives": [
+            {
+                "type": "key",
+                "target": "62987c658081af308d7558c6",
+                "number": 1,
+                "location": 7,
+                "id": 522
+            },
+            {
+                "type": "locate",
+                "target": "Radar station commandant's office",
+                "number": 1,
+                "location": 7,
+                "id": 523
+            },
+            {
+                "type": "pickup",
+                "target": "military HDD with archived flight routes",
+                "number": 1,
+                "location": 7,
+                "id": 524,
+                "gps": {
+                    "leftPercent": 93,
+                    "topPercent": 15.15,
+                    "floor": "Ground_Level"
+                }
+            }
+        ],
+        "gameId": "626bd75d5bef5d7d590bd415"
+    },
+    {
+        "id": 247,
+        "require": {
+            "level": null,
+            "quests": [238]
+        },
+        "giver": 6,
+        "turnin": 6,
+        "title": "Stray Dogs",
+        "locales": {
+            "en": "Stray Dogs"
+        },
+        "nokappa": false,
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Stray_Dogs",
+        "exp": 12000,
+        "unlocks": [],
+        "reputation": [
+            {
+                "trader": 6,
+                "rep": 0.02
+            }
+        ],
+        "objectives": [
+            {
+                "type": "kill",
+                "target": "Death Knight",
+                "number": 1,
+                "location": -1,
+                "id": 496
+            },
+            {
+                "type": "kill",
+                "target": "Big Pipe",
+                "number": 1,
+                "location": -1,
+                "id": 528
+            },
+            {
+                "type": "kill",
+                "target": "Birdeye",
+                "number": 1,
+                "location": -1,
+                "id": 529
+            }
+        ],
+        "gameId": "626bd75d5bef5d7d590bd415"
     }
 ]

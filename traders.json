@@ -3,7 +3,8 @@
         "id": 0,
         "name": "Pavel Yegorovich Romanenko",
         "locale": {
-            "en": "Prapor"
+            "en": "Prapor",
+            "ru": "Прапор"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Prapor",
         "description": "Warrant officer in charge of supply warehouses on the sustaining base for the Internal Troops enforcing the Norvinsk region blockade. During the Contract Wars he secretly supplied the BEAR PMC operators with weapons, ammunition, and various other provisions he had at his disposal.",
@@ -40,7 +41,8 @@
         "id": 1,
         "name": "Elvira Khabibullina",
         "locale": {
-            "en": "Therapist"
+            "en": "Therapist",
+            "ru": "Терапевт"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Therapist",
         "description": "Head of the Trauma Care Department of the Tarkov Central City Hospital.",
@@ -77,7 +79,8 @@
         "id": 2,
         "name": "Alexander Fyodorovich Kiselyov",
         "locale": {
-            "en": "Skier"
+            "en": "Skier",
+            "ru": "Лыжник"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Skier",
         "description": "Port zone customs terminal employee. Initially dealing in the terminal's goods, over the course of conflict put together a gang to grab everything he could put his hands on in the vicinity of the terminal.",
@@ -114,7 +117,8 @@
         "id": 3,
         "name": "Tadeusz Pilsudski",
         "locale": {
-            "en": "Peacekeeper"
+            "en": "Peacekeeper",
+            "ru": "Миротворец"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Peacekeeper",
         "description": "UN peacekeeping force supplies officer, based in one of the central checkpoints leading to the Tarkov port zone. The blue helmets have been venturing into small deals from the very beginning, buying everything of value in exchange for western weapons, ammo and some kinds of military equipment.",
@@ -151,7 +155,8 @@
         "id": 4,
         "name": "Sergey Arsenyevich Samoylov",
         "locale": {
-            "en": "Mechanic"
+            "en": "Mechanic",
+            "ru": "Механик"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Mechanic",
         "description": "Chemical plant foreman before conflict, from its very beginning he took to weapon modification works and repairs and maintenance of complex equipment and tech. He prefers clandestine solo living and operates discreetly, placing complicated and challenging tasks above everything.",
@@ -188,7 +193,8 @@
         "id": 5,
         "name": "Abramyan Arshavir Sarkisivich",
         "locale": {
-            "en": "Ragman"
+            "en": "Ragman",
+            "ru": "Барахольщик"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Ragman",
         "description": "Abramyan Arshavir Sarkisivich aka Ragman. He worked as a director in a big market located in Tarkov's suburb. Sells everything related to clothing and gear.",
@@ -225,7 +231,8 @@
         "id": 6,
         "name": "Ivan Egorovich Kharitonov",
         "locale": {
-            "en": "Jaeger"
+            "en": "Jaeger",
+            "ru": "Егерь"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Jaeger",
         "description": "Kharitonov Ivan Egorovich aka Jaeger. He worked in the forest hunting property of the Priozersky reserve under the State Jaegers Service. Professional hunter and survival specialist. He guarded and guards, no matter what, his jaeger's ground from various aggressive individuals.",
@@ -262,7 +269,8 @@
         "id": 7,
         "name": "<unknown>",
         "locale": {
-            "en": "Fence"
+            "en": "Fence",
+            "ru": "Скупщик"
         },
         "wiki": "https://escapefromtarkov.gamepedia.com/Fence",
         "description": "The conflict had barely started when Fence had already started setting up anonymous outlets for buying and selling goods. Keeping incognito, he nevertheless managed to put together a well-organised smuggler network operating all over Norvinsk region.",
