@@ -245,8 +245,18 @@ function checkCollectorRequirements(args) {
 	console.log('Collector Required Quests:')
 	console.log(finalQuests.reduce((acc, x) => acc.concat(x.title), []))
 
-	console.log('Collector Required Quests by ID:')
-	console.log(finalQuests.reduce((acc, x) => acc.concat(x.id), []))
+	// Select the quest with id 195 from debug quests (collector)
+	var collectorQuest = questDictionaryId[195]
+	// The final leaf nodes for collector
+	var leafNodes = finalQuests.reduce((acc, x) => acc.concat(x.id), [])
+	// Check if the require.quests array is equal to the collector required quests
+	if (JSON.stringify(collectorQuest.require.quests) == JSON.stringify(leafNodes)) {
+		console.log('Collector quest requirements appear correct')
+	}else{
+		console.log('Collector quest requirements appear incorrect')
+		console.log('Collector Required Quests by ID:')
+		console.log(finalQuests.reduce((acc, x) => acc.concat(x.id), []))
+	}
 }
 
 function newHideoutId(args) {
