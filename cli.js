@@ -220,21 +220,21 @@ function checkCollectorRequirements(args) {
 	var highestCollectorLevel = 0
 	var debugQuests = require('./quests.json')
 
-	var questDictionaryTitle = debugQuests.reduce((a, x) => ({ ...a,
-		[x.title]: x
+	var questDictionaryId = debugQuests.reduce((a, x) => ({ ...a,
+		[x.id]: x
 	}), {})
 
 	// First, filter it down to every quest except collector, nokappa quests, and deprecated quests
-	var allQuestsButCollector = debugQuests.filter(x => x.id != 195 && x.deprecated != true && x.nokappa != true)
+	var allQuestsButCollector = debugQuests.filter(x => x.id != 195 && x.deprecated != true && x.nokappa !== true)
 
 	console.log(`Collector currently requires ${allQuestsButCollector.length} quests`)
 
 	// Next, get an array of all required quests
 	var allRequiredQuests = allQuestsButCollector
-		.reduce((acc, x) => acc.concat(x.require.quest), [])
+		.reduce((acc, x) => acc.concat(x.require.quests), [])
 
 	// Find all the leaf node quests (not required for anything except Collector)
-	var finalQuests = allQuestsButCollector.filter(x => allRequiredQuests.indexOf(x.title) < 0)
+	var finalQuests = allQuestsButCollector.filter(x => allRequiredQuests.indexOf(x.id) < 0)
 
 	console.log(`There are ${finalQuests.length} leaf quests (no other quest except Collector requires them)`)
 
@@ -242,8 +242,21 @@ function checkCollectorRequirements(args) {
 	var highestCollectorLevel = Math.max(...allQuestsButCollector.filter(x => x.require.level).reduce((acc, x) => acc.concat(x.require.level), []))
 	console.log(`The highest level quest required for Collector is ${highestCollectorLevel}`)
 
-	console.log('Collector Required Quests:')
+	console.log('Collector Required Leaf Quests:')
 	console.log(finalQuests.reduce((acc, x) => acc.concat(x.title), []))
+
+	// Select the quest with id 195 from debug quests (collector)
+	var collectorQuest = questDictionaryId[195]
+	// The final leaf nodes for collector
+	var leafNodes = finalQuests.reduce((acc, x) => acc.concat(x.id), [])
+	// Check if the require.quests array is equal to the collector required quests
+	if (JSON.stringify(collectorQuest.require.quests) == JSON.stringify(leafNodes)) {
+		console.log('Collector quest requirements appear correct')
+	}else{
+		console.log('Collector quest requirements appear incorrect')
+		console.log('Collector Required Quests by ID:')
+		console.log(finalQuests.reduce((acc, x) => acc.concat(x.id), []))
+	}
 }
 
 function newHideoutId(args) {
