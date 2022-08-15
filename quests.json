@@ -9915,7 +9915,7 @@
     "id": 199,
     "require": {
       "level": 11,
-      "quests": [43, 179]
+      "quests": [[43, 179]]
     },
     "giver": 0,
     "turnin": 0,
@@ -9950,7 +9950,7 @@
     "id": 200,
     "require": {
       "level": 11,
-      "quests": [43, 180]
+      "quests": [[43, 180]]
     },
     "giver": 1,
     "turnin": 1,
@@ -10006,7 +10006,7 @@
     "id": 201,
     "require": {
       "level": 11,
-      "quests": [179, 180]
+      "quests": [[179, 180]]
     },
     "giver": 2,
     "turnin": 2,
