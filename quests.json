@@ -531,7 +531,7 @@
       {
         "type": "kill",
         "target": "PMCs",
-        "number": 12,
+        "number": 8,
         "location": -1,
         "with": ["Grenade"],
         "id": 22
@@ -10793,7 +10793,7 @@
       {
         "type": "kill",
         "target": "PMCs",
-        "number": 15,
+        "number": 12,
         "location": 1,
         "with": ["in the scav base"],
         "id": 438
@@ -10801,7 +10801,7 @@
       {
         "type": "kill",
         "target": "PMCs",
-        "number": 15,
+        "number": 12,
         "location": 2,
         "with": ["in the scav base"],
         "id": 439
@@ -10809,7 +10809,7 @@
       {
         "type": "kill",
         "target": "PMCs",
-        "number": 15,
+        "number": 12,
         "location": 3,
         "with": ["in the pier"],
         "id": 440
@@ -10917,7 +10917,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Swift_One",
     "exp": 107000,
-    "nokappa": false,
+    "nokappa": true,
     "unlocks": [],
     "reputation": [],
     "objectives": [
