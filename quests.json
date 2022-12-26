@@ -3887,7 +3887,7 @@
   {
     "id": 81,
     "require": {
-      "level": 14,
+      "level": 40,
       "quests": [79]
     },
     "giver": 3,
