@@ -121,5 +121,16 @@
             "floors": [ "Ground_Level" ],
             "defaultFloor": "Ground_Level"
         }
+    },
+    "streets": {
+        "id": 8,
+        "locale": {
+            "en": "Streets of Tarkov",
+            "ru": "Улицы Таркова"
+        },
+        "wiki": "https://escapefromtarkov.gamepedia.com/Lighthouse",
+        "description": "Downtown Tarkov houses banks, malls, and hotels, as well as all the other amenities a thriving metropolis could have needed.",
+        "enemies": ["Scavs"],
+        "raidDuration": { "day": 50, "night": 50 },
     }
 }
