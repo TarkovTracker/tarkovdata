@@ -1171,14 +1171,14 @@
   },
   "6179b804bca27a099552e057": {
     "map": "5704e4dad2720bb55b8b4567",
-    "leftPercent": 39.95,
-    "topPercent": 26.08,
+    "leftPercent": 57.7,
+    "topPercent": 25.84,
     "floor": "Ground_Level"
   },
   "617bf2a6f8e6c97ec70878b7": {
     "map": "5704e4dad2720bb55b8b4567",
-    "leftPercent": 24.29,
-    "topPercent": 49.69,
+    "leftPercent": 35.01,
+    "topPercent": 49.37,
     "floor": "Ground_Level"
   },
   "617bf439ea3cfc329331243f": {
@@ -1189,62 +1189,62 @@
   },
   "617bf5860cf4a041de5b396b": {
     "map": "5704e4dad2720bb55b8b4567",
-    "leftPercent": 34.41,
-    "topPercent": 5.34,
+    "leftPercent": 57.02,
+    "topPercent": 5.24,
     "floor": "Ground_Level"
   },
   "61926522b0295324b5484459": {
     "map": "5704e4dad2720bb55b8b4567",
-    "leftPercent": 34.84,
-    "topPercent": 7.77,
+    "leftPercent": 57.36,
+    "topPercent": 5.17,
     "floor": "Ground_Level"
   },
   "6192653d80c326298126aee1": {
     "map": "5704e4dad2720bb55b8b4567",
-    "leftPercent": 43.3,
-    "topPercent": 21.84,
+    "leftPercent": 63.63,
+    "topPercent": 21.16,
     "floor": "Ground_Level"
   },
   "61926544bb0c712ed42d583c": {
     "map": "5704e4dad2720bb55b8b4567",
-    "leftPercent": 31.64,
-    "topPercent": 32.52,
+    "leftPercent": 46.19,
+    "topPercent": 32.68,
     "floor": "Ground_Level"
   },
   "617bf6c70cf4a041de5b3972": {
     "map": "5704e4dad2720bb55b8b4567",
-    "leftPercent": 30.68,
-    "topPercent": 22.08,
+    "leftPercent": 44.82,
+    "topPercent": 21.93,
     "floor": "Ground_Level"
   },
   "61951c30aa0f643f9a0ae1b7": {
     "map": "5704e4dad2720bb55b8b4567",
-    "leftPercent": 39.63,
-    "topPercent": 14.78,
+    "leftPercent": 57.59,
+    "topPercent": 14.59,
     "floor": "Ground_Level"
   },
   "61952308aa0f643f9a0ae20f": {
     "map": "5704e4dad2720bb55b8b4567",
-    "leftPercent": 31.32,
-    "topPercent": 29.66,
+    "leftPercent": 47.33,
+    "topPercent": 28.42,
     "floor": "Ground_Level"
   },
   "6195231dd07bdc6de57b40a5": {
     "map": "5704e4dad2720bb55b8b4567",
-    "leftPercent": 37.07,
-    "topPercent": 17.36,
+    "leftPercent": 54.74,
+    "topPercent": 17.39,
     "floor": "Ground_Level"
   },
   "61952325aa0f643f9a0ae212": {
     "map": "5704e4dad2720bb55b8b4567",
-    "leftPercent": 28.61,
-    "topPercent": 86.55,
+    "leftPercent": 41.97,
+    "topPercent": 87.71,
     "floor": "Ground_Level"
   },
   "6195232a1e972a652931edb6": {
     "map": "5704e4dad2720bb55b8b4567",
-    "leftPercent": 38.03,
-    "topPercent": 60.37,
+    "leftPercent": 52.46,
+    "topPercent": 60.06,
     "floor": "Ground_Level"
   },
   "61904dda7845ea557e7bb808": {
@@ -1255,14 +1255,14 @@
   },
   "61904e76f62c89219a56e04c": {
     "map": "5704e4dad2720bb55b8b4567",
-    "leftPercent": 49.85,
-    "topPercent": 38.44,
+    "leftPercent": 72.53,
+    "topPercent": 38.69,
     "floor": "Ground_Level"
   },
   "61958d54aa0f643f9a0aed73": {
     "map": "5704e4dad2720bb55b8b4567",
-    "leftPercent": 24.61,
-    "topPercent": 61.09,
+    "leftPercent": 36.72,
+    "topPercent": 60.89,
     "floor": "Ground_Level"
   },
   "626c2fdfbbb2011b8952b9f5": {
@@ -1273,8 +1273,8 @@
   },
   "626c3010a371ee3a7a3514cb": {
     "map": "5704e4dad2720bb55b8b4567",
-    "leftPercent": 38.35,
-    "topPercent": 8.44,
+    "leftPercent": 58.27,
+    "topPercent": 8.24,
     "floor": "Ground_Level"
   },
   "626c305d05f287031503c7fc": {
@@ -1315,8 +1315,80 @@
   },
   "626c3158a371ee3a7a3514cc": {
     "map": "5704e4dad2720bb55b8b4567",
-    "leftPercent": 30.68,
-    "topPercent": 22.13,
+    "leftPercent": 45.39,
+    "topPercent": 20.04,
+    "floor": "Ground_Level"
+  },
+  "63ac1b741b5c95746621ddb4": {
+    "map": "5704e4dad2720bb55b8b4567",
+    "leftPercent": 45.81,
+    "topPercent": 21.51,
+    "floor": "Ground_Level"
+  },
+  "63ac1bd387413d64ae0ac22b": {
+    "map": "5704e4dad2720bb55b8b4567",
+    "leftPercent": 57.82,
+    "topPercent": 14.81,
+    "floor": "Ground_Level"
+  },
+  "63ac1c56972364554162a25e": {
+    "map": "5704e4dad2720bb55b8b4567",
+    "leftPercent": 65.19,
+    "topPercent": 19.2,
+    "floor": "Ground_Level"
+  },
+  "63ac1a941b5c95746621ddb2": {
+    "map": "5704e4dad2720bb55b8b4567",
+    "leftPercent": 62.46,
+    "topPercent": 74.51,
+    "floor": "Ground_Level"
+  },
+  "61a00eff2d708d41a34f19b4": {
+    "map": "5704e4dad2720bb55b8b4567",
+    "leftPercent": 60.18,
+    "topPercent": 63.41,
+    "floor": "Ground_Level"
+  },
+  "63ac0c99f83fd608393890bf": {
+    "map": "5704e4dad2720bb55b8b4567",
+    "leftPercent": 55.5,
+    "topPercent": 65.08,
+    "floor": "Ground_Level"
+  },
+  "639d93e2ad9d7e3216668fd5": {
+    "map": "5704e4dad2720bb55b8b4567",
+    "leftPercent": 61.77,
+    "topPercent": 63.06,
+    "floor": "Ground_Level"
+  },
+  "639d93ff2a994a11600df105": {
+    "map": "5704e4dad2720bb55b8b4567",
+    "leftPercent": 59.26,
+    "topPercent": 56.77,
+    "floor": "Ground_Level"
+  },
+  "625ecedaa4eb80027c4f2e0b": {
+    "map": "5704e4dad2720bb55b8b4567",
+    "leftPercent": 57.9,
+    "topPercent": 25.63,
+    "floor": "Ground_Level"
+  },
+  "625ecee6f7308432be1d44c7": {
+    "map": "5704e4dad2720bb55b8b4567",
+    "leftPercent": 60.06,
+    "topPercent": 63.48,
+    "floor": "Ground_Level"
+  },
+  "625eceebc4874104f230c0c7": {
+    "map": "5704e4dad2720bb55b8b4567",
+    "leftPercent": 41.02,
+    "topPercent": 80.45,
+    "floor": "Ground_Level"
+  },
+  "6386410704a59f742a7a3b45": {
+    "map": "5704e4dad2720bb55b8b4567",
+    "leftPercent": 36.15,
+    "topPercent": 74.23,
     "floor": "Ground_Level"
   }
 }
