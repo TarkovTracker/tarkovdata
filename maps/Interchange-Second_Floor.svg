@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" id="svg235" width="1066.0038" height="1041.6603" version="1.1">
   <defs id="defs4">
     <style id="style1">
-      .cls-14{fill:#4b4b4b}.cls-15{fill:#dff2ff}.cls-16{fill:#b3b3b3}.cls-18{fill:#666}
+      .cls-14{fill:#4b4b4b}.cls-15{fill:#dff2ff}.cls-16{fill:#b3b3b3}.cls-18{fill:#666}.shadow{filter:drop-shadow(0 0 8px #000)}
     </style>
   </defs>
   <g id="Second_Floor" data-name="Second Floor">
-    <g id="Structure-2" class="cls-14" data-name="Structure">
+    <g id="Structure-2" class="cls-14 shadow" data-name="Structure">
       <path d="M658.248 155.375v9.25H511.841V318.51h-9.015v309.566h9.015v149.196h145.504v16.068h161.17V649.941h47.74l5.391-22.873V320.129l-5.391-20.873h-47.359V155.375Z"/>
     </g>
     <g id="Floor-2" class="cls-15" data-name="Floor">

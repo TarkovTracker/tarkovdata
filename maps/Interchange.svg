@@ -15,7 +15,7 @@
     <linearGradient xlink:href="#linear-gradient" id="linearGradient118" x1="1245.2842" x2="1245.2842" y1="520.14612" y2="469.14615" gradientTransform="rotate(-90 889 539.5)" gradientUnits="userSpaceOnUse" spreadMethod="pad"/>
     <linearGradient xlink:href="#linear-gradient-2" id="linearGradient119" x1="845.55499" x2="874.55499" y1="284.24237" y2="284.24237" gradientTransform="rotate(-90 889 539.5)" gradientUnits="userSpaceOnUse"/>
     <style id="style1">
-      .cls-1{fill:#0c343d}.cls-2{fill:#0c3450}.cls-3{fill:#333}.cls-4{fill:#b4b4b4}.cls-5{fill:#7d7d7d}.cls-10,.cls-12,.cls-17,.cls-6,.cls-7,.cls-9{fill:none;stroke-miterlimit:10}.cls-6,.cls-7{stroke:#b4b4b4}.cls-6{stroke-width:8px}.cls-9{stroke-width:13px}.cls-7{stroke-width:16px}.cls-9{stroke:url(#linear-gradient)}.cls-17{stroke-width:9px}.cls-10{stroke:url(#linear-gradient-2);stroke-width:16}.cls-12{stroke:#cb7e54;stroke-width:2px;stroke-dasharray:6}.cls-13{fill:#cff}.cls-14{fill:#4b4b4b}.cls-15{fill:#dff2ff}.cls-16{fill:#b3b3b3}.cls-17{stroke:url(#linear-gradient-4)}.cls-18{fill:#666}
+      .cls-1{fill:#0c343d}.cls-2{fill:#0c3450}.cls-3{fill:#333}.cls-4{fill:#b4b4b4}.cls-5{fill:#7d7d7d}.cls-10,.cls-12,.cls-17,.cls-6,.cls-7,.cls-9{fill:none;stroke-miterlimit:10}.cls-6,.cls-7{stroke:#b4b4b4}.cls-6{stroke-width:8px}.cls-9{stroke-width:13px}.cls-7{stroke-width:16px}.cls-9{stroke:url(#linear-gradient)}.cls-17{stroke-width:9px}.cls-10{stroke:url(#linear-gradient-2);stroke-width:16}.cls-12{stroke:#cb7e54;stroke-width:2px;stroke-dasharray:6}.cls-13{fill:#cff}.cls-14{fill:#4b4b4b}.cls-15{fill:#dff2ff}.cls-16{fill:#b3b3b3}.cls-17{stroke:url(#linear-gradient-4)}.cls-18{fill:#666}.shadow{filter:drop-shadow(0 0 8px #000)}
     </style>
   </defs>
   <g id="Ground_Level" data-name="Ground Level">
@@ -125,7 +125,7 @@
     </g>
   </g>
   <g id="First_Floor" data-name="First Floor">
-    <g id="Structure-1" class="cls-14" data-name="Structure">
+    <g id="Structure-1" class="cls-14 shadow" data-name="Structure">
       <path d="M658.201 155.434v9.25H511.793V318.57h-9.014v309.565h9.014v149.197h145.504V793.4h161.17V650.001h47.74l5.392-22.874V320.188l-5.392-20.872h-47.359V155.434Z"/>
     </g>
     <g id="Floor-1" class="cls-15">
@@ -157,7 +157,7 @@
     </g>
   </g>
   <g id="Second_Floor" data-name="Second Floor">
-    <g id="Structure-2" class="cls-14" data-name="Structure">
+    <g id="Structure-2" class="cls-14 shadow" data-name="Structure">
       <path d="M658.248 155.375v9.25H511.841V318.51h-9.015v309.566h9.015v149.196h145.504v16.068h161.17V649.941h47.74l5.391-22.873V320.129l-5.391-20.873h-47.359V155.375Z"/>
     </g>
     <g id="Floor-2" class="cls-15" data-name="Floor">

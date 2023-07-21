@@ -6,11 +6,11 @@
     </linearGradient>
     <linearGradient xlink:href="#linear-gradient-2" id="linear-gradient-4" x1="1029.4612" x2="1029.4703" y1="568.98944" y2="551.5318" gradientTransform="matrix(1 0 0 .567859 -395.63618 242.95681)"/>
     <style id="style1">
-      .cls-17{fill:none;stroke-miterlimit:10;stroke-width:9px}.cls-14{fill:#4b4b4b}.cls-15{fill:#dff2ff}.cls-16{fill:#b3b3b3}.cls-17{stroke:url(#linear-gradient-4)}
+      .cls-17{fill:none;stroke-miterlimit:10;stroke-width:9px}.cls-14{fill:#4b4b4b}.cls-15{fill:#dff2ff}.cls-16{fill:#b3b3b3}.cls-17{stroke:url(#linear-gradient-4)}.shadow{filter:drop-shadow(0 0 8px #000)}
     </style>
   </defs>
   <g id="First_Floor" data-name="First Floor">
-    <g id="Structure-1" class="cls-14" data-name="Structure">
+    <g id="Structure-1" class="cls-14 shadow" data-name="Structure">
       <path id="path1" d="M658.201 155.434v9.25H511.793V318.57h-9.014v309.565h9.014v149.197h145.504V793.4h161.17V650.001h47.74l5.392-22.874V320.188l-5.392-20.872h-47.359V155.434Z"/>
     </g>
     <g id="Floor-1" class="cls-15">
