@@ -8,7 +8,7 @@
       <stop id="stop3" offset="0" stop-color="#616161"/>
       <stop id="stop4" offset="1" stop-color="#b4b4b4"/>
     </linearGradient>
-    <linearGradient xlink:href="#linear-gradient-2" id="linear-gradient-4" x1="827" x2="848" gradientTransform="matrix(1 0 0 .567859 -395.63618 242.95681)"/>
+    <linearGradient xlink:href="#linear-gradient-2" id="linear-gradient-4" x1="1029.4612" x2="1029.4703" y1="568.98944" y2="551.5318" gradientTransform="matrix(1 0 0 .567859 -395.63618 242.95681)"/>
     <linearGradient xlink:href="#linear-gradient" id="linearGradient115" x1="661.40375" x2="661.40375" y1="518.72058" y2="467.72089" gradientTransform="rotate(-90 889 539.5)" gradientUnits="userSpaceOnUse" spreadMethod="pad"/>
     <linearGradient xlink:href="#linear-gradient" id="linearGradient116" x1="738.36768" x2="777.32471" y1="503.51807" y2="503.82739" gradientTransform="rotate(-90 889 539.5)" gradientUnits="userSpaceOnUse" spreadMethod="pad"/>
     <linearGradient xlink:href="#linear-gradient" id="linearGradient117" x1="1167.3701" x2="1129.3633" y1="503.04306" y2="502.40213" gradientTransform="rotate(-90 889 539.5)" gradientUnits="userSpaceOnUse" spreadMethod="pad"/>
@@ -48,8 +48,8 @@
         <path d="M818.529 758.909V650.303h41.736v108.606Z"/>
         <path d="m753.91 156.026-.014-16.809-58.744-.02.136 16.778"/>
       </g>
-      <g id="Garage">
-        <path d="m692.117 155.838.344 168.435h-40.488v24.852h-40.272v-48.928h25.615V165.014h-77.617v72.897l-7.414.145.073-12.989-13.646-.09.036-13.773-3.076-9.752h-23.745v141.665h17.352l.004 61.18h-26.694v41.172h78.872l-.26 64.527h-78.54v39.707h73.189l-.366 117.559h-63.555l-.344 57.494h37.899v53.05l57.629.172v-25.294h53.106V633.436h-36.026v-15.944h4.979v7.85h25.478v4.049l40.106.193v164.101h59.762v-30.683h25.437v-20.391h38.755v-44.365h-64.192v-68.662h90.677v-.182h.489V592.65h18.089v-66.486h-18.089v-21.295h17.933v-56.984h-17.933v-20.44h17.993v-66.338h-17.993v-40.008h-57.661V593.73H679.068v11.877h-11.879v-25.783h-7.46v-26.072h-50.467v-18.68l8.151-.17-.146-14.289-8.005-.049v-17.08h62.271v-52.943h-62.271l.033-73.033 51.482-.151v-7.994h68.264v-44.722h27.492v-69.762l62.301-.146v-43l-38.934.146v-21.533h-25.696l-.199-34.508ZM552.285 308.662h38.467v13.42h-38.467Z" class="cls-5"/>
+      <g id="Garage" class="cls-5">
+        <path d="m692.117 155.838.344 168.435h-40.488v24.852h-40.272v-48.928h25.615V165.014h-77.617v72.897l-7.414.145.073-12.989-13.646-.09.036-13.773-3.076-9.752h-23.745v141.665h17.352l.004 61.18h-26.694v41.172h78.872l-.26 64.527h-78.54v39.707h73.189l-.366 117.559h-63.555l-.344 57.494h37.899v53.05l57.629.172v-25.294h53.106V633.436h-36.026v-15.944h4.979v7.85h25.478v4.049l40.106.193v164.101h59.762v-30.683h25.437v-20.391h38.755v-44.365h-64.192v-68.662h90.677v-.182h.489V592.65h18.089v-66.486h-18.089v-21.295h17.933v-56.984h-17.933v-20.44h17.993v-66.338h-17.993v-40.008h-57.661V593.73H679.068v11.877h-11.879v-25.783h-7.46v-26.072h-50.467v-18.68l8.151-.17-.146-14.289-8.005-.049v-17.08h62.271v-52.943h-62.271l.033-73.033 51.482-.151v-7.994h68.264v-44.722h27.492v-69.762l62.301-.146v-43l-38.934.146v-21.533h-25.696l-.199-34.508ZM552.285 308.662h38.467v13.42h-38.467Z"/>
       </g>
     </g>
     <g id="Roads">
@@ -124,8 +124,8 @@
       <path d="M918.893 82.8625v5.5468h-5.398v-5.5468Z"/>
     </g>
   </g>
-  <g id="First_Floor" class="cls-14" data-name="First Floor">
-    <g id="Structure-1" data-name="Structure">
+  <g id="First_Floor" data-name="First Floor">
+    <g id="Structure-1" class="cls-14" data-name="Structure">
       <path d="M658.201 155.434v9.25H511.793V318.57h-9.014v309.565h9.014v149.197h145.504V793.4h161.17V650.001h47.74l5.392-22.874V320.188l-5.392-20.872h-47.359V155.434Z"/>
     </g>
     <g id="Floor-1" class="cls-15">
