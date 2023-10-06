@@ -447,7 +447,7 @@
       <use xlink:href="#ladder-39" id="use433" x="0" y="0"/>
     </g>
   </g>
-  <g id="First_Floor" class="shadow">
+  <g id="First_Floor" class="shadow" data-keep-with-group="Ground_Level">
     <g id="Ladders-1" class="stairs">
       <path d="m484.7072 157.31838-1.33789.24219 1.22461 6.63867 1.32031-.24023z"/>
       <use xlink:href="#ladder-11" id="use466" x="0" y="0"/>
