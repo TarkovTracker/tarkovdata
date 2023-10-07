@@ -580,7 +580,6 @@
       <use xlink:href="#ladder-20" id="use504" x="0" y="0"/>
       <use xlink:href="#ladder-21" id="use505" x="0" y="0"/>
       <use xlink:href="#ladder-22" id="use506" x="0" y="0"/>
-      <use xlink:href="#ladder-23" id="use507" x="0" y="0"/>
       <use xlink:href="#ladder-24" id="use508" x="0" y="0"/>
       <use xlink:href="#ladder-25" id="use509" x="0" y="0"/>
       <use xlink:href="#ladder-26" id="use510" x="0" y="0"/>
@@ -628,6 +627,7 @@
   </g>
   <g id="Third_Floor" class="shadow">
     <g id="Ladders-3" class="stairs">
+      <use xlink:href="#ladder-23" id="use507" x="0" y="0"/>
       <use xlink:href="#ladder-25" id="use518" x="0" y="0"/>
       <use xlink:href="#ladder-26" id="use519" x="0" y="0"/>
       <use xlink:href="#ladder-27" id="use520" x="0" y="0"/>
