@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 <svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" id="svg1" width="1401.8693" height="1420.5972" x="0" y="0" version="1.1" viewBox="0 0 1401.8692 1420.5971">
+=======
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" id="svg1" version="1.1" viewBox="0 0 1401.8693 1420.5972">
+>>>>>>> 4e666e5062a035619bcd2ac597ab592ea85cdcbe
   <style id="style_common">
     .cement { fill:#c6c2c2 }
     .land { fill:#0c343c }
