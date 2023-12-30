@@ -1247,7 +1247,7 @@
   {
     "id": 28,
     "require": {
-      "level": 10,
+      "level": 20,
       "quests": [23]
     },
     "giver": 1,
