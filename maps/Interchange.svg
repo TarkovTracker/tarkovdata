@@ -1,14 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" id="svg235" width="977.09998" height="918.55939" version="1.1" viewBox="0 0 977.09998 977.09998">
   <style id="style_common">
+    .trees { fill:#144043 }
     .cement { fill:#c6c2c2 }
-    .land { fill:#0c343c }
-    .rock { fill:#ffffcd }
-    .water { fill:#0056ab }
+    .land { fill:#1f5054 }
+    .rock { fill:#dcd5b6 }
+    .water { fill:#4a6b96 }
     .wood { fill:#593700 }
-    .tarmac { fill:#888 }
+    .tarmac { fill:#768089 }
     .gravel { fill:#946d3e }
-    .building { fill:#88d1fd }
-    .map_border { fill:none;stroke:#000;stroke-width:4 }
+    .building { fill:#1a2632 }
+    .floor { fill:#37414c }
+    .locked { fill:#70777f }
+    .map_border { fill:none;stroke:#000;stroke-width:2 }
     .fence { fill:none;stroke:#c4e3c3;stroke-width:1 }
     .road_tarmac { fill:none;stroke:#888 }
     .road_gravel { fill:none;stroke:#946d3e }
@@ -16,12 +19,14 @@
     .road_medium { stroke-width:8 }
     .road_large { stroke-width:12 }
     .railroad { fill:none;stroke:#914833;stroke-dasharray:6;stroke-width:3 }
+    .powerline { fill:none;stroke:#ffce00;stroke-width:2;stroke-miterlimit:10;stroke-dasharray:6,6 }
     .danger { fill:red;fill-opacity:.4;stroke:red;stroke-dasharray:4,2;stroke-width:2 }
+    .task { fill:#000 }
+    .stairs { fill:#FFD700 }
+    .shadow { filter:drop-shadow(0 0 2px #000) }
   </style>
   <style id="style_interchange">
-    .shadow{filter:drop-shadow(0 0 8px #000)}
     .structure{ fill:#4b4b4b }
-    .powerline{ fill:none;stroke:#ffce00;stroke-width:2;stroke-miterlimit:10;stroke-dasharray:6,6 }
   </style>
   <defs id="defs1">
     <linearGradient id="rampDown_l2r">
