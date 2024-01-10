@@ -24,9 +24,6 @@
     .task { fill:#000 }
     .stairs { fill:#FFD700 }
     .shadow { filter:drop-shadow(0 0 2px #000) }
-</style>
-  <style id="style_streets">
-    .shadow { filter:drop-shadow(0 0 8px #000) }
   </style>
   <defs id="defs1">
     <path id="stairs-16" d="M5060.1654-1074.1023v-12.6666h26.6667v25.3333h-26.6667z" />
