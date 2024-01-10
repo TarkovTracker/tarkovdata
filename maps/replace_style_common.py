@@ -1,6 +1,7 @@
 import os
 import xml.etree.ElementTree as ET
 
+
 def replace_style(svg_path, new_style_path, output_path, overwrite):
     # Parse the SVG file
     tree = ET.parse(svg_path)
@@ -28,9 +29,13 @@ def replace_style(svg_path, new_style_path, output_path, overwrite):
     else:
         print(f'Style with id="style_common" not found in {svg_path}.')
 
+
 def process_svg_files(overwrite):
     # Get the directory of the script
     script_directory = os.path.dirname(os.path.realpath(__file__))
+
+    ET.register_namespace("", "http://www.w3.org/2000/svg")
+    ET.register_namespace("xlink", "http://www.w3.org/1999/xlink")
 
     # Loop over all files in the script directory
     for filename in os.listdir(script_directory):
@@ -46,9 +51,10 @@ def process_svg_files(overwrite):
             else:
                 # Assume output files should have "_modified" appended to the original name
                 output_path = os.path.join(script_directory, f'{os.path.splitext(filename)[0]}_modified.svg')
-                
+
                 # Process the SVG file and save to a new file
                 replace_style(svg_path, new_style_path, output_path, False)
+
 
 if __name__ == "__main__":
     # Ask the user whether to overwrite original files
