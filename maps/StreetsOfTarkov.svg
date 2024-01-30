@@ -25,7 +25,7 @@
     .stairs { fill:#FFD700 }
     .shadow { filter:drop-shadow(0 0 2px #000) }
   </style>
-  <g id="defs1">
+  <defs id="defs1">
     <path id="stairs-16" d="M381.676 148.906v-1.548h3.26v3.096h-3.26Z"/>
     <path id="stairs-17" d="M280.453 177.431v-1.06h1.141v-.489h1.467v2.608h-2.608Z"/>
     <path id="stairs-18" d="M368.473 182.076v-2.771h3.586v5.542h-3.586Z"/>
@@ -103,7 +103,7 @@
     <path id="cinema-2" d="M485.344 708.729v-2.282h2.608v1.467h2.445v3.097h-5.053Z"/>
     <path id="cinema-3" d="M499.199 681.373h3.097v1.793h-3.097Z"/>
     <path id="cinema-4" d="M499.199 716.747v-.978h3.097v1.956h-3.097Z"/>
-  </g>
+  </defs>
   <g id="Ground_Level">
     <g id="cement" class="cement">
       <use xlink:href="#border_path" x="0" y="0"/>
