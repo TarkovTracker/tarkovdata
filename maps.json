@@ -6,16 +6,15 @@
             "en": "Factory",
             "ru": "Завод"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Factory",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Factory",
         "description": "",
         "enemies": [
             "Scavs",
-            "Tagilla",
-            "Cultists"
+            "Tagilla"
         ],
         "raidDuration": {
             "day": 20,
-            "night": 25
+            "night": 20
         },
         "svg": {
             "file": "Factory.svg",
@@ -46,16 +45,23 @@
             "en": "Customs",
             "ru": "Таможня"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Customs",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Customs",
         "description": "Taking place in an industrial part of Tarkov, Customs features a self-storage lot, a river with a bridge, a two and three story dormitory, gas stations, warehouses, construction zones, and some military checkpoints.",
         "enemies": [
             "Scavs",
-            "Cultists",
-            "Reshala"
+            "Sniper",
+            "Death Knight",
+            "Rogue",
+            "Big Pipe",
+            "Birdeye",
+            "Reshala",
+            "Reshala Guard",
+            "Cultist Priest",
+            "Cultist Warrior"
         ],
         "raidDuration": {
-            "day": 35,
-            "night": 35
+            "day": 40,
+            "night": 40
         },
         "svg": {
             "file": "Customs.svg",
@@ -83,12 +89,19 @@
             "en": "Woods",
             "ru": "Лес"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Woods",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Woods",
         "description": "",
         "enemies": [
             "Scavs",
-            "Cultists",
-            "Shturman"
+            "Sniper",
+            "Death Knight",
+            "Rogue",
+            "Big Pipe",
+            "Birdeye",
+            "Shturman",
+            "Shturman Guard",
+            "Cultist Priest",
+            "Cultist Warrior"
         ],
         "raidDuration": {
             "day": 40,
@@ -120,16 +133,23 @@
             "en": "Shoreline",
             "ru": "Берег"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Shoreline",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Shoreline",
         "description": "A large map that runs along a shoreline. A small town, a sunken village, a gas station, a pier, a guarded pill-box, a radio station, and, most notably, a large 3-story health resort are included. The health resort also has a basement in-ground pool, a gym, tennis courts, and a theatre.",
         "enemies": [
             "Scavs",
-            "Cultists",
-            "Sanitar"
+            "Sniper",
+            "Death Knight",
+            "Rogue",
+            "Big Pipe",
+            "Birdeye",
+            "Sanitar",
+            "Sanitar Guard",
+            "Cultist Priest",
+            "Cultist Warrior"
         ],
         "raidDuration": {
-            "day": 50,
-            "night": 50
+            "day": 45,
+            "night": 45
         },
         "svg": {
             "file": "Shoreline.svg",
@@ -161,15 +181,15 @@
             "en": "Interchange",
             "ru": "Развязка"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Interchange",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Interchange",
         "description": "A three-story shopping complex comprising of a variety of different types of stores typical to malls, as well as 3 major anchor stores IDEA, OLI, and Goshan. It also has underground parking, roads circling the building, and a go-kart track.",
         "enemies": [
             "Scavs",
             "Killa"
         ],
         "raidDuration": {
-            "day": 45,
-            "night": 45
+            "day": 40,
+            "night": 40
         },
         "svg": {
             "file": "Interchange.svg",
@@ -199,14 +219,14 @@
             "en": "The Lab",
             "ru": "Лаборатория"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/The_Lab",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/The_Lab",
         "description": "Underground laboratory complex TerraGroup Labs is a secret object right under the center of Tarkov. Officially, this research center does not exist and, based on data scraps, is engaged in R&D, testing and simulation projects in chemistry, physics, biology, and high-tech areas.",
         "enemies": [
-            "Raiders"
+            "Raider"
         ],
         "raidDuration": {
-            "day": 40,
-            "night": 40
+            "day": 35,
+            "night": 35
         },
         "svg": {
             "file": "Labs.svg",
@@ -236,12 +256,15 @@
             "en": "Reserve",
             "ru": "Резерв"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Reserve",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Reserve",
         "description": "The secret Federal State Reserve Agency base that, according to urban legends, contains enough supplies to last for years: food, medications and other resources, enough to survive an all-out nuclear war.",
         "enemies": [
             "Scavs",
-            "Raiders",
-            "Glukhar"
+            "Glukhar",
+            "Glukhar Guard (Assault)",
+            "Glukhar Guard (Security)",
+            "Glukhar Guard (Scout)",
+            "Raider"
         ],
         "raidDuration": {
             "day": 40,
@@ -274,11 +297,17 @@
             "en": "Lighthouse",
             "ru": "Маяк"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Lighthouse",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Lighthouse",
         "description": "The lighthouse at Cape Dalniy used to be an important strategic position for the city. Upon the outbreak of the conflict, USEC used the Lighthouse area as its landing zone, and in so doing attracted the attention of BEAR forces who were hell bent on reducing the hostile PMCs forces to zero.",
         "enemies": [
             "Scavs",
-            "Rogues"
+            "Sniper",
+            "Zryachiy",
+            "Zryachiy Guard",
+            "Death Knight",
+            "Rogue",
+            "Big Pipe",
+            "Birdeye"
         ],
         "raidDuration": {
             "day": 40,
@@ -309,7 +338,22 @@
         "locale": {
             "en": "Streets of Tarkov"
         },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Streets_of_Tarkov",
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Streets_of_Tarkov",
+        "enemies": [
+            "Scavs",
+            "Sniper",
+            "Kollontay",
+            "Kollontay Guard (Security)",
+            "Kollontay Guard (Assault)",
+            "Kaban",
+            "Kaban Guard",
+            "Kaban Guard (CQB 1) Guard",
+            "Kaban Guard (CQB 2) Guard"
+        ],
+        "raidDuration": {
+            "day": 50,
+            "night": 50
+        },
         "svg": {
             "file": "StreetsOfTarkov.svg",
             "floors": [
@@ -333,6 +377,31 @@
                     548
                 ]
             ]
+        }
+    },
+    "ground-zero": {
+        "id": 9,
+        "tdevId": "653e6760052c01c1c805532f",
+        "locale": {
+            "en": "Ground Zero",
+            "ru": "Граунд Зеро"
+        },
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Ground_Zero",
+        "description": "The business center of Tarkov. This is where TerraGroup was headquartered. This is where it all began.",
+        "enemies": [
+            "Scavs",
+            "Sniper"
+        ],
+        "raidDuration": {
+            "day": 50,
+            "night": 50
+        },
+        "svg": {
+            "file": "",
+            "floors": [],
+            "defaultFloor": "Ground_Level",
+            "coordinateRotation": 0,
+            "bounds": []
         }
     }
 }
