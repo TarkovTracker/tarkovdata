@@ -15,6 +15,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Debut",
     "exp": 1700,
+    "nokappa": false,
     "unlocks": ["57dc2fa62459775949412633"],
     "reputation": [
       {
@@ -56,6 +57,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Checking",
     "exp": 1800,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -102,6 +104,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Shootout_picnic",
     "exp": 2000,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -136,6 +139,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Delivery_from_the_past",
     "exp": 4000,
+    "nokappa": false,
     "unlocks": ["56dff3afd2720bba668b4567"],
     "reputation": [
       {
@@ -194,6 +198,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/BP_depot",
     "exp": 2800,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -281,6 +286,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Bad_rep_evidence",
     "exp": 4100,
+    "nokappa": false,
     "unlocks": ["576fd4ec2459777f0b518431"],
     "reputation": [
       {
@@ -327,6 +333,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Ice_cream_cones",
     "exp": 5200,
+    "nokappa": false,
     "unlocks": ["55d482194bdc2d1d4e8b456b"],
     "reputation": [
       {
@@ -362,6 +369,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Postman_Pat_-_Part_1",
     "exp": 5900,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -407,6 +415,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Shaking_up_the_Teller",
     "exp": 5900,
+    "nokappa": false,
     "unlocks": ["57ffb0e42459777d047111c5", "59c0ec5b86f77435b128bfca"],
     "reputation": [
       {
@@ -457,6 +466,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Perfect_mediator",
     "exp": 20900,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -525,6 +535,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Grenadier",
     "exp": 18000,
+    "nokappa": false,
     "unlocks": ["5c1260dc86f7746b106e8748", "5cadf6eeae921500134b2799"],
     "reputation": [],
     "objectives": [
@@ -555,6 +566,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Insomnia",
     "exp": 18200,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -590,6 +602,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Test_drive_-_Part_1",
     "exp": 18200,
+    "nokappa": false,
     "unlocks": ["5c0d668f86f7747ccb7f13b2"],
     "reputation": [
       {
@@ -625,6 +638,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/The_Punisher_-_Part_1",
     "exp": 10200,
+    "nokappa": false,
     "unlocks": ["55801eed4bdc2d89578b4588"],
     "reputation": [
       {
@@ -660,6 +674,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/The_Punisher_-_Part_2",
     "exp": 13100,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -702,6 +717,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/The_Punisher_-_Part_3",
     "exp": 11700,
+    "nokappa": false,
     "unlocks": ["5e023d34e8a400319a28ed44"],
     "reputation": [
       {
@@ -741,6 +757,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/The_Punisher_-_Part_4",
     "exp": 18000,
+    "nokappa": false,
     "unlocks": ["56dff061d2720bb5668b4567"],
     "reputation": [
       {
@@ -795,6 +812,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/The_Punisher_-_Part_5",
     "exp": 18200,
+    "nokappa": false,
     "unlocks": ["59e0d99486f7744a32234762"],
     "reputation": [
       {
@@ -851,6 +869,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/The_Punisher_-_Part_6",
     "exp": 20600,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -908,6 +927,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Shortage",
     "exp": 2000,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -942,6 +962,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Sanitary_Standards_-_Part_1",
     "exp": 2200,
+    "nokappa": false,
     "unlocks": ["590c661e86f7741e566b646a"],
     "reputation": [
       {
@@ -976,6 +997,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Sanitary_Standards_-_Part_2",
     "exp": 4500,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -1010,6 +1032,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Painkiller",
     "exp": 4500,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -1045,6 +1068,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Pharmacist",
     "exp": 5700,
+    "nokappa": false,
     "unlocks": ["5aa7cfc0e5b5b00015693143"],
     "reputation": [
       {
@@ -1091,6 +1115,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Supply_plans",
     "exp": 7700,
+    "nokappa": true,
     "unlocks": [],
     "reputation": [
       {
@@ -1137,6 +1162,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Kind_of_sabotage",
     "exp": 4500,
+    "nokappa": true,
     "unlocks": [],
     "reputation": [
       {
@@ -1183,6 +1209,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/General_wares",
     "exp": 4800,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -1217,6 +1244,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Car_repair",
     "exp": 6900,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -1260,6 +1288,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Health_Care_Privacy_-_Part_1",
     "exp": 4800,
+    "nokappa": false,
     "unlocks": ["590c678286f77426c9660122"],
     "reputation": [
       {
@@ -1329,6 +1358,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Health_Care_Privacy_-_Part_2",
     "exp": 5900,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -1375,6 +1405,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Health_Care_Privacy_-_Part_3",
     "exp": 6000,
+    "nokappa": false,
     "unlocks": ["544fb3f34bdc2d03748b456a"],
     "reputation": [
       {
@@ -1414,6 +1445,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Health_Care_Privacy_-_Part_4",
     "exp": 10200,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -1448,6 +1480,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Health_Care_Privacy_-_Part_5",
     "exp": 7300,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -1487,6 +1520,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Decontamination_service",
     "exp": 7400,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -1522,6 +1556,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Private_clinic",
     "exp": 30600,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -1563,6 +1598,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Athlete",
     "exp": 19600,
+    "nokappa": false,
     "unlocks": ["5c10c8fd86f7743d7d706df3"],
     "reputation": [
       {
@@ -1597,6 +1633,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Supplier",
     "exp": 3300,
+    "nokappa": false,
     "unlocks": ["59f9cabd86f7743a10721f46"],
     "reputation": [
       {
@@ -1638,6 +1675,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/The_Extortionist",
     "exp": 3200,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -1684,6 +1722,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/What%27s_on_the_flash_drive%3F",
     "exp": 4500,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -1722,6 +1761,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Golden_Swag",
     "exp": 4500,
+    "nokappa": false,
     "unlocks": ["584984812459776a704a82a6"],
     "reputation": [
       {
@@ -1787,6 +1827,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Chemical_-_Part_1",
     "exp": 4800,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -1833,6 +1874,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Chemical_-_Part_2",
     "exp": 4800,
+    "nokappa": false,
     "unlocks": ["5a966f51a2750c00156aacf6"],
     "reputation": [
       {
@@ -1891,6 +1933,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Chemical_-_Part_3",
     "exp": 5400,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -1934,6 +1977,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Chemical_-_Part_4",
     "exp": 6500,
+    "nokappa": false,
     "unlocks": ["5aa7e4a4e5b5b000137b76f2"],
     "reputation": [
       {
@@ -1985,6 +2029,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Vitamins_-_Part_1",
     "exp": 13000,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -2069,6 +2114,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Vitamins_-_Part_2",
     "exp": 15800,
+    "nokappa": false,
     "unlocks": ["5fc3f2d5900b1d5091531e57"],
     "reputation": [
       {
@@ -2110,6 +2156,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Friend_from_the_West_-_Part_1",
     "exp": 7400,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -2152,6 +2199,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Friend_from_the_West_-_Part_2",
     "exp": 9200,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -2186,6 +2234,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Lend_lease_-_Part_1",
     "exp": 17500,
+    "nokappa": false,
     "unlocks": ["5df24cf80dee1b22f862e9bc"],
     "reputation": [
       {
@@ -2292,6 +2341,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Lend_lease_-_Part_2",
     "exp": 21000,
+    "nokappa": false,
     "unlocks": ["5c17a7ed2e2216152142459c"],
     "reputation": [
       {
@@ -2393,6 +2443,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Informed_means_armed",
     "exp": 14000,
+    "nokappa": false,
     "unlocks": ["5b4391a586f7745321235ab2"],
     "reputation": [
       {
@@ -2459,6 +2510,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Chumming",
     "exp": 19100,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -2530,6 +2582,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Silent_caliber",
     "exp": 18000,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -2573,6 +2626,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Flint",
     "exp": 25100,
+    "nokappa": false,
     "unlocks": ["5bffdd7e0db834001b734a1a"],
     "reputation": [
       {
@@ -2607,6 +2661,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Bullshit",
     "exp": 29900,
+    "nokappa": false,
     "unlocks": ["606587252535c57a13424cfd"],
     "reputation": [
       {
@@ -2689,6 +2744,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Setup",
     "exp": 21900,
+    "nokappa": false,
     "unlocks": ["5c1127bdd174af44217ab8b9"],
     "reputation": [
       {
@@ -2724,6 +2780,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Fishing_Gear",
     "exp": 4800,
+    "nokappa": false,
     "unlocks": ["5b3116595acfc40019476364"],
     "reputation": [
       {
@@ -2775,6 +2832,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Tigr_Safari",
     "exp": 5900,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -2848,6 +2906,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Scrap_Metal",
     "exp": 5900,
+    "nokappa": false,
     "unlocks": ["59411abb86f77478f702b5d2"],
     "reputation": [
       {
@@ -2921,6 +2980,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Eagle_Eye",
     "exp": 6600,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -2974,6 +3034,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Humanitarian_Supplies",
     "exp": 6700,
+    "nokappa": false,
     "unlocks": ["593d493f86f7745e6b2ceb22"],
     "reputation": [
       {
@@ -3042,6 +3103,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/The_Cult_-_Part_1",
     "exp": 6200,
+    "nokappa": false,
     "unlocks": ["59e6906286f7746c9f75e847"],
     "reputation": [
       {
@@ -3081,6 +3143,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/The_Cult_-_Part_2",
     "exp": 7500,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -3170,6 +3233,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Spa_Tour_-_Part_1",
     "exp": 7400,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -3205,6 +3269,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Spa_Tour_-_Part_2",
     "exp": 6300,
+    "nokappa": false,
     "unlocks": ["58d3db5386f77426186285a0"],
     "reputation": [
       {
@@ -3258,6 +3323,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Spa_Tour_-_Part_3",
     "exp": 7600,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -3313,6 +3379,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Spa_Tour_-_Part_4",
     "exp": 7700,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -3373,6 +3440,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Spa_Tour_-_Part_5",
     "exp": 6500,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -3412,6 +3480,7 @@
       "cs": "Lázně - Část 6"
     },
     "exp": 9500,
+    "nokappa": false,
     "unlocks": ["5a608bf24f39f98ffc77720e"],
     "reputation": [
       {
@@ -3446,6 +3515,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Spa_Tour_-_Part_7",
     "exp": 9700,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -3505,6 +3575,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Cargo_X_-_Part_1",
     "exp": 8200,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -3551,6 +3622,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Cargo_X_-_Part_2",
     "exp": 8300,
+    "nokappa": false,
     "unlocks": ["57da93632459771cb65bf83f"],
     "reputation": [
       {
@@ -3591,6 +3663,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Cargo_X_-_Part_3",
     "exp": 8400,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -3630,6 +3703,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Wet_Job_-_Part_1",
     "exp": 11400,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -3669,6 +3743,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Wet_Job_-_Part_2",
     "exp": 9700,
+    "nokappa": false,
     "unlocks": ["59c1383d86f774290a37e0ca"],
     "reputation": [
       {
@@ -3709,6 +3784,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Wet_Job_-_Part_3",
     "exp": 8200,
+    "nokappa": false,
     "unlocks": ["5bb2475ed4351e00853264e3"],
     "reputation": [
       {
@@ -3748,6 +3824,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Wet_Job_-_Part_4",
     "exp": 8300,
+    "nokappa": false,
     "unlocks": ["5dcbd56fdbd3d91b3e5468d5"],
     "reputation": [
       {
@@ -3787,6 +3864,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Wet_Job_-_Part_5",
     "exp": 8400,
+    "nokappa": false,
     "unlocks": ["5a367e5dc4a282000e49738f", "60098ad7c2240c0fe85c570a"],
     "reputation": [
       {
@@ -3833,6 +3911,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Wet_Job_-_Part_6",
     "exp": 10400,
+    "nokappa": false,
     "unlocks": ["5a6086ea4f39f99cd479502f", "5e81ebcd8e146c7080625e15"],
     "reputation": [
       {
@@ -3871,6 +3950,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Psycho_Sniper",
     "exp": 32400,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [],
     "objectives": [
@@ -3900,6 +3980,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/The_guide",
     "exp": 35100,
+    "nokappa": false,
     "unlocks": [
       "5c0a2cec0db834001b7ce47d",
       "5c0e66e2d174af02a96252f4",
@@ -3930,6 +4011,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Gunsmith_-_Part_1",
     "exp": 5400,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -3993,6 +4075,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Gunsmith_-_Part_2",
     "exp": 6000,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -4066,6 +4149,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Gunsmith_-_Part_3",
     "exp": 7900,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -4139,6 +4223,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Gunsmith_-_Part_4",
     "exp": 10000,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -4208,6 +4293,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Gunsmith_-_Part_5",
     "exp": 13700,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -4272,6 +4358,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Gunsmith_-_Part_6",
     "exp": 14700,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -4336,6 +4423,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Gunsmith_-_Part_7",
     "exp": 16000,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -4398,6 +4486,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Gunsmith_-_Part_8",
     "exp": 16000,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -4465,6 +4554,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Gunsmith_-_Part_9",
     "exp": 17000,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -4539,6 +4629,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Gunsmith_-_Part_10",
     "exp": 17300,
+    "nokappa": false,
     "unlocks": ["5af08cc686f77424a61595f2", "5cc86832d7f00c000d3a6e6c"],
     "reputation": [
       {
@@ -4612,6 +4703,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Gunsmith_-_Part_11",
     "exp": 18400,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -4679,6 +4771,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Gunsmith_-_Part_12",
     "exp": 14200,
+    "nokappa": false,
     "unlocks": ["588226ef24597767af46e39c", "5a33e75ac4a2826c6e06d759"],
     "reputation": [
       {
@@ -4750,6 +4843,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Gunsmith_-_Part_13",
     "exp": 18700,
+    "nokappa": false,
     "unlocks": ["5b07db875acfc40dc528a5f6"],
     "reputation": [
       {
@@ -4822,6 +4916,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Gunsmith_-_Part_14",
     "exp": 20500,
+    "nokappa": false,
     "unlocks": ["5b07dd285acfc4001754240d"],
     "reputation": [
       {
@@ -4906,6 +5001,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Gunsmith_-_Part_15",
     "exp": 22300,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -4977,6 +5073,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Gunsmith_-_Part_16",
     "exp": 32800,
+    "nokappa": false,
     "unlocks": ["5a1eaa87fcdbcb001865f75e"],
     "reputation": [
       {
@@ -5056,6 +5153,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Signal_-_Part_1",
     "exp": 6700,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -5107,6 +5205,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Signal_-_Part_2",
     "exp": 6700,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -5162,6 +5261,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Signal_-_Part_3",
     "exp": 8500,
+    "nokappa": false,
     "unlocks": ["5ac78a9b86f7741cca0bbd8d"],
     "reputation": [
       {
@@ -5231,6 +5331,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Signal_-_Part_4",
     "exp": 8600,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -5265,6 +5366,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Scout",
     "exp": 6800,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -5331,6 +5433,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Insider",
     "exp": 9300,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -5365,6 +5468,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Farming_-_Part_1",
     "exp": 6600,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -5418,6 +5522,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Farming_-_Part_2",
     "exp": 5500,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -5466,6 +5571,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Farming_-_Part_3",
     "exp": 6500,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -5512,6 +5618,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Farming_-_Part_4",
     "exp": 8000,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -5599,6 +5706,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Fertilizers",
     "exp": 17200,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -5640,6 +5748,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/A_Shooter_Born_in_Heaven",
     "exp": 11600,
+    "nokappa": false,
     "unlocks": ["5c127c4486f7745625356c13"],
     "reputation": [
       {
@@ -5707,6 +5816,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Only_business",
     "exp": 6700,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -5828,6 +5938,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/The_Blood_of_War_-_Part_1",
     "exp": 7500,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -5897,6 +6008,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Dressed_to_kill",
     "exp": 8400,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -5938,6 +6050,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Database_-_Part_1",
     "exp": 8400,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -6001,6 +6114,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Database_-_Part_2",
     "exp": 8500,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -6047,6 +6161,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Gratitude",
     "exp": 14400,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -6122,6 +6237,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Sales_Night",
     "exp": 17500,
+    "nokappa": false,
     "unlocks": ["5b40e2bc5acfc40016388216"],
     "reputation": [
       {
@@ -6156,6 +6272,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Supervisor",
     "exp": 24100,
+    "nokappa": false,
     "unlocks": ["5ab8e79e86f7742d8b372e78"],
     "reputation": [
       {
@@ -6190,6 +6307,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Hot_delivery",
     "exp": 20300,
+    "nokappa": false,
     "unlocks": ["5b44cd8b86f774503d30cba2"],
     "reputation": [
       {
@@ -6256,6 +6374,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Scavenger",
     "exp": 17700,
+    "nokappa": false,
     "unlocks": ["5bffe7930db834001b734a39"],
     "reputation": [
       {
@@ -6290,6 +6409,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Make_ULTRA_Great_Again",
     "exp": 9800,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -6324,6 +6444,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Minibus",
     "exp": 13800,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -6393,6 +6514,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Sew_it_good_-_Part_1",
     "exp": 12300,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -6434,6 +6556,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Sew_it_good_-_Part_2",
     "exp": 17500,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -6477,6 +6600,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Sew_it_good_-_Part_3",
     "exp": 18200,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -6520,6 +6644,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Sew_it_good_-_Part_4",
     "exp": 18500,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -6596,6 +6721,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/No_fuss_needed",
     "exp": 15800,
+    "nokappa": false,
     "unlocks": ["5b40e1525acfc4771e1c6611"],
     "reputation": [
       {
@@ -6630,6 +6756,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/The_Blood_of_War_-_Part_2",
     "exp": 14600,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -6664,6 +6791,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/The_Blood_of_War_-_Part_3",
     "exp": 21300,
+    "nokappa": false,
     "unlocks": ["60a283193cb70855c43a381d"],
     "reputation": [
       {
@@ -6796,6 +6924,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Living_High_is_Not_a_Crime_-_Part_2",
     "exp": 25900,
+    "nokappa": false,
     "unlocks": ["5d5d87f786f77427997cfaef"],
     "reputation": [
       {
@@ -6851,6 +6980,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Introduction",
     "exp": 4500,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -6890,6 +7020,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Acquaintance",
     "exp": 3900,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -6938,6 +7069,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/The_Survivalist_Path_-_Unprotected_but_Dangerous",
     "exp": 5600,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -6973,6 +7105,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/The_survivalist_path_-_Thrifty",
     "exp": 4700,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -7052,6 +7185,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/The_survivalist_path_-_Zhivchik",
     "exp": 5700,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -7086,6 +7220,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/The_survivalist_path_-_Wounded_beast",
     "exp": 5800,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -7121,6 +7256,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/The_survivalist_path_-_Tough_guy",
     "exp": 7000,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -7156,6 +7292,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Courtesy_visit",
     "exp": 11800,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -7219,6 +7356,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Nostalgia",
     "exp": 16800,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -7259,6 +7397,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/The_Tarkov_shooter_-_Part_1",
     "exp": 12300,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -7297,6 +7436,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/The_Tarkov_shooter_-_Part_2",
     "exp": 12400,
+    "nokappa": false,
     "unlocks": ["5bc5a372d4351e44f824d17f"],
     "reputation": [
       {
@@ -7348,6 +7488,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/The_Tarkov_shooter_-_Part_3",
     "exp": 10500,
+    "nokappa": false,
     "unlocks": ["5bbdb83fd4351e44f824c44b", "5bbde409d4351e003562b036"],
     "reputation": [
       {
@@ -7383,6 +7524,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/The_Tarkov_shooter_-_Part_4",
     "exp": 11800,
+    "nokappa": false,
     "unlocks": ["5bbdb811d4351e45020113c7", "5bbde41ed4351e003562b038"],
     "reputation": [
       {
@@ -7417,6 +7559,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/The_Tarkov_shooter_-_Part_5",
     "exp": 13000,
+    "nokappa": false,
     "unlocks": ["5bc5a351d4351e003477a414"],
     "reputation": [
       {
@@ -7452,6 +7595,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/The_Tarkov_shooter_-_Part_6",
     "exp": 13100,
+    "nokappa": false,
     "unlocks": ["5bbdb870d4351e00367fb67d"],
     "reputation": [
       {
@@ -7487,6 +7631,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/The_Tarkov_shooter_-_Part_7",
     "exp": 13300,
+    "nokappa": false,
     "unlocks": ["5bc5a35cd4351e450201232f"],
     "reputation": [
       {
@@ -7525,6 +7670,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/The_Tarkov_shooter_-_Part_8",
     "exp": 25200,
+    "nokappa": false,
     "unlocks": ["5bae13bad4351e00320204af", "5bae13ded4351e44f824bf38"],
     "reputation": [
       {
@@ -7560,6 +7706,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/The_survivalist_path_-_Cold_blooded",
     "exp": 5900,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -7722,6 +7869,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/The_survivalist_path_-_Combat_medic",
     "exp": 5900,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -7756,6 +7904,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Ambulance",
     "exp": 14800,
+    "nokappa": false,
     "unlocks": ["5d02797c86f774203f38e30a"],
     "reputation": [
       {
@@ -7797,6 +7946,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/The_Huntsman_Path_-_Secured_Perimeter",
     "exp": 5900,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -7832,6 +7982,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Reserve_(quest)",
     "exp": 11800,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -7871,6 +8022,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/The_Huntsman_Path_-_Forest_Cleaning",
     "exp": 5900,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -7977,6 +8129,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Fishing_place",
     "exp": 18000,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -8011,6 +8164,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/The_Huntsman_Path_-_Trophy",
     "exp": 7100,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -8088,6 +8242,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/The_Huntsman_Path_-_Sellout",
     "exp": 7200,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -8129,6 +8284,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/The_Huntsman_Path_-_Woods_Keeper",
     "exp": 7300,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -8170,6 +8326,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/The_Huntsman_Path_-_Eraser_-_Part_1",
     "exp": 8900,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -8204,6 +8361,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/The_Huntsman_Path_-_Eraser_-_Part_2",
     "exp": 17000,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -8329,6 +8487,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Operation_Aquarius_-_Part_2",
     "exp": 3400,
+    "nokappa": false,
     "unlocks": ["5751a25924597722c463c472"],
     "reputation": [
       {
@@ -8367,6 +8526,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Polikhim_hobo",
     "exp": 5900,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -8441,9 +8601,9 @@
       "ru": "Движуха",
       "cs": "Zmatek"
     },
-    "nokappa": false,
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Stirrup",
     "exp": 5300,
+    "nokappa": false,
     "unlocks": ["59e6687d86f77411d949b251"],
     "reputation": [
       {
@@ -8487,7 +8647,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Mentor",
     "exp": 4700,
-    "nokappa": false,
+    "nokappa": true,
     "unlocks": [],
     "reputation": [],
     "objectives": [
@@ -8517,6 +8677,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Bad_habit",
     "exp": 6700,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -8565,6 +8726,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/The_key_to_success",
     "exp": 15600,
+    "nokappa": false,
     "unlocks": ["6034d2d697633951dc245ea6"],
     "reputation": [
       {
@@ -8618,6 +8780,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Shady_business",
     "exp": 11400,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -8652,6 +8815,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Postman_Pat_-_Part_2",
     "exp": 3500,
+    "nokappa": false,
     "unlocks": ["544fb45d4bdc2dee738b4568"],
     "reputation": [
       {
@@ -8691,6 +8855,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Out_of_curiosity",
     "exp": 7700,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -8738,6 +8903,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Big_customer",
     "exp": 8100,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -8788,6 +8954,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/The_survivalist_path_-_Junkie",
     "exp": 5900,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -9326,6 +9493,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/The_bunker_-_Part_1",
     "exp": 5700,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -9465,6 +9633,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Search_mission",
     "exp": 2800,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -9545,6 +9714,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/The_survivalist_path_-_Eagle-owl",
     "exp": 5900,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -9863,7 +10033,7 @@
     "exp": 0,
     "unlocks": [],
     "reputation": [],
-    "nokappa": false,
+    "nokappa": true,
     "objectives": [
       {
         "type": "collect",
@@ -10095,6 +10265,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Disease_history",
     "exp": 7200,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -10214,6 +10385,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Surplus_goods",
     "exp": 7500,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -10260,6 +10432,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Back_door",
     "exp": 8200,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -10297,7 +10470,8 @@
       "ru": "Ревизия",
       "cs": "Revize"
     },
-    "wiki": "https://escapefromtarkov.fandom.com/wiki/Revision_-_Part_1",
+    "wiki": "https://escapefromtarkov.fandom.com/wiki/Revision_-_Reserve",
+    "nokappa": false,
     "exp": 7300,
     "unlocks": [],
     "reputation": [
@@ -10422,6 +10596,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Classified_Technologies",
     "exp": 7200,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -10461,6 +10636,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Inventory_check",
     "exp": 10000,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -10578,6 +10754,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/No_Place_for_Renegades",
     "exp": 8500,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -10613,6 +10790,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Documents",
     "exp": 7800,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -10712,6 +10890,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/The_Huntsman_Path_-_Factory_Chief",
     "exp": 8500,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -10753,6 +10932,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Pest_control",
     "exp": 7400,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -11385,6 +11565,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Long_Road",
     "exp": 8300,
+    "nokappa": false,
     "unlocks": ["588892092459774ac91d4b11"],
     "reputation": [
       {
@@ -11418,6 +11599,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Corporate_Secrets",
     "exp": 8000,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -11467,6 +11649,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Seaside_Vacation",
     "exp": 8000,
+    "nokappa": false,
     "unlocks": ["5af0454c86f7746bf20992e8"],
     "reputation": [
       {
@@ -11503,6 +11686,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Easy_Job_-_Part_1",
     "exp": 1500,
+    "nokappa": false,
     "unlocks": [],
     "reputation": [
       {
@@ -11540,6 +11724,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Easy_Job_-_Part_2",
     "exp": 1800,
+    "nokappa": false,
     "unlocks": ["5cbdc23eae9215001136a407"],
     "reputation": [
       {
@@ -11574,6 +11759,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Cargo_X_-_Part_4",
     "exp": 8600,
+    "nokappa": false,
     "unlocks": ["5d5e9c74a4b9364855191c40"],
     "reputation": [
       {
@@ -11615,6 +11801,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/The_Hermit",
     "exp": 12000,
+    "nokappa": false,
     "unlocks": ["5b2388675acfc4771e1be0be"],
     "reputation": [
       {
@@ -11706,6 +11893,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Missing_Cargo",
     "exp": 14000,
+    "nokappa": false,
     "unlocks": ["56eabf3bd2720b75698b4569", "5649ae4a4bdc2d1b2b8b4588"],
     "reputation": [
       {
@@ -11757,6 +11945,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/The_Huntsman_Path_-_Outcasts",
     "exp": 9000,
+    "nokappa": false,
     "unlocks": ["5b3b99475acfc432ff4dcbee"],
     "reputation": [
       {
@@ -11789,7 +11978,7 @@
       "ru": "Ревизия. Часть 2",
       "cs": "Revize. Část 2"
     },
-    "wiki": "https://escapefromtarkov.fandom.com/wiki/Revision_-_Part_2",
+    "wiki": "https://escapefromtarkov.fandom.com/wiki/Revision_-_Lighthouse",
     "exp": 7800,
     "unlocks": ["5d67abc1a4b93614ec50137f"],
     "reputation": [
@@ -11909,6 +12098,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Lost_Contact",
     "exp": 7000,
+    "nokappa": false,
     "unlocks": ["590c657e86f77412b013051d"],
     "reputation": [
       {
@@ -12025,6 +12215,7 @@
     },
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Overpopulation",
     "exp": 8500,
+    "nokappa": false,
     "unlocks": ["5b0bbe4e5acfc40dc528a72d"],
     "reputation": [
       {
@@ -12098,7 +12289,7 @@
       "en": "Broadcast"
     },
     "nokappa": false,
-    "wiki": "https://escapefromtarkov.fandom.com/wiki/Broadcast",
+    "wiki": "https://escapefromtarkov.fandom.com/wiki/Broadcast_-_Part_1",
     "exp": 6700,
     "unlocks": [],
     "reputation": [
@@ -12149,7 +12340,7 @@
     "locales": {
       "en": "Top Secret"
     },
-    "nokappa": false,
+    "nokappa": true,
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Top_Secret",
     "exp": 11700,
     "unlocks": [],
