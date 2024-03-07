@@ -5311,6 +5311,19 @@
           "floor": "Ground_Floor"
         },
         "id": 175
+      },
+      {
+        "type": "locate",
+        "target": "Factory exit 4",
+        "hint": "Med tents",
+        "number": 1,
+        "location": 0,
+        "gps": {
+          "leftPercent": 90,
+          "topPercent": 65,
+          "floor": "Ground_Floor"
+        },
+        "id": 542
       }
     ],
     "gameId": "5ac3477486f7741d651d6885"
