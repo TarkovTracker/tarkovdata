@@ -334,5 +334,16 @@
                 ]
             ]
         }
+    },
+    "streets": {
+        "id": 8,
+        "locale": {
+            "en": "Streets of Tarkov",
+            "ru": "Улицы Таркова"
+        },
+        "wiki": "https://escapefromtarkov.fandom.com/wiki/Streets_of_Tarkov",
+        "description": "Downtown Tarkov houses banks, malls, and hotels, as well as all the other amenities a thriving metropolis could have needed.",
+        "enemies": ["Scavs", "Glukhar", "Killa"],
+        "raidDuration": { "day": 50, "night": 50 },
     }
 }

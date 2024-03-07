@@ -12348,5 +12348,65 @@
       }
     ],
     "gameId": "626bd75c71bd851e971b82a5"
+  },
+  {
+    "id": 250,
+    "require": {
+      "level": 2,
+      "quests": [137]
+    },
+    "giver": 6,
+    "turnin": 6,
+    "title": "The Delicious Sausage",
+    "locales": {
+      "en": "The Delicious Sausage"
+    },
+    "wiki": "https://escapefromtarkov.fandom.com/wiki/The_Delicious_Sausage",
+    "exp": 2600,
+    "unlocks": [],
+    "reputation": [
+      {
+        "trader": 6,
+        "rep": 0.01
+      }
+    ],
+    "objectives": [
+      {
+        "type": "locate",
+        "target": "Shestyorochka store at Nikitskaya street",
+        "number": 1,
+        "location": 8,
+        "id": 537
+      },
+      {
+        "type": "locate",
+        "target": "Sparja store at Primorsky ave",
+        "number": 1,
+        "location": 8,
+        "id": 538
+      },
+      {
+        "type": "locate",
+        "target": "Sparja store in Pinewood hotel",
+        "number": 1,
+        "location": 8,
+        "id": 539
+      },
+      {
+        "type": "locate",
+        "target": "Goshan store in Concordia",
+        "number": 1,
+        "location": 8,
+        "id": 540
+      },
+      {
+        "type": "collect",
+        "target": "Salty Dog beef sausage",
+        "number": 1,
+        "location": -1,
+        "id": 541
+      }
+    ],
+    "gameId": null
   }
 ]
