@@ -1,338 +1,257 @@
 {
-    "factory": {
-        "id": 0,
-        "tdevId": "55f2d3fd4bdc2d5f408b4567",
-        "locale": {
-            "en": "Factory",
-            "ru": "Завод"
-        },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Factory",
-        "description": "",
-        "enemies": [
-            "Scavs",
-            "Tagilla",
-            "Cultists"
-        ],
-        "raidDuration": {
-            "day": 20,
-            "night": 25
-        },
-        "svg": {
-            "file": "Factory.svg",
-            "floors": [
-                "Basement",
-                "Ground_Floor",
-                "First_Floor",
-                "Second_Floor"
-            ],
-            "defaultFloor": "Ground_Floor",
-            "coordinateRotation": 90,
-            "bounds": [
-                [
-                    -67,
-                    69
-                ],
-                [
-                    76.6,
-                    -65.5
-                ]
-            ]
-        }
+  "factory": {
+    "id": 0,
+    "tdevId": "55f2d3fd4bdc2d5f408b4567",
+    "locale": {
+      "en": "Factory",
+      "ru": "Завод"
     },
-    "customs": {
-        "id": 1,
-        "tdevId": "56f40101d2720b2a4d8b45d6",
-        "locale": {
-            "en": "Customs",
-            "ru": "Таможня"
-        },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Customs",
-        "description": "Taking place in an industrial part of Tarkov, Customs features a self-storage lot, a river with a bridge, a two and three story dormitory, gas stations, warehouses, construction zones, and some military checkpoints.",
-        "enemies": [
-            "Scavs",
-            "Cultists",
-            "Reshala"
-        ],
-        "raidDuration": {
-            "day": 35,
-            "night": 35
-        },
-        "svg": {
-            "file": "Customs.svg",
-            "floors": [
-                "Ground_Level"
-            ],
-            "defaultFloor": "Ground_Level",
-            "coordinateRotation": 180,
-            "bounds": [
-                [
-                    698,
-                    -307
-                ],
-                [
-                    -371,
-                    237
-                ]
-            ]
-        }
+    "wiki": "https://escapefromtarkov.gamepedia.com/Factory",
+    "description": "",
+    "enemies": ["Scavs", "Tagilla", "Cultists"],
+    "raidDuration": {
+      "day": 20,
+      "night": 25
     },
-    "woods": {
-        "id": 2,
-        "tdevId": "5704e3c2d2720bac5b8b4567",
-        "locale": {
-            "en": "Woods",
-            "ru": "Лес"
-        },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Woods",
-        "description": "",
-        "enemies": [
-            "Scavs",
-            "Cultists",
-            "Shturman"
-        ],
-        "raidDuration": {
-            "day": 40,
-            "night": 40
-        },
-        "svg": {
-            "file": "Woods.svg",
-            "floors": [
-                "Ground_Level"
-            ],
-            "defaultFloor": "Ground_Level",
-            "coordinateRotation": 180,
-            "bounds": [
-                [
-                    650,
-                    -945
-                ],
-                [
-                    -695,
-                    470
-                ]
-            ]
-        }
-    },
-    "shoreline": {
-        "id": 3,
-        "tdevId": "5704e554d2720bac5b8b456e",
-        "locale": {
-            "en": "Shoreline",
-            "ru": "Берег"
-        },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Shoreline",
-        "description": "A large map that runs along a shoreline. A small town, a sunken village, a gas station, a pier, a guarded pill-box, a radio station, and, most notably, a large 3-story health resort are included. The health resort also has a basement in-ground pool, a gym, tennis courts, and a theatre.",
-        "enemies": [
-            "Scavs",
-            "Cultists",
-            "Sanitar"
-        ],
-        "raidDuration": {
-            "day": 50,
-            "night": 50
-        },
-        "svg": {
-            "file": "Shoreline.svg",
-            "floors": [
-                "Ground_Level",
-                "Underground_Level",
-                "First_Floor",
-                "Second_Floor",
-                "Third_Floor"
-            ],
-            "defaultFloor": "Ground_Level",
-            "coordinateRotation": 180,
-            "bounds": [
-                [
-                    506,
-                    -405
-                ],
-                [
-                    -1060,
-                    618
-                ]
-            ]
-        }
-    },
-    "interchange": {
-        "id": 4,
-        "tdevId": "5714dbc024597771384a510d",
-        "locale": {
-            "en": "Interchange",
-            "ru": "Развязка"
-        },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Interchange",
-        "description": "A three-story shopping complex comprising of a variety of different types of stores typical to malls, as well as 3 major anchor stores IDEA, OLI, and Goshan. It also has underground parking, roads circling the building, and a go-kart track.",
-        "enemies": [
-            "Scavs",
-            "Killa"
-        ],
-        "raidDuration": {
-            "day": 45,
-            "night": 45
-        },
-        "svg": {
-            "file": "Interchange.svg",
-            "floors": [
-                "Ground_Level",
-                "First_Floor",
-                "Second_Floor"
-            ],
-            "defaultFloor": "Ground_Level",
-            "coordinateRotation": 180,
-            "bounds": [
-                [
-                    530,
-                    -439
-                ],
-                [
-                    -364,
-                    452
-                ]
-            ]
-        }
-    },
-    "lab": {
-        "id": 5,
-        "tdevId": "5b0fc42d86f7744a585f9105",
-        "locale": {
-            "en": "The Lab",
-            "ru": "Лаборатория"
-        },
-        "wiki": "https://escapefromtarkov.gamepedia.com/The_Lab",
-        "description": "Underground laboratory complex TerraGroup Labs is a secret object right under the center of Tarkov. Officially, this research center does not exist and, based on data scraps, is engaged in R&D, testing and simulation projects in chemistry, physics, biology, and high-tech areas.",
-        "enemies": [
-            "Raiders"
-        ],
-        "raidDuration": {
-            "day": 40,
-            "night": 40
-        },
-        "svg": {
-            "file": "Labs.svg",
-            "floors": [
-                "Technical_Level",
-                "First_Level",
-                "Second_Level"
-            ],
-            "defaultFloor": "Technical_Level",
-            "coordinateRotation": 270,
-            "bounds": [
-                [
-                    -91,
-                    -477
-                ],
-                [
-                    -287,
-                    -193
-                ]
-            ]
-        }
-    },
-    "reserve": {
-        "id": 6,
-        "tdevId": "5704e5fad2720bc05b8b4567",
-        "locale": {
-            "en": "Reserve",
-            "ru": "Резерв"
-        },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Reserve",
-        "description": "The secret Federal State Reserve Agency base that, according to urban legends, contains enough supplies to last for years: food, medications and other resources, enough to survive an all-out nuclear war.",
-        "enemies": [
-            "Scavs",
-            "Raiders",
-            "Glukhar"
-        ],
-        "raidDuration": {
-            "day": 40,
-            "night": 40
-        },
-        "svg": {
-            "file": "Reserve.svg",
-            "floors": [
-                "Bunkers",
-                "Ground_Level"
-            ],
-            "defaultFloor": "Ground_Level",
-            "coordinateRotation": 180,
-            "bounds": [
-                [
-                    289,
-                    -338
-                ],
-                [
-                    -303,
-                    336
-                ]
-            ]
-        }
-    },
-    "lighthouse": {
-        "id": 7,
-        "tdevId": "5704e4dad2720bb55b8b4567",
-        "locale": {
-            "en": "Lighthouse",
-            "ru": "Маяк"
-        },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Lighthouse",
-        "description": "The lighthouse at Cape Dalniy used to be an important strategic position for the city. Upon the outbreak of the conflict, USEC used the Lighthouse area as its landing zone, and in so doing attracted the attention of BEAR forces who were hell bent on reducing the hostile PMCs forces to zero.",
-        "enemies": [
-            "Scavs",
-            "Rogues"
-        ],
-        "raidDuration": {
-            "day": 40,
-            "night": 40
-        },
-        "svg": {
-            "file": "Lighthouse.svg",
-            "floors": [
-                "Ground_Level"
-            ],
-            "defaultFloor": "Ground_Level",
-            "coordinateRotation": 180,
-            "bounds": [
-                [
-                    515,
-                    -1000
-                ],
-                [
-                    -545,
-                    725
-                ]
-            ]
-        }
-    },
-    "streetsoftarkov": {
-        "id": 8,
-        "tdevId": "5714dc692459777137212e12",
-        "locale": {
-            "en": "Streets of Tarkov"
-        },
-        "wiki": "https://escapefromtarkov.gamepedia.com/Streets_of_Tarkov",
-        "svg": {
-            "file": "StreetsOfTarkov.svg",
-            "floors": [
-                "Ground_Level",
-                "Underground_Level",
-                "First_Floor",
-                "Second_Floor",
-                "Third_Floor",
-                "Fourth_Floor",
-                "Fifth_Floor"
-            ],
-            "defaultFloor": "Ground_Level",
-            "coordinateRotation": 180,
-            "bounds": [
-                [
-                    324,
-                    -215
-                ],
-                [
-                    -279,
-                    548
-                ]
-            ]
-        }
+    "svg": {
+      "file": "Factory.svg",
+      "floors": ["Basement", "Ground_Floor", "First_Floor", "Second_Floor"],
+      "defaultFloor": "Ground_Floor",
+      "coordinateRotation": 90,
+      "bounds": [
+        [-67, 69],
+        [76.6, -65.5]
+      ]
     }
+  },
+  "customs": {
+    "id": 1,
+    "tdevId": "56f40101d2720b2a4d8b45d6",
+    "locale": {
+      "en": "Customs",
+      "ru": "Таможня"
+    },
+    "wiki": "https://escapefromtarkov.gamepedia.com/Customs",
+    "description": "Taking place in an industrial part of Tarkov, Customs features a self-storage lot, a river with a bridge, a two and three story dormitory, gas stations, warehouses, construction zones, and some military checkpoints.",
+    "enemies": ["Scavs", "Cultists", "Reshala"],
+    "raidDuration": {
+      "day": 35,
+      "night": 35
+    },
+    "svg": {
+      "file": "Customs.svg",
+      "floors": ["Ground_Level"],
+      "defaultFloor": "Ground_Level",
+      "coordinateRotation": 180,
+      "bounds": [
+        [698, -307],
+        [-371, 237]
+      ]
+    }
+  },
+  "woods": {
+    "id": 2,
+    "tdevId": "5704e3c2d2720bac5b8b4567",
+    "locale": {
+      "en": "Woods",
+      "ru": "Лес"
+    },
+    "wiki": "https://escapefromtarkov.gamepedia.com/Woods",
+    "description": "",
+    "enemies": ["Scavs", "Cultists", "Shturman"],
+    "raidDuration": {
+      "day": 40,
+      "night": 40
+    },
+    "svg": {
+      "file": "Woods.svg",
+      "floors": ["Ground_Level"],
+      "defaultFloor": "Ground_Level",
+      "coordinateRotation": 180,
+      "bounds": [
+        [650, -945],
+        [-695, 470]
+      ]
+    }
+  },
+  "shoreline": {
+    "id": 3,
+    "tdevId": "5704e554d2720bac5b8b456e",
+    "locale": {
+      "en": "Shoreline",
+      "ru": "Берег"
+    },
+    "wiki": "https://escapefromtarkov.gamepedia.com/Shoreline",
+    "description": "A large map that runs along a shoreline. A small town, a sunken village, a gas station, a pier, a guarded pill-box, a radio station, and, most notably, a large 3-story health resort are included. The health resort also has a basement in-ground pool, a gym, tennis courts, and a theatre.",
+    "enemies": ["Scavs", "Cultists", "Sanitar"],
+    "raidDuration": {
+      "day": 50,
+      "night": 50
+    },
+    "svg": {
+      "file": "Shoreline.svg",
+      "floors": [
+        "Ground_Level",
+        "Underground_Level",
+        "First_Floor",
+        "Second_Floor",
+        "Third_Floor"
+      ],
+      "defaultFloor": "Ground_Level",
+      "coordinateRotation": 180,
+      "bounds": [
+        [506, -405],
+        [-1060, 618]
+      ]
+    }
+  },
+  "interchange": {
+    "id": 4,
+    "tdevId": "5714dbc024597771384a510d",
+    "locale": {
+      "en": "Interchange",
+      "ru": "Развязка"
+    },
+    "wiki": "https://escapefromtarkov.gamepedia.com/Interchange",
+    "description": "A three-story shopping complex comprising of a variety of different types of stores typical to malls, as well as 3 major anchor stores IDEA, OLI, and Goshan. It also has underground parking, roads circling the building, and a go-kart track.",
+    "enemies": ["Scavs", "Killa"],
+    "raidDuration": {
+      "day": 45,
+      "night": 45
+    },
+    "svg": {
+      "file": "Interchange.svg",
+      "floors": ["Ground_Level", "First_Floor", "Second_Floor"],
+      "defaultFloor": "Ground_Level",
+      "coordinateRotation": 180,
+      "bounds": [
+        [530, -439],
+        [-364, 452]
+      ]
+    }
+  },
+  "lab": {
+    "id": 5,
+    "tdevId": "5b0fc42d86f7744a585f9105",
+    "locale": {
+      "en": "The Lab",
+      "ru": "Лаборатория"
+    },
+    "wiki": "https://escapefromtarkov.gamepedia.com/The_Lab",
+    "description": "Underground laboratory complex TerraGroup Labs is a secret object right under the center of Tarkov. Officially, this research center does not exist and, based on data scraps, is engaged in R&D, testing and simulation projects in chemistry, physics, biology, and high-tech areas.",
+    "enemies": ["Raiders"],
+    "raidDuration": {
+      "day": 40,
+      "night": 40
+    },
+    "svg": {
+      "file": "Labs.svg",
+      "floors": ["Technical_Level", "First_Level", "Second_Level"],
+      "defaultFloor": "Technical_Level",
+      "coordinateRotation": 270,
+      "bounds": [
+        [-91, -477],
+        [-287, -193]
+      ]
+    }
+  },
+  "reserve": {
+    "id": 6,
+    "tdevId": "5704e5fad2720bc05b8b4567",
+    "locale": {
+      "en": "Reserve",
+      "ru": "Резерв"
+    },
+    "wiki": "https://escapefromtarkov.gamepedia.com/Reserve",
+    "description": "The secret Federal State Reserve Agency base that, according to urban legends, contains enough supplies to last for years: food, medications and other resources, enough to survive an all-out nuclear war.",
+    "enemies": ["Scavs", "Raiders", "Glukhar"],
+    "raidDuration": {
+      "day": 40,
+      "night": 40
+    },
+    "svg": {
+      "file": "Reserve.svg",
+      "floors": ["Bunkers", "Ground_Level"],
+      "defaultFloor": "Ground_Level",
+      "coordinateRotation": 180,
+      "bounds": [
+        [289, -338],
+        [-303, 336]
+      ]
+    }
+  },
+  "lighthouse": {
+    "id": 7,
+    "tdevId": "5704e4dad2720bb55b8b4567",
+    "locale": {
+      "en": "Lighthouse",
+      "ru": "Маяк"
+    },
+    "wiki": "https://escapefromtarkov.gamepedia.com/Lighthouse",
+    "description": "The lighthouse at Cape Dalniy used to be an important strategic position for the city. Upon the outbreak of the conflict, USEC used the Lighthouse area as its landing zone, and in so doing attracted the attention of BEAR forces who were hell bent on reducing the hostile PMCs forces to zero.",
+    "enemies": ["Scavs", "Rogues"],
+    "raidDuration": {
+      "day": 40,
+      "night": 40
+    },
+    "svg": {
+      "file": "Lighthouse.svg",
+      "floors": ["Ground_Level"],
+      "defaultFloor": "Ground_Level",
+      "coordinateRotation": 180,
+      "bounds": [
+        [515, -1000],
+        [-545, 725]
+      ]
+    }
+  },
+  "streetsoftarkov": {
+    "id": 8,
+    "tdevId": "5714dc692459777137212e12",
+    "locale": {
+      "en": "Streets of Tarkov"
+    },
+    "wiki": "https://escapefromtarkov.gamepedia.com/Streets_of_Tarkov",
+    "svg": {
+      "file": "StreetsOfTarkov.svg",
+      "floors": [
+        "Ground_Level",
+        "Underground_Level",
+        "First_Floor",
+        "Second_Floor",
+        "Third_Floor",
+        "Fourth_Floor",
+        "Fifth_Floor"
+      ],
+      "defaultFloor": "Ground_Level",
+      "coordinateRotation": 180,
+      "bounds": [
+        [323, -317],
+        [-280, 549]
+      ]
+    }
+  },
+  "groundzero": {
+    "id": 9,
+    "tdevId": "653e6760052c01c1c805532f",
+    "locale": {
+      "en": "Ground Zero"
+    },
+    "svg": {
+      "file": "GroundZero.svg",
+      "floors": [
+        "Ground_Level",
+        "Underground_Level",
+        "First_Floor",
+        "Second_Floor",
+        "Third_Floor"
+      ],
+      "defaultFloor": "Ground_Level",
+      "coordinateRotation": 180,
+      "bounds": [
+        [249, -124],
+        [-99, 364]
+      ]
+    }
+  }
 }
