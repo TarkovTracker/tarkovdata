@@ -20,6 +20,7 @@
     .railroad { fill:none;stroke:#914833;stroke-dasharray:6;stroke-width:3 }
     .powerline { fill:none;stroke:#ffce00;stroke-width:2;stroke-miterlimit:10;stroke-dasharray:6,6 }
     .danger { fill:red;fill-opacity:.4;stroke:red;stroke-dasharray:4,2;stroke-width:2 }
+    .danger_small { fill:red;fill-opacity:.4;stroke:red;stroke-dasharray:2,1;stroke-width:1 }
     .task { fill:#000 }
     .stairs { fill:#FFD700 }
     .shadow { filter:drop-shadow(0 0 2px #000) }
